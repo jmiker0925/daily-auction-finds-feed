@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-02T23:31:18Z",
- "count": 14,
+ "generatedAt": "2026-10-02T23:34:28Z",
+ "count": 58,
  "auctions": [
   {
    "auctionId": "1128",
@@ -101374,6 +101374,5356 @@
    "auctionAllIn": 42622.78,
    "soldLots": 1590,
    "allBidderCount": 49
+  },
+  {
+   "auctionId": "862",
+   "title": "#862 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-12-26",
+   "closeLabel": "Dec 26, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 499,
+   "johnWins": 7,
+   "johnHammer": 4.94,
+   "johnAllIn": 6.15,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "66",
+     "title": "Captain Phillip Board Game. A board game where players engage in shipping and trading goods across various international ports. - $25 - 40",
+     "qty": 1,
+     "hammer": 0.04,
+     "allIn": 0.05
+    },
+    {
+     "lot": "131",
+     "title": "ZENISS Screen Protector for iPhone 15 / iPhone 16. This screen protector provides scratch resistance, high clarity, anti-fingerprint features, bubble-free application, and impact protection for compatible iPhone models. - $10 - 25",
+     "qty": 6,
+     "hammer": 0.24,
+     "allIn": 0.3
+    },
+    {
+     "lot": "291",
+     "title": "ONIKA Professional Nail Tips (30 Pcs). These are artificial nail tips designed for professional or home manicure applications. - $3 - 7",
+     "qty": 1,
+     "hammer": 0.01,
+     "allIn": 0.01
+    },
+    {
+     "lot": "318",
+     "title": "FraFr.gancia Berberine Ceylon Cinnamon Citrus Bergamot Dietary Supplement. This dietary supplement combines Berberine with Ceylon cinnamon and Citrus Bergamot, providing 2300mg per serving. - $20 - 40",
+     "qty": 1,
+     "hammer": 3.53,
+     "allIn": 4.39
+    },
+    {
+     "lot": "337",
+     "title": "CVS Health Milk Thistle 250 mg, 200 Capsules. This dietary supplement supports liver health and overall wellness. - $15 - 25",
+     "qty": 1,
+     "hammer": 1.03,
+     "allIn": 1.28
+    },
+    {
+     "lot": "378",
+     "title": "CVS Health Children's Cold & Cough. This medication provides multi-symptom relief for children, addressing nasal congestion, runny nose, sneezing, and cough. - $7 - 12",
+     "qty": 2,
+     "hammer": 0.08,
+     "allIn": 0.1
+    },
+    {
+     "lot": "405",
+     "title": "Generic Santa Claus Hat. A festive red hat with white fuzzy trim, typically worn during Christmas celebrations. - $5 - 15",
+     "qty": 1,
+     "hammer": 0.01,
+     "allIn": 0.01
+    }
+   ]
+  },
+  {
+   "auctionId": "849",
+   "title": "#849 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-12-04",
+   "closeLabel": "Dec 4, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 729,
+   "johnWins": 12,
+   "johnHammer": 123.41,
+   "johnAllIn": 153.63,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "2",
+     "title": "Southwire 16 Gauge White TFFN Stranded Wire, 500 ft.. A 500-foot spool of stranded copper wire designed for use as fixture wire, machine tool wiring, or appliance wiring. - $100 - 120",
+     "qty": 1,
+     "hammer": 10.0,
+     "allIn": 12.45
+    },
+    {
+     "lot": "283",
+     "title": "Milwaukee MAXFIT #2 Phillips Head Screwdriver. A Phillips head screwdriver featuring a laser-etched, anti-slip tip for a precise fit that reduces screw stripping. - $8 - 12",
+     "qty": 1,
+     "hammer": 3.06,
+     "allIn": 3.81
+    },
+    {
+     "lot": "285",
+     "title": "Milwaukee Cushion Grip Phillips Screwdriver. A Phillips head screwdriver designed with a comfortable cushion grip and a laser-etched, anti-slip tip for maximum torque and reduced stripping. - $8 - 12",
+     "qty": 1,
+     "hammer": 4.03,
+     "allIn": 5.02
+    },
+    {
+     "lot": "289",
+     "title": "Milwaukee MAX GRIP 3/8 in. Cabinet Tip Screwdriver. A cabinet tip screwdriver featuring a MAX GRIP handle and an anti-slip, laser-etched tip for better fastener engagement. - $10 - 15",
+     "qty": 1,
+     "hammer": 4.03,
+     "allIn": 5.02
+    },
+    {
+     "lot": "292",
+     "title": "Milwaukee MAX GRIP Phillips Head Screwdriver. A Phillips head screwdriver featuring a max grip handle and anti-slip tip to reduce fastener stripping. - $7 - 12",
+     "qty": 1,
+     "hammer": 4.03,
+     "allIn": 5.02
+    },
+    {
+     "lot": "442",
+     "title": "Gillette Fusion5 Razor Blade Refills. Replacement razor cartridges with five anti-friction blades designed for a close and comfortable shave. - $20 - 28",
+     "qty": 3,
+     "hammer": 25.59,
+     "allIn": 31.86
+    },
+    {
+     "lot": "443",
+     "title": "Gillette Fusion5 Razor Blade Refills. Replacement cartridges featuring five anti-friction blades designed for a close and long-lasting shave. - $25.00 - 30.00",
+     "qty": 3,
+     "hammer": 25.59,
+     "allIn": 31.86
+    },
+    {
+     "lot": "498",
+     "title": "BrassCraft ProCoat CSSD44-36 P Corrugated Stainless Steel Gas Connector. A 36-inch flexible gas connector with a corrosion-resistant coating for connecting gas appliances such as dryers, ranges, or water heaters. - $20 - 25",
+     "qty": 1,
+     "hammer": 1.06,
+     "allIn": 1.32
+    },
+    {
+     "lot": "499",
+     "title": "Everbilt 4 ft. Stainless Steel Washing Machine Supply Lines (2-Pack). A two-pack of 4-foot braided stainless steel hoses designed for connecting a washing machine to hot and cold water supply lines. - $21.98",
+     "qty": 6,
+     "hammer": 6.54,
+     "allIn": 8.14
+    },
+    {
+     "lot": "501",
+     "title": "Kobalt 3-Piece Steel Nail Set. A set of three hardened steel punches used to set nails below the surface of wood. - $7.98",
+     "qty": 8,
+     "hammer": 16.48,
+     "allIn": 20.52
+    },
+    {
+     "lot": "520",
+     "title": "Generic Dog Poop Bags, 540 Count. A bulk pack of 540 bags on 27 rolls for cleaning up pet waste. - $12 - 18",
+     "qty": 2,
+     "hammer": 13.9,
+     "allIn": 17.3
+    },
+    {
+     "lot": "524",
+     "title": "Wire Weld Collated Coil Siding Nails. Wire-collated nails in a coil configuration designed for high-volume fastening with pneumatic nail guns. - $50 - 90",
+     "qty": 10,
+     "hammer": 9.1,
+     "allIn": 11.33
+    }
+   ]
+  },
+  {
+   "auctionId": "847",
+   "title": "#847 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-11-30",
+   "closeLabel": "Nov 30, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 728,
+   "johnWins": 1,
+   "johnHammer": 61.92,
+   "johnAllIn": 77.08,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "26",
+     "title": "Tool Master 9\" Spring Clamp. A heavy-duty 9-inch spring clamp designed for temporarily securing objects during various projects. - $4 - 8",
+     "qty": 144,
+     "hammer": 61.92,
+     "allIn": 77.08
+    }
+   ]
+  },
+  {
+   "auctionId": "806",
+   "title": "#806 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-10-14",
+   "closeLabel": "Oct 14, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 540,
+   "johnWins": 12,
+   "johnHammer": 606.6,
+   "johnAllIn": 755.14,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "89",
+     "title": "AC/DC Boxers by USHY. Officially licensed men's boxer shorts featuring an all-over print of the iconic AC/DC band logo. - $15 - 25",
+     "qty": 60,
+     "hammer": 21.0,
+     "allIn": 26.14
+    },
+    {
+     "lot": "92",
+     "title": "AC/DC Officially Licensed Boxers by USHY. These are officially licensed AC/DC men's boxers, featuring the band's logo and a cartoon devil design on a yellow fabric, packaged in a clear bag. - $15 - 25",
+     "qty": 60,
+     "hammer": 21.0,
+     "allIn": 26.14
+    },
+    {
+     "lot": "95",
+     "title": "Blues Traveler Officially Licensed Boxers by USHN. These are officially licensed Blues Traveler boxer shorts featuring a repeating pattern of the band's distinctive black cat logo. - $15 - 25",
+     "qty": 60,
+     "hammer": 21.0,
+     "allIn": 26.14
+    },
+    {
+     "lot": "99",
+     "title": "Magic Return JUMBO YO YO Millennium 2000S. A jumbo-sized yo-yo featuring auto return, high performance, and high-speed capabilities. - $3 - 7",
+     "qty": 144,
+     "hammer": 36.0,
+     "allIn": 44.82
+    },
+    {
+     "lot": "100",
+     "title": "Magic Return Jumbo Yo Yo Millennium 2000S. An orange, auto-return yo-yo designed for high performance and speed, suitable for ages 8 and up. - $5 - 10",
+     "qty": 144,
+     "hammer": 50.4,
+     "allIn": 62.74
+    },
+    {
+     "lot": "101",
+     "title": "Everbright Diabetes & Circulatory Crew Socks. These are white crew socks designed for individuals with diabetes and circulatory issues, featuring a non-binding, loose-fit top and protective cushioning for comfort. - $10 - 15",
+     "qty": 240,
+     "hammer": 84.0,
+     "allIn": 104.57
+    },
+    {
+     "lot": "102",
+     "title": "Everbright Diabetes & Circulatory Crew Socks. Three individually packaged pairs of Everbright non-binding, protective cushioning crew socks with loose-fit tops, designed for individuals with diabetes and circulatory issues. - $30 - 40",
+     "qty": 240,
+     "hammer": 84.0,
+     "allIn": 104.57
+    },
+    {
+     "lot": "103",
+     "title": "Everbright Diabetes & Circulatory Crew Socks (Size 10-13). These are Everbright crew socks specifically designed for individuals with diabetes and circulatory issues, featuring a non-binding, loose-fit top and protective cushioning for enhanced comfort. - $10 - 20",
+     "qty": 240,
+     "hammer": 84.0,
+     "allIn": 104.57
+    },
+    {
+     "lot": "104",
+     "title": "Everbright Diabetes & Circulatory Crew Socks, Size 10-13. These are crew-style socks specifically designed for individuals with diabetes and circulatory issues, featuring a non-binding, loose-fit top and protective cushioning. - $10 - 20",
+     "qty": 240,
+     "hammer": 60.0,
+     "allIn": 74.69
+    },
+    {
+     "lot": "105",
+     "title": "Everbright Diabetes & Circulatory Crew Socks (Size 10-13), 3-pack. These are white crew socks designed for individuals with diabetes and circulatory issues, featuring a non-binding, loose-fit top and protective cushioning for comfort. - $10 - 20",
+     "qty": 240,
+     "hammer": 60.0,
+     "allIn": 74.69
+    },
+    {
+     "lot": "106",
+     "title": "Everbright Diabetes & Circulatory Crew Socks, Size 10-13. These are non-binding, protective cushioning, loose-fit crew socks designed for individuals with diabetes or circulatory issues, typically sold in multi-packs. - $30 - 45",
+     "qty": 240,
+     "hammer": 60.0,
+     "allIn": 74.69
+    },
+    {
+     "lot": "135",
+     "title": "Generic Stainless Steel Chef Knife with Wooden Handle. A stainless steel chef knife featuring a riveted wooden handle, suitable for general culinary tasks. - $10 - 25",
+     "qty": 72,
+     "hammer": 25.2,
+     "allIn": 31.37
+    }
+   ]
+  },
+  {
+   "auctionId": "797",
+   "title": "#797 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-10-02",
+   "closeLabel": "Oct 2, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 1544,
+   "johnWins": 8,
+   "johnHammer": 40.95,
+   "johnAllIn": 50.98,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "193",
+     "title": "Sharpie Smear Guard Highlighters, Chisel Tip, Assorted Colors, 12-Count. This is a 12-count pack of Sharpie highlighters featuring Smear Guard ink and a versatile chisel tip for highlighting and underlining in assorted colors. - $10 - 18",
+     "qty": 3,
+     "hammer": 5.28,
+     "allIn": 6.57
+    },
+    {
+     "lot": "275",
+     "title": "Office Depot LETTER SIZE WHITE LEGAL PADS 12 PAC",
+     "qty": 1,
+     "hammer": 3.01,
+     "allIn": 3.75
+    },
+    {
+     "lot": "436",
+     "title": "Smead 9x12 inch Clasp Envelopes, 100 Count. This product is a box of 100 9x12 inch brown kraft clasp envelopes, made with 20% postconsumer recycled content, ideal for securing and sending documents. - $25 - 35",
+     "qty": 1,
+     "hammer": 0.76,
+     "allIn": 0.95
+    },
+    {
+     "lot": "471",
+     "title": "Caliber College Ruled 5-Subject Notebook. A spiral-bound college-ruled notebook featuring 200 perforated sheets, 5 subjects, and 10 pockets, measuring 9 1/2 x 6 1/2 inches. - $4.71",
+     "qty": 3,
+     "hammer": 2.61,
+     "allIn": 3.25
+    },
+    {
+     "lot": "472",
+     "title": "Caliber! College Ruled 5-Subject Notebook. A spiral-bound, college-ruled notebook featuring 200 perforated sheets, 5 subjects, and 10 pockets, measuring 9 1/2 x 6 1/2 inches. - $5.00 - 8.00",
+     "qty": 3,
+     "hammer": 2.64,
+     "allIn": 3.29
+    },
+    {
+     "lot": "686",
+     "title": "Craftsman 3/8\" 12-Point Combination Wrench CHMT44891. A durable chrome-plated hand tool featuring both an open end and a 12-point box end for tightening or loosening 3/8-inch hex fasteners. - $5 - 10",
+     "qty": 5,
+     "hammer": 22.75,
+     "allIn": 28.32
+    },
+    {
+     "lot": "1111",
+     "title": "Caliber No. 2 Wood Pencils, 10-Pack. A 10-pack of standard yellow No. 2 wood pencils, suitable for general writing, drawing, and school use. - $1.50 - 4.00",
+     "qty": 7,
+     "hammer": 1.82,
+     "allIn": 2.27
+    },
+    {
+     "lot": "1112",
+     "title": "Caliber No. 2 Wood Pencils. A pack of standard yellow No. 2 lead wood pencils, suitable for general writing, drawing, and standardized tests. - $2 - 5",
+     "qty": 8,
+     "hammer": 2.08,
+     "allIn": 2.59
+    }
+   ]
+  },
+  {
+   "auctionId": "792",
+   "title": "#792 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-09-26",
+   "closeLabel": "Sep 26, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 524,
+   "johnWins": 228,
+   "johnHammer": 4045.13,
+   "johnAllIn": 5035.68,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "2",
+     "title": "Variety of different color Kitchen Hand towels",
+     "qty": 144,
+     "hammer": 34.56,
+     "allIn": 43.02
+    },
+    {
+     "lot": "3",
+     "title": "Variety of different color Kitchen Hand towels",
+     "qty": 144,
+     "hammer": 27.36,
+     "allIn": 34.06
+    },
+    {
+     "lot": "4",
+     "title": "Variety of different color Kitchen Hand towels",
+     "qty": 144,
+     "hammer": 28.8,
+     "allIn": 35.85
+    },
+    {
+     "lot": "6",
+     "title": "Variety of different color Kitchen Hand towels",
+     "qty": 144,
+     "hammer": 28.8,
+     "allIn": 35.85
+    },
+    {
+     "lot": "7",
+     "title": "Variety of different color Kitchen Hand towels",
+     "qty": 144,
+     "hammer": 30.24,
+     "allIn": 37.65
+    },
+    {
+     "lot": "26",
+     "title": "Texas Made 24oz Black & Pink Mug",
+     "qty": 24,
+     "hammer": 8.16,
+     "allIn": 10.16
+    },
+    {
+     "lot": "27",
+     "title": "Texas Made 24oz Black & Pink Mug",
+     "qty": 24,
+     "hammer": 8.16,
+     "allIn": 10.16
+    },
+    {
+     "lot": "28",
+     "title": "Texas Made 24oz Black & Pink Mug",
+     "qty": 24,
+     "hammer": 7.92,
+     "allIn": 9.86
+    },
+    {
+     "lot": "29",
+     "title": "Texas Made 24oz Black & Pink Mug",
+     "qty": 24,
+     "hammer": 8.16,
+     "allIn": 10.16
+    },
+    {
+     "lot": "30",
+     "title": "Texas Made 24oz Black & Pink Mug",
+     "qty": 24,
+     "hammer": 8.4,
+     "allIn": 10.46
+    },
+    {
+     "lot": "32",
+     "title": "Texas Made 24oz Black & Pink Mug",
+     "qty": 24,
+     "hammer": 8.4,
+     "allIn": 10.46
+    },
+    {
+     "lot": "38",
+     "title": "Perforated Shield Face MaskHalf Cover Black",
+     "qty": 144,
+     "hammer": 18.72,
+     "allIn": 23.3
+    },
+    {
+     "lot": "40",
+     "title": "One size black Beenie",
+     "qty": 240,
+     "hammer": 16.8,
+     "allIn": 20.91
+    },
+    {
+     "lot": "41",
+     "title": "One size black Beenie",
+     "qty": 240,
+     "hammer": 21.6,
+     "allIn": 26.89
+    },
+    {
+     "lot": "43",
+     "title": "One size black Beenie",
+     "qty": 240,
+     "hammer": 31.2,
+     "allIn": 38.84
+    },
+    {
+     "lot": "47",
+     "title": "54\" x 72\" table cloth",
+     "qty": 144,
+     "hammer": 18.72,
+     "allIn": 23.3
+    },
+    {
+     "lot": "48",
+     "title": "Magic top",
+     "qty": 10,
+     "hammer": 4.8,
+     "allIn": 5.98
+    },
+    {
+     "lot": "49",
+     "title": "Mini hand bag",
+     "qty": 110,
+     "hammer": 33.0,
+     "allIn": 41.08
+    },
+    {
+     "lot": "50",
+     "title": "60pc cable ties",
+     "qty": 144,
+     "hammer": 38.88,
+     "allIn": 48.4
+    },
+    {
+     "lot": "51",
+     "title": "5pc school bus magnets",
+     "qty": 120,
+     "hammer": 10.8,
+     "allIn": 13.44
+    },
+    {
+     "lot": "53",
+     "title": "Hockey toy",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "54",
+     "title": "Hockey toy",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "97",
+     "title": "Magic Return Jumbo Yo-Yo  Millennium 2000s variety of colors",
+     "qty": 144,
+     "hammer": 28.8,
+     "allIn": 35.85
+    },
+    {
+     "lot": "98",
+     "title": "Magic Return Jumbo Yo-Yo  Millennium 2000s variety of colors",
+     "qty": 144,
+     "hammer": 28.8,
+     "allIn": 35.85
+    },
+    {
+     "lot": "99",
+     "title": "Magic Return Jumbo Yo-Yo  Millennium 2000s variety of colors",
+     "qty": 144,
+     "hammer": 21.6,
+     "allIn": 26.89
+    },
+    {
+     "lot": "100",
+     "title": "Magic Return Jumbo Yo-Yo  Millennium 2000s variety of colors",
+     "qty": 144,
+     "hammer": 21.6,
+     "allIn": 26.89
+    },
+    {
+     "lot": "101",
+     "title": "HUL Woofer Horn variety of colors",
+     "qty": 144,
+     "hammer": 21.6,
+     "allIn": 26.89
+    },
+    {
+     "lot": "102",
+     "title": "HUL Woofer Horn variety of colors",
+     "qty": 144,
+     "hammer": 24.48,
+     "allIn": 30.47
+    },
+    {
+     "lot": "104",
+     "title": "Toilet Brush Scrubber different color handles",
+     "qty": 144,
+     "hammer": 27.36,
+     "allIn": 34.06
+    },
+    {
+     "lot": "105",
+     "title": "Cyclone Shoot Soft Bullet Shoot Gun",
+     "qty": 144,
+     "hammer": 21.6,
+     "allIn": 26.89
+    },
+    {
+     "lot": "106",
+     "title": "Cyclone Shoot Soft Bullet Shoot Gun",
+     "qty": 144,
+     "hammer": 21.6,
+     "allIn": 26.89
+    },
+    {
+     "lot": "107",
+     "title": "Cyclone Shoot Soft Bullet Shoot Gun",
+     "qty": 144,
+     "hammer": 18.72,
+     "allIn": 23.3
+    },
+    {
+     "lot": "108",
+     "title": "High Performance Yo-Yo super Ball Bearing",
+     "qty": 60,
+     "hammer": 11.4,
+     "allIn": 14.19
+    },
+    {
+     "lot": "109",
+     "title": "High Performance Yo-Yo super Ball Bearing",
+     "qty": 60,
+     "hammer": 10.2,
+     "allIn": 12.7
+    },
+    {
+     "lot": "110",
+     "title": "High Performance Yo-Yo super Ball Bearing",
+     "qty": 60,
+     "hammer": 10.2,
+     "allIn": 12.7
+    },
+    {
+     "lot": "111",
+     "title": "High Performance Yo-Yo super Ball Bearing",
+     "qty": 60,
+     "hammer": 19.8,
+     "allIn": 24.65
+    },
+    {
+     "lot": "112",
+     "title": "High Performance Yo-Yo super Ball Bearing",
+     "qty": 60,
+     "hammer": 19.8,
+     "allIn": 24.65
+    },
+    {
+     "lot": "113",
+     "title": "Party Time Costume Accessories Voo Doo Jewelry Skeleton Earrings",
+     "qty": 200,
+     "hammer": 16.0,
+     "allIn": 19.92
+    },
+    {
+     "lot": "114",
+     "title": "LED Skeleton Mini Lantern Halloween decor",
+     "qty": 48,
+     "hammer": 36.0,
+     "allIn": 44.82
+    },
+    {
+     "lot": "116",
+     "title": "Chilling Jewels Shockingly Chic! Glow in the dark accessories",
+     "qty": 50,
+     "hammer": 6.5,
+     "allIn": 8.09
+    },
+    {
+     "lot": "117",
+     "title": "Brite Lite Battery Operated Evil Eyes Halloween Decor",
+     "qty": 144,
+     "hammer": 17.28,
+     "allIn": 21.51
+    },
+    {
+     "lot": "119",
+     "title": "Monster Mask Halloween Decor (Half Mask)",
+     "qty": 270,
+     "hammer": 13.5,
+     "allIn": 16.81
+    },
+    {
+     "lot": "125",
+     "title": "Halloween style Hats",
+     "qty": 60,
+     "hammer": 6.6,
+     "allIn": 8.22
+    },
+    {
+     "lot": "128",
+     "title": "Bleeding ghost face mask",
+     "qty": 20,
+     "hammer": 14.4,
+     "allIn": 17.93
+    },
+    {
+     "lot": "133",
+     "title": "Jekyll Hyde stuffed toy",
+     "qty": 66,
+     "hammer": 26.4,
+     "allIn": 32.86
+    },
+    {
+     "lot": "134",
+     "title": "Masouerade face toy",
+     "qty": 200,
+     "hammer": 14.0,
+     "allIn": 17.43
+    },
+    {
+     "lot": "135",
+     "title": "Masouerade face toy",
+     "qty": 200,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "136",
+     "title": "Halloween party hats",
+     "qty": 144,
+     "hammer": 7.2,
+     "allIn": 8.96
+    },
+    {
+     "lot": "137",
+     "title": "Animal Catapult Car 360",
+     "qty": 20,
+     "hammer": 39.0,
+     "allIn": 48.55
+    },
+    {
+     "lot": "138",
+     "title": "Animal Catapult Car 360",
+     "qty": 20,
+     "hammer": 40.0,
+     "allIn": 49.8
+    },
+    {
+     "lot": "139",
+     "title": "Animal Catapult Car 360",
+     "qty": 20,
+     "hammer": 40.0,
+     "allIn": 49.8
+    },
+    {
+     "lot": "140",
+     "title": "Animal Catapult Car 360",
+     "qty": 20,
+     "hammer": 40.0,
+     "allIn": 49.8
+    },
+    {
+     "lot": "141",
+     "title": "Animal Catapult Car 360",
+     "qty": 20,
+     "hammer": 40.0,
+     "allIn": 49.8
+    },
+    {
+     "lot": "142",
+     "title": "Animal Catapult Car 360",
+     "qty": 20,
+     "hammer": 40.0,
+     "allIn": 49.8
+    },
+    {
+     "lot": "143",
+     "title": "Shrilling Chicken",
+     "qty": 300,
+     "hammer": 33.0,
+     "allIn": 41.08
+    },
+    {
+     "lot": "145",
+     "title": "Smooth Triple Edge Razor 10pcs disposable",
+     "qty": 144,
+     "hammer": 41.76,
+     "allIn": 51.99
+    },
+    {
+     "lot": "147",
+     "title": "Smooth Triple Edge Razor 10pcs disposable",
+     "qty": 144,
+     "hammer": 33.12,
+     "allIn": 41.23
+    },
+    {
+     "lot": "148",
+     "title": "Smooth Triple Edge Razor 10pcs disposable",
+     "qty": 144,
+     "hammer": 37.44,
+     "allIn": 46.61
+    },
+    {
+     "lot": "154",
+     "title": "On Court/ Off Court 78 Quick Start Tennis Court Balls",
+     "qty": 24,
+     "hammer": 12.24,
+     "allIn": 15.24
+    },
+    {
+     "lot": "155",
+     "title": "On Court/ Off Court 78 Quick Start Tennis Court Balls",
+     "qty": 24,
+     "hammer": 8.64,
+     "allIn": 10.76
+    },
+    {
+     "lot": "158",
+     "title": "On Court/ Off Court 78 Quick Start Tennis Court Balls",
+     "qty": 24,
+     "hammer": 10.32,
+     "allIn": 12.85
+    },
+    {
+     "lot": "159",
+     "title": "On Court/ Off Court 78 Quick Start Tennis Court Balls",
+     "qty": 24,
+     "hammer": 9.12,
+     "allIn": 11.35
+    },
+    {
+     "lot": "160",
+     "title": "On Court/ Off Court 78 Quick Start Tennis Court Balls",
+     "qty": 24,
+     "hammer": 9.36,
+     "allIn": 11.65
+    },
+    {
+     "lot": "163",
+     "title": "On Court/ Off Court 78 Quick Start Tennis Court Balls",
+     "qty": 24,
+     "hammer": 6.48,
+     "allIn": 8.07
+    },
+    {
+     "lot": "172",
+     "title": "Squish Mesh Ball",
+     "qty": 144,
+     "hammer": 27.36,
+     "allIn": 34.06
+    },
+    {
+     "lot": "173",
+     "title": "Squish Mesh Ball",
+     "qty": 144,
+     "hammer": 18.72,
+     "allIn": 23.3
+    },
+    {
+     "lot": "174",
+     "title": "Squish Mesh Ball",
+     "qty": 144,
+     "hammer": 24.48,
+     "allIn": 30.47
+    },
+    {
+     "lot": "175",
+     "title": "Squish Mesh Ball",
+     "qty": 144,
+     "hammer": 18.72,
+     "allIn": 23.3
+    },
+    {
+     "lot": "176",
+     "title": "Halloween Mask Glow In the Dark",
+     "qty": 144,
+     "hammer": 15.84,
+     "allIn": 19.72
+    },
+    {
+     "lot": "180",
+     "title": "Halloween Mask Glow In the Dark",
+     "qty": 144,
+     "hammer": 4.32,
+     "allIn": 5.38
+    },
+    {
+     "lot": "181",
+     "title": "Halloween Mask Glow In the Dark",
+     "qty": 144,
+     "hammer": 4.32,
+     "allIn": 5.38
+    },
+    {
+     "lot": "182",
+     "title": "Hammer mouable mouth toy",
+     "qty": 36,
+     "hammer": 6.84,
+     "allIn": 8.51
+    },
+    {
+     "lot": "183",
+     "title": "Hammer mouable mouth toy",
+     "qty": 36,
+     "hammer": 7.56,
+     "allIn": 9.41
+    },
+    {
+     "lot": "194",
+     "title": "Clear Floral Girls Accessories Bags",
+     "qty": 72,
+     "hammer": 23.76,
+     "allIn": 29.58
+    },
+    {
+     "lot": "195",
+     "title": "Clear Floral Girls Accessories Bags",
+     "qty": 72,
+     "hammer": 30.24,
+     "allIn": 37.65
+    },
+    {
+     "lot": "196",
+     "title": "Outdoor Origin Aluminum Grill pans",
+     "qty": 24,
+     "hammer": 5.04,
+     "allIn": 6.27
+    },
+    {
+     "lot": "199",
+     "title": "Outdoor Origin Aluminum Grill pans",
+     "qty": 24,
+     "hammer": 4.56,
+     "allIn": 5.68
+    },
+    {
+     "lot": "202",
+     "title": "Outdoor Origin Aluminum Grill pans",
+     "qty": 24,
+     "hammer": 5.52,
+     "allIn": 6.87
+    },
+    {
+     "lot": "203",
+     "title": "Outdoor Origin Aluminum Grill pans",
+     "qty": 24,
+     "hammer": 3.36,
+     "allIn": 4.18
+    },
+    {
+     "lot": "204",
+     "title": "Outdoor Origin Aluminum Grill pans",
+     "qty": 24,
+     "hammer": 3.12,
+     "allIn": 3.88
+    },
+    {
+     "lot": "205",
+     "title": "Outdoor Origin Aluminum Grill pans",
+     "qty": 24,
+     "hammer": 2.64,
+     "allIn": 3.29
+    },
+    {
+     "lot": "211",
+     "title": "Outdoor Origin Aluminum Grill pans",
+     "qty": 24,
+     "hammer": 2.64,
+     "allIn": 3.29
+    },
+    {
+     "lot": "229",
+     "title": "Talking Radio With Moving mouth Dolphin",
+     "qty": 24,
+     "hammer": 25.44,
+     "allIn": 31.67
+    },
+    {
+     "lot": "233",
+     "title": "12 pcs Manicure Set",
+     "qty": 144,
+     "hammer": 51.84,
+     "allIn": 64.53
+    },
+    {
+     "lot": "234",
+     "title": "Cyclone Shoot soft shoot Gun",
+     "qty": 144,
+     "hammer": 15.84,
+     "allIn": 19.72
+    },
+    {
+     "lot": "235",
+     "title": "Nasco double sided tape",
+     "qty": 144,
+     "hammer": 7.2,
+     "allIn": 8.96
+    },
+    {
+     "lot": "236",
+     "title": "Nasco double sided tape",
+     "qty": 144,
+     "hammer": 7.2,
+     "allIn": 8.96
+    },
+    {
+     "lot": "237",
+     "title": "Nasco double sided tape",
+     "qty": 144,
+     "hammer": 7.2,
+     "allIn": 8.96
+    },
+    {
+     "lot": "238",
+     "title": "Nasco double sided tape",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "239",
+     "title": "Nasco double sided tape",
+     "qty": 144,
+     "hammer": 12.96,
+     "allIn": 16.13
+    },
+    {
+     "lot": "240",
+     "title": "Nasco double sided tape",
+     "qty": 144,
+     "hammer": 7.2,
+     "allIn": 8.96
+    },
+    {
+     "lot": "241",
+     "title": "Nasco double sided tape",
+     "qty": 144,
+     "hammer": 7.2,
+     "allIn": 8.96
+    },
+    {
+     "lot": "242",
+     "title": "Nasco double sided tape",
+     "qty": 144,
+     "hammer": 7.2,
+     "allIn": 8.96
+    },
+    {
+     "lot": "244",
+     "title": "Orange tape rolls",
+     "qty": 24,
+     "hammer": 8.88,
+     "allIn": 11.05
+    },
+    {
+     "lot": "245",
+     "title": "Orange tape rolls",
+     "qty": 24,
+     "hammer": 25.2,
+     "allIn": 31.37
+    },
+    {
+     "lot": "246",
+     "title": "Orange tape rolls",
+     "qty": 24,
+     "hammer": 8.88,
+     "allIn": 11.05
+    },
+    {
+     "lot": "247",
+     "title": "Orange tape rolls",
+     "qty": 24,
+     "hammer": 7.44,
+     "allIn": 9.26
+    },
+    {
+     "lot": "248",
+     "title": "Orange tape rolls",
+     "qty": 24,
+     "hammer": 7.44,
+     "allIn": 9.26
+    },
+    {
+     "lot": "254",
+     "title": "Western badge",
+     "qty": 48,
+     "hammer": 1.44,
+     "allIn": 1.79
+    },
+    {
+     "lot": "255",
+     "title": "Western badge",
+     "qty": 48,
+     "hammer": 1.44,
+     "allIn": 1.79
+    },
+    {
+     "lot": "260",
+     "title": "Clear tape rolls",
+     "qty": 24,
+     "hammer": 12.72,
+     "allIn": 15.83
+    },
+    {
+     "lot": "267",
+     "title": "Shrilling Chicken Yellow & Red",
+     "qty": 117,
+     "hammer": 50.31,
+     "allIn": 62.63
+    },
+    {
+     "lot": "270",
+     "title": "Hunson Western Ranger Toy Gun",
+     "qty": 245,
+     "hammer": 34.3,
+     "allIn": 42.7
+    },
+    {
+     "lot": "271",
+     "title": "Kids World 24oz Plastic Spray Bottles",
+     "qty": 100,
+     "hammer": 11.0,
+     "allIn": 13.69
+    },
+    {
+     "lot": "272",
+     "title": "2pcs Cap Rack Set",
+     "qty": 24,
+     "hammer": 5.76,
+     "allIn": 7.17
+    },
+    {
+     "lot": "278",
+     "title": "Toys Toys Plastic Duck With game inside",
+     "qty": 216,
+     "hammer": 36.72,
+     "allIn": 45.71
+    },
+    {
+     "lot": "279",
+     "title": "Toys Toys Plastic Duck With game inside",
+     "qty": 216,
+     "hammer": 66.96,
+     "allIn": 83.36
+    },
+    {
+     "lot": "280",
+     "title": "Toys Toys Plastic Duck With game inside",
+     "qty": 216,
+     "hammer": 36.72,
+     "allIn": 45.71
+    },
+    {
+     "lot": "281",
+     "title": "Toys Toys Plastic Duck With game inside",
+     "qty": 216,
+     "hammer": 32.4,
+     "allIn": 40.33
+    },
+    {
+     "lot": "282",
+     "title": "Fluff splatter Easter Eggs",
+     "qty": 48,
+     "hammer": 3.36,
+     "allIn": 4.18
+    },
+    {
+     "lot": "283",
+     "title": "Fluff splatter Easter Eggs",
+     "qty": 48,
+     "hammer": 3.36,
+     "allIn": 4.18
+    },
+    {
+     "lot": "284",
+     "title": "Fluff splatter Easter Eggs",
+     "qty": 48,
+     "hammer": 4.32,
+     "allIn": 5.38
+    },
+    {
+     "lot": "285",
+     "title": "Fluff splatter Easter Eggs",
+     "qty": 48,
+     "hammer": 3.36,
+     "allIn": 4.18
+    },
+    {
+     "lot": "286",
+     "title": "Style glasses with black lens",
+     "qty": 344,
+     "hammer": 37.84,
+     "allIn": 47.11
+    },
+    {
+     "lot": "288",
+     "title": "Fanned mini 2 in 1",
+     "qty": 144,
+     "hammer": 15.84,
+     "allIn": 19.72
+    },
+    {
+     "lot": "289",
+     "title": "Dynamite pens",
+     "qty": 72,
+     "hammer": 6.48,
+     "allIn": 8.07
+    },
+    {
+     "lot": "306",
+     "title": "Kids Toy kaleidoscope",
+     "qty": 120,
+     "hammer": 3.6,
+     "allIn": 4.48
+    },
+    {
+     "lot": "307",
+     "title": "mermaid-themed keychain or bag fob",
+     "qty": 280,
+     "hammer": 14.0,
+     "allIn": 17.43
+    },
+    {
+     "lot": "309",
+     "title": "Kids Toy kaleidoscope",
+     "qty": 240,
+     "hammer": 16.8,
+     "allIn": 20.91
+    },
+    {
+     "lot": "310",
+     "title": "Kids Toy kaleidoscope",
+     "qty": 120,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "312",
+     "title": "The Finishing touch curling ribbon & gift bag tag dispenser",
+     "qty": 48,
+     "hammer": 11.04,
+     "allIn": 13.74
+    },
+    {
+     "lot": "314",
+     "title": "Global ball",
+     "qty": 108,
+     "hammer": 14.04,
+     "allIn": 17.48
+    },
+    {
+     "lot": "316",
+     "title": "Stainless Steel Sun Shades Gold",
+     "qty": 344,
+     "hammer": 116.96,
+     "allIn": 145.6
+    },
+    {
+     "lot": "319",
+     "title": "Super Hero's Mask & Action Figure",
+     "qty": 36,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "325",
+     "title": "Box of Reading glasses",
+     "qty": 40,
+     "hammer": 19.6,
+     "allIn": 24.4
+    },
+    {
+     "lot": "326",
+     "title": "Shrilling Chicken",
+     "qty": 144,
+     "hammer": 41.76,
+     "allIn": 51.99
+    },
+    {
+     "lot": "327",
+     "title": "Touch Up Paint Rollers",
+     "qty": 24,
+     "hammer": 2.16,
+     "allIn": 2.69
+    },
+    {
+     "lot": "330",
+     "title": "The funny toilet guy",
+     "qty": 12,
+     "hammer": 6.48,
+     "allIn": 8.07
+    },
+    {
+     "lot": "333",
+     "title": "Jekyll Hyde Stuff Dolls",
+     "qty": 64,
+     "hammer": 23.68,
+     "allIn": 29.48
+    },
+    {
+     "lot": "334",
+     "title": "Multimac galaxy series toy set",
+     "qty": 12,
+     "hammer": 12.6,
+     "allIn": 15.69
+    },
+    {
+     "lot": "335",
+     "title": "Horror tools nail",
+     "qty": 36,
+     "hammer": 1.8,
+     "allIn": 2.24
+    },
+    {
+     "lot": "337",
+     "title": "Bouncy Ball Global Champion balls",
+     "qty": 144,
+     "hammer": 7.2,
+     "allIn": 8.96
+    },
+    {
+     "lot": "341",
+     "title": "Self defense Tool /Flashlight",
+     "qty": 50,
+     "hammer": 46.0,
+     "allIn": 57.26
+    },
+    {
+     "lot": "362",
+     "title": "Bouncy Ball Global Champion Balls",
+     "qty": 96,
+     "hammer": 6.72,
+     "allIn": 8.37
+    },
+    {
+     "lot": "363",
+     "title": "Bouncy Ball Global Champion Balls",
+     "qty": 96,
+     "hammer": 10.56,
+     "allIn": 13.15
+    },
+    {
+     "lot": "364",
+     "title": "Action Creature collection assembly",
+     "qty": 48,
+     "hammer": 4.32,
+     "allIn": 5.38
+    },
+    {
+     "lot": "365",
+     "title": "Action Creature collection assembly",
+     "qty": 48,
+     "hammer": 6.24,
+     "allIn": 7.77
+    },
+    {
+     "lot": "366",
+     "title": "Action Creature collection assembly",
+     "qty": 48,
+     "hammer": 4.32,
+     "allIn": 5.38
+    },
+    {
+     "lot": "367",
+     "title": "Action Creature collection assembly",
+     "qty": 48,
+     "hammer": 6.24,
+     "allIn": 7.77
+    },
+    {
+     "lot": "368",
+     "title": "Funky Faces Keychains",
+     "qty": 288,
+     "hammer": 31.68,
+     "allIn": 39.44
+    },
+    {
+     "lot": "369",
+     "title": "Bowling FingerBoard",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "370",
+     "title": "Bowling FingerBoard",
+     "qty": 144,
+     "hammer": 12.96,
+     "allIn": 16.13
+    },
+    {
+     "lot": "371",
+     "title": "Bowling FingerBoard",
+     "qty": 144,
+     "hammer": 4.32,
+     "allIn": 5.38
+    },
+    {
+     "lot": "372",
+     "title": "Bowling FingerBoard",
+     "qty": 144,
+     "hammer": 4.32,
+     "allIn": 5.38
+    },
+    {
+     "lot": "373",
+     "title": "Bouncy ball toys",
+     "qty": 96,
+     "hammer": 10.56,
+     "allIn": 13.15
+    },
+    {
+     "lot": "374",
+     "title": "Bouncy ball toys",
+     "qty": 96,
+     "hammer": 10.56,
+     "allIn": 13.15
+    },
+    {
+     "lot": "375",
+     "title": "Bouncy ball toys",
+     "qty": 96,
+     "hammer": 10.56,
+     "allIn": 13.15
+    },
+    {
+     "lot": "376",
+     "title": "Bouncy ball toys",
+     "qty": 96,
+     "hammer": 8.64,
+     "allIn": 10.76
+    },
+    {
+     "lot": "377",
+     "title": "Happy new year toy",
+     "qty": 72,
+     "hammer": 17.28,
+     "allIn": 21.51
+    },
+    {
+     "lot": "378",
+     "title": "Chicago Magic Spring",
+     "qty": 120,
+     "hammer": 14.4,
+     "allIn": 17.93
+    },
+    {
+     "lot": "379",
+     "title": "Chicago Magic Spring",
+     "qty": 120,
+     "hammer": 14.4,
+     "allIn": 17.93
+    },
+    {
+     "lot": "380",
+     "title": "Chicago Magic Spring",
+     "qty": 120,
+     "hammer": 14.4,
+     "allIn": 17.93
+    },
+    {
+     "lot": "381",
+     "title": "Chicago Magic Spring",
+     "qty": 120,
+     "hammer": 14.4,
+     "allIn": 17.93
+    },
+    {
+     "lot": "382",
+     "title": "Chicago Magic Spring",
+     "qty": 120,
+     "hammer": 10.8,
+     "allIn": 13.44
+    },
+    {
+     "lot": "383",
+     "title": "Chicago Magic Spring",
+     "qty": 120,
+     "hammer": 10.8,
+     "allIn": 13.44
+    },
+    {
+     "lot": "384",
+     "title": "Chicago Magic Spring",
+     "qty": 120,
+     "hammer": 10.8,
+     "allIn": 13.44
+    },
+    {
+     "lot": "385",
+     "title": "Chicago Magic Spring",
+     "qty": 120,
+     "hammer": 10.8,
+     "allIn": 13.44
+    },
+    {
+     "lot": "387",
+     "title": "Bouncy ball toys",
+     "qty": 144,
+     "hammer": 12.96,
+     "allIn": 16.13
+    },
+    {
+     "lot": "388",
+     "title": "Bouncy ball toys",
+     "qty": 144,
+     "hammer": 12.96,
+     "allIn": 16.13
+    },
+    {
+     "lot": "391",
+     "title": "Bouncy ball toys",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "392",
+     "title": "Bouncy ball toys",
+     "qty": 144,
+     "hammer": 12.96,
+     "allIn": 16.13
+    },
+    {
+     "lot": "393",
+     "title": "Bouncy ball toys",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "394",
+     "title": "Life like snakes",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "395",
+     "title": "Life like snakes",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "396",
+     "title": "Life like snakes",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "397",
+     "title": "Life like snakes",
+     "qty": 144,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "403",
+     "title": "Multi color Rolls Royce toy car",
+     "qty": 432,
+     "hammer": 64.8,
+     "allIn": 80.67
+    },
+    {
+     "lot": "404",
+     "title": "Baseball bat with toy ball",
+     "qty": 48,
+     "hammer": 14.4,
+     "allIn": 17.93
+    },
+    {
+     "lot": "405",
+     "title": "Yu-gi-oh toy set",
+     "qty": 48,
+     "hammer": 20.16,
+     "allIn": 25.1
+    },
+    {
+     "lot": "407",
+     "title": "Cyclone shoot soft bullet shoot gun",
+     "qty": 144,
+     "hammer": 12.96,
+     "allIn": 16.13
+    },
+    {
+     "lot": "408",
+     "title": "Meal kit black spoon straw napkin 1000/case",
+     "qty": 1,
+     "hammer": 5.15,
+     "allIn": 6.41
+    },
+    {
+     "lot": "409",
+     "title": "Meal kit black spoon straw napkin 1000/case",
+     "qty": 1,
+     "hammer": 5.31,
+     "allIn": 6.61
+    },
+    {
+     "lot": "410",
+     "title": "Meal kit black spoon straw napkin 1000/case",
+     "qty": 1,
+     "hammer": 5.01,
+     "allIn": 6.24
+    },
+    {
+     "lot": "412",
+     "title": "Soft Cyclone Shoot Soft Bubble Gun",
+     "qty": 144,
+     "hammer": 38.88,
+     "allIn": 48.4
+    },
+    {
+     "lot": "413",
+     "title": "Soft Cyclone Shoot Soft Bubble Gun",
+     "qty": 144,
+     "hammer": 21.6,
+     "allIn": 26.89
+    },
+    {
+     "lot": "414",
+     "title": "Talking Dinosaur",
+     "qty": 72,
+     "hammer": 38.16,
+     "allIn": 47.5
+    },
+    {
+     "lot": "415",
+     "title": "Changeable Garland",
+     "qty": 600,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "416",
+     "title": "Changeable Garland",
+     "qty": 144,
+     "hammer": 4.32,
+     "allIn": 5.38
+    },
+    {
+     "lot": "417",
+     "title": "Magic Top Kids Toy Spinners",
+     "qty": 1200,
+     "hammer": 12.0,
+     "allIn": 14.94
+    },
+    {
+     "lot": "418",
+     "title": "Fashion Doll Series baby dolls",
+     "qty": 108,
+     "hammer": 28.08,
+     "allIn": 34.96
+    },
+    {
+     "lot": "419",
+     "title": "Fashion Doll Series baby dolls",
+     "qty": 108,
+     "hammer": 43.2,
+     "allIn": 53.78
+    },
+    {
+     "lot": "420",
+     "title": "Boble Kids Toy Doll",
+     "qty": 24,
+     "hammer": 3.12,
+     "allIn": 3.88
+    },
+    {
+     "lot": "421",
+     "title": "Fashion Doll Series baby dolls",
+     "qty": 108,
+     "hammer": 44.28,
+     "allIn": 55.12
+    },
+    {
+     "lot": "423",
+     "title": "Fashion Doll Series baby dolls",
+     "qty": 108,
+     "hammer": 29.16,
+     "allIn": 36.3
+    },
+    {
+     "lot": "424",
+     "title": "Crime Buster police cars",
+     "qty": 288,
+     "hammer": 37.44,
+     "allIn": 46.61
+    },
+    {
+     "lot": "425",
+     "title": "Aircraft Toy Planes",
+     "qty": 432,
+     "hammer": 56.16,
+     "allIn": 69.91
+    },
+    {
+     "lot": "426",
+     "title": "Aircraft Toy Planes",
+     "qty": 432,
+     "hammer": 51.84,
+     "allIn": 64.53
+    },
+    {
+     "lot": "428",
+     "title": "Ventilator adjustable Fan",
+     "qty": 36,
+     "hammer": 10.08,
+     "allIn": 12.55
+    },
+    {
+     "lot": "429",
+     "title": "Bump & Go Clownfish",
+     "qty": 36,
+     "hammer": 17.64,
+     "allIn": 21.96
+    },
+    {
+     "lot": "435",
+     "title": "Noise Dino toy",
+     "qty": 72,
+     "hammer": 6.48,
+     "allIn": 8.07
+    },
+    {
+     "lot": "436",
+     "title": "Karaoke play set",
+     "qty": 875,
+     "hammer": 26.25,
+     "allIn": 32.68
+    },
+    {
+     "lot": "445",
+     "title": "Flash Frame",
+     "qty": 10,
+     "hammer": 0.7,
+     "allIn": 0.87
+    },
+    {
+     "lot": "446",
+     "title": "Flash Frame",
+     "qty": 10,
+     "hammer": 0.5,
+     "allIn": 0.62
+    },
+    {
+     "lot": "447",
+     "title": "Flash Frame",
+     "qty": 10,
+     "hammer": 0.5,
+     "allIn": 0.62
+    },
+    {
+     "lot": "448",
+     "title": "Flash Frame",
+     "qty": 10,
+     "hammer": 0.5,
+     "allIn": 0.62
+    },
+    {
+     "lot": "450",
+     "title": "Style glasses with black lens",
+     "qty": 300,
+     "hammer": 84.0,
+     "allIn": 104.57
+    },
+    {
+     "lot": "451",
+     "title": "Style glasses with black lens",
+     "qty": 300,
+     "hammer": 45.0,
+     "allIn": 56.02
+    },
+    {
+     "lot": "452",
+     "title": "Style glasses with black lens",
+     "qty": 300,
+     "hammer": 45.0,
+     "allIn": 56.02
+    },
+    {
+     "lot": "453",
+     "title": "Style glasses with black lens",
+     "qty": 300,
+     "hammer": 21.0,
+     "allIn": 26.14
+    },
+    {
+     "lot": "454",
+     "title": "Style glasses with black lens",
+     "qty": 300,
+     "hammer": 39.0,
+     "allIn": 48.55
+    },
+    {
+     "lot": "457",
+     "title": "Feng shui lantern",
+     "qty": 144,
+     "hammer": 24.48,
+     "allIn": 30.47
+    },
+    {
+     "lot": "458",
+     "title": "Feng shui lantern",
+     "qty": 144,
+     "hammer": 15.84,
+     "allIn": 19.72
+    },
+    {
+     "lot": "461",
+     "title": "Ribbon & Tag Dispenser",
+     "qty": 200,
+     "hammer": 22.0,
+     "allIn": 27.39
+    },
+    {
+     "lot": "463",
+     "title": "Ribbon & Tag Dispenser",
+     "qty": 200,
+     "hammer": 14.0,
+     "allIn": 17.43
+    },
+    {
+     "lot": "464",
+     "title": "Ribbon & Tag Dispenser",
+     "qty": 200,
+     "hammer": 14.0,
+     "allIn": 17.43
+    },
+    {
+     "lot": "471",
+     "title": "On Court/ Off Court 78 Quick Start Tennis Court Balls",
+     "qty": 24,
+     "hammer": 8.4,
+     "allIn": 10.46
+    },
+    {
+     "lot": "479",
+     "title": "Black L v style wear",
+     "qty": 72,
+     "hammer": 32.4,
+     "allIn": 40.33
+    },
+    {
+     "lot": "481",
+     "title": "Black L v style wear",
+     "qty": 72,
+     "hammer": 32.4,
+     "allIn": 40.33
+    },
+    {
+     "lot": "482",
+     "title": "Black L v style wear",
+     "qty": 72,
+     "hammer": 32.4,
+     "allIn": 40.33
+    },
+    {
+     "lot": "485",
+     "title": "Box of multi-purpose high efficiency cleaner",
+     "qty": 12,
+     "hammer": 5.16,
+     "allIn": 6.42
+    },
+    {
+     "lot": "490",
+     "title": "Box of multi-purpose high efficiency cleaner",
+     "qty": 12,
+     "hammer": 4.08,
+     "allIn": 5.08
+    },
+    {
+     "lot": "491",
+     "title": "Box of multi-purpose high efficiency cleaner",
+     "qty": 12,
+     "hammer": 6.24,
+     "allIn": 7.77
+    },
+    {
+     "lot": "492",
+     "title": "Box of multi-purpose high efficiency cleaner",
+     "qty": 12,
+     "hammer": 6.24,
+     "allIn": 7.77
+    },
+    {
+     "lot": "493",
+     "title": "Box of multi-purpose high efficiency cleaner",
+     "qty": 12,
+     "hammer": 6.24,
+     "allIn": 7.77
+    },
+    {
+     "lot": "494",
+     "title": "Box of multi-purpose high efficiency cleaner",
+     "qty": 12,
+     "hammer": 6.24,
+     "allIn": 7.77
+    },
+    {
+     "lot": "495",
+     "title": "Box of multi-purpose high efficiency cleaner",
+     "qty": 12,
+     "hammer": 6.24,
+     "allIn": 7.77
+    },
+    {
+     "lot": "496",
+     "title": "Box of multi-purpose high efficiency cleaner",
+     "qty": 12,
+     "hammer": 6.24,
+     "allIn": 7.77
+    },
+    {
+     "lot": "514",
+     "title": "Reusable Green Bags",
+     "qty": 120,
+     "hammer": 33.6,
+     "allIn": 41.83
+    },
+    {
+     "lot": "515",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 8.4,
+     "allIn": 10.46
+    },
+    {
+     "lot": "516",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 8.4,
+     "allIn": 10.46
+    },
+    {
+     "lot": "517",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 10.8,
+     "allIn": 13.44
+    },
+    {
+     "lot": "518",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 13.2,
+     "allIn": 16.43
+    },
+    {
+     "lot": "519",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 10.8,
+     "allIn": 13.44
+    },
+    {
+     "lot": "520",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 13.2,
+     "allIn": 16.43
+    },
+    {
+     "lot": "521",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 10.8,
+     "allIn": 13.44
+    },
+    {
+     "lot": "522",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 8.4,
+     "allIn": 10.46
+    },
+    {
+     "lot": "523",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 8.4,
+     "allIn": 10.46
+    },
+    {
+     "lot": "524",
+     "title": "Box of Be safe gloves",
+     "qty": 120,
+     "hammer": 8.4,
+     "allIn": 10.46
+    }
+   ]
+  },
+  {
+   "auctionId": "790",
+   "title": "#790 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-09-20",
+   "closeLabel": "Sep 20, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 333,
+   "johnWins": 8,
+   "johnHammer": 121.16,
+   "johnAllIn": 150.83,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "49",
+     "title": "Milwaukee hole dozer",
+     "qty": 1,
+     "hammer": 24.25,
+     "allIn": 30.19
+    },
+    {
+     "lot": "52",
+     "title": "Makita 4-1/2\" diamond blade",
+     "qty": 1,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "101",
+     "title": "HUSKY LARGE SOCKET WRENCH",
+     "qty": 1,
+     "hammer": 13.04,
+     "allIn": 16.23
+    },
+    {
+     "lot": "109",
+     "title": "KLEIN TOOLS FLAT HEAD SCREW DRIVER",
+     "qty": 2,
+     "hammer": 16.32,
+     "allIn": 20.32
+    },
+    {
+     "lot": "111",
+     "title": "STUDSENSOR HD35",
+     "qty": 1,
+     "hammer": 1.01,
+     "allIn": 1.26
+    },
+    {
+     "lot": "123",
+     "title": "Dewalt Laser Distance measurer 100' Range",
+     "qty": 1,
+     "hammer": 26.25,
+     "allIn": 32.68
+    },
+    {
+     "lot": "144",
+     "title": "DeWalt telescoping screwdriver 10 pc",
+     "qty": 1,
+     "hammer": 9.0,
+     "allIn": 11.2
+    },
+    {
+     "lot": "147",
+     "title": "ASSORTED CRAFTSMAN WRENCHE  SEE PHOTO",
+     "qty": 1,
+     "hammer": 23.29,
+     "allIn": 28.99
+    }
+   ]
+  },
+  {
+   "auctionId": "778",
+   "title": "#778 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-09-05",
+   "closeLabel": "Sep 5, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 373,
+   "johnWins": 1,
+   "johnHammer": 12.0,
+   "johnAllIn": 14.94,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "213",
+     "title": "Roll Of Napkins",
+     "qty": 6,
+     "hammer": 12.0,
+     "allIn": 14.94
+    }
+   ]
+  },
+  {
+   "auctionId": "739",
+   "title": "#739 Bullseye Bargains / Walkerworks",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-07-31",
+   "closeLabel": "Jul 31, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 1745,
+   "johnWins": 31,
+   "johnHammer": 1151.79,
+   "johnAllIn": 1433.83,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "8",
+     "title": "[\u2713] [MSRP: $86.98]  Fiberon ArmorGuard Regency 70 in. White Composite Rail Kit",
+     "qty": 1,
+     "hammer": 11.0,
+     "allIn": 13.69
+    },
+    {
+     "lot": "9",
+     "title": "[\u2713] [MSRP: $86.98]  Fiberon ArmorGuard Regency 70 in. White Composite Rail Kit",
+     "qty": 1,
+     "hammer": 11.0,
+     "allIn": 13.69
+    },
+    {
+     "lot": "10",
+     "title": "[\u2713] [MSRP: $86.98]  Fiberon ArmorGuard Regency 70 in. White Composite Rail Kit",
+     "qty": 1,
+     "hammer": 11.0,
+     "allIn": 13.69
+    },
+    {
+     "lot": "139",
+     "title": "[MSRP: $199.00] SPEED BENCH Mobile Workstation",
+     "qty": 1,
+     "hammer": 71.55,
+     "allIn": 89.07
+    },
+    {
+     "lot": "142",
+     "title": "[\u2713] [MSRP: $159.00] Husky 2 Gal. 135 PSI Portable Electric Oil-Free Quiet Jobsite Air Compressor with Dual Pressure Gauges and 1-Quick Coupler",
+     "qty": 1,
+     "hammer": 79.0,
+     "allIn": 98.35
+    },
+    {
+     "lot": "201",
+     "title": "[\u2713] [MSRP: $25.97] 98 in. Cutting Guide",
+     "qty": 1,
+     "hammer": 9.0,
+     "allIn": 11.2
+    },
+    {
+     "lot": "219",
+     "title": "[\u2713] [MSRP: $19.98] 30 Seconds  64 oz. Outdoor Ready-To-Spray Cleaner",
+     "qty": 1,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "285",
+     "title": "[\u2713] [MSRP: $61.97] HALO HLBSL 6 in. Can Less Integrated LED, 900 Lumens, 5CCT, White (4-Pack)",
+     "qty": 1,
+     "hammer": 13.0,
+     "allIn": 16.18
+    },
+    {
+     "lot": "296",
+     "title": "[\u2713] [MSRP: $31.97] HALO 6 in. RL Night Light, 1000-Lumens, Selectable CCT, D2W DM",
+     "qty": 1,
+     "hammer": 9.0,
+     "allIn": 11.2
+    },
+    {
+     "lot": "306",
+     "title": "[\u2713] [MSRP: $31.97] HALO 6 in. RL Night Light, 1000-Lumens, Selectable CCT, D2W DM",
+     "qty": 1,
+     "hammer": 9.0,
+     "allIn": 11.2
+    },
+    {
+     "lot": "324",
+     "title": "[\u2713] [MSRP: $61.97] HALO HLBSL 6 in. Can Less Integrated LED, 900 Lumens, 5CCT, White (4-Pack)",
+     "qty": 1,
+     "hammer": 20.0,
+     "allIn": 24.9
+    },
+    {
+     "lot": "356",
+     "title": "[\u2713] [MSRP: $54.97] Milwaukee 6 in. Hole Dozer Bi-Metal Hole Saw with 3/8 in. Arbor and Pilot Bit",
+     "qty": 1,
+     "hammer": 18.99,
+     "allIn": 23.64
+    },
+    {
+     "lot": "380",
+     "title": "[MSRP: $379.00] Milwaukee M18 FUEL 3-1/2 in. 18-Volt 30-Degree Lithium-Ion Brushless Cordless Framing Nailer (Tool-Only) [untested]\t [untested]",
+     "qty": 1,
+     "hammer": 130.0,
+     "allIn": 161.83
+    },
+    {
+     "lot": "389",
+     "title": "[MSRP: $349.00] Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless Compact Bandsaw (Tool-Only) [untested]",
+     "qty": 1,
+     "hammer": 160.0,
+     "allIn": 199.18
+    },
+    {
+     "lot": "396",
+     "title": "[MSRP: $379.00] Milwaukee M18 FUEL 3-1/2 in. 18-Volt 30-Degree Lithium-Ion Brushless Cordless Framing Nailer (Tool-Only) [untested]",
+     "qty": 1,
+     "hammer": 81.0,
+     "allIn": 100.83
+    },
+    {
+     "lot": "402",
+     "title": "[MSRP: $329.00] Milwaukee M18 FUEL 18-Volt Lithium-Ion Brushless Cordless Gen ll 16-Gauge Straight Finish Nailer (Tool Only) [untested] [untested]",
+     "qty": 1,
+     "hammer": 73.0,
+     "allIn": 90.88
+    },
+    {
+     "lot": "458",
+     "title": "[\u2713] [MSRP: $85.00] Grip-Rite 6 in. x 3-Gauge 60-penny Exterior Galvanized Spiral Shank Timber Tie Nails 30 lb. Box",
+     "qty": 1,
+     "hammer": 17.0,
+     "allIn": 21.16
+    },
+    {
+     "lot": "537",
+     "title": "[\u2713] [MSRP: $249.00] M18 FUEL 18V 16 in. Brushless Cordless Battery Powered String Trimmer with QUIK-LOK Attachment Capability (Tool-Only)",
+     "qty": 1,
+     "hammer": 110.0,
+     "allIn": 136.94
+    },
+    {
+     "lot": "546",
+     "title": "[MSRP: $13.97] 100 ft. Bold Line Chalk Reel Kit with Blue Chalk",
+     "qty": 1,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "781",
+     "title": "[\u2713] [MSRP: $29.93] Red Head 3/8 in. x 3 in. Zinc-Plated Steel Hex Nut-Head Concrete Wedge Anchors (50-Pack)",
+     "qty": 1,
+     "hammer": 6.5,
+     "allIn": 8.09
+    },
+    {
+     "lot": "788",
+     "title": "[\u2713] [MSRP: $61.97] HALO HLBSL 6 in. Can Less Integrated LED, 900 Lumens, 5CCT, White (4-Pack)",
+     "qty": 1,
+     "hammer": 20.0,
+     "allIn": 24.9
+    },
+    {
+     "lot": "904",
+     "title": "[MSRP: $168.00] 5-Gal. Metal-X Metal Roof Acrylic Coating",
+     "qty": 1,
+     "hammer": 64.0,
+     "allIn": 79.67
+    },
+    {
+     "lot": "1058",
+     "title": "[\u2713] [MSRP: $114.00] Grip-Rite 2-3/8 in. x 0.113 in. 21\u00b0 Plastic Collated Bright Coated Ring Shank Round Head Nails 5000 per Box",
+     "qty": 1,
+     "hammer": 23.0,
+     "allIn": 28.63
+    },
+    {
+     "lot": "1068",
+     "title": "[MSRP: $242.92]  FUFU&GAGA White/Oak Wood 59.1 in. W Kitchen Island Dining Table With Adjustable Shelves and Drawer",
+     "qty": 1,
+     "hammer": 35.0,
+     "allIn": 43.57
+    },
+    {
+     "lot": "1294",
+     "title": "[\u2713] [MSRP: $14.97] Stanley Trade cut 15 in. Tooth Saw",
+     "qty": 1,
+     "hammer": 2.25,
+     "allIn": 2.8
+    },
+    {
+     "lot": "1340",
+     "title": "[\u2713] [MSRP: $99.98] RIDGID Pro Gear System Gen 2.0 Stackable 25 in All Terrain Rolling Tool Box with 9 in. Wheels [broken handle]",
+     "qty": 1,
+     "hammer": 47.0,
+     "allIn": 58.51
+    },
+    {
+     "lot": "1346",
+     "title": "[\u2713] [MSRP: $259.00] Husky 10 Gal. 175 PSI Electric Oil-Free Quiet Auto/Workshop Hotdog Air Compressor with Dual Gauges and 1-Quick Coupler",
+     "qty": 1,
+     "hammer": 80.0,
+     "allIn": 99.59
+    },
+    {
+     "lot": "1580",
+     "title": "[\u2713] [MSRP: $39.97] Zircon StudSensor HD70 Stud Finder",
+     "qty": 1,
+     "hammer": 4.25,
+     "allIn": 5.29
+    },
+    {
+     "lot": "1595",
+     "title": "[\u2713] [MSRP: $64.97] Zircon MultiScanner HD900 3 in. Multifunction Stud Finder",
+     "qty": 1,
+     "hammer": 11.0,
+     "allIn": 13.69
+    },
+    {
+     "lot": "1604",
+     "title": "[\u2713] [MSRP: $64.97] ULTRA PROGRADE ProLink Plug-in LED Under Cabinet Puck Lights (5-Pack)",
+     "qty": 1,
+     "hammer": 4.25,
+     "allIn": 5.29
+    },
+    {
+     "lot": "1611",
+     "title": "[\u2713] [MSRP: $64.97] ULTRA PROGRADE ProLink Plug-in LED Under Cabinet Puck Lights (5-Pack)",
+     "qty": 1,
+     "hammer": 9.0,
+     "allIn": 11.2
+    }
+   ]
+  },
+  {
+   "auctionId": "746",
+   "title": "#746 Walkerworks",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-07-31",
+   "closeLabel": "Jul 31, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 345,
+   "johnWins": 3,
+   "johnHammer": 3.25,
+   "johnAllIn": 4.05,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "126",
+     "title": "[\u2713] [MSRP: $22.55] Medline 12 \" White enamel coated grab bar",
+     "qty": 1,
+     "hammer": 1.25,
+     "allIn": 1.56
+    },
+    {
+     "lot": "151",
+     "title": "[\u2713] [MSRP: $9.98] Everbilt 2-1/2 in. x 8D Hot Dipped Galvanized Non-Collated Finishing/Casing Nails 1 lb. (173-Count)",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "177",
+     "title": "10' of vinyl 1/4\"d tubing",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    }
+   ]
+  },
+  {
+   "auctionId": "725",
+   "title": "#725 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-07-11",
+   "closeLabel": "Jul 11, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 420,
+   "johnWins": 3,
+   "johnHammer": 63.0,
+   "johnAllIn": 78.43,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "93",
+     "title": "DEWALT 20V MULTI TOOL BRAND NEW OUT OF BOX TOOL ONLY (TESTED WORKS)",
+     "qty": 1,
+     "hammer": 56.25,
+     "allIn": 70.02
+    },
+    {
+     "lot": "134",
+     "title": "Ryobi pressure washer trigger handle",
+     "qty": 1,
+     "hammer": 3.75,
+     "allIn": 4.67
+    },
+    {
+     "lot": "253",
+     "title": "Irrigation Sprinkler Heads! Keep your lawn looking lush!",
+     "qty": 3,
+     "hammer": 3.0,
+     "allIn": 3.73
+    }
+   ]
+  },
+  {
+   "auctionId": "726",
+   "title": "#726 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-07-10",
+   "closeLabel": "Jul 10, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 449,
+   "johnWins": 3,
+   "johnHammer": 47.5,
+   "johnAllIn": 59.13,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "127",
+     "title": "Rigid subcompact",
+     "qty": 1,
+     "hammer": 5.5,
+     "allIn": 6.85
+    },
+    {
+     "lot": "374",
+     "title": "Teks self drilling screws wood to metal 2 3/4\"",
+     "qty": 1,
+     "hammer": 21.0,
+     "allIn": 26.14
+    },
+    {
+     "lot": "375",
+     "title": "Teks self drilling screws wood to metal 2 3/4\"",
+     "qty": 1,
+     "hammer": 21.0,
+     "allIn": 26.14
+    }
+   ]
+  },
+  {
+   "auctionId": "724",
+   "title": "#724 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-07-04",
+   "closeLabel": "Jul 4, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 535,
+   "johnWins": 7,
+   "johnHammer": 94.14,
+   "johnAllIn": 117.19,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "824",
+     "title": "Husky contractor clean up bags 42gal",
+     "qty": 1,
+     "hammer": 16.01,
+     "allIn": 19.93
+    },
+    {
+     "lot": "825",
+     "title": "Husky contractor clean up bags 42gal",
+     "qty": 1,
+     "hammer": 15.89,
+     "allIn": 19.78
+    },
+    {
+     "lot": "990",
+     "title": "Husky contractor clean up bags 42gal",
+     "qty": 1,
+     "hammer": 12.27,
+     "allIn": 15.27
+    },
+    {
+     "lot": "999",
+     "title": "Husky contractor clean up bags 42gal",
+     "qty": 1,
+     "hammer": 12.26,
+     "allIn": 15.26
+    },
+    {
+     "lot": "1013",
+     "title": "Husky contractor clean up bags 42 gal",
+     "qty": 1,
+     "hammer": 11.51,
+     "allIn": 14.33
+    },
+    {
+     "lot": "1046",
+     "title": "Husky contractor clean up bags 42 gal",
+     "qty": 1,
+     "hammer": 13.47,
+     "allIn": 16.77
+    },
+    {
+     "lot": "1180",
+     "title": "Husky contractor clean up bags 42gal",
+     "qty": 1,
+     "hammer": 12.73,
+     "allIn": 15.85
+    }
+   ]
+  },
+  {
+   "auctionId": "713",
+   "title": "#713 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-06-26",
+   "closeLabel": "Jun 26, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 637,
+   "johnWins": 11,
+   "johnHammer": 267.76,
+   "johnAllIn": 333.33,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "127",
+     "title": "dewalt sliding channel locks",
+     "qty": 1,
+     "hammer": 7.5,
+     "allIn": 9.34
+    },
+    {
+     "lot": "138",
+     "title": "[\u2713] [MSRP: $38.97] Husky 1/2 in. Drive Deep SAE Socket Set (11-Piece)",
+     "qty": 1,
+     "hammer": 13.0,
+     "allIn": 16.18
+    },
+    {
+     "lot": "196",
+     "title": "[MSRP: $49.98] Husky 22-inch 22-Compartment Connect Cantilever Organizer for Small Parts Organizer",
+     "qty": 1,
+     "hammer": 18.0,
+     "allIn": 22.41
+    },
+    {
+     "lot": "216",
+     "title": "Milwaukee PACKOUT 22 in. Medium Red Tool Box with 75 lbs. Weight Capacity79.97",
+     "qty": 1,
+     "hammer": 43.0,
+     "allIn": 53.53
+    },
+    {
+     "lot": "220",
+     "title": "[EXT MSRP: $59.70] #6 x 1-1/4 in. Phillips Bugle Head Coarse Thread Phosphate Drywall Screw 1 lb.",
+     "qty": 10,
+     "hammer": 30.0,
+     "allIn": 37.35
+    },
+    {
+     "lot": "284",
+     "title": "[\u2713] [EXT MSRP: $62.35] Ultra 70 oz. Original Scent Dish Soap",
+     "qty": 5,
+     "hammer": 32.5,
+     "allIn": 40.46
+    },
+    {
+     "lot": "312",
+     "title": "[\u2713] [MSRP: $43.99] Bernzomatic DuraCast 4000 Torch with Instant Start/Stop Ignition Compatible with MAP-Pro and Propane Gas",
+     "qty": 1,
+     "hammer": 16.0,
+     "allIn": 19.92
+    },
+    {
+     "lot": "329",
+     "title": "[MSRP: $279.00] DEWALT FLEXVOLT 60V MAX Cordless Brushless 4.5 in. to 6 in. Small Angle Grinder with Kickback Brake (Tool Only)",
+     "qty": 1,
+     "hammer": 87.0,
+     "allIn": 108.3
+    },
+    {
+     "lot": "331",
+     "title": "[MSRP: $37.98] 1/2 in. x 5 in. Hex-Washer-Head Large Diameter Concrete Anchors (9-Piece)",
+     "qty": 1,
+     "hammer": 13.51,
+     "allIn": 16.82
+    },
+    {
+     "lot": "435",
+     "title": "[\u2713] [MSRP: $15.97] Wiss 10 in. Offset-Cut Drop Forged Tinner Snips",
+     "qty": 1,
+     "hammer": 4.75,
+     "allIn": 5.91
+    },
+    {
+     "lot": "466",
+     "title": "[MSRP: $8.25] 1-1/2 in. x 4D Bright Non-Collated Flooring Nails Cut Masonry 1 lb. (94-Count)",
+     "qty": 1,
+     "hammer": 2.5,
+     "allIn": 3.11
+    }
+   ]
+  },
+  {
+   "auctionId": "695",
+   "title": "#695 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-06-06",
+   "closeLabel": "Jun 6, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 814,
+   "johnWins": 15,
+   "johnHammer": 180.5,
+   "johnAllIn": 224.7,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "56",
+     "title": "HEAVY DUTY INDUSTRIAL PIPE WRENCH",
+     "qty": 2,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "57",
+     "title": "HEAVY DUTY INDUSTRIAL PIPE WRENCH",
+     "qty": 2,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "59",
+     "title": "HEAVY DUTY INDUSTRIAL PIPE WRENCH",
+     "qty": 2,
+     "hammer": 14.0,
+     "allIn": 17.43
+    },
+    {
+     "lot": "61",
+     "title": "HEAVY DUTY INDUSTRIAL PIPE WRENCH",
+     "qty": 2,
+     "hammer": 10.0,
+     "allIn": 12.45
+    },
+    {
+     "lot": "139",
+     "title": "1 in self drilling stainless steel Phillips screws",
+     "qty": 1,
+     "hammer": 27.0,
+     "allIn": 33.61
+    },
+    {
+     "lot": "141",
+     "title": "2 3/4 inch flat head concrete anchors",
+     "qty": 1,
+     "hammer": 27.0,
+     "allIn": 33.61
+    },
+    {
+     "lot": "143",
+     "title": "7 x 7/16 phosphate construction screws. 15,000",
+     "qty": 1,
+     "hammer": 3.0,
+     "allIn": 3.73
+    },
+    {
+     "lot": "166",
+     "title": "#8 x 3 inch self drilling stainless screws 1,500",
+     "qty": 1,
+     "hammer": 9.0,
+     "allIn": 11.2
+    },
+    {
+     "lot": "177",
+     "title": "#8 x 1 in zinc plated construction screws  4 lb",
+     "qty": 1,
+     "hammer": 13.0,
+     "allIn": 16.18
+    },
+    {
+     "lot": "179",
+     "title": "1/2 in zinc plated Phillips screws",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "276",
+     "title": "LARGE C CLAMPS",
+     "qty": 1,
+     "hammer": 5.0,
+     "allIn": 6.22
+    },
+    {
+     "lot": "325",
+     "title": "LARGE C CLAMP VISE GRIP",
+     "qty": 3,
+     "hammer": 18.0,
+     "allIn": 22.41
+    },
+    {
+     "lot": "326",
+     "title": "LARGE C CLAMP VISE GRIP",
+     "qty": 3,
+     "hammer": 12.0,
+     "allIn": 14.94
+    },
+    {
+     "lot": "327",
+     "title": "LARGE C CLAMP VISE GRIP",
+     "qty": 2,
+     "hammer": 13.5,
+     "allIn": 16.81
+    },
+    {
+     "lot": "625",
+     "title": "Nails / Screws/ And Staples Various sizes",
+     "qty": 1,
+     "hammer": 16.0,
+     "allIn": 19.92
+    }
+   ]
+  },
+  {
+   "auctionId": "684",
+   "title": "#684 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-05-17",
+   "closeLabel": "May 17, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 413,
+   "johnWins": 3,
+   "johnHammer": 38.55,
+   "johnAllIn": 47.99,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "57",
+     "title": "HUSKY ONE HALF INCH IMPACT WRENCH 800 FT PER POUND 1003097315",
+     "qty": 1,
+     "hammer": 23.0,
+     "allIn": 28.63
+    },
+    {
+     "lot": "179",
+     "title": "RIGID TELESCOPIC HANDLE WITH WHEELS PRO GEAR GENERATION 2.0",
+     "qty": 1,
+     "hammer": 10.75,
+     "allIn": 13.38
+    },
+    {
+     "lot": "236",
+     "title": "COLLEGE WORLD NOTEBOOKS",
+     "qty": 8,
+     "hammer": 4.8,
+     "allIn": 5.98
+    }
+   ]
+  },
+  {
+   "auctionId": "384",
+   "title": "#384 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-05-15",
+   "closeLabel": "May 15, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 262,
+   "johnWins": 4,
+   "johnHammer": 173.0,
+   "johnAllIn": 215.36,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "140",
+     "title": "[\u2713] [MSRP: $149.00] RYOBI 18-Volt ONE+ Lithium-Ion Cordless AirStrike 16-Gauge Cordless Straight Finish Nailer (Tool Only) with Sample Nails",
+     "qty": 1,
+     "hammer": 43.0,
+     "allIn": 53.53
+    },
+    {
+     "lot": "141",
+     "title": "[\u2713] [MSRP: $149.00] RYOBI 18-Volt ONE+ Lithium-Ion Cordless AirStrike 16-Gauge Cordless Straight Finish Nailer (Tool Only) with Sample Nails",
+     "qty": 1,
+     "hammer": 41.0,
+     "allIn": 51.04
+    },
+    {
+     "lot": "144",
+     "title": "[\u2713] [MSRP: $149.00] RYOBI 18-Volt ONE+ Lithium-Ion Cordless AirStrike 16-Gauge Cordless Straight Finish Nailer (Tool Only) with Sample Nails",
+     "qty": 1,
+     "hammer": 40.0,
+     "allIn": 49.8
+    },
+    {
+     "lot": "145",
+     "title": "[\u2713] [MSRP: $149.00] RYOBI 18-Volt ONE+ Lithium-Ion Cordless AirStrike 16-Gauge Cordless Straight Finish Nailer (Tool Only) with Sample Nails",
+     "qty": 1,
+     "hammer": 49.0,
+     "allIn": 61.0
+    }
+   ]
+  },
+  {
+   "auctionId": "670",
+   "title": "#670 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-05-03",
+   "closeLabel": "May 3, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 398,
+   "johnWins": 4,
+   "johnHammer": 36.0,
+   "johnAllIn": 44.82,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "34",
+     "title": "SYNTHETIC VINYL GLOVES",
+     "qty": 6,
+     "hammer": 7.5,
+     "allIn": 9.34
+    },
+    {
+     "lot": "36",
+     "title": "BEEFBAR ALOE GRAPE 6000 PUFFS",
+     "qty": 6,
+     "hammer": 10.5,
+     "allIn": 13.07
+    },
+    {
+     "lot": "50",
+     "title": "BEEFBAR ALOE GRAPE 6000 PUFFS",
+     "qty": 6,
+     "hammer": 9.0,
+     "allIn": 11.2
+    },
+    {
+     "lot": "339",
+     "title": "B SYSTEM ALOE GRAPE 6000 PUFF VAPE",
+     "qty": 6,
+     "hammer": 9.0,
+     "allIn": 11.2
+    }
+   ]
+  },
+  {
+   "auctionId": "672",
+   "title": "#672 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-05-03",
+   "closeLabel": "May 3, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 613,
+   "johnWins": 12,
+   "johnHammer": 115.0,
+   "johnAllIn": 143.16,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "141",
+     "title": "RYOBI 18V FOGGER (TOOL ONLY)",
+     "qty": 1,
+     "hammer": 5.0,
+     "allIn": 6.22
+    },
+    {
+     "lot": "156",
+     "title": "RYOBI 18V FOGGER (TOOL ONLY)",
+     "qty": 1,
+     "hammer": 7.0,
+     "allIn": 8.71
+    },
+    {
+     "lot": "377",
+     "title": "XBOX ONE HALO",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "390",
+     "title": "MOUNTAIN RANGE ZIPPO LIGHTER",
+     "qty": 1,
+     "hammer": 7.5,
+     "allIn": 9.34
+    },
+    {
+     "lot": "391",
+     "title": "CLASSIC ZIPPO LIGHTER",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "397",
+     "title": "ENGRAVED ZIPPO LIGHTER",
+     "qty": 1,
+     "hammer": 2.75,
+     "allIn": 3.42
+    },
+    {
+     "lot": "409",
+     "title": "ZITSTICKA GOO GETTER BODY BLEMISH PATCHES",
+     "qty": 3,
+     "hammer": 4.5,
+     "allIn": 5.6
+    },
+    {
+     "lot": "434",
+     "title": "LATHER OF THE LOYAL SOAP BARS",
+     "qty": 11,
+     "hammer": 16.5,
+     "allIn": 20.54
+    },
+    {
+     "lot": "435",
+     "title": "GRIT OF THE GENIUS SOAP  BARS",
+     "qty": 9,
+     "hammer": 6.75,
+     "allIn": 8.4
+    },
+    {
+     "lot": "483",
+     "title": "RYOBI 18 V FOGGER TOOL ONLY",
+     "qty": 1,
+     "hammer": 3.25,
+     "allIn": 4.05
+    },
+    {
+     "lot": "484",
+     "title": "RYOBI 18 V FOGGER TOOL ONLY",
+     "qty": 1,
+     "hammer": 9.0,
+     "allIn": 11.2
+    },
+    {
+     "lot": "492",
+     "title": "RYOBI 18V FOGGER TOOL ONLY",
+     "qty": 1,
+     "hammer": 1.75,
+     "allIn": 2.18
+    }
+   ]
+  },
+  {
+   "auctionId": "656",
+   "title": "#656 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-04-19",
+   "closeLabel": "Apr 19, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 687,
+   "johnWins": 3,
+   "johnHammer": 431.99,
+   "johnAllIn": 537.77,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "668",
+     "title": "20-Volt 30\u00b0 Cordless Framing Nailer (Tool-Only)",
+     "qty": 1,
+     "hammer": 130.0,
+     "allIn": 161.83
+    },
+    {
+     "lot": "672",
+     "title": "dewalt 3000 psi 15 amp jobsite electric cold water presswure washer $359.00",
+     "qty": 1,
+     "hammer": 126.0,
+     "allIn": 156.85
+    },
+    {
+     "lot": "676",
+     "title": "FLEXVOLT 60V MAX Cordless Brushless 8-1/4 in. Table Saw Kit with (1) FLEXVOLT 6.0Ah Battery\n $449.00 @THE HOME DEPOT",
+     "qty": 1,
+     "hammer": 175.99,
+     "allIn": 219.09
+    }
+   ]
+  },
+  {
+   "auctionId": "642",
+   "title": "#642 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-04-04",
+   "closeLabel": "Apr 4, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 341,
+   "johnWins": 1,
+   "johnHammer": 3.0,
+   "johnAllIn": 3.73,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "108",
+     "title": "Klein tools cabinet tip screwdriver",
+     "qty": 1,
+     "hammer": 3.0,
+     "allIn": 3.73
+    }
+   ]
+  },
+  {
+   "auctionId": "626",
+   "title": "#626 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-03-19",
+   "closeLabel": "Mar 19, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 1687,
+   "johnWins": 25,
+   "johnHammer": 935.02,
+   "johnAllIn": 1163.98,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "11",
+     "title": "milwaukee m18 led lithium hd 120 battery  retail $249",
+     "qty": 1,
+     "hammer": 103.0,
+     "allIn": 128.22
+    },
+    {
+     "lot": "40",
+     "title": "MILWAUKEE M12 FUEL 1/4'' right angle die grinder  TOOL ONLY $219.00",
+     "qty": 1,
+     "hammer": 69.5,
+     "allIn": 86.52
+    },
+    {
+     "lot": "60",
+     "title": "RYOBI DUFFLE BAG FULL OF CORDLESS HAND TOOLS  OVER A $400 dollar value",
+     "qty": 1,
+     "hammer": 143.0,
+     "allIn": 178.02
+    },
+    {
+     "lot": "65",
+     "title": "BERNZOMATIC UTILITY TORCH",
+     "qty": 1,
+     "hammer": 7.0,
+     "allIn": 8.71
+    },
+    {
+     "lot": "115",
+     "title": "MASTER LOCK UNIVERSAL LOCK BOX 5420D",
+     "qty": 1,
+     "hammer": 1.75,
+     "allIn": 2.18
+    },
+    {
+     "lot": "154",
+     "title": "milwaukee one key fuel driver",
+     "qty": 1,
+     "hammer": 95.0,
+     "allIn": 118.26
+    },
+    {
+     "lot": "199",
+     "title": "KLEIN TOOLS TONE AND PROBE TEST",
+     "qty": 1,
+     "hammer": 28.0,
+     "allIn": 34.86
+    },
+    {
+     "lot": "234",
+     "title": "Enviro water products tank.$499.00",
+     "qty": 1,
+     "hammer": 21.5,
+     "allIn": 26.76
+    },
+    {
+     "lot": "263",
+     "title": "Milwaukee pack out.$119.00",
+     "qty": 1,
+     "hammer": 62.0,
+     "allIn": 77.18
+    },
+    {
+     "lot": "264",
+     "title": "Milwaukee pack out toolbox.$89.00",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "326",
+     "title": "Scotch painters blue tape.",
+     "qty": 4,
+     "hammer": 18.0,
+     "allIn": 22.41
+    },
+    {
+     "lot": "477",
+     "title": "Husky 6 inch waterproof storage bin.",
+     "qty": 1,
+     "hammer": 1.25,
+     "allIn": 1.56
+    },
+    {
+     "lot": "559",
+     "title": "Master Lock Universal Lock Box 2 7/8in Metal 4 Dial Combination 1pk RETAIL $49.00",
+     "qty": 1,
+     "hammer": 7.0,
+     "allIn": 8.71
+    },
+    {
+     "lot": "586",
+     "title": "EMT 3/4\" ONE HOLE STRAP 20/A BAG",
+     "qty": 19,
+     "hammer": 19.0,
+     "allIn": 23.65
+    },
+    {
+     "lot": "833",
+     "title": "G.E. general duty safety switch $77.21",
+     "qty": 1,
+     "hammer": 7.5,
+     "allIn": 9.34
+    },
+    {
+     "lot": "863",
+     "title": "Apollo Plex polybutylene adapter",
+     "qty": 1,
+     "hammer": 8.5,
+     "allIn": 10.58
+    },
+    {
+     "lot": "911",
+     "title": "A Makita compact portable band saw blade",
+     "qty": 2,
+     "hammer": 2.0,
+     "allIn": 2.49
+    },
+    {
+     "lot": "1036",
+     "title": "Home decoration collection Merery 52in LED indoor ceiling fan",
+     "qty": 1,
+     "hammer": 25.0,
+     "allIn": 31.12
+    },
+    {
+     "lot": "1223",
+     "title": "ryobi 40V HP brushless 14\" cordless chainsaw $159.99 tool only",
+     "qty": 1,
+     "hammer": 37.5,
+     "allIn": 46.68
+    },
+    {
+     "lot": "1234",
+     "title": "chamberlain smart garage opener  # b2202 $199.00",
+     "qty": 1,
+     "hammer": 50.01,
+     "allIn": 62.26
+    },
+    {
+     "lot": "1349",
+     "title": "male fitting adapter",
+     "qty": 1,
+     "hammer": 5.01,
+     "allIn": 6.24
+    },
+    {
+     "lot": "1629",
+     "title": "RED HEAD WEDGE ANCHORS 1/2'' X 5-1/2'' 25 QTY $26.98 each",
+     "qty": 3,
+     "hammer": 38.25,
+     "allIn": 47.62
+    },
+    {
+     "lot": "1642",
+     "title": "OWENS CORNING PINK ECOTOUCH INSULATION R-13 FACED40 SQ.FT.",
+     "qty": 1,
+     "hammer": 10.25,
+     "allIn": 12.76
+    },
+    {
+     "lot": "1670",
+     "title": "MAKITA 18 VOLT LXT BRUSHLESS ESTRING TRIMMER KIT$199.00",
+     "qty": 1,
+     "hammer": 70.0,
+     "allIn": 87.14
+    },
+    {
+     "lot": "1694",
+     "title": "URBAN TAPESTRY INTERLOCKING (SOLD BY THE SHEET).97 SQ.FT. PER SHEET RETAILS FOR $13.06 EACH",
+     "qty": 44,
+     "hammer": 55.0,
+     "allIn": 68.47
+    }
+   ]
+  },
+  {
+   "auctionId": "621",
+   "title": "#621 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-03-09",
+   "closeLabel": "Mar 9, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 372,
+   "johnWins": 23,
+   "johnHammer": 862.03,
+   "johnAllIn": 1073.12,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "2",
+     "title": "WALL MOUNT CONDENSING STAINLESS STEEL GAS BOILER",
+     "qty": 1,
+     "hammer": 108.0,
+     "allIn": 134.45
+    },
+    {
+     "lot": "75",
+     "title": "RYOBI ONE + HP 18V BRUSHLESS MULTI-TOOL",
+     "qty": 1,
+     "hammer": 34.5,
+     "allIn": 42.95
+    },
+    {
+     "lot": "87",
+     "title": "SEASONS LED CEILING FAN LIGHT KIT",
+     "qty": 1,
+     "hammer": 11.0,
+     "allIn": 13.69
+    },
+    {
+     "lot": "91",
+     "title": "SMART CODE 917 RESIDENTAL ELECTRONIC LEVER",
+     "qty": 1,
+     "hammer": 15.55,
+     "allIn": 19.36
+    },
+    {
+     "lot": "99",
+     "title": "HOTEL QUALITY HAND TOWELS",
+     "qty": 12,
+     "hammer": 18.0,
+     "allIn": 22.41
+    },
+    {
+     "lot": "100",
+     "title": "HOTEL QUALITY HAND TOWELS",
+     "qty": 12,
+     "hammer": 18.0,
+     "allIn": 22.41
+    },
+    {
+     "lot": "105",
+     "title": "HARBOR BREEZE CEILING FAN",
+     "qty": 1,
+     "hammer": 26.5,
+     "allIn": 32.99
+    },
+    {
+     "lot": "107",
+     "title": "SEASONS 52\" LED CEILING FAN BRUSHED NICKLE",
+     "qty": 1,
+     "hammer": 18.0,
+     "allIn": 22.41
+    },
+    {
+     "lot": "108",
+     "title": "4 PIECE WEEKENDER CAMP COMBO",
+     "qty": 1,
+     "hammer": 15.75,
+     "allIn": 19.61
+    },
+    {
+     "lot": "119",
+     "title": "DEWALT TOUGH SYSTEM TOOL CADDY",
+     "qty": 1,
+     "hammer": 35.99,
+     "allIn": 44.8
+    },
+    {
+     "lot": "164",
+     "title": "HOTEL QUALITY WASH CLOTHS",
+     "qty": 24,
+     "hammer": 24.0,
+     "allIn": 29.88
+    },
+    {
+     "lot": "192",
+     "title": "EMBARK OVERSIZED QUAD CHAIR",
+     "qty": 1,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "193",
+     "title": "EMBARK OVERSIZED QUAD CHAIR",
+     "qty": 1,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "194",
+     "title": "DEWALT 2100 ELECTRIC COLD WATER PRESSURE WASHER",
+     "qty": 1,
+     "hammer": 99.99,
+     "allIn": 124.48
+    },
+    {
+     "lot": "214",
+     "title": "NITRILE EXAMINATION GLVES SIZE LARGE",
+     "qty": 3,
+     "hammer": 8.25,
+     "allIn": 10.27
+    },
+    {
+     "lot": "309",
+     "title": "RIDGID TELESCOPIC HANDLE WITH WHEELS PRO GEAR GEN 2.0",
+     "qty": 1,
+     "hammer": 11.0,
+     "allIn": 13.69
+    },
+    {
+     "lot": "310",
+     "title": "RIDGID TELESCOPIC HANDLE WITH WHEELS PRO GEAR GEN 2.0",
+     "qty": 1,
+     "hammer": 9.0,
+     "allIn": 11.2
+    },
+    {
+     "lot": "315",
+     "title": "WALL MOUNT CONDENSING STAINLESS STEEL GAS BOILER",
+     "qty": 1,
+     "hammer": 240.0,
+     "allIn": 298.77
+    },
+    {
+     "lot": "321",
+     "title": "DEFIANT TOUCHPAD DEADBOLT",
+     "qty": 1,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "325",
+     "title": "KWIKSET TOUCHPAD WI-FI ENABLED LOCK",
+     "qty": 1,
+     "hammer": 18.0,
+     "allIn": 22.41
+    },
+    {
+     "lot": "337",
+     "title": "SMART KEY SECURITY KEEYLESS ENTRY LOCK",
+     "qty": 2,
+     "hammer": 22.0,
+     "allIn": 27.39
+    },
+    {
+     "lot": "344",
+     "title": "H",
+     "qty": 1,
+     "hammer": 29.5,
+     "allIn": 36.72
+    },
+    {
+     "lot": "357",
+     "title": "FOUR DRAWER TWO DOOR BATH VANITY WITH FAUX MARBLE SINGLE SINK TOP (AS-IS)",
+     "qty": 1,
+     "hammer": 75.0,
+     "allIn": 93.37
+    }
+   ]
+  },
+  {
+   "auctionId": "613",
+   "title": "#613 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-03-01",
+   "closeLabel": "Mar 1, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 354,
+   "johnWins": 3,
+   "johnHammer": 142.25,
+   "johnAllIn": 177.08,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "184",
+     "title": "[\u2713] [MSRP: $99.00] RIDGID RDGD 6 gal. 150 PSI Portable Electric Pancake Air Compressor",
+     "qty": 1,
+     "hammer": 45.25,
+     "allIn": 56.33
+    },
+    {
+     "lot": "247",
+     "title": "[\u2713] [MSRP: $99.00] RIDGID RDGD 6 gal. 150 PSI Portable Electric Pancake Air Compressor",
+     "qty": 1,
+     "hammer": 41.0,
+     "allIn": 51.04
+    },
+    {
+     "lot": "285",
+     "title": "[MSRP: $158.00] RYOBI 1800 PSI 1.2 GPM Cold Water Electric Pressure Washer",
+     "qty": 1,
+     "hammer": 56.0,
+     "allIn": 69.71
+    }
+   ]
+  },
+  {
+   "auctionId": "609",
+   "title": "#609 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-02-27",
+   "closeLabel": "Feb 27, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 1266,
+   "johnWins": 35,
+   "johnHammer": 1488.67,
+   "johnAllIn": 1853.21,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "3",
+     "title": "[MSRP: $880.00] Noritz NR66ODNG Outdoor Tankless Water Heater, max. 140,000 Btuh, 6.6 Gpm - Natural Gas reserve $300",
+     "qty": 1,
+     "hammer": 103.0,
+     "allIn": 128.22
+    },
+    {
+     "lot": "4",
+     "title": "[MSRP: $1,199.00] ryobi 1800-Watt Continuous / 3000-Watt Peak Output Lithium-Ion Push-Button Start Portable Battery Generator Power Station",
+     "qty": 1,
+     "hammer": 395.0,
+     "allIn": 491.73
+    },
+    {
+     "lot": "5",
+     "title": "[MSRP: $159.00] DeWalt 1600 Peak Amp Jump Starter with Digital Compressor and USB Power Bank",
+     "qty": 1,
+     "hammer": 40.5,
+     "allIn": 50.42
+    },
+    {
+     "lot": "8",
+     "title": "[\u2713] [MSRP: $127.25] Classic Single Handle Pull Down Sprayer Kitchen Faucet in Polished Chrome",
+     "qty": 1,
+     "hammer": 28.05,
+     "allIn": 34.92
+    },
+    {
+     "lot": "9",
+     "title": "[\u2713] [MSRP: $127.25] Classic Single Handle Pull Down Sprayer Kitchen Faucet in Polished Chrome",
+     "qty": 1,
+     "hammer": 28.05,
+     "allIn": 34.92
+    },
+    {
+     "lot": "10",
+     "title": "[MSRP: $79.97] Milwaukee PACKOUT 75 lb TOOL BOX",
+     "qty": 1,
+     "hammer": 35.0,
+     "allIn": 43.57
+    },
+    {
+     "lot": "13",
+     "title": "[\u2713] [MSRP: $34.95] 498TS50 0.75 x 3.75 in. Parawedge Anchor - Pack of 50",
+     "qty": 1,
+     "hammer": 11.5,
+     "allIn": 14.32
+    },
+    {
+     "lot": "26",
+     "title": "[\u2713] [MSRP: $29.98]  Waterpik 5-Spray Wall Mount Handheld Shower Head 1.8 GPM in Chrome",
+     "qty": 1,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "27",
+     "title": "RAMSET POWER FASTENING SYSTEMS COBRA+ WITH CASE PART #16944 $269.00",
+     "qty": 1,
+     "hammer": 75.01,
+     "allIn": 93.38
+    },
+    {
+     "lot": "82",
+     "title": "FIRM GRIP WORK GLOVES SIZE S",
+     "qty": 3,
+     "hammer": 3.75,
+     "allIn": 4.67
+    },
+    {
+     "lot": "106",
+     "title": "[\u2713] [EXT MSRP: $104.64] PACKOUT Black 30 oz. Tumbler",
+     "qty": 3,
+     "hammer": 40.5,
+     "allIn": 50.42
+    },
+    {
+     "lot": "158",
+     "title": "[MSRP: $49.97] HUSKY Contractors 2-Bag Tool BelT",
+     "qty": 1,
+     "hammer": 10.5,
+     "allIn": 13.07
+    },
+    {
+     "lot": "200",
+     "title": "[\u2713] [MSRP: $34.98] Master Lock  3-1/8 in. W Heavy-Duty Outdoor Shrouded Keyed Padlock (2-Pack)",
+     "qty": 1,
+     "hammer": 10.0,
+     "allIn": 12.45
+    },
+    {
+     "lot": "507",
+     "title": "[MSRP: $467.00] GLACIER BAY SINITA 30 in VANITY",
+     "qty": 1,
+     "hammer": 79.0,
+     "allIn": 98.35
+    },
+    {
+     "lot": "569",
+     "title": "[\u2713] [MSRP: $95.88] Futura 24 in. Wall Mount Towel Bar Bath Hardware Accessory in Polished Chrome 6 TOWEL BARS IN A BOX",
+     "qty": 1,
+     "hammer": 1.75,
+     "allIn": 2.18
+    },
+    {
+     "lot": "576",
+     "title": "[\u2713] [MSRP: $37.98] Master Lock Lock Box, Resettable Push Button Combination",
+     "qty": 1,
+     "hammer": 13.0,
+     "allIn": 16.18
+    },
+    {
+     "lot": "596",
+     "title": "[MSRP: $111.20] Hampton Bay Santa Cruz 52 in. Indoor Brushed Nickel Ceiling Fan with Green Accents and Light Kit",
+     "qty": 1,
+     "hammer": 23.0,
+     "allIn": 28.63
+    },
+    {
+     "lot": "602",
+     "title": "[MSRP: $114.87] Seasons\u00ae Anchor Point\u2122 Two Handle Bath Faucet  With Quick Install Pop Up  Brushed Nickel",
+     "qty": 1,
+     "hammer": 3.5,
+     "allIn": 4.36
+    },
+    {
+     "lot": "662",
+     "title": "[EXT MSRP: $111.76] CP SHOWERHEAD",
+     "qty": 4,
+     "hammer": 42.0,
+     "allIn": 52.28
+    },
+    {
+     "lot": "689",
+     "title": "[EXT MSRP: $28.70] Kidde Firex Hardwired Smoke Detector with Ionization Sensor, 9-Volt Battery Backup, and 2-Button Test/Hush",
+     "qty": 2,
+     "hammer": 10.0,
+     "allIn": 12.45
+    },
+    {
+     "lot": "820",
+     "title": "[\u2713] [MSRP: $46.28] Master Lock Heavy Duty Padlock with Key, Hidden Shackle (Hasp Included)",
+     "qty": 1,
+     "hammer": 10.0,
+     "allIn": 12.45
+    },
+    {
+     "lot": "830",
+     "title": "[\u2713] [MSRP: $37.98] Master Lock Lock Box, Resettable Push Button Combination",
+     "qty": 1,
+     "hammer": 10.99,
+     "allIn": 13.68
+    },
+    {
+     "lot": "890",
+     "title": "[MSRP: $64.97]  DIABLO 1 in. x 16 in. x 21 in. Rebar Demon SDS-Max 4-Cutter Full Carbide Head Hammer Drill Bit",
+     "qty": 1,
+     "hammer": 20.5,
+     "allIn": 25.52
+    },
+    {
+     "lot": "1033",
+     "title": "[\u2713] [MSRP: $469.99] DreamLine SlimLine 60 in. x 30 in. Single Threshold Shower Base in White with Right Hand Drain",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1048",
+     "title": "[MSRP: $8.61] Shun Da 46 Pcs 1/4\u201d Drive Socket Ratchet Wrench Set with Storage Case",
+     "qty": 1,
+     "hammer": 11.55,
+     "allIn": 14.38
+    },
+    {
+     "lot": "1049",
+     "title": "[MSRP: $8.61] Shun Da 46 Pcs 1/4\u201d Drive Socket Ratchet Wrench Set with Storage Case",
+     "qty": 1,
+     "hammer": 12.0,
+     "allIn": 14.94
+    },
+    {
+     "lot": "1054",
+     "title": "[\u2713] [MSRP: $39.97] RYOBI USB Lithium Screwdriver Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+     "qty": 1,
+     "hammer": 9.51,
+     "allIn": 11.84
+    },
+    {
+     "lot": "1078",
+     "title": "[EXT MSRP: $137.80] Legrand Tp26 Trademaster 1-Gang Decorator Outlet/Rocker Wall Plate - White",
+     "qty": 20,
+     "hammer": 40.0,
+     "allIn": 49.8
+    },
+    {
+     "lot": "1079",
+     "title": "[EXT MSRP: $137.80] Legrand Tp26 Trademaster 1-Gang Decorator Outlet/Rocker Wall Plate - White",
+     "qty": 20,
+     "hammer": 25.0,
+     "allIn": 31.12
+    },
+    {
+     "lot": "1097",
+     "title": "[\u2713] [MSRP: $314.00] Huckleberry 30 in. Single Sink Spiced Walnut Bath Vanity with White Engineered Stone Top (Assembled)",
+     "qty": 1,
+     "hammer": 52.5,
+     "allIn": 65.36
+    },
+    {
+     "lot": "1105",
+     "title": "[MSRP: $934.00]  Double Sink White Vanity with White Top",
+     "qty": 1,
+     "hammer": 110.0,
+     "allIn": 136.94
+    },
+    {
+     "lot": "1217",
+     "title": "[\u2713] [MSRP: $75.00] YR FOODS INDIVIDUALLY WRAPPED POLY PRO FORK 1,000 COUNT",
+     "qty": 1,
+     "hammer": 8.5,
+     "allIn": 10.58
+    },
+    {
+     "lot": "1218",
+     "title": "[\u2713] [MSRP: $75.00] YR FOODS INDIVIDUALLY WRAPPED POLY PRO FORK 1,000 COUNT",
+     "qty": 1,
+     "hammer": 8.5,
+     "allIn": 10.58
+    },
+    {
+     "lot": "1219",
+     "title": "[\u2713] [MSRP: $75.00] YR FOODS INDIVIDUALLY WRAPPED POLY PRO FORK 1,000 COUNT",
+     "qty": 1,
+     "hammer": 8.5,
+     "allIn": 10.58
+    },
+    {
+     "lot": "1264",
+     "title": "RYOBI ONE  HP  BRUSHLESS  SELF PROPELED LAWN MOWER WITH BATTERIES AND CHARGER $499.00",
+     "qty": 1,
+     "hammer": 150.01,
+     "allIn": 186.74
+    }
+   ]
+  },
+  {
+   "auctionId": "601",
+   "title": "#601 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-02-14",
+   "closeLabel": "Feb 14, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 718,
+   "johnWins": 17,
+   "johnHammer": 814.99,
+   "johnAllIn": 1014.56,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "2",
+     "title": "[MSRP: $79.97] Pro Gear System Gen 2.0 Cold Box 27 Qt. Heavy Duty XL Cooler With Ergonomical Handle and Durable Latches",
+     "qty": 1,
+     "hammer": 21.0,
+     "allIn": 26.14
+    },
+    {
+     "lot": "7",
+     "title": "[\u2713] [MSRP: $159.00] DEWALT 1600 Peak Amp Jump Starter with Digital Compressor and USB Power Bank",
+     "qty": 1,
+     "hammer": 51.0,
+     "allIn": 63.49
+    },
+    {
+     "lot": "14",
+     "title": "[\u2713] [MSRP: $99.00] ONE+ 18V 100 MPH 350 CFM Cordless Battery Variable-Speed Jet Fan Leaf Blower (Tool Only)",
+     "qty": 1,
+     "hammer": 30.0,
+     "allIn": 37.35
+    },
+    {
+     "lot": "15",
+     "title": "[\u2713] [MSRP: $99.00] RYOBI 40V 120 MPH 450 CFM Cordless Battery Variable-Speed Jet-Fan Blower (Tool-Only)",
+     "qty": 1,
+     "hammer": 30.0,
+     "allIn": 37.35
+    },
+    {
+     "lot": "21",
+     "title": "[\u2713] [MSRP: $159.00] DEWALT 1000-Watt Portable Car Power Inverter with Triple USB Ports",
+     "qty": 1,
+     "hammer": 47.5,
+     "allIn": 59.13
+    },
+    {
+     "lot": "24",
+     "title": "[\u2713] [MSRP: $89.00] ONE+ 18V 90 MPH 250 CFM Cordless Battery Leaf Blower/Sweeper with 2.0 Ah Battery and Charger",
+     "qty": 1,
+     "hammer": 27.5,
+     "allIn": 34.23
+    },
+    {
+     "lot": "81",
+     "title": "[\u2713] [MSRP: $139.00] ONE+ 18V Cordless 1/2 in. Impact Wrench (Tool Only)",
+     "qty": 1,
+     "hammer": 45.0,
+     "allIn": 56.02
+    },
+    {
+     "lot": "137",
+     "title": "[\u2713] [MSRP: $69.97] LINK Modular Dolly Multi-Purpose Rolling Base",
+     "qty": 1,
+     "hammer": 21.0,
+     "allIn": 26.14
+    },
+    {
+     "lot": "138",
+     "title": "[\u2713] [MSRP: $69.97] LINK Modular Dolly Multi-Purpose Rolling Base",
+     "qty": 1,
+     "hammer": 21.0,
+     "allIn": 26.14
+    },
+    {
+     "lot": "201",
+     "title": "[\u2713] [MSRP: $159.00] RYOBI ONE+ HP 18V Brushless Cordless 4-Mode 1/2 in. Impact Wrench (Tool Only)",
+     "qty": 1,
+     "hammer": 52.5,
+     "allIn": 65.36
+    },
+    {
+     "lot": "312",
+     "title": "[\u2713] [MSRP: $189.00] 3/8 in./1/4 in. 18V LXT Lithium-Ion Cordless Square Drive Ratchet (Tool-Only)",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "340",
+     "title": "[\u2713] [MSRP: $349.00] 20V XR Lithium-Ion Cordless Hammer Drill Kit with 8.0 Ah Battery, Charger and Kit Bag",
+     "qty": 1,
+     "hammer": 110.0,
+     "allIn": 136.94
+    },
+    {
+     "lot": "412",
+     "title": "TRASH BAGS BLACK 1 ROLL",
+     "qty": 10,
+     "hammer": 25.0,
+     "allIn": 31.12
+    },
+    {
+     "lot": "418",
+     "title": "[\u2713] [MSRP: $149.00] 18V LXT Lithium-Ion Cordless 6-1/2 in. Lightweight Circular Saw and General Purpose Blade (Tool-Only)",
+     "qty": 1,
+     "hammer": 55.0,
+     "allIn": 68.47
+    },
+    {
+     "lot": "544",
+     "title": "[\u2713] [MSRP: $133.71] RYOBI ONE+ 18V 18-Gauge Cordless AirStrike Brad Nailer (Tool Only)",
+     "qty": 1,
+     "hammer": 45.0,
+     "allIn": 56.02
+    },
+    {
+     "lot": "655",
+     "title": "[\u2713] [MSRP: $139.00] ONE+ 18V Cordless 1/2 in. Impact Wrench (Tool Only)",
+     "qty": 1,
+     "hammer": 52.5,
+     "allIn": 65.36
+    },
+    {
+     "lot": "703",
+     "title": "[MSRP: $297.00] RIDGID 9 Amp Corded 7 in. Wet Tile Saw with Stand",
+     "qty": 1,
+     "hammer": 130.99,
+     "allIn": 163.07
+    }
+   ]
+  },
+  {
+   "auctionId": "606",
+   "title": "#606 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-02-14",
+   "closeLabel": "Feb 14, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 343,
+   "johnWins": 8,
+   "johnHammer": 402.99,
+   "johnAllIn": 501.67,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "29",
+     "title": "HARBOR BREEZE OAKHAM 70\" CEILING FAN $219.98",
+     "qty": 1,
+     "hammer": 31.99,
+     "allIn": 39.82
+    },
+    {
+     "lot": "98",
+     "title": "RYOBI ONE+ HP 18V BRUSHLESS CORDLESS AIRSTRIKE FRAMING NAILER",
+     "qty": 1,
+     "hammer": 126.0,
+     "allIn": 156.85
+    },
+    {
+     "lot": "158",
+     "title": "RIDGID 7\" WET TILE SAW W/STAND $324.57",
+     "qty": 1,
+     "hammer": 65.0,
+     "allIn": 80.92
+    },
+    {
+     "lot": "163",
+     "title": "RYOBI ONE+ 18V CORDLESS 1 GAL AIR COMPRESSOR $149.00",
+     "qty": 1,
+     "hammer": 41.0,
+     "allIn": 51.04
+    },
+    {
+     "lot": "165",
+     "title": "RYOBI ONE+ 18V 90 MPH 250 CFM CORDLESS BATTERY LEAF BLOWER/SWEEPER",
+     "qty": 1,
+     "hammer": 17.0,
+     "allIn": 21.16
+    },
+    {
+     "lot": "198",
+     "title": "RYOBI ONE+ 18V 5 1/2\" FLOORING SAW $193.00",
+     "qty": 1,
+     "hammer": 41.0,
+     "allIn": 51.04
+    },
+    {
+     "lot": "227",
+     "title": "DEWALT 1600 PEAK AMP JUMP STARTER W/DIGITAL COMPRESSOR",
+     "qty": 1,
+     "hammer": 31.0,
+     "allIn": 38.59
+    },
+    {
+     "lot": "244",
+     "title": "RIDGID 12 GAL WET/DRY VAC",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    }
+   ]
+  },
+  {
+   "auctionId": "588",
+   "title": "#588 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-02-04",
+   "closeLabel": "Feb 4, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 491,
+   "johnWins": 7,
+   "johnHammer": 79.0,
+   "johnAllIn": 98.35,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "98",
+     "title": "PORTER CABLE 20V CORDLESS DRILL (TOOL ONLY)",
+     "qty": 1,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "277",
+     "title": "SATURN MISSILE BATTERY 4 PACK",
+     "qty": 3,
+     "hammer": 9.0,
+     "allIn": 11.2
+    },
+    {
+     "lot": "278",
+     "title": "RESOLVE  STAIN REMOVER CARPET CLEANER 32",
+     "qty": 3,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "306",
+     "title": "RESOLVE ULTRA PET STAIN AND ODOR CARPET CLEANER 32 OZ",
+     "qty": 4,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "355",
+     "title": "KINGSFORD CHARCOAL 20 LB",
+     "qty": 1,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "387",
+     "title": "RYOBI FOGGER 18V",
+     "qty": 4,
+     "hammer": 20.0,
+     "allIn": 24.9
+    },
+    {
+     "lot": "421",
+     "title": "SHARK STAIN STRIKER",
+     "qty": 1,
+     "hammer": 22.0,
+     "allIn": 27.39
+    }
+   ]
+  },
+  {
+   "auctionId": "566",
+   "title": "#566 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2025-01-02",
+   "closeLabel": "Jan 2, 2025",
+   "pickup": "Garland, TX",
+   "lotCount": 1775,
+   "johnWins": 21,
+   "johnHammer": 240.5,
+   "johnAllIn": 299.39,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "25",
+     "title": "[\u2713] [MSRP: $39.97] Husky 12-Volt Inflator",
+     "qty": 1,
+     "hammer": 12.0,
+     "allIn": 14.94
+    },
+    {
+     "lot": "26",
+     "title": "[\u2713] [MSRP: $39.97] Husky 12-Volt Inflator",
+     "qty": 1,
+     "hammer": 13.0,
+     "allIn": 16.18
+    },
+    {
+     "lot": "71",
+     "title": "[\u2713] [MSRP: $56.97] General Tools Combo Pin and Pinless Moisture Meter for Water Damage and Mold Prevention",
+     "qty": 1,
+     "hammer": 10.0,
+     "allIn": 12.45
+    },
+    {
+     "lot": "115",
+     "title": "[MSRP: $25.98] 2-1/8 in. Quick-Release Tube Cutter with Fold-Away Reamer and Blade Storage",
+     "qty": 1,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "140",
+     "title": "HUTTIG-GRIP BOX NAIL 6d 2\" SMOOTH SHANK FASTENERS 1 LB.",
+     "qty": 6,
+     "hammer": 12.0,
+     "allIn": 14.94
+    },
+    {
+     "lot": "141",
+     "title": "HUTTIG-GRIP BOX NAIL 6d 2\" SMOOTH SHANK FASTENERS 1 LB.",
+     "qty": 6,
+     "hammer": 12.0,
+     "allIn": 14.94
+    },
+    {
+     "lot": "159",
+     "title": "[\u2713] [MSRP: $39.97] RIDGID 1-7/8 in. x 10 ft. Pro-Grade Locking Vacuum Hose Kit for Wet/Dry Shop Vacuums, Orange",
+     "qty": 1,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "203",
+     "title": "[\u2713] [MSRP: $15.97] Husky Basin Wrench",
+     "qty": 1,
+     "hammer": 5.0,
+     "allIn": 6.22
+    },
+    {
+     "lot": "366",
+     "title": "[\u2713] [MSRP: $24.97] Smart Outdoor 4 ft. 6-Outlet Power Stake Timer Powered by Hubspace",
+     "qty": 1,
+     "hammer": 7.0,
+     "allIn": 8.71
+    },
+    {
+     "lot": "391",
+     "title": "[MSRP: $59.49] Flip Top Narrow End Table with Storage  Narrow Side Tables for Small Spaces  Slim End Table with Storage Shelf  Skinny Nightstand Sofa Table for Bedroom  Living Room - White",
+     "qty": 1,
+     "hammer": 15.0,
+     "allIn": 18.67
+    },
+    {
+     "lot": "392",
+     "title": "[\u2713] [MSRP: $99.99] Hampton Bay 21.65 in. Woodford Eucalyptus Wood Outdoor Side Table",
+     "qty": 1,
+     "hammer": 20.0,
+     "allIn": 24.9
+    },
+    {
+     "lot": "701",
+     "title": "[\u2713] [MSRP: $99.97] RIDGID 4 Gallon 5.0 Peak HP Portable Shop Vac Wet Dry Vacuum with Fine Dust Filter, Locking Hose and Accessory Attachments",
+     "qty": 1,
+     "hammer": 25.0,
+     "allIn": 31.12
+    },
+    {
+     "lot": "822",
+     "title": "[\u2713] [MSRP: $15.32] Everbilt 6 ft. Corrugated Dishwasher Drain Hose, Gray",
+     "qty": 1,
+     "hammer": 3.0,
+     "allIn": 3.73
+    },
+    {
+     "lot": "930",
+     "title": "[\u2713] [MSRP: $34.98] Ramset HammerShot 0.22 Caliber Single Shot Tool",
+     "qty": 1,
+     "hammer": 5.0,
+     "allIn": 6.22
+    },
+    {
+     "lot": "947",
+     "title": "[\u2713] [MSRP: $10.98] E-Z Ancor 50-Pack Twist and Lock Self-Drilling Drywall Anchors",
+     "qty": 1,
+     "hammer": 3.5,
+     "allIn": 4.36
+    },
+    {
+     "lot": "1155",
+     "title": "[\u2713] [EXT MSRP: $319.76] Sanidry 300-Count Unscented Disinfectant Wipes All-Purpose Cleaner",
+     "qty": 4,
+     "hammer": 18.0,
+     "allIn": 22.41
+    },
+    {
+     "lot": "1281",
+     "title": "[\u2713] [MSRP: $85.59] Ashland 27.44 in. W x 64.88 in. H x 7.81 in. D White Over the Toilet Storage Bathroom Spacesaver Cabinet",
+     "qty": 1,
+     "hammer": 18.0,
+     "allIn": 22.41
+    },
+    {
+     "lot": "1452",
+     "title": "Roll Of Large Clear  White Bags",
+     "qty": 1,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "1460",
+     "title": "[MSRP: $25.00] Rustic Wood CookBook Holder Stand",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "1466",
+     "title": "[MSRP: $49.99] Vevor Bamboo Shower Bench",
+     "qty": 1,
+     "hammer": 21.0,
+     "allIn": 26.14
+    },
+    {
+     "lot": "1591",
+     "title": "[\u2713] [EXT MSRP: $60.00] (Pack of 2) Large Waffle Storage Basket Cream - Pillowfort",
+     "qty": 3,
+     "hammer": 18.0,
+     "allIn": 22.41
+    }
+   ]
+  },
+  {
+   "auctionId": "564",
+   "title": "#564 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-12-20",
+   "closeLabel": "Dec 20, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 620,
+   "johnWins": 4,
+   "johnHammer": 31.0,
+   "johnAllIn": 38.59,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "21",
+     "title": "[EXT MSRP: $80.52] TIGI Perfect Lip-Liner, Espresso 0.04 oz",
+     "qty": 4,
+     "hammer": 12.0,
+     "allIn": 14.94
+    },
+    {
+     "lot": "132",
+     "title": "[EXT MSRP: $231.95] Ability One 3268110 16 oz Bottle Ammonia Based Glass Cleaner",
+     "qty": 5,
+     "hammer": 10.0,
+     "allIn": 12.45
+    },
+    {
+     "lot": "226",
+     "title": "[EXT MSRP: $13.96] Flushable Cleansing Cloths - 2pk - up & up",
+     "qty": 4,
+     "hammer": 4.0,
+     "allIn": 4.98
+    },
+    {
+     "lot": "256",
+     "title": "20 OZ PAPER CUPS 30 PER SLEEVE",
+     "qty": 5,
+     "hammer": 5.0,
+     "allIn": 6.22
+    }
+   ]
+  },
+  {
+   "auctionId": "518",
+   "title": "#518 Walkerworks",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-10-31",
+   "closeLabel": "Oct 31, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 958,
+   "johnWins": 2,
+   "johnHammer": 404.98,
+   "johnAllIn": 504.15,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "3660",
+     "title": "[\u2713] [MSRP: $79.97] Hampton Bay Cayman 13 in. 2-Light White and Faux Wood Beaded Flush Mount Ceiling Light Fixture with White Beaded Shade",
+     "qty": 1,
+     "hammer": 4.98,
+     "allIn": 6.2
+    },
+    {
+     "lot": "3891",
+     "title": "[\u2713] [MSRP: $1,499.00] Home Decorators Collection Windlowe 49 in. W x 22 in. D x 35 in. H Bath Vanity in Gray with Carrara Marble Vanity Top in White with White Sink",
+     "qty": 1,
+     "hammer": 400.0,
+     "allIn": 497.95
+    }
+   ]
+  },
+  {
+   "auctionId": "515",
+   "title": "#515 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-10-21",
+   "closeLabel": "Oct 21, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 1612,
+   "johnWins": 8,
+   "johnHammer": 327.76,
+   "johnAllIn": 408.02,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "109",
+     "title": "DEWALT CORDED MULTI TACKER",
+     "qty": 1,
+     "hammer": 21.01,
+     "allIn": 26.15
+    },
+    {
+     "lot": "110",
+     "title": "DEWALT COMPACT STAPLER",
+     "qty": 1,
+     "hammer": 3.0,
+     "allIn": 3.73
+    },
+    {
+     "lot": "134",
+     "title": "[\u2713] [MSRP: $79.98] 6 ft. LED Jack Skellington & Zero",
+     "qty": 1,
+     "hammer": 23.0,
+     "allIn": 28.63
+    },
+    {
+     "lot": "741",
+     "title": "[\u2713] [MSRP: $83.97] Urban Renewal 8 in. W. 1-Light Rustic Iron Mini Pendant",
+     "qty": 1,
+     "hammer": 5.0,
+     "allIn": 6.22
+    },
+    {
+     "lot": "757",
+     "title": "[\u2713] [MSRP: $189.90] VIGO Magnolia Matte Stone Vessel Bathroom Sink",
+     "qty": 1,
+     "hammer": 53.0,
+     "allIn": 65.98
+    },
+    {
+     "lot": "1380",
+     "title": "30\" BOWN VANITY NO TOP",
+     "qty": 1,
+     "hammer": 12.75,
+     "allIn": 15.87
+    },
+    {
+     "lot": "1497",
+     "title": "[\u2713] [EXT MSRP: $478.50] Timber Wolf Hickory 0.28 in. T x 6.5 in. W Waterproof Engineered Hardwood Flooring (21.8 sq. ft./case)",
+     "qty": 5,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1545",
+     "title": "[\u2713] [MSRP: $723.73] American Standard EverClean 60 in. x 32 in. Reversible Drain Whirlpool Tub in White",
+     "qty": 1,
+     "hammer": 160.0,
+     "allIn": 199.18
+    }
+   ]
+  },
+  {
+   "auctionId": "494",
+   "title": "#494 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-09-26",
+   "closeLabel": "Sep 26, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 302,
+   "johnWins": 6,
+   "johnHammer": 70.5,
+   "johnAllIn": 87.76,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "460",
+     "title": "ARTIKA ORACLE 4 LED VANITY LIGHT.",
+     "qty": 1,
+     "hammer": 5.5,
+     "allIn": 6.85
+    },
+    {
+     "lot": "527",
+     "title": "SUPER ABSORB #5 27+LBS 122 CT",
+     "qty": 1,
+     "hammer": 15.0,
+     "allIn": 18.67
+    },
+    {
+     "lot": "551",
+     "title": "SUPER ABSORB #2 12-18 LB 162 CT DIAPERS",
+     "qty": 2,
+     "hammer": 11.0,
+     "allIn": 13.69
+    },
+    {
+     "lot": "569",
+     "title": "FABRIC SOFTENER FIVE GALLON BUCKET",
+     "qty": 1,
+     "hammer": 26.0,
+     "allIn": 32.37
+    },
+    {
+     "lot": "581",
+     "title": "Honest clean conscious diapers, 76 count #2,  12 - 18 months. $39.44",
+     "qty": 1,
+     "hammer": 7.5,
+     "allIn": 9.34
+    },
+    {
+     "lot": "582",
+     "title": "Drano snake plus tool and gel system $14.99 AT WALMART",
+     "qty": 1,
+     "hammer": 5.5,
+     "allIn": 6.85
+    }
+   ]
+  },
+  {
+   "auctionId": "483",
+   "title": "#483 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-09-12",
+   "closeLabel": "Sep 12, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 316,
+   "johnWins": 1,
+   "johnHammer": 2.5,
+   "johnAllIn": 3.11,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "197",
+     "title": "LYSOL DISINFECTING WIPES",
+     "qty": 2,
+     "hammer": 2.5,
+     "allIn": 3.11
+    }
+   ]
+  },
+  {
+   "auctionId": "456",
+   "title": "#456 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-08-16",
+   "closeLabel": "Aug 16, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 1181,
+   "johnWins": 13,
+   "johnHammer": 303.06,
+   "johnAllIn": 377.27,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "177",
+     "title": "RUSTIC 3 light wall sconce with glass shades $129.00",
+     "qty": 1,
+     "hammer": 5.0,
+     "allIn": 6.22
+    },
+    {
+     "lot": "212",
+     "title": "[\u2713] [MSRP: $172.00] 8 ft. x 2 ft. x 2 ft. Wood Grain Oval Steel Raised Garden Bed Planter Box for Vegetables, Flowers, Herbs",
+     "qty": 1,
+     "hammer": 43.5,
+     "allIn": 54.15
+    },
+    {
+     "lot": "240",
+     "title": "[MSRP: $41.97] VIGORO 60 ft. No-Dig Plastic Landscape Edging Kit",
+     "qty": 1,
+     "hammer": 20.55,
+     "allIn": 25.58
+    },
+    {
+     "lot": "347",
+     "title": "8 ft. x 2 ft. x 2 ft. Wood Grain Oval Steel Raised Garden Bed Planter Box for Vegetables, Flowers, Herbs",
+     "qty": 1,
+     "hammer": 49.0,
+     "allIn": 61.0
+    },
+    {
+     "lot": "430",
+     "title": "BEAUTIFUL YOUR HAIR HIGH SPEED HAIR DRYER",
+     "qty": 1,
+     "hammer": 10.75,
+     "allIn": 13.38
+    },
+    {
+     "lot": "472",
+     "title": "[\u2713] [EXT MSRP: $49.95] Home Accents Holiday 300-Light Clear Incandescent Light Set",
+     "qty": 5,
+     "hammer": 7.5,
+     "allIn": 9.34
+    },
+    {
+     "lot": "473",
+     "title": "[\u2713] [EXT MSRP: $49.95] Home Accents Holiday 300-Light Clear Incandescent Light Set",
+     "qty": 5,
+     "hammer": 8.75,
+     "allIn": 10.89
+    },
+    {
+     "lot": "521",
+     "title": "[\u2713] [MSRP: $3.24] Home Accents Holiday 300L Multi Incandescent Mini Lights",
+     "qty": 1,
+     "hammer": 1.25,
+     "allIn": 1.56
+    },
+    {
+     "lot": "625",
+     "title": "[MSRP: $39.98] BLACK & DECKER 1.2-Amp Detail Sander",
+     "qty": 1,
+     "hammer": 8.0,
+     "allIn": 9.96
+    },
+    {
+     "lot": "640",
+     "title": "RENOWN 309330283 1 CASE OF DISPOSABLE TOILET SEAT COVERS",
+     "qty": 1,
+     "hammer": 1.25,
+     "allIn": 1.56
+    },
+    {
+     "lot": "651",
+     "title": "SMALL COUNTERTOP ICE MAKER BLACK",
+     "qty": 1,
+     "hammer": 5.5,
+     "allIn": 6.85
+    },
+    {
+     "lot": "904",
+     "title": "[MSRP: $243.00] VEIKOUS 71 in. L x 31 in. W Large Wooden Raised Garden Bed Outdoor with Legs and Liner, Natural",
+     "qty": 1,
+     "hammer": 80.0,
+     "allIn": 99.59
+    },
+    {
+     "lot": "1033",
+     "title": "[\u2713] [MSRP: $179.00] Magic Chef 5.0 cu. ft. Chest Freezer in White",
+     "qty": 1,
+     "hammer": 62.01,
+     "allIn": 77.19
+    }
+   ]
+  },
+  {
+   "auctionId": "445",
+   "title": "#445 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-08-03",
+   "closeLabel": "Aug 3, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 1191,
+   "johnWins": 7,
+   "johnHammer": 53.75,
+   "johnAllIn": 66.91,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "198",
+     "title": "RIDGID PNEUMATIC TOOL FASTENER",
+     "qty": 1,
+     "hammer": 13.75,
+     "allIn": 17.12
+    },
+    {
+     "lot": "560",
+     "title": "[\u2713] [EXT MSRP: $15.00] 18pk Kids Hanger - Pillowfort - Gray",
+     "qty": 6,
+     "hammer": 10.5,
+     "allIn": 13.07
+    },
+    {
+     "lot": "594",
+     "title": "[\u2713] [EXT MSRP: $40.68] Clorox Tilex Mold and Mildew Remover with Bleach 32-oz",
+     "qty": 6,
+     "hammer": 15.0,
+     "allIn": 18.67
+    },
+    {
+     "lot": "630",
+     "title": "[MSRP: $0.78] LEMON GINGER SPARKLING NATURAL SPRING WATER, LEMON GINGER [12 TO A CASE]",
+     "qty": 1,
+     "hammer": 3.25,
+     "allIn": 4.05
+    },
+    {
+     "lot": "664",
+     "title": "[\u2713] [MSRP: $44.53] Kleenex Re-Closable Pocket Tissue 3-Ply (YOU ARE BIDDING ON 1 CASE)",
+     "qty": 1,
+     "hammer": 4.75,
+     "allIn": 5.91
+    },
+    {
+     "lot": "1013",
+     "title": "STERLING BATH TUB $349.00",
+     "qty": 1,
+     "hammer": 1.75,
+     "allIn": 2.18
+    },
+    {
+     "lot": "1171",
+     "title": "LG STAINLESS STEEL FRENCH DOOR REFRIGERATOR $999.00 RESERVE $400.00",
+     "qty": 1,
+     "hammer": 4.75,
+     "allIn": 5.91
+    }
+   ]
+  },
+  {
+   "auctionId": "437",
+   "title": "#437 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-07-26",
+   "closeLabel": "Jul 26, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 278,
+   "johnWins": 16,
+   "johnHammer": 576.8,
+   "johnAllIn": 718.04,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "53",
+     "title": "FIRECLAY MODERN DOUBLE BOWL BLACK SINK $429.00 AT HOME DEPOT",
+     "qty": 1,
+     "hammer": 86.02,
+     "allIn": 107.08
+    },
+    {
+     "lot": "106",
+     "title": "POSTS CONNECTOR GALVANIZED STEEL",
+     "qty": 1,
+     "hammer": 1.25,
+     "allIn": 1.56
+    },
+    {
+     "lot": "159",
+     "title": "THRESHOLD EMBORDERED TAN QUILT FULL",
+     "qty": 1,
+     "hammer": 20.0,
+     "allIn": 24.9
+    },
+    {
+     "lot": "177",
+     "title": "G X INSULATED JUGS $27.99 EACH",
+     "qty": 2,
+     "hammer": 11.16,
+     "allIn": 13.89
+    },
+    {
+     "lot": "187",
+     "title": "G X INSULATED JUG",
+     "qty": 1,
+     "hammer": 5.62,
+     "allIn": 7.0
+    },
+    {
+     "lot": "195",
+     "title": "RYOBI 40V LEAF BLOWER (TOOL ONLY)",
+     "qty": 1,
+     "hammer": 18.55,
+     "allIn": 23.09
+    },
+    {
+     "lot": "196",
+     "title": "RYOBI 40V LEAF BLOWER (TOOL ONLY)",
+     "qty": 1,
+     "hammer": 17.05,
+     "allIn": 21.23
+    },
+    {
+     "lot": "202",
+     "title": "G X INSULATED JUG",
+     "qty": 1,
+     "hammer": 5.62,
+     "allIn": 7.0
+    },
+    {
+     "lot": "204",
+     "title": "SMART COLOR CHANGING RG8W 12 BULB CAFE STRING LIGHTS $56.97 ON MERCARI",
+     "qty": 1,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "212",
+     "title": "ADVIL 72 CAPLETS $19.28 EACH",
+     "qty": 3,
+     "hammer": 6.0,
+     "allIn": 7.47
+    },
+    {
+     "lot": "232",
+     "title": "SUNDAE 4\" CENTERSET BATHROOM FAUCET MATTE $139.00 BLACK",
+     "qty": 1,
+     "hammer": 38.51,
+     "allIn": 47.94
+    },
+    {
+     "lot": "257",
+     "title": "GRAY DESK 1 DRAWER",
+     "qty": 1,
+     "hammer": 20.0,
+     "allIn": 24.9
+    },
+    {
+     "lot": "274",
+     "title": "LEASA INDOOR /OUTDOOR HANGING TEARDROP SHAPE SWING $349.00",
+     "qty": 1,
+     "hammer": 71.5,
+     "allIn": 89.01
+    },
+    {
+     "lot": "275",
+     "title": "WICKER OUTDOOR FURNITURE WITH METAL BASE AND BLUE CUSHIONS",
+     "qty": 1,
+     "hammer": 97.0,
+     "allIn": 120.75
+    },
+    {
+     "lot": "277",
+     "title": "LARGE METAL OUTDOOR CHAIRS (COMES WITH BARE CUSHIONS NO COVER) $159.00 EACH",
+     "qty": 4,
+     "hammer": 82.0,
+     "allIn": 102.08
+    },
+    {
+     "lot": "278",
+     "title": "HAMPTON BAY ORLEANS STATIONARY EUCALYPTUS WOOD OUTDOOR DINING CHAIR with ALMOND COLOR CUSHION $89.00 EACH",
+     "qty": 4,
+     "hammer": 90.52,
+     "allIn": 112.69
+    }
+   ]
+  },
+  {
+   "auctionId": "417",
+   "title": "#417 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-07-10",
+   "closeLabel": "Jul 10, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 246,
+   "johnWins": 14,
+   "johnHammer": 1095.45,
+   "johnAllIn": 1363.7,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "5",
+     "title": "CENTAUR FLOOR MIXER",
+     "qty": 1,
+     "hammer": 85.0,
+     "allIn": 105.81
+    },
+    {
+     "lot": "6",
+     "title": "HOBART FLOOR MIXER",
+     "qty": 1,
+     "hammer": 80.0,
+     "allIn": 99.59
+    },
+    {
+     "lot": "7",
+     "title": "HOBART FLOOR MIXER AS SEEN ON PICTURE",
+     "qty": 1,
+     "hammer": 73.0,
+     "allIn": 90.88
+    },
+    {
+     "lot": "8",
+     "title": "BIG FALLS FLOOR MIXTURE. ADD SHOWN IN PICTURE.",
+     "qty": 1,
+     "hammer": 110.0,
+     "allIn": 136.94
+    },
+    {
+     "lot": "9",
+     "title": "A HOBART UNIVERSAL TABLETOP FLOOR MIXER",
+     "qty": 1,
+     "hammer": 1.25,
+     "allIn": 1.56
+    },
+    {
+     "lot": "10",
+     "title": "HOBART UNIVERSAL TABLETOP FLOOR MIXER",
+     "qty": 1,
+     "hammer": 1.25,
+     "allIn": 1.56
+    },
+    {
+     "lot": "11",
+     "title": "VALLEATHER TABLE TOP PICTURE",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "49",
+     "title": "72-IN WX34-IN HX 30-IN D PREP TABLE",
+     "qty": 1,
+     "hammer": 38.85,
+     "allIn": 48.36
+    },
+    {
+     "lot": "84",
+     "title": "48-IN W X 30 IN D PREP / WORK TABLE",
+     "qty": 1,
+     "hammer": 24.0,
+     "allIn": 29.88
+    },
+    {
+     "lot": "86",
+     "title": "48 INCH X 30 INCH WORK / PREP TABLE",
+     "qty": 1,
+     "hammer": 22.1,
+     "allIn": 27.51
+    },
+    {
+     "lot": "87",
+     "title": "48 INCH X 30 INCH WORK / PREP TABLE",
+     "qty": 1,
+     "hammer": 29.0,
+     "allIn": 36.1
+    },
+    {
+     "lot": "214",
+     "title": "MANITOWOC SPA-310 450 LB HOTEL ICE DISPENSER - 120V, 180 LB. WAS WORKING WHEN TAKEN OUT OF SERVICE",
+     "qty": 1,
+     "hammer": 210.0,
+     "allIn": 261.42
+    },
+    {
+     "lot": "215",
+     "title": "SCOTSMAN ICE MAKER PLEASE PREVIEW",
+     "qty": 1,
+     "hammer": 210.0,
+     "allIn": 261.42
+    },
+    {
+     "lot": "216",
+     "title": "ICE MAKER PLEASE PREVIEW",
+     "qty": 1,
+     "hammer": 210.0,
+     "allIn": 261.42
+    }
+   ]
+  },
+  {
+   "auctionId": "401",
+   "title": "#401 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-06-06",
+   "closeLabel": "Jun 6, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 1565,
+   "johnWins": 14,
+   "johnHammer": 325.0,
+   "johnAllIn": 404.58,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "68",
+     "title": "[MSRP: $1,108.00] ANDERSON CUSTOM WINDOW 72.125\"x36.125\"",
+     "qty": 1,
+     "hammer": 46.0,
+     "allIn": 57.26
+    },
+    {
+     "lot": "75",
+     "title": "[\u2713] [MSRP: $479.00] KOHLER Revel 36 in. W x 70 in. H Frameless Pivot Shower Door in Bright Polished Silver with Handle",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "76",
+     "title": "[\u2713] [MSRP: $479.00] KOHLER Revel 36 in. W x 70 in. H Frameless Pivot Shower Door in Bright Polished Silver with Handle",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "78",
+     "title": "[MSRP: $358.00] MASONITE 28 in. x 80 in. 1 Panel MDF Series No Bore Solid Core White Primed Composite Interior Door Slab",
+     "qty": 1,
+     "hammer": 4.0,
+     "allIn": 4.98
+    },
+    {
+     "lot": "79",
+     "title": "[MSRP: $358.00] MASONITE 28 in. x 80 in. 1 Panel MDF Series No Bore Solid Core White Primed Composite Interior Door Slab",
+     "qty": 1,
+     "hammer": 9.75,
+     "allIn": 12.14
+    },
+    {
+     "lot": "80",
+     "title": "[MSRP: $358.00] MASONITE 28 in. x 80 in. 1 Panel MDF Series No Bore Solid Core White Primed Composite Interior Door Slab",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "84",
+     "title": "[MSRP: $364.15] LIFEPROOF 1/2 in. Thick Premium Comfort Foam Carpet Pad with Double-Sided, Waterproof, SpillSafe Membrane",
+     "qty": 1,
+     "hammer": 33.0,
+     "allIn": 41.08
+    },
+    {
+     "lot": "244",
+     "title": "80\"H  2 COMPARTMENT NATURAL FINISH SHAKER (HINGES ON LEFT SIDE)",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "274",
+     "title": "[\u2713] [MSRP: $232.84] Palantine 10.5 ft. x 10.5 ft. Tan Soft Top Gazebo",
+     "qty": 1,
+     "hammer": 58.0,
+     "allIn": 72.2
+    },
+    {
+     "lot": "1255",
+     "title": "[MSRP: $899.99] EGO CORDLESS SNOW BLOWER (NOT TESTED)",
+     "qty": 1,
+     "hammer": 44.5,
+     "allIn": 55.4
+    },
+    {
+     "lot": "1282",
+     "title": "[MSRP: $359.00] GE 2.2 Cu Ft Built-in Sensor Microwave Oven",
+     "qty": 1,
+     "hammer": 40.0,
+     "allIn": 49.8
+    },
+    {
+     "lot": "1424",
+     "title": "[\u2713] [MSRP: $35.00] Zero-Turn Mower Hitch Kit for Z300 Series",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "1515",
+     "title": "[\u2713] [MSRP: $209.00] Shaker 18 in. W x 24 in. D x 34.5 in. H Assembled Base Kitchen Cabinet in Dove Gray with Ball-Bearing Drawer Glides",
+     "qty": 1,
+     "hammer": 17.0,
+     "allIn": 21.16
+    },
+    {
+     "lot": "1516",
+     "title": "[\u2713] [MSRP: $209.00] Shaker 18 in. W x 24 in. D x 34.5 in. H Assembled Base Kitchen Cabinet in Dove Gray with Ball-Bearing Drawer Glides",
+     "qty": 1,
+     "hammer": 18.75,
+     "allIn": 23.34
+    }
+   ]
+  },
+  {
+   "auctionId": "388",
+   "title": "#388 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-05-22",
+   "closeLabel": "May 22, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 557,
+   "johnWins": 3,
+   "johnHammer": 301.0,
+   "johnAllIn": 374.71,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "535",
+     "title": "[MSRP: $897.00] SIGNATURE DESIGN BY ASHLEY DENORON CHOCOLATE POWER ROCKER RECLINER",
+     "qty": 1,
+     "hammer": 111.0,
+     "allIn": 138.18
+    },
+    {
+     "lot": "536",
+     "title": "[MSRP: $897.00] SIGNATURE DESIGN BY ASHLEY DENORON CHOCOLATE POWER ROCKER RECLINER",
+     "qty": 1,
+     "hammer": 122.0,
+     "allIn": 151.87
+    },
+    {
+     "lot": "537",
+     "title": "[EXT MSRP: $507.56] WINDSOR WALNUT SOLID WOOD DINING CHAIR",
+     "qty": 4,
+     "hammer": 68.0,
+     "allIn": 84.65
+    }
+   ]
+  },
+  {
+   "auctionId": "381",
+   "title": "#381 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-05-09",
+   "closeLabel": "May 9, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 1757,
+   "johnWins": 29,
+   "johnHammer": 2148.25,
+   "johnAllIn": 2674.3,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "1003",
+     "title": "[\u2713] [MSRP: $119.95] Elavo Small Rectangular Ceramic Undermount Bathroom Sink in White with Overflow",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "1089",
+     "title": "6 GALLON FLO GLO NON PHOSPHATE CHLORINE DESTAINER BLEACH $179.99",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "1090",
+     "title": "6 GALLON FLO GLO NON PHOSPHATE CHLORINE DESTAINER BLEACH $179.99",
+     "qty": 1,
+     "hammer": 2.5,
+     "allIn": 3.11
+    },
+    {
+     "lot": "1091",
+     "title": "6 GALLON FLO GLO NON PHOSPHATE CHLORINE DESTAINER BLEACH $179.99",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "1196",
+     "title": "[EXT MSRP: $238.08] CHACON IVORYY 24\"x24\" MATTE TILE",
+     "qty": 32,
+     "hammer": 152.0,
+     "allIn": 189.22
+    },
+    {
+     "lot": "1232",
+     "title": "ENTIRE PALLET OF ASSORTED ITEMS  SEE PHOTO COME PREVIEW",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1270",
+     "title": "ENTIRE PALLET OF ASSORTED ITEMS  SEE PHOTO COME PREVIEW",
+     "qty": 1,
+     "hammer": 53.0,
+     "allIn": 65.98
+    },
+    {
+     "lot": "1274",
+     "title": "ENTIRE PALLET OF ASSORTED ITEMS  SEE PHOTO COME PREVIEW",
+     "qty": 1,
+     "hammer": 53.0,
+     "allIn": 65.98
+    },
+    {
+     "lot": "1345",
+     "title": "SINGLE SINK VANITY NO TOP NAVY BLUE  27\"Wx24\"Dx34\":H",
+     "qty": 1,
+     "hammer": 11.75,
+     "allIn": 14.63
+    },
+    {
+     "lot": "1362",
+     "title": "[MSRP: $291.00]  Palantine 10.5 ft. x 10.5 ft. Tan Soft Top Gazebo",
+     "qty": 1,
+     "hammer": 72.0,
+     "allIn": 89.63
+    },
+    {
+     "lot": "1388",
+     "title": "[\u2713] [MSRP: $178.00] Shaker 18 in. W x 12 in. D x 42 in. H Assembled Wall Kitchen Cabinet in Satin White",
+     "qty": 1,
+     "hammer": 20.0,
+     "allIn": 24.9
+    },
+    {
+     "lot": "1472",
+     "title": "91\"H X  18\"W X 25\"D NATURAL  WOOD CABINET",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1510",
+     "title": "[\u2713] [MSRP: $479.00] KOHLER Revel 36 in. W x 70 in. H Frameless Pivot Shower Door in Bright Polished Silver with Handle",
+     "qty": 1,
+     "hammer": 53.0,
+     "allIn": 65.98
+    },
+    {
+     "lot": "1511",
+     "title": "[\u2713] [MSRP: $479.00] KOHLER Revel 36 in. W x 70 in. H Frameless Pivot Shower Door in Bright Polished Silver with Handle",
+     "qty": 1,
+     "hammer": 53.0,
+     "allIn": 65.98
+    },
+    {
+     "lot": "1512",
+     "title": "[\u2713] [MSRP: $479.00] KOHLER Revel 36 in. W x 70 in. H Frameless Pivot Shower Door in Bright Polished Silver with Handle",
+     "qty": 1,
+     "hammer": 53.0,
+     "allIn": 65.98
+    },
+    {
+     "lot": "1513",
+     "title": "(PRE HUNG) 3 FLAT PANEL SHAKER STYLE $399.99",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1514",
+     "title": "(PRE HUNG) 3 FLAT PANEL SHAKER STYLE $399.99",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1515",
+     "title": "(PRE HUNG) 3 FLAT PANEL SHAKER STYLE $399.99",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1575",
+     "title": "[\u2713] [EXT MSRP: $3,031.02] Marazzi Developed by Nature Rapolano 6 in. x 6 in. Glazed Ceramic Wall Tile (12.5 sq. ft. / case)",
+     "qty": 54,
+     "hammer": 162.0,
+     "allIn": 201.67
+    },
+    {
+     "lot": "1580",
+     "title": "[\u2713] [EXT MSRP: $3,929.10] Marazzi Developed by Nature Rapolano 6 in. x 6 in. Glazed Ceramic Wall Tile (12.5 sq. ft. / case)",
+     "qty": 70,
+     "hammer": 210.0,
+     "allIn": 261.42
+    },
+    {
+     "lot": "1592",
+     "title": "UNTOUCHED WARRENTY ENTIRE PALLET OF ASSORTED ITEMS",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1598",
+     "title": "[\u2713] [MSRP: $239.00] Hampton 24 in. W x 24 in. D x 34.5 in. H Assembled Base Kitchen Cabinet in Natural Hickory with Ball-Bearing Glides",
+     "qty": 1,
+     "hammer": 20.0,
+     "allIn": 24.9
+    },
+    {
+     "lot": "1608",
+     "title": "[MSRP: $738.33] RHEEM Gas Water Heater,29 gal.,32,000 BtuH PROG29-32N RH63",
+     "qty": 1,
+     "hammer": 200.0,
+     "allIn": 248.97
+    },
+    {
+     "lot": "1610",
+     "title": "[\u2713] [MSRP: $279.80] Sterling 25 in. W x 65 in. H Pivot Framed Shower Door in Silver with 1/8\" Rain",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1639",
+     "title": "[MSRP: $1699.18] JELD WEN 72 in. x 80 in. Right-Hand/Outswing Low-E 15 Lite Primed Steel Double Prehung Patio Door",
+     "qty": 1,
+     "hammer": 360.0,
+     "allIn": 448.15
+    },
+    {
+     "lot": "1676",
+     "title": "[MSRP: $290.25] Sterling STORE+ 30 in. W x 60 in. H 3-Piece Direct-to-Stud Alcove Wall Surround in White",
+     "qty": 1,
+     "hammer": 48.0,
+     "allIn": 59.75
+    },
+    {
+     "lot": "1677",
+     "title": "[\u2713] [MSRP: $389.00] 60 in. x 30 in. Soaking Bathtub with Left Drain in White",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "1681",
+     "title": "14-53/64\"x30-63/64\" DUAL SLIDING GLASS WINDOW BLACK FRAME (PLEASE COME PREVIEW)",
+     "qty": 1,
+     "hammer": 46.0,
+     "allIn": 57.26
+    },
+    {
+     "lot": "1757",
+     "title": "[MSRP: $1,269.00] KROSSWOOD ENTRYWAY DOOR WITH SIDE WINDOW PANEL",
+     "qty": 1,
+     "hammer": 176.0,
+     "allIn": 219.1
+    }
+   ]
+  },
+  {
+   "auctionId": "371",
+   "title": "#371 Bullseye Bargains",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-04-24",
+   "closeLabel": "Apr 24, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 564,
+   "johnWins": 6,
+   "johnHammer": 710.0,
+   "johnAllIn": 883.86,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "21",
+     "title": "[MSRP: $439.99] GE ELECTROLUX GAS DRYER IN WHITE",
+     "qty": 1,
+     "hammer": 150.0,
+     "allIn": 186.73
+    },
+    {
+     "lot": "22",
+     "title": "WHIRLPOOL ELECTRIC DRYER",
+     "qty": 1,
+     "hammer": 150.0,
+     "allIn": 186.73
+    },
+    {
+     "lot": "33",
+     "title": "[MSRP: $809.99] WORKHORSE RECLINER ROCKER RECLINER BY ASHLEY  FURNITURE",
+     "qty": 1,
+     "hammer": 100.0,
+     "allIn": 124.49
+    },
+    {
+     "lot": "37",
+     "title": "[MSRP: $897.00] DENORON CHOCOLATE POWER ROCKER RECLINER",
+     "qty": 1,
+     "hammer": 160.0,
+     "allIn": 199.18
+    },
+    {
+     "lot": "56",
+     "title": "[MSRP: $879.99] 37\" BROWN SOLID WOOD 5-DRAWER CHEST",
+     "qty": 1,
+     "hammer": 75.0,
+     "allIn": 93.37
+    },
+    {
+     "lot": "63",
+     "title": "[\u2713] [MSRP: $459.00] GE Profile Profile 2.2 cu. ft. Countertop Microwave in Stainless Steel with Sensor Cooking",
+     "qty": 1,
+     "hammer": 75.0,
+     "allIn": 93.37
+    }
+   ]
+  },
+  {
+   "auctionId": "278",
+   "title": "#278 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-01-11",
+   "closeLabel": "Jan 11, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 1130,
+   "johnWins": 17,
+   "johnHammer": 1268.5,
+   "johnAllIn": 1579.12,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "298",
+     "title": "FRIGIDAIRE MODEL NO FRSS2323AS4 $1199.00 @ LOWE'S",
+     "qty": 1,
+     "hammer": 195.0,
+     "allIn": 242.75
+    },
+    {
+     "lot": "301",
+     "title": "JOOLA INSIDE - PROFESSIONAL MDF INDOOR TABLE TENNIS TABLE WITH QUICK CLAMP PING PONG NET AND POST SE",
+     "qty": 1,
+     "hammer": 100.0,
+     "allIn": 124.49
+    },
+    {
+     "lot": "681",
+     "title": "CONTENTS OF SHELVES",
+     "qty": 1,
+     "hammer": 49.25,
+     "allIn": 61.31
+    },
+    {
+     "lot": "682",
+     "title": "CONTENTS OF SHELVES",
+     "qty": 1,
+     "hammer": 28.0,
+     "allIn": 34.86
+    },
+    {
+     "lot": "683",
+     "title": "CONTENTS OF SHELVES",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "695",
+     "title": "DOUBLE SINK BROWN VANITY",
+     "qty": 1,
+     "hammer": 350.0,
+     "allIn": 435.71
+    },
+    {
+     "lot": "929",
+     "title": "[\u2713] [MSRP: $249.00] GREENWORKS 2100 PSI 1.2-GPM COLD WATER ELECTRIC PRESSURE WASHER (BATTERY AND CHA",
+     "qty": 1,
+     "hammer": 64.75,
+     "allIn": 80.61
+    },
+    {
+     "lot": "930",
+     "title": "[\u2713] [MSRP: $249.00] GREENWORKS 2100 PSI 1.2-GPM COLD WATER ELECTRIC PRESSURE WASHER (BATTERY AND CHA",
+     "qty": 1,
+     "hammer": 70.75,
+     "allIn": 88.07
+    },
+    {
+     "lot": "931",
+     "title": "[\u2713] [MSRP: $249.00] GREENWORKS 2100 PSI 1.2-GPM COLD WATER ELECTRIC PRESSURE WASHER (BATTERY AND CHA",
+     "qty": 1,
+     "hammer": 69.0,
+     "allIn": 85.9
+    },
+    {
+     "lot": "935",
+     "title": "[\u2713] [MSRP: $140.00] DELTA KESSLER 16932-SSSD-DST KITCHEN FAUCET",
+     "qty": 1,
+     "hammer": 17.75,
+     "allIn": 22.1
+    },
+    {
+     "lot": "936",
+     "title": "[\u2713] [MSRP: $140.00] DELTA KESSLER 16932-SSSD-DST KITCHEN FAUCET",
+     "qty": 1,
+     "hammer": 17.75,
+     "allIn": 22.1
+    },
+    {
+     "lot": "937",
+     "title": "[\u2713] [MSRP: $140.00] DELTA KESSLER 16932-SSSD-DST KITCHEN FAUCET",
+     "qty": 1,
+     "hammer": 15.75,
+     "allIn": 19.61
+    },
+    {
+     "lot": "984",
+     "title": "MAGNESIUM MODE 9LB. IN BLACKFILL",
+     "qty": 1,
+     "hammer": 1.75,
+     "allIn": 2.18
+    },
+    {
+     "lot": "997",
+     "title": "RIDGID POWER DRAIN AUGER",
+     "qty": 1,
+     "hammer": 100.0,
+     "allIn": 124.49
+    },
+    {
+     "lot": "1036",
+     "title": "CASCADE PROFESSIONAL ALL TEMP RINSE AID [5 GAL]",
+     "qty": 1,
+     "hammer": 43.0,
+     "allIn": 53.53
+    },
+    {
+     "lot": "1037",
+     "title": "CASCADE PROFESSIONAL ALL TEMP RINSE AID [5 GAL]",
+     "qty": 1,
+     "hammer": 46.0,
+     "allIn": 57.26
+    },
+    {
+     "lot": "1070",
+     "title": "[\u2713] [MSRP: $179.00] MILWAUKEE M18 18-VOLT LITHIUM-ION CORDLESS HAMMERVAC HEPA FILTERED DUST EXTRACTO",
+     "qty": 1,
+     "hammer": 49.75,
+     "allIn": 61.93
+    }
+   ]
+  },
+  {
+   "auctionId": "258",
+   "title": "#258 Asset Recovery",
+   "site": "Auction HUB Texas",
+   "closeDate": "2024-01-04",
+   "closeLabel": "Jan 4, 2024",
+   "pickup": "Garland, TX",
+   "lotCount": 641,
+   "johnWins": 14,
+   "johnHammer": 161.78,
+   "johnAllIn": 201.4,
+   "presumedJohn": true,
+   "wonLots": [
+    {
+     "lot": "663",
+     "title": "CUTLER DH362UGK SERIES B HEAVY DUTY SAFETY SWITCH",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "701",
+     "title": "AC RECOVERY MACHINE WORKING",
+     "qty": 1,
+     "hammer": 7.0,
+     "allIn": 8.71
+    },
+    {
+     "lot": "711",
+     "title": "GE HEAVY DUTY SAFETY SWITCH 30 AMP && H&N",
+     "qty": 2,
+     "hammer": 2.0,
+     "allIn": 2.49
+    },
+    {
+     "lot": "714",
+     "title": "CUTLER HAMMER CUT OFF SWITCH",
+     "qty": 1,
+     "hammer": 1.75,
+     "allIn": 2.18
+    },
+    {
+     "lot": "750",
+     "title": "WYNN'S POWER FLUSH COOLANT TRANSFUSION SYSTEM MACHINE $899.00",
+     "qty": 1,
+     "hammer": 8.5,
+     "allIn": 10.58
+    },
+    {
+     "lot": "754",
+     "title": "WYNN'S COOLANT/ANTIFREEZE FLUSH MACHINE $550",
+     "qty": 1,
+     "hammer": 5.5,
+     "allIn": 6.85
+    },
+    {
+     "lot": "755",
+     "title": "WYNN'S POWER FLUSH $550",
+     "qty": 1,
+     "hammer": 5.5,
+     "allIn": 6.85
+    },
+    {
+     "lot": "756",
+     "title": "Wynn's Tran Serve Ii+ Transmission Fluid Exchange Machine $450",
+     "qty": 1,
+     "hammer": 1.0,
+     "allIn": 1.24
+    },
+    {
+     "lot": "757",
+     "title": "Wynn\u2019s Differential Service Machine $750",
+     "qty": 1,
+     "hammer": 13.75,
+     "allIn": 17.12
+    },
+    {
+     "lot": "760",
+     "title": "HERE SOON",
+     "qty": 1,
+     "hammer": 11.78,
+     "allIn": 14.66
+    },
+    {
+     "lot": "761",
+     "title": "- KENT MOORE ACR SYSTEM AIR CONDITIONER REFRIGERANT RECOVERY AND RECYCLER SYSTEM",
+     "qty": 1,
+     "hammer": 4.0,
+     "allIn": 4.98
+    },
+    {
+     "lot": "766",
+     "title": "QMI POWER STEERING DIFFERENTIAL $799.00",
+     "qty": 1,
+     "hammer": 50.0,
+     "allIn": 62.24
+    },
+    {
+     "lot": "768",
+     "title": "AMMCO MODEL 4000 NO. 6950 TWIN FACING TOOL B4AKE LATHE $4,100.00 USED",
+     "qty": 1,
+     "hammer": 25.0,
+     "allIn": 31.12
+    },
+    {
+     "lot": "771",
+     "title": "SPX MILLERSPECIAL TOOLS MODEL 8404 EELD EVAPORATIVE EMISSIONS LEAK DETECTOR",
+     "qty": 1,
+     "hammer": 25.0,
+     "allIn": 31.12
+    }
+   ]
   }
  ]
 }
