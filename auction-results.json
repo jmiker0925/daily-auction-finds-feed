@@ -1,0 +1,1575 @@
+{
+ "generatedAt": "2026-10-04T10:08:27.390378-05:00",
+ "auctions": [
+  {
+   "id": "1130",
+   "site": "Auction HUB Texas",
+   "name": "BULLSEYE BARGAINS",
+   "closeDate": "2026-09-22",
+   "location": "Dallas, TX",
+   "lots": [
+    {
+     "lot_number": "1",
+     "title": "Milwaukee Packout Compatible Fan Tool only",
+     "outcome": "removed",
+     "hammer_total": 75.0,
+     "hammer_per_unit": 75.0,
+     "winning_bidder": "6****2",
+     "john_max": 45.0
+    },
+    {
+     "lot_number": "111",
+     "title": "Everbilt 1/3HP submersible sump pump w/ tethered switch",
+     "outcome": "won",
+     "hammer_total": 33.0,
+     "hammer_per_unit": 33.0,
+     "winning_bidder": "3730",
+     "john_max": 36.0
+    },
+    {
+     "lot_number": "169",
+     "title": "Milwaukee SDS Max core bit",
+     "outcome": "removed",
+     "hammer_total": 33.0,
+     "hammer_per_unit": 33.0,
+     "winning_bidder": "3****9",
+     "john_max": 32.0
+    },
+    {
+     "lot_number": "201",
+     "title": "RYOBI ONE+ HP 18V Brushless 220 CFM Leaf Blower",
+     "outcome": "removed",
+     "hammer_total": 37.0,
+     "hammer_per_unit": 37.0,
+     "winning_bidder": "6****2",
+     "john_max": 36.0
+    },
+    {
+     "lot_number": "208",
+     "title": "EcoFlow RIVER 2 Pro power station",
+     "outcome": "outbid",
+     "hammer_total": 150.0,
+     "hammer_per_unit": 150.0,
+     "winning_bidder": "2****3",
+     "john_max": 150.0
+    },
+    {
+     "lot_number": "21",
+     "title": "Ryobi 1.8 GPM pressure washer",
+     "outcome": "removed",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 32.0
+    },
+    {
+     "lot_number": "246",
+     "title": "Ryobi LINK 21in solid shelf",
+     "outcome": "removed",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "6****2",
+     "john_max": 8.0
+    },
+    {
+     "lot_number": "247",
+     "title": "Ryobi LINK 21in solid shelf",
+     "outcome": "won",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 8.0
+    },
+    {
+     "lot_number": "248",
+     "title": "Ryobi LINK 21in solid shelf",
+     "outcome": "won",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 8.0
+    },
+    {
+     "lot_number": "249",
+     "title": "Ryobi LINK 21in solid shelf",
+     "outcome": "won",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 8.0
+    },
+    {
+     "lot_number": "250",
+     "title": "Ryobi LINK 21in solid shelf",
+     "outcome": "won",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 8.0
+    },
+    {
+     "lot_number": "252",
+     "title": "DeWalt Atomic DCS5718 Circular Saw",
+     "outcome": "removed",
+     "hammer_total": 44.0,
+     "hammer_per_unit": 44.0,
+     "winning_bidder": "6****2",
+     "john_max": 32.0
+    },
+    {
+     "lot_number": "27",
+     "title": "RIDGID universal submersible water pump",
+     "outcome": "won",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "3730",
+     "john_max": 25.0
+    },
+    {
+     "lot_number": "29",
+     "title": "Milwaukee high-leverage pliers",
+     "outcome": "removed",
+     "hammer_total": 16.0,
+     "hammer_per_unit": 16.0,
+     "winning_bidder": "3****3",
+     "john_max": 4.0
+    },
+    {
+     "lot_number": "30",
+     "title": "Milwaukee high-leverage pliers",
+     "outcome": "removed",
+     "hammer_total": 16.0,
+     "hammer_per_unit": 16.0,
+     "winning_bidder": "1****1",
+     "john_max": 4.0
+    },
+    {
+     "lot_number": "362",
+     "title": "DeWalt ToughSystem 2.0 Compact Deep Toolbox (DWST08035)",
+     "outcome": "outbid",
+     "hammer_total": 19.99,
+     "hammer_per_unit": 19.99,
+     "winning_bidder": "6****2",
+     "john_max": 22.0
+    },
+    {
+     "lot_number": "383",
+     "title": "Ryobi ONE+ 6in pruning mini chainsaw",
+     "outcome": "won",
+     "hammer_total": 21.55,
+     "hammer_per_unit": 21.55,
+     "winning_bidder": "3730",
+     "john_max": 30.0
+    },
+    {
+     "lot_number": "39",
+     "title": "RIDGID 18V 4Ah battery",
+     "outcome": "removed",
+     "hammer_total": 27.0,
+     "hammer_per_unit": 27.0,
+     "winning_bidder": "4****7",
+     "john_max": 25.0
+    },
+    {
+     "lot_number": "47",
+     "title": "RIDGID 18V brad nailer",
+     "outcome": "outbid",
+     "hammer_total": 50.0,
+     "hammer_per_unit": 50.0,
+     "winning_bidder": "3****0",
+     "john_max": 55.0
+    },
+    {
+     "lot_number": "481",
+     "title": "Milwaukee 6-piece precision screwdriver set",
+     "outcome": "removed",
+     "hammer_total": 10.76,
+     "hammer_per_unit": 10.76,
+     "winning_bidder": "4****9",
+     "john_max": 5.0
+    },
+    {
+     "lot_number": "484",
+     "title": "Ryobi LINK small parts organizer x2",
+     "outcome": "removed",
+     "hammer_total": 14.0,
+     "hammer_per_unit": 7.0,
+     "winning_bidder": "2****0",
+     "john_max": 13.5
+    },
+    {
+     "lot_number": "494",
+     "title": "Ryobi ONE+ HP brushless angle grinder",
+     "outcome": "won",
+     "hammer_total": 28.99,
+     "hammer_per_unit": 28.99,
+     "winning_bidder": "3730",
+     "john_max": 30.0
+    },
+    {
+     "lot_number": "500",
+     "title": "Milwaukee M12 12V cordless rivet tool 2550-20 (bare)",
+     "outcome": "watch_only",
+     "hammer_total": 68.99,
+     "hammer_per_unit": 68.99,
+     "winning_bidder": "6****2",
+     "john_max": 68.0
+    },
+    {
+     "lot_number": "501",
+     "title": "Milwaukee M12 FUEL jig saw",
+     "outcome": "removed",
+     "hammer_total": 100.0,
+     "hammer_per_unit": 100.0,
+     "winning_bidder": "4****7",
+     "john_max": 45.0
+    },
+    {
+     "lot_number": "546",
+     "title": "Milwaukee digital angle gauge",
+     "outcome": "removed",
+     "hammer_total": 11.5,
+     "hammer_per_unit": 11.5,
+     "winning_bidder": "1****0",
+     "john_max": 6.0
+    },
+    {
+     "lot_number": "547",
+     "title": "Milwaukee digital angle gauge",
+     "outcome": "removed",
+     "hammer_total": 11.25,
+     "hammer_per_unit": 11.25,
+     "winning_bidder": "3****2",
+     "john_max": 6.0
+    },
+    {
+     "lot_number": "548",
+     "title": "Milwaukee digital angle gauge",
+     "outcome": "removed",
+     "hammer_total": 11.5,
+     "hammer_per_unit": 11.5,
+     "winning_bidder": "4****7",
+     "john_max": 6.0
+    },
+    {
+     "lot_number": "55",
+     "title": "Ryobi One+ 18V 4-1/2\" Angle Grinder",
+     "outcome": "removed",
+     "hammer_total": 29.0,
+     "hammer_per_unit": 29.0,
+     "winning_bidder": "6****2",
+     "john_max": 18.0
+    },
+    {
+     "lot_number": "555",
+     "title": "Ryobi 2900 PSI gas pressure washer",
+     "outcome": "removed",
+     "hammer_total": 99.0,
+     "hammer_per_unit": 99.0,
+     "winning_bidder": "6****6",
+     "john_max": 82.0
+    },
+    {
+     "lot_number": "56",
+     "title": "Ryobi ONE+ HP impact driver kit (driver+batt+charger+bag)",
+     "outcome": "removed",
+     "hammer_total": 46.0,
+     "hammer_per_unit": 46.0,
+     "winning_bidder": "6****5",
+     "john_max": 39.0
+    },
+    {
+     "lot_number": "573",
+     "title": "RIDGID 2.0 Pro Gear System 22 in. XL 4 Drawers Modular Tool Box Storage",
+     "outcome": "outbid",
+     "hammer_total": 68.0,
+     "hammer_per_unit": 68.0,
+     "winning_bidder": "4****0",
+     "john_max": 42.0
+    },
+    {
+     "lot_number": "574",
+     "title": "DEWALT 28 in. 12 Gal. Rolling Tool Box (DWST28100)",
+     "outcome": "removed",
+     "hammer_total": 35.0,
+     "hammer_per_unit": 35.0,
+     "winning_bidder": "5****5",
+     "john_max": 20.0
+    },
+    {
+     "lot_number": "587",
+     "title": "Ryobi 40V 21-inch self-propelled mower kit",
+     "outcome": "removed",
+     "hammer_total": 222.0,
+     "hammer_per_unit": 222.0,
+     "winning_bidder": "6****9",
+     "john_max": 100.01
+    },
+    {
+     "lot_number": "64",
+     "title": "DeWalt 1/4 Sheet Palm Grip Sander",
+     "outcome": "removed",
+     "hammer_total": 20.25,
+     "hammer_per_unit": 20.25,
+     "winning_bidder": "6****2",
+     "john_max": 20.0
+    },
+    {
+     "lot_number": "65",
+     "title": "DeWalt 20V MAX starter kit",
+     "outcome": "removed",
+     "hammer_total": 75.0,
+     "hammer_per_unit": 75.0,
+     "winning_bidder": "5****5",
+     "john_max": 59.0
+    },
+    {
+     "lot_number": "66",
+     "title": "RIDGID 18V brushless angle grinder (tool only)",
+     "outcome": "won",
+     "hammer_total": 30.0,
+     "hammer_per_unit": 30.0,
+     "winning_bidder": "3730",
+     "john_max": 30.0
+    },
+    {
+     "lot_number": "69",
+     "title": "Milwaukee digital angle gauge",
+     "outcome": "removed",
+     "hammer_total": 13.0,
+     "hammer_per_unit": 13.0,
+     "winning_bidder": "6****2",
+     "john_max": 6.0
+    },
+    {
+     "lot_number": "70",
+     "title": "Milwaukee digital angle gauge",
+     "outcome": "removed",
+     "hammer_total": 13.0,
+     "hammer_per_unit": 13.0,
+     "winning_bidder": "3****2",
+     "john_max": 6.0
+    },
+    {
+     "lot_number": "72",
+     "title": "Milwaukee metric tap and die set",
+     "outcome": "removed",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "6****2",
+     "john_max": 25.0
+    },
+    {
+     "lot_number": "73",
+     "title": "DeWalt green laser level",
+     "outcome": "removed",
+     "hammer_total": 52.0,
+     "hammer_per_unit": 52.0,
+     "winning_bidder": "5****5",
+     "john_max": 50.0
+    },
+    {
+     "lot_number": "86",
+     "title": "Ryobi 18v one+ LED Clamp Light",
+     "outcome": "removed",
+     "hammer_total": 22.0,
+     "hammer_per_unit": 22.0,
+     "winning_bidder": "3****3",
+     "john_max": 14.0
+    },
+    {
+     "lot_number": "87",
+     "title": "Ryobi 18v one+ LED Clamp Light",
+     "outcome": "removed",
+     "hammer_total": 22.0,
+     "hammer_per_unit": 22.0,
+     "winning_bidder": "3****3",
+     "john_max": 14.0
+    },
+    {
+     "lot_number": "9",
+     "title": "Makita hypoid saw",
+     "outcome": "outbid",
+     "hammer_total": 70.0,
+     "hammer_per_unit": 70.0,
+     "winning_bidder": "6****6",
+     "john_max": 55.0
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "6****2",
+     "lotsWon": 55,
+     "hammerTotal": 648.02
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 62,
+     "hammerTotal": 527.22
+    },
+    {
+     "bidder": "3****3",
+     "lotsWon": 45,
+     "hammerTotal": 498.37
+    },
+    {
+     "bidder": "4****1",
+     "lotsWon": 49,
+     "hammerTotal": 402.45
+    },
+    {
+     "bidder": "5****5",
+     "lotsWon": 12,
+     "hammerTotal": 315.57
+    },
+    {
+     "bidder": "6****0",
+     "lotsWon": 30,
+     "hammerTotal": 309.45
+    },
+    {
+     "bidder": "1****1",
+     "lotsWon": 34,
+     "hammerTotal": 287.48
+    },
+    {
+     "bidder": "4****0",
+     "lotsWon": 20,
+     "hammerTotal": 256.44
+    },
+    {
+     "bidder": "6****9",
+     "lotsWon": 1,
+     "hammerTotal": 222.0
+    },
+    {
+     "bidder": "3****0",
+     "lotsWon": 10,
+     "hammerTotal": 220.54
+    },
+    {
+     "bidder": "6****6",
+     "lotsWon": 4,
+     "hammerTotal": 195.5
+    },
+    {
+     "bidder": "4****4",
+     "lotsWon": 17,
+     "hammerTotal": 194.97
+    },
+    {
+     "bidder": "3****2",
+     "lotsWon": 24,
+     "hammerTotal": 184.48
+    },
+    {
+     "bidder": "4****5",
+     "lotsWon": 33,
+     "hammerTotal": 164.58
+    },
+    {
+     "bidder": "2****3",
+     "lotsWon": 1,
+     "hammerTotal": 150.0
+    },
+    {
+     "bidder": "6****5",
+     "lotsWon": 8,
+     "hammerTotal": 134.1
+    },
+    {
+     "bidder": "1****0",
+     "lotsWon": 12,
+     "hammerTotal": 119.9
+    },
+    {
+     "bidder": "4****3",
+     "lotsWon": 13,
+     "hammerTotal": 116.59
+    },
+    {
+     "bidder": "4****2",
+     "lotsWon": 3,
+     "hammerTotal": 112.01
+    },
+    {
+     "bidder": "2****0",
+     "lotsWon": 5,
+     "hammerTotal": 107.0
+    },
+    {
+     "bidder": "1****5",
+     "lotsWon": 18,
+     "hammerTotal": 101.7
+    },
+    {
+     "bidder": "1****8",
+     "lotsWon": 10,
+     "hammerTotal": 96.51
+    },
+    {
+     "bidder": "4****8",
+     "lotsWon": 6,
+     "hammerTotal": 90.77
+    },
+    {
+     "bidder": "4****9",
+     "lotsWon": 6,
+     "hammerTotal": 80.02
+    },
+    {
+     "bidder": "3****9",
+     "lotsWon": 10,
+     "hammerTotal": 57.93
+    },
+    {
+     "bidder": "3****4",
+     "lotsWon": 6,
+     "hammerTotal": 49.01
+    },
+    {
+     "bidder": "1****6",
+     "lotsWon": 7,
+     "hammerTotal": 46.82
+    },
+    {
+     "bidder": "5****0",
+     "lotsWon": 5,
+     "hammerTotal": 46.54
+    },
+    {
+     "bidder": "1****2",
+     "lotsWon": 12,
+     "hammerTotal": 28.85
+    },
+    {
+     "bidder": "1****7",
+     "lotsWon": 17,
+     "hammerTotal": 23.99
+    },
+    {
+     "bidder": "3****1",
+     "lotsWon": 5,
+     "hammerTotal": 23.83
+    },
+    {
+     "bidder": "6****7",
+     "lotsWon": 1,
+     "hammerTotal": 22.0
+    },
+    {
+     "bidder": "2****9",
+     "lotsWon": 3,
+     "hammerTotal": 21.52
+    },
+    {
+     "bidder": "5****3",
+     "lotsWon": 2,
+     "hammerTotal": 21.5
+    },
+    {
+     "bidder": "4****6",
+     "lotsWon": 2,
+     "hammerTotal": 20.75
+    },
+    {
+     "bidder": "5****4",
+     "lotsWon": 7,
+     "hammerTotal": 11.93
+    },
+    {
+     "bidder": "5****7",
+     "lotsWon": 4,
+     "hammerTotal": 7.03
+    },
+    {
+     "bidder": "3****6",
+     "lotsWon": 1,
+     "hammerTotal": 6.0
+    },
+    {
+     "bidder": "2****8",
+     "lotsWon": 1,
+     "hammerTotal": 1.56
+    }
+   ]
+  },
+  {
+   "id": "1131",
+   "site": "Auction HUB Texas",
+   "name": "BULLSEYE BARGAINS",
+   "closeDate": "2026-09-24",
+   "location": "Garland, TX",
+   "lots": [
+    {
+     "lot_number": "1",
+     "title": "Milwaukee 29-pc Shockwave metric deep impact socket set",
+     "outcome": "removed",
+     "hammer_total": 98.66,
+     "hammer_per_unit": 98.66,
+     "winning_bidder": "5****3",
+     "john_max": 64.0
+    },
+    {
+     "lot_number": "1022",
+     "title": "DeWalt DCBL722B 20V XR blower (tool only)",
+     "outcome": "removed",
+     "hammer_total": 74.0,
+     "hammer_per_unit": 74.0,
+     "winning_bidder": "3****8",
+     "john_max": 59.0
+    },
+    {
+     "lot_number": "1127",
+     "title": "Ryobi 40V HP 650 CFM blower kit",
+     "outcome": "outbid",
+     "hammer_total": 81.0,
+     "hammer_per_unit": 81.0,
+     "winning_bidder": "1****0",
+     "john_max": 77.0
+    },
+    {
+     "lot_number": "1137",
+     "title": "Danco Mobile Home 8-inch Tub and Shower Faucet, Chrome Finish",
+     "outcome": "won",
+     "hammer_total": 1.25,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "1145",
+     "title": "Makita AF506 brad nailer",
+     "outcome": "outbid",
+     "hammer_total": 44.5,
+     "hammer_per_unit": 44.5,
+     "winning_bidder": "4****7",
+     "john_max": 55.0
+    },
+    {
+     "lot_number": "1148",
+     "title": "Ridgid R9605 18V brushless 2-tool combo kit",
+     "outcome": "outbid",
+     "hammer_total": 77.4,
+     "hammer_per_unit": 77.4,
+     "winning_bidder": "4****7",
+     "john_max": 82.0
+    },
+    {
+     "lot_number": "12",
+     "title": "Milwaukee 19-pc SAE deep impact socket set",
+     "outcome": "removed",
+     "hammer_total": 72.0,
+     "hammer_per_unit": 72.0,
+     "winning_bidder": "4****8",
+     "john_max": 50.0
+    },
+    {
+     "lot_number": "120",
+     "title": "Milwaukee SHOCKWAVE 43-pc 3/8 in. impact socket set SAE/metric",
+     "outcome": "outbid",
+     "hammer_total": 101.0,
+     "hammer_per_unit": 101.0,
+     "winning_bidder": "1****7",
+     "john_max": 50.0
+    },
+    {
+     "lot_number": "1209",
+     "title": "Ridgid 18V brushless angle grinder kit w/ 4Ah battery",
+     "outcome": "removed",
+     "hammer_total": 75.55,
+     "hammer_per_unit": 75.55,
+     "winning_bidder": "4****8",
+     "john_max": 55.0
+    },
+    {
+     "lot_number": "1210",
+     "title": "Generation Lighting Coles 13-inch LED Vanity Light (GLV1441SB-L)",
+     "outcome": "won",
+     "hammer_total": 1.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "1223",
+     "title": "DeWalt DCF860B 20V XR impact driver (tool only)",
+     "outcome": "removed",
+     "hammer_total": 67.0,
+     "hammer_per_unit": 67.0,
+     "winning_bidder": "3****8",
+     "john_max": 55.0
+    },
+    {
+     "lot_number": "1286",
+     "title": "Ridgid 6-Gallon Portable Electric Pancake Air Compressor (Model OF150350)",
+     "outcome": "won",
+     "hammer_total": 59.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "1296",
+     "title": "Makita 18V LXT 4Ah starter pack",
+     "outcome": "removed",
+     "hammer_total": 57.0,
+     "hammer_per_unit": 57.0,
+     "winning_bidder": "1****2",
+     "john_max": 39.0
+    },
+    {
+     "lot_number": "1400",
+     "title": "DeWalt DCS374B 20V portable band saw (tool only)",
+     "outcome": "removed",
+     "hammer_total": 118.01,
+     "hammer_per_unit": 118.01,
+     "winning_bidder": "1****2",
+     "john_max": 91.0
+    },
+    {
+     "lot_number": "1416",
+     "title": "Ridgid Micro CA-25 inspection camera",
+     "outcome": "removed",
+     "hammer_total": 50.0,
+     "hammer_per_unit": 50.0,
+     "winning_bidder": "4****7",
+     "john_max": 39.0
+    },
+    {
+     "lot_number": "1417",
+     "title": "Milwaukee SHOCKWAVE 36-pc 3/8 in. ratchet and socket mechanics set",
+     "outcome": "outbid",
+     "hammer_total": 77.0,
+     "hammer_per_unit": 77.0,
+     "winning_bidder": "1****5",
+     "john_max": 38.0
+    },
+    {
+     "lot_number": "1601",
+     "title": "Oxseryn OXOG08 4000/5000W generator",
+     "outcome": "removed",
+     "hammer_total": 176.0,
+     "hammer_per_unit": 176.0,
+     "winning_bidder": "1****9",
+     "john_max": 134.0
+    },
+    {
+     "lot_number": "1725",
+     "title": "Milwaukee M18 RedLithium Forge HD12.0 battery kit (2 batteries + charger)",
+     "outcome": "outbid",
+     "hammer_total": 303.01,
+     "hammer_per_unit": 303.01,
+     "winning_bidder": "6****6",
+     "john_max": 228.0
+    },
+    {
+     "lot_number": "1727",
+     "title": "Ryobi 18V 3-tool combo kit",
+     "outcome": "removed",
+     "hammer_total": 92.0,
+     "hammer_per_unit": 92.0,
+     "winning_bidder": "4****7",
+     "john_max": 59.0
+    },
+    {
+     "lot_number": "254",
+     "title": "Milwaukee #4 impact step drill bit",
+     "outcome": "removed",
+     "hammer_total": 1.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "1****9",
+     "john_max": 9.0
+    },
+    {
+     "lot_number": "26",
+     "title": "Milwaukee 0880-20 M18 2-gal wet/dry vac (tool only)",
+     "outcome": "removed",
+     "hammer_total": 61.99,
+     "hammer_per_unit": 61.99,
+     "winning_bidder": "6****2",
+     "john_max": 39.0
+    },
+    {
+     "lot_number": "29",
+     "title": "Anvil 13-in-1 Multi-Tool",
+     "outcome": "removed",
+     "hammer_total": 2.5,
+     "hammer_per_unit": 2.5,
+     "winning_bidder": "6****3",
+     "john_max": null
+    },
+    {
+     "lot_number": "30",
+     "title": "Anvil 13-in-1 Multi-Tool (Model 1014 585 143)",
+     "outcome": "removed",
+     "hammer_total": 4.5,
+     "hammer_per_unit": 2.25,
+     "winning_bidder": "4****2",
+     "john_max": null
+    },
+    {
+     "lot_number": "422",
+     "title": "Lithonia Lighting L3 4-inch Recessed Lighting Housing",
+     "outcome": "won",
+     "hammer_total": 1.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "423",
+     "title": "Lithonia Lighting L3 4-inch Recessed Lighting Housing",
+     "outcome": "won",
+     "hammer_total": 1.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "424",
+     "title": "Lithonia Lighting L3 4-inch Recessed Lighting Housing",
+     "outcome": "won",
+     "hammer_total": 1.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "425",
+     "title": "Lithonia Lighting L3 4-inch Recessed Lighting Housing",
+     "outcome": "won",
+     "hammer_total": 1.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "426",
+     "title": "Lithonia Lighting L3 4-inch Recessed Lighting Housing",
+     "outcome": "won",
+     "hammer_total": 1.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "445",
+     "title": "HDX Black Plastic 5 shelf Storage Shelving Unit $89.98",
+     "outcome": "won",
+     "hammer_total": 38.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "519",
+     "title": "Ridgid Pro Gear System Gen 2.0 Tool Box",
+     "outcome": "won",
+     "hammer_total": 28.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "573",
+     "title": "DeWalt FlexVolt 20V/60V battery + charger kit",
+     "outcome": "removed",
+     "hammer_total": 105.0,
+     "hammer_per_unit": 105.0,
+     "winning_bidder": "1****2",
+     "john_max": 68.0
+    },
+    {
+     "lot_number": "743",
+     "title": "Milwaukee 2623-20 M18 planer (tool only)",
+     "outcome": "removed",
+     "hammer_total": 77.0,
+     "hammer_per_unit": 77.0,
+     "winning_bidder": "5****5",
+     "john_max": 64.0
+    },
+    {
+     "lot_number": "765",
+     "title": "Husky 27-gal quiet compressor",
+     "outcome": "removed",
+     "hammer_total": 152.0,
+     "hammer_per_unit": 152.0,
+     "winning_bidder": "4****7",
+     "john_max": 118.0
+    },
+    {
+     "lot_number": "831",
+     "title": "ProPlus 30-50 PSI Water Well Pressure Switch (Model 800044)",
+     "outcome": "won",
+     "hammer_total": 4.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "833",
+     "title": "ProPlus 30-50 PSI Water Well Pump Pressure Switch (Model 522544)",
+     "outcome": "won",
+     "hammer_total": 6.5,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "929",
+     "title": "Ply Gem Performance Collection Beadboard Wainscot Panel, White",
+     "outcome": "won",
+     "hammer_total": 1.0,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "960",
+     "title": "Custom Building Products Polyblend Plus Non-Sanded Grout (10 lb.)",
+     "outcome": "won",
+     "hammer_total": 1.25,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "961",
+     "title": "Custom Building Products Polyblend Plus Non-Sanded Grout, 10 lb.",
+     "outcome": "won",
+     "hammer_total": 1.25,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "962",
+     "title": "Custom Building Products Polyblend Plus Non-Sanded Grout",
+     "outcome": "won",
+     "hammer_total": 1.25,
+     "hammer_per_unit": null,
+     "winning_bidder": "3730",
+     "john_max": null
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "6****6",
+     "lotsWon": 82,
+     "hammerTotal": 2895.93
+    },
+    {
+     "bidder": "1****7",
+     "lotsWon": 46,
+     "hammerTotal": 2025.11
+    },
+    {
+     "bidder": "1****0",
+     "lotsWon": 75,
+     "hammerTotal": 1913.56
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 83,
+     "hammerTotal": 1895.79
+    },
+    {
+     "bidder": "1****6",
+     "lotsWon": 24,
+     "hammerTotal": 1783.66
+    },
+    {
+     "bidder": "3****5",
+     "lotsWon": 29,
+     "hammerTotal": 1611.5
+    },
+    {
+     "bidder": "1****9",
+     "lotsWon": 55,
+     "hammerTotal": 1602.05
+    },
+    {
+     "bidder": "4****2",
+     "lotsWon": 38,
+     "hammerTotal": 1479.38
+    },
+    {
+     "bidder": "3****8",
+     "lotsWon": 51,
+     "hammerTotal": 1378.41
+    },
+    {
+     "bidder": "3****9",
+     "lotsWon": 54,
+     "hammerTotal": 1343.89
+    },
+    {
+     "bidder": "1****2",
+     "lotsWon": 83,
+     "hammerTotal": 1341.65
+    },
+    {
+     "bidder": "6****2",
+     "lotsWon": 63,
+     "hammerTotal": 1289.66
+    },
+    {
+     "bidder": "5****7",
+     "lotsWon": 24,
+     "hammerTotal": 1258.12
+    },
+    {
+     "bidder": "4****3",
+     "lotsWon": 82,
+     "hammerTotal": 1241.1
+    },
+    {
+     "bidder": "5****2",
+     "lotsWon": 19,
+     "hammerTotal": 1157.5
+    },
+    {
+     "bidder": "2****3",
+     "lotsWon": 14,
+     "hammerTotal": 1077.25
+    },
+    {
+     "bidder": "4****1",
+     "lotsWon": 16,
+     "hammerTotal": 1046.2
+    },
+    {
+     "bidder": "1****1",
+     "lotsWon": 70,
+     "hammerTotal": 1002.04
+    },
+    {
+     "bidder": "1****5",
+     "lotsWon": 37,
+     "hammerTotal": 978.12
+    },
+    {
+     "bidder": "6****8",
+     "lotsWon": 16,
+     "hammerTotal": 825.0
+    },
+    {
+     "bidder": "2****2",
+     "lotsWon": 19,
+     "hammerTotal": 821.7
+    },
+    {
+     "bidder": "4****5",
+     "lotsWon": 48,
+     "hammerTotal": 803.03
+    },
+    {
+     "bidder": "4****6",
+     "lotsWon": 30,
+     "hammerTotal": 717.9
+    },
+    {
+     "bidder": "6****0",
+     "lotsWon": 34,
+     "hammerTotal": 711.2
+    },
+    {
+     "bidder": "4****0",
+     "lotsWon": 28,
+     "hammerTotal": 700.83
+    },
+    {
+     "bidder": "1****8",
+     "lotsWon": 32,
+     "hammerTotal": 632.46
+    },
+    {
+     "bidder": "6****7",
+     "lotsWon": 56,
+     "hammerTotal": 613.7
+    },
+    {
+     "bidder": "5****4",
+     "lotsWon": 36,
+     "hammerTotal": 598.58
+    },
+    {
+     "bidder": "3****6",
+     "lotsWon": 5,
+     "hammerTotal": 523.25
+    },
+    {
+     "bidder": "6****5",
+     "lotsWon": 20,
+     "hammerTotal": 499.88
+    },
+    {
+     "bidder": "1****3",
+     "lotsWon": 28,
+     "hammerTotal": 461.78
+    },
+    {
+     "bidder": "4****8",
+     "lotsWon": 23,
+     "hammerTotal": 439.24
+    },
+    {
+     "bidder": "5****5",
+     "lotsWon": 13,
+     "hammerTotal": 399.5
+    },
+    {
+     "bidder": "5****9",
+     "lotsWon": 12,
+     "hammerTotal": 370.45
+    },
+    {
+     "bidder": "5****6",
+     "lotsWon": 26,
+     "hammerTotal": 369.45
+    },
+    {
+     "bidder": "5****0",
+     "lotsWon": 11,
+     "hammerTotal": 346.05
+    },
+    {
+     "bidder": "2****6",
+     "lotsWon": 6,
+     "hammerTotal": 280.02
+    },
+    {
+     "bidder": "3****3",
+     "lotsWon": 22,
+     "hammerTotal": 250.88
+    },
+    {
+     "bidder": "5****3",
+     "lotsWon": 9,
+     "hammerTotal": 223.91
+    },
+    {
+     "bidder": "3****2",
+     "lotsWon": 27,
+     "hammerTotal": 200.71
+    },
+    {
+     "bidder": "2****5",
+     "lotsWon": 9,
+     "hammerTotal": 195.05
+    },
+    {
+     "bidder": "6****3",
+     "lotsWon": 10,
+     "hammerTotal": 172.75
+    },
+    {
+     "bidder": "4****4",
+     "lotsWon": 8,
+     "hammerTotal": 170.76
+    },
+    {
+     "bidder": "3****0",
+     "lotsWon": 16,
+     "hammerTotal": 154.75
+    },
+    {
+     "bidder": "3****4",
+     "lotsWon": 6,
+     "hammerTotal": 124.01
+    },
+    {
+     "bidder": "2****4",
+     "lotsWon": 1,
+     "hammerTotal": 105.0
+    },
+    {
+     "bidder": "2****8",
+     "lotsWon": 7,
+     "hammerTotal": 100.0
+    },
+    {
+     "bidder": "2****7",
+     "lotsWon": 1,
+     "hammerTotal": 88.0
+    },
+    {
+     "bidder": "3****1",
+     "lotsWon": 4,
+     "hammerTotal": 84.5
+    },
+    {
+     "bidder": "5****1",
+     "lotsWon": 9,
+     "hammerTotal": 75.5
+    },
+    {
+     "bidder": "1****4",
+     "lotsWon": 8,
+     "hammerTotal": 75.5
+    },
+    {
+     "bidder": "4****9",
+     "lotsWon": 15,
+     "hammerTotal": 61.91
+    },
+    {
+     "bidder": "5****8",
+     "lotsWon": 23,
+     "hammerTotal": 53.25
+    },
+    {
+     "bidder": "6****9",
+     "lotsWon": 3,
+     "hammerTotal": 36.0
+    },
+    {
+     "bidder": "2****1",
+     "lotsWon": 3,
+     "hammerTotal": 31.0
+    }
+   ]
+  },
+  {
+   "id": "1128",
+   "site": "Auction HUB Texas",
+   "name": "WAREHOUSE SUMMER CLEARANCE EVENT",
+   "closeDate": "2026-09-27",
+   "location": "Dallas, TX",
+   "lots": [
+    {
+     "lot_number": "100",
+     "title": "Scrubbing Bubbles Continuous Clean Drop-Ins Discs, Toilet Bowl Cleaner Tablets, 5 Count",
+     "outcome": "won",
+     "hammer_total": 10.35,
+     "hammer_per_unit": 3.45,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "101",
+     "title": "Scrubbing Bubbles toilet bowl cleaner tablets, 5 ct (x3 per lot)",
+     "outcome": "won",
+     "hammer_total": 10.35,
+     "hammer_per_unit": 3.45,
+     "winning_bidder": "3730",
+     "john_max": 6.75
+    },
+    {
+     "lot_number": "102",
+     "title": "Scrubbing Bubbles toilet bowl cleaner tablets, 5 ct (x3 per lot)",
+     "outcome": "outbid",
+     "hammer_total": 9.6,
+     "hammer_per_unit": 3.2,
+     "winning_bidder": "1****0",
+     "john_max": 6.75
+    },
+    {
+     "lot_number": "103",
+     "title": "Scrubbing Bubbles toilet bowl cleaner tablets, 5 ct (x3 per lot)",
+     "outcome": "outbid",
+     "hammer_total": 9.6,
+     "hammer_per_unit": 3.2,
+     "winning_bidder": "1****0",
+     "john_max": 6.75
+    },
+    {
+     "lot_number": "153",
+     "title": "Scrubbing Bubbles toilet bowl cleaner tablets, 5 ct (x3 per lot)",
+     "outcome": "won",
+     "hammer_total": 9.93,
+     "hammer_per_unit": 3.31,
+     "winning_bidder": "3730",
+     "john_max": 6.75
+    },
+    {
+     "lot_number": "154",
+     "title": "Scrubbing Bubbles toilet bowl cleaner tablets, 5 ct (x3 per lot)",
+     "outcome": "won",
+     "hammer_total": 9.93,
+     "hammer_per_unit": 3.31,
+     "winning_bidder": "3730",
+     "john_max": 6.75
+    },
+    {
+     "lot_number": "155",
+     "title": "Scrubbing Bubbles toilet bowl cleaner tablets, 5 ct (x3 per lot)",
+     "outcome": "outbid",
+     "hammer_total": 9.18,
+     "hammer_per_unit": 3.06,
+     "winning_bidder": "1****0",
+     "john_max": 6.75
+    },
+    {
+     "lot_number": "156",
+     "title": "Scrubbing Bubbles toilet bowl cleaner tablets, 5 ct (x3 per lot)",
+     "outcome": "outbid",
+     "hammer_total": 9.18,
+     "hammer_per_unit": 3.06,
+     "winning_bidder": "1****0",
+     "john_max": 6.75
+    },
+    {
+     "lot_number": "214",
+     "title": "Raid Wasp & Hornet Killer 33, Outdoor Flying Insect Spray, 17.5 oz",
+     "outcome": "won",
+     "hammer_total": 3.25,
+     "hammer_per_unit": 3.25,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "263",
+     "title": "Evercare Extreme Stick lint roller, 100 sheets (x6 per lot)",
+     "outcome": "won",
+     "hammer_total": 17.7,
+     "hammer_per_unit": 2.95,
+     "winning_bidder": "3730",
+     "john_max": 12.0
+    },
+    {
+     "lot_number": "264",
+     "title": "Evercare Extreme Stick lint roller, 100 sheets (x6 per lot)",
+     "outcome": "outbid",
+     "hammer_total": 16.5,
+     "hammer_per_unit": 2.75,
+     "winning_bidder": "1****7",
+     "john_max": 12.0
+    },
+    {
+     "lot_number": "270",
+     "title": "Method all-purpose cleaner, French Lavender, 28 fl oz (x4 per lot)",
+     "outcome": "won",
+     "hammer_total": 10.8,
+     "hammer_per_unit": 2.7,
+     "winning_bidder": "3730",
+     "john_max": 8.0
+    },
+    {
+     "lot_number": "271",
+     "title": "Method all-purpose cleaner, French Lavender, 28 fl oz (x4 per lot)",
+     "outcome": "won",
+     "hammer_total": 11.0,
+     "hammer_per_unit": 2.75,
+     "winning_bidder": "3730",
+     "john_max": 8.0
+    },
+    {
+     "lot_number": "272",
+     "title": "Method all-purpose cleaner, French Lavender, 28 fl oz (x4 per lot)",
+     "outcome": "won",
+     "hammer_total": 11.0,
+     "hammer_per_unit": 2.75,
+     "winning_bidder": "3730",
+     "john_max": 8.0
+    },
+    {
+     "lot_number": "292",
+     "title": "Dial Pamper & Indulge Manuka Honey + Vitamin E Body Wash (21 fl oz)",
+     "outcome": "won",
+     "hammer_total": 15.0,
+     "hammer_per_unit": 3.75,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "293",
+     "title": "Dial Pamper & Indulge Manuka Honey + Vit E body wash, 21 fl oz (x4 per lot)",
+     "outcome": "won",
+     "hammer_total": 11.0,
+     "hammer_per_unit": 2.75,
+     "winning_bidder": "3730",
+     "john_max": 9.0
+    },
+    {
+     "lot_number": "301",
+     "title": "Dial Pamper & Indulge body wash, Manuka Honey, 21 fl oz (x4 per lot)",
+     "outcome": "won",
+     "hammer_total": 13.0,
+     "hammer_per_unit": 3.25,
+     "winning_bidder": "3730",
+     "john_max": 9.0
+    },
+    {
+     "lot_number": "348",
+     "title": "Method Refill + Reuse Foaming Hand Wash Concentrate Kit, Sea Minerals",
+     "outcome": "won",
+     "hammer_total": 15.03,
+     "hammer_per_unit": 5.01,
+     "winning_bidder": "3730",
+     "john_max": null
+    },
+    {
+     "lot_number": "376",
+     "title": "Method Gel Hand Wash Refill, Vetiver + Amber, 34 fl oz",
+     "outcome": "won",
+     "hammer_total": 13.0,
+     "hammer_per_unit": 3.25,
+     "winning_bidder": "3730",
+     "john_max": null
+    }
+   ],
+   "rivals": []
+  },
+  {
+   "id": "1138",
+   "site": "Auction HUB Texas",
+   "name": "BIDUP WAREHOUSE CLOSING AUCTION 1",
+   "closeDate": "2026-10-02",
+   "location": "11416 Chairman Dr, Dallas, TX 75243",
+   "lots": [
+    {
+     "lot_number": "1344",
+     "title": "Progress Lighting Albin 54 in indoor/outdoor 5-blade black ceiling fan w/ LED + remote",
+     "outcome": "outbid",
+     "hammer_total": 90.0,
+     "hammer_per_unit": 90.0,
+     "winning_bidder": "5****7",
+     "john_max": 89.99
+    },
+    {
+     "lot_number": "1428",
+     "title": "Firman 4550/3650W portable generator",
+     "outcome": "removed",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 138.0
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "1****9",
+     "lotsWon": 23,
+     "hammerTotal": 655.55
+    },
+    {
+     "bidder": "4****3",
+     "lotsWon": 22,
+     "hammerTotal": 453.0
+    },
+    {
+     "bidder": "5****6",
+     "lotsWon": 5,
+     "hammerTotal": 339.0
+    },
+    {
+     "bidder": "4****5",
+     "lotsWon": 8,
+     "hammerTotal": 164.5
+    },
+    {
+     "bidder": "1****0",
+     "lotsWon": 18,
+     "hammerTotal": 162.0
+    },
+    {
+     "bidder": "1****3",
+     "lotsWon": 7,
+     "hammerTotal": 105.0
+    },
+    {
+     "bidder": "5****7",
+     "lotsWon": 4,
+     "hammerTotal": 99.0
+    },
+    {
+     "bidder": "2****0",
+     "lotsWon": 4,
+     "hammerTotal": 96.5
+    },
+    {
+     "bidder": "4****9",
+     "lotsWon": 7,
+     "hammerTotal": 90.51
+    },
+    {
+     "bidder": "3****8",
+     "lotsWon": 2,
+     "hammerTotal": 75.0
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 4,
+     "hammerTotal": 46.0
+    },
+    {
+     "bidder": "5****1",
+     "lotsWon": 1,
+     "hammerTotal": 41.0
+    },
+    {
+     "bidder": "1****5",
+     "lotsWon": 2,
+     "hammerTotal": 30.25
+    },
+    {
+     "bidder": "4****2",
+     "lotsWon": 4,
+     "hammerTotal": 28.0
+    },
+    {
+     "bidder": "3****2",
+     "lotsWon": 2,
+     "hammerTotal": 16.0
+    },
+    {
+     "bidder": "2****4",
+     "lotsWon": 1,
+     "hammerTotal": 15.5
+    },
+    {
+     "bidder": "6****8",
+     "lotsWon": 2,
+     "hammerTotal": 12.0
+    },
+    {
+     "bidder": "3****1",
+     "lotsWon": 2,
+     "hammerTotal": 11.0
+    },
+    {
+     "bidder": "5****4",
+     "lotsWon": 1,
+     "hammerTotal": 10.0
+    },
+    {
+     "bidder": "6****9",
+     "lotsWon": 2,
+     "hammerTotal": 9.0
+    },
+    {
+     "bidder": "5****3",
+     "lotsWon": 1,
+     "hammerTotal": 9.0
+    },
+    {
+     "bidder": "3****9",
+     "lotsWon": 3,
+     "hammerTotal": 8.0
+    },
+    {
+     "bidder": "6****7",
+     "lotsWon": 1,
+     "hammerTotal": 3.0
+    },
+    {
+     "bidder": "2****8",
+     "lotsWon": 1,
+     "hammerTotal": 3.0
+    },
+    {
+     "bidder": "6****3",
+     "lotsWon": 1,
+     "hammerTotal": 3.0
+    },
+    {
+     "bidder": "4****0",
+     "lotsWon": 1,
+     "hammerTotal": 2.0
+    }
+   ]
+  }
+ ]
+}
