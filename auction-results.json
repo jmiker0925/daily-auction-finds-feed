@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T11:55:57.324389-05:00",
+ "generatedAt": "2026-10-04T12:16:52.704124-05:00",
  "auctions": [
   {
    "id": "1130",
@@ -15,7 +15,8 @@
      "hammer_total": 75.0,
      "hammer_per_unit": 75.0,
      "winning_bidder": "6****2",
-     "john_max": 45.0
+     "john_max": 45.0,
+     "lot_url": null
     },
     {
      "lot_number": "111",
@@ -24,7 +25,8 @@
      "hammer_total": 33.0,
      "hammer_per_unit": 33.0,
      "winning_bidder": "3730",
-     "john_max": 36.0
+     "john_max": 36.0,
+     "lot_url": null
     },
     {
      "lot_number": "169",
@@ -33,7 +35,8 @@
      "hammer_total": 33.0,
      "hammer_per_unit": 33.0,
      "winning_bidder": "3****9",
-     "john_max": 32.0
+     "john_max": 32.0,
+     "lot_url": null
     },
     {
      "lot_number": "201",
@@ -42,7 +45,8 @@
      "hammer_total": 37.0,
      "hammer_per_unit": 37.0,
      "winning_bidder": "6****2",
-     "john_max": 36.0
+     "john_max": 36.0,
+     "lot_url": null
     },
     {
      "lot_number": "208",
@@ -51,7 +55,8 @@
      "hammer_total": 150.0,
      "hammer_per_unit": 150.0,
      "winning_bidder": "2****3",
-     "john_max": 150.0
+     "john_max": 150.0,
+     "lot_url": null
     },
     {
      "lot_number": "21",
@@ -60,7 +65,8 @@
      "hammer_total": null,
      "hammer_per_unit": null,
      "winning_bidder": null,
-     "john_max": 32.0
+     "john_max": 32.0,
+     "lot_url": null
     },
     {
      "lot_number": "246",
@@ -69,7 +75,8 @@
      "hammer_total": 8.5,
      "hammer_per_unit": 8.5,
      "winning_bidder": "6****2",
-     "john_max": 8.0
+     "john_max": 8.0,
+     "lot_url": null
     },
     {
      "lot_number": "247",
@@ -78,7 +85,8 @@
      "hammer_total": 9.0,
      "hammer_per_unit": 9.0,
      "winning_bidder": "3730",
-     "john_max": 8.0
+     "john_max": 8.0,
+     "lot_url": null
     },
     {
      "lot_number": "248",
@@ -87,7 +95,8 @@
      "hammer_total": 9.0,
      "hammer_per_unit": 9.0,
      "winning_bidder": "3730",
-     "john_max": 8.0
+     "john_max": 8.0,
+     "lot_url": null
     },
     {
      "lot_number": "249",
@@ -96,7 +105,8 @@
      "hammer_total": 9.0,
      "hammer_per_unit": 9.0,
      "winning_bidder": "3730",
-     "john_max": 8.0
+     "john_max": 8.0,
+     "lot_url": null
     },
     {
      "lot_number": "250",
@@ -105,7 +115,8 @@
      "hammer_total": 9.0,
      "hammer_per_unit": 9.0,
      "winning_bidder": "3730",
-     "john_max": 8.0
+     "john_max": 8.0,
+     "lot_url": null
     },
     {
      "lot_number": "252",
@@ -114,7 +125,8 @@
      "hammer_total": 44.0,
      "hammer_per_unit": 44.0,
      "winning_bidder": "6****2",
-     "john_max": 32.0
+     "john_max": 32.0,
+     "lot_url": null
     },
     {
      "lot_number": "27",
@@ -123,7 +135,8 @@
      "hammer_total": 21.0,
      "hammer_per_unit": 21.0,
      "winning_bidder": "3730",
-     "john_max": 25.0
+     "john_max": 25.0,
+     "lot_url": null
     },
     {
      "lot_number": "29",
@@ -132,7 +145,8 @@
      "hammer_total": 16.0,
      "hammer_per_unit": 16.0,
      "winning_bidder": "3****3",
-     "john_max": 4.0
+     "john_max": 4.0,
+     "lot_url": null
     },
     {
      "lot_number": "30",
@@ -141,7 +155,8 @@
      "hammer_total": 16.0,
      "hammer_per_unit": 16.0,
      "winning_bidder": "1****1",
-     "john_max": 4.0
+     "john_max": 4.0,
+     "lot_url": null
     },
     {
      "lot_number": "362",
@@ -150,7 +165,8 @@
      "hammer_total": 19.99,
      "hammer_per_unit": 19.99,
      "winning_bidder": "6****2",
-     "john_max": 22.0
+     "john_max": 22.0,
+     "lot_url": null
     },
     {
      "lot_number": "383",
@@ -159,7 +175,8 @@
      "hammer_total": 21.55,
      "hammer_per_unit": 21.55,
      "winning_bidder": "3730",
-     "john_max": 30.0
+     "john_max": 30.0,
+     "lot_url": null
     },
     {
      "lot_number": "39",
@@ -168,7 +185,8 @@
      "hammer_total": 27.0,
      "hammer_per_unit": 27.0,
      "winning_bidder": "4****7",
-     "john_max": 25.0
+     "john_max": 25.0,
+     "lot_url": null
     },
     {
      "lot_number": "47",
@@ -177,7 +195,8 @@
      "hammer_total": 50.0,
      "hammer_per_unit": 50.0,
      "winning_bidder": "3****0",
-     "john_max": 55.0
+     "john_max": 55.0,
+     "lot_url": null
     },
     {
      "lot_number": "481",
@@ -186,7 +205,8 @@
      "hammer_total": 10.76,
      "hammer_per_unit": 10.76,
      "winning_bidder": "4****9",
-     "john_max": 5.0
+     "john_max": 5.0,
+     "lot_url": null
     },
     {
      "lot_number": "484",
@@ -195,7 +215,8 @@
      "hammer_total": 14.0,
      "hammer_per_unit": 7.0,
      "winning_bidder": "2****0",
-     "john_max": 13.5
+     "john_max": 13.5,
+     "lot_url": null
     },
     {
      "lot_number": "494",
@@ -204,7 +225,8 @@
      "hammer_total": 28.99,
      "hammer_per_unit": 28.99,
      "winning_bidder": "3730",
-     "john_max": 30.0
+     "john_max": 30.0,
+     "lot_url": null
     },
     {
      "lot_number": "500",
@@ -213,7 +235,8 @@
      "hammer_total": 68.99,
      "hammer_per_unit": 68.99,
      "winning_bidder": "6****2",
-     "john_max": 68.0
+     "john_max": 68.0,
+     "lot_url": null
     },
     {
      "lot_number": "501",
@@ -222,7 +245,8 @@
      "hammer_total": 100.0,
      "hammer_per_unit": 100.0,
      "winning_bidder": "4****7",
-     "john_max": 45.0
+     "john_max": 45.0,
+     "lot_url": null
     },
     {
      "lot_number": "546",
@@ -231,7 +255,8 @@
      "hammer_total": 11.5,
      "hammer_per_unit": 11.5,
      "winning_bidder": "1****0",
-     "john_max": 6.0
+     "john_max": 6.0,
+     "lot_url": null
     },
     {
      "lot_number": "547",
@@ -240,7 +265,8 @@
      "hammer_total": 11.25,
      "hammer_per_unit": 11.25,
      "winning_bidder": "3****2",
-     "john_max": 6.0
+     "john_max": 6.0,
+     "lot_url": null
     },
     {
      "lot_number": "548",
@@ -249,7 +275,8 @@
      "hammer_total": 11.5,
      "hammer_per_unit": 11.5,
      "winning_bidder": "4****7",
-     "john_max": 6.0
+     "john_max": 6.0,
+     "lot_url": null
     },
     {
      "lot_number": "55",
@@ -258,7 +285,8 @@
      "hammer_total": 29.0,
      "hammer_per_unit": 29.0,
      "winning_bidder": "6****2",
-     "john_max": 18.0
+     "john_max": 18.0,
+     "lot_url": null
     },
     {
      "lot_number": "555",
@@ -267,7 +295,8 @@
      "hammer_total": 99.0,
      "hammer_per_unit": 99.0,
      "winning_bidder": "6****6",
-     "john_max": 82.0
+     "john_max": 82.0,
+     "lot_url": null
     },
     {
      "lot_number": "56",
@@ -276,7 +305,8 @@
      "hammer_total": 46.0,
      "hammer_per_unit": 46.0,
      "winning_bidder": "6****5",
-     "john_max": 39.0
+     "john_max": 39.0,
+     "lot_url": null
     },
     {
      "lot_number": "573",
@@ -285,7 +315,8 @@
      "hammer_total": 68.0,
      "hammer_per_unit": 68.0,
      "winning_bidder": "4****0",
-     "john_max": 42.0
+     "john_max": 42.0,
+     "lot_url": null
     },
     {
      "lot_number": "574",
@@ -294,7 +325,8 @@
      "hammer_total": 35.0,
      "hammer_per_unit": 35.0,
      "winning_bidder": "5****5",
-     "john_max": 20.0
+     "john_max": 20.0,
+     "lot_url": null
     },
     {
      "lot_number": "587",
@@ -303,7 +335,8 @@
      "hammer_total": 222.0,
      "hammer_per_unit": 222.0,
      "winning_bidder": "6****9",
-     "john_max": 100.01
+     "john_max": 100.01,
+     "lot_url": null
     },
     {
      "lot_number": "64",
@@ -312,7 +345,8 @@
      "hammer_total": 20.25,
      "hammer_per_unit": 20.25,
      "winning_bidder": "6****2",
-     "john_max": 20.0
+     "john_max": 20.0,
+     "lot_url": null
     },
     {
      "lot_number": "65",
@@ -321,7 +355,8 @@
      "hammer_total": 75.0,
      "hammer_per_unit": 75.0,
      "winning_bidder": "5****5",
-     "john_max": 59.0
+     "john_max": 59.0,
+     "lot_url": null
     },
     {
      "lot_number": "66",
@@ -330,7 +365,8 @@
      "hammer_total": 30.0,
      "hammer_per_unit": 30.0,
      "winning_bidder": "3730",
-     "john_max": 30.0
+     "john_max": 30.0,
+     "lot_url": null
     },
     {
      "lot_number": "69",
@@ -339,7 +375,8 @@
      "hammer_total": 13.0,
      "hammer_per_unit": 13.0,
      "winning_bidder": "6****2",
-     "john_max": 6.0
+     "john_max": 6.0,
+     "lot_url": null
     },
     {
      "lot_number": "70",
@@ -348,7 +385,8 @@
      "hammer_total": 13.0,
      "hammer_per_unit": 13.0,
      "winning_bidder": "3****2",
-     "john_max": 6.0
+     "john_max": 6.0,
+     "lot_url": null
     },
     {
      "lot_number": "72",
@@ -357,7 +395,8 @@
      "hammer_total": 26.0,
      "hammer_per_unit": 26.0,
      "winning_bidder": "6****2",
-     "john_max": 25.0
+     "john_max": 25.0,
+     "lot_url": null
     },
     {
      "lot_number": "73",
@@ -366,7 +405,8 @@
      "hammer_total": 52.0,
      "hammer_per_unit": 52.0,
      "winning_bidder": "5****5",
-     "john_max": 50.0
+     "john_max": 50.0,
+     "lot_url": null
     },
     {
      "lot_number": "86",
@@ -375,7 +415,8 @@
      "hammer_total": 22.0,
      "hammer_per_unit": 22.0,
      "winning_bidder": "3****3",
-     "john_max": 14.0
+     "john_max": 14.0,
+     "lot_url": null
     },
     {
      "lot_number": "87",
@@ -384,7 +425,8 @@
      "hammer_total": 22.0,
      "hammer_per_unit": 22.0,
      "winning_bidder": "3****3",
-     "john_max": 14.0
+     "john_max": 14.0,
+     "lot_url": null
     },
     {
      "lot_number": "9",
@@ -393,7 +435,8 @@
      "hammer_total": 70.0,
      "hammer_per_unit": 70.0,
      "winning_bidder": "6****6",
-     "john_max": 55.0
+     "john_max": 55.0,
+     "lot_url": null
     }
    ],
    "rivals": [
@@ -4615,7 +4658,8 @@
      "hammer_total": 98.66,
      "hammer_per_unit": 98.66,
      "winning_bidder": "5****3",
-     "john_max": 64.0
+     "john_max": 64.0,
+     "lot_url": null
     },
     {
      "lot_number": "1022",
@@ -4624,7 +4668,8 @@
      "hammer_total": 74.0,
      "hammer_per_unit": 74.0,
      "winning_bidder": "3****8",
-     "john_max": 59.0
+     "john_max": 59.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/549204-dewalt-dcbl722b-20v-max-xr-brushless-handheld-axial-blower-tool-only"
     },
     {
      "lot_number": "1127",
@@ -4633,7 +4678,8 @@
      "hammer_total": 81.0,
      "hammer_per_unit": 81.0,
      "winning_bidder": "1****0",
-     "john_max": 77.0
+     "john_max": 77.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/549098-ryobi-40v-hp-brushless-whisper-series-650-cfm-blower-kit-model-ry404100"
     },
     {
      "lot_number": "1137",
@@ -4642,7 +4688,8 @@
      "hammer_total": 1.25,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "1145",
@@ -4651,7 +4698,8 @@
      "hammer_total": 44.5,
      "hammer_per_unit": 44.5,
      "winning_bidder": "4****7",
-     "john_max": 55.0
+     "john_max": 55.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/549079-makita-af506-2-inch-brad-nailer"
     },
     {
      "lot_number": "1148",
@@ -4660,7 +4708,8 @@
      "hammer_total": 77.4,
      "hammer_per_unit": 77.4,
      "winning_bidder": "4****7",
-     "john_max": 82.0
+     "john_max": 82.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/549077-ridgid-18v-brushless-2-tool-combo-kit-r9605"
     },
     {
      "lot_number": "12",
@@ -4669,7 +4718,8 @@
      "hammer_total": 72.0,
      "hammer_per_unit": 72.0,
      "winning_bidder": "4****8",
-     "john_max": 50.0
+     "john_max": 50.0,
+     "lot_url": null
     },
     {
      "lot_number": "120",
@@ -4678,7 +4728,8 @@
      "hammer_total": 101.0,
      "hammer_per_unit": 101.0,
      "winning_bidder": "1****7",
-     "john_max": 50.0
+     "john_max": 50.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/550098-milwaukee-shockwave-impact-duty-3-8-inch-drive-metric-and-sae-impact-socket-set-43-piece"
     },
     {
      "lot_number": "1209",
@@ -4687,7 +4738,8 @@
      "hammer_total": 75.55,
      "hammer_per_unit": 75.55,
      "winning_bidder": "4****8",
-     "john_max": 55.0
+     "john_max": 55.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/549017-ridgid-18v-4-1-2-in-brushless-cordless-paddle-switch-angle-grinder-kit-with-40-ah-battery-and-charger"
     },
     {
      "lot_number": "1210",
@@ -4696,7 +4748,8 @@
      "hammer_total": 1.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "1223",
@@ -4705,7 +4758,8 @@
      "hammer_total": 67.0,
      "hammer_per_unit": 67.0,
      "winning_bidder": "3****8",
-     "john_max": 55.0
+     "john_max": 55.0,
+     "lot_url": null
     },
     {
      "lot_number": "1286",
@@ -4714,7 +4768,8 @@
      "hammer_total": 59.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/548940-ridgid-6-gallon-portable-electric-pancake-air-compressor-model-of150350"
     },
     {
      "lot_number": "1296",
@@ -4723,7 +4778,8 @@
      "hammer_total": 57.0,
      "hammer_per_unit": 57.0,
      "winning_bidder": "1****2",
-     "john_max": 39.0
+     "john_max": 39.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/548930-makita-lxt-18v-lithium-ion-40ah-battery-and-charger-starter-pack-dc18rc-charger"
     },
     {
      "lot_number": "1400",
@@ -4732,7 +4788,8 @@
      "hammer_total": 118.01,
      "hammer_per_unit": 118.01,
      "winning_bidder": "1****2",
-     "john_max": 91.0
+     "john_max": 91.0,
+     "lot_url": null
     },
     {
      "lot_number": "1416",
@@ -4741,7 +4798,8 @@
      "hammer_total": 50.0,
      "hammer_per_unit": 50.0,
      "winning_bidder": "4****7",
-     "john_max": 39.0
+     "john_max": 39.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/548812-ridgid-micro-ca-25-digital-inspection-camera-12999"
     },
     {
      "lot_number": "1417",
@@ -4750,7 +4808,8 @@
      "hammer_total": 77.0,
      "hammer_per_unit": 77.0,
      "winning_bidder": "1****5",
-     "john_max": 38.0
+     "john_max": 38.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/548811-milwaukee-shockwave-impact-duty-3-8-in-drive-ratchet-and-socket-mechanics-tool-set-36-piece"
     },
     {
      "lot_number": "1601",
@@ -4759,7 +4818,8 @@
      "hammer_total": 176.0,
      "hammer_per_unit": 176.0,
      "winning_bidder": "1****9",
-     "john_max": 134.0
+     "john_max": 134.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/548629-oxseryn-oxog08-inverter-generator-4-000-running-watts-delivers-5-000-peak-watts"
     },
     {
      "lot_number": "1725",
@@ -4768,7 +4828,8 @@
      "hammer_total": 303.01,
      "hammer_per_unit": 303.01,
      "winning_bidder": "6****6",
-     "john_max": 228.0
+     "john_max": 228.0,
+     "lot_url": null
     },
     {
      "lot_number": "1727",
@@ -4777,7 +4838,8 @@
      "hammer_total": 92.0,
      "hammer_per_unit": 92.0,
      "winning_bidder": "4****7",
-     "john_max": 59.0
+     "john_max": 59.0,
+     "lot_url": null
     },
     {
      "lot_number": "254",
@@ -4786,7 +4848,8 @@
      "hammer_total": 1.0,
      "hammer_per_unit": 1.0,
      "winning_bidder": "1****9",
-     "john_max": 9.0
+     "john_max": 9.0,
+     "lot_url": null
     },
     {
      "lot_number": "26",
@@ -4795,7 +4858,8 @@
      "hammer_total": 61.99,
      "hammer_per_unit": 61.99,
      "winning_bidder": "6****2",
-     "john_max": 39.0
+     "john_max": 39.0,
+     "lot_url": null
     },
     {
      "lot_number": "29",
@@ -4804,7 +4868,8 @@
      "hammer_total": 2.5,
      "hammer_per_unit": 2.5,
      "winning_bidder": "6****3",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "30",
@@ -4813,7 +4878,8 @@
      "hammer_total": 4.5,
      "hammer_per_unit": 2.25,
      "winning_bidder": "4****2",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "422",
@@ -4822,7 +4888,8 @@
      "hammer_total": 1.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "423",
@@ -4831,7 +4898,8 @@
      "hammer_total": 1.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "424",
@@ -4840,7 +4908,8 @@
      "hammer_total": 1.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "425",
@@ -4849,7 +4918,8 @@
      "hammer_total": 1.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "426",
@@ -4858,7 +4928,8 @@
      "hammer_total": 1.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "445",
@@ -4867,7 +4938,8 @@
      "hammer_total": 38.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "519",
@@ -4876,7 +4948,8 @@
      "hammer_total": 28.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "573",
@@ -4885,7 +4958,8 @@
      "hammer_total": 105.0,
      "hammer_per_unit": 105.0,
      "winning_bidder": "1****2",
-     "john_max": 68.0
+     "john_max": 68.0,
+     "lot_url": null
     },
     {
      "lot_number": "743",
@@ -4894,7 +4968,8 @@
      "hammer_total": 77.0,
      "hammer_per_unit": 77.0,
      "winning_bidder": "5****5",
-     "john_max": 64.0
+     "john_max": 64.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1131/lot/549477-milwaukee-m18-cordless-3-1-4-inch-planer-tool-only-2623-20"
     },
     {
      "lot_number": "765",
@@ -4903,7 +4978,8 @@
      "hammer_total": 152.0,
      "hammer_per_unit": 152.0,
      "winning_bidder": "4****7",
-     "john_max": 118.0
+     "john_max": 118.0,
+     "lot_url": null
     },
     {
      "lot_number": "831",
@@ -4912,7 +4988,8 @@
      "hammer_total": 4.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "833",
@@ -4921,7 +4998,8 @@
      "hammer_total": 6.5,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "929",
@@ -4930,7 +5008,8 @@
      "hammer_total": 1.0,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "960",
@@ -4939,7 +5018,8 @@
      "hammer_total": 1.25,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "961",
@@ -4948,7 +5028,8 @@
      "hammer_total": 1.25,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "962",
@@ -4957,7 +5038,8 @@
      "hammer_total": 1.25,
      "hammer_per_unit": null,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     }
    ],
    "rivals": [
@@ -16347,7 +16429,8 @@
      "hammer_total": 10.35,
      "hammer_per_unit": 3.45,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "101",
@@ -16356,7 +16439,8 @@
      "hammer_total": 10.35,
      "hammer_per_unit": 3.45,
      "winning_bidder": "3730",
-     "john_max": 6.75
+     "john_max": 6.75,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546895-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count"
     },
     {
      "lot_number": "102",
@@ -16365,7 +16449,8 @@
      "hammer_total": 9.6,
      "hammer_per_unit": 3.2,
      "winning_bidder": "1****0",
-     "john_max": 6.75
+     "john_max": 6.75,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546894-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count"
     },
     {
      "lot_number": "103",
@@ -16374,7 +16459,8 @@
      "hammer_total": 9.6,
      "hammer_per_unit": 3.2,
      "winning_bidder": "1****0",
-     "john_max": 6.75
+     "john_max": 6.75,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546893-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count"
     },
     {
      "lot_number": "153",
@@ -16383,7 +16469,8 @@
      "hammer_total": 9.93,
      "hammer_per_unit": 3.31,
      "winning_bidder": "3730",
-     "john_max": 6.75
+     "john_max": 6.75,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546842-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count"
     },
     {
      "lot_number": "154",
@@ -16392,7 +16479,8 @@
      "hammer_total": 9.93,
      "hammer_per_unit": 3.31,
      "winning_bidder": "3730",
-     "john_max": 6.75
+     "john_max": 6.75,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546845-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count"
     },
     {
      "lot_number": "155",
@@ -16401,7 +16489,8 @@
      "hammer_total": 9.18,
      "hammer_per_unit": 3.06,
      "winning_bidder": "1****0",
-     "john_max": 6.75
+     "john_max": 6.75,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546841-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count"
     },
     {
      "lot_number": "156",
@@ -16410,7 +16499,8 @@
      "hammer_total": 9.18,
      "hammer_per_unit": 3.06,
      "winning_bidder": "1****0",
-     "john_max": 6.75
+     "john_max": 6.75,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546840-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count"
     },
     {
      "lot_number": "214",
@@ -16419,7 +16509,8 @@
      "hammer_total": 3.25,
      "hammer_per_unit": 3.25,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "263",
@@ -16428,7 +16519,8 @@
      "hammer_total": 17.7,
      "hammer_per_unit": 2.95,
      "winning_bidder": "3730",
-     "john_max": 12.0
+     "john_max": 12.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546732-evercare-extreme-stick-all-purpose-lint-roller-100-sheets"
     },
     {
      "lot_number": "264",
@@ -16437,7 +16529,8 @@
      "hammer_total": 16.5,
      "hammer_per_unit": 2.75,
      "winning_bidder": "1****7",
-     "john_max": 12.0
+     "john_max": 12.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546733-evercare-extreme-stick-all-purpose-lint-roller-100-sheets"
     },
     {
      "lot_number": "270",
@@ -16446,7 +16539,8 @@
      "hammer_total": 10.8,
      "hammer_per_unit": 2.7,
      "winning_bidder": "3730",
-     "john_max": 8.0
+     "john_max": 8.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546726-method-all-purpose-cleaner-french-lavender-28-fl-oz"
     },
     {
      "lot_number": "271",
@@ -16455,7 +16549,8 @@
      "hammer_total": 11.0,
      "hammer_per_unit": 2.75,
      "winning_bidder": "3730",
-     "john_max": 8.0
+     "john_max": 8.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546725-method-all-purpose-cleaner-french-lavender-28-fl-oz"
     },
     {
      "lot_number": "272",
@@ -16464,7 +16559,8 @@
      "hammer_total": 11.0,
      "hammer_per_unit": 2.75,
      "winning_bidder": "3730",
-     "john_max": 8.0
+     "john_max": 8.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546724-method-all-purpose-cleaner-french-lavender-28-fl-oz"
     },
     {
      "lot_number": "292",
@@ -16473,7 +16569,8 @@
      "hammer_total": 15.0,
      "hammer_per_unit": 3.75,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "293",
@@ -16482,7 +16579,8 @@
      "hammer_total": 11.0,
      "hammer_per_unit": 2.75,
      "winning_bidder": "3730",
-     "john_max": 9.0
+     "john_max": 9.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546704-dial-pamper-and-indulge-manuka-honey-vitamin-e-body-wash-21-fl-oz"
     },
     {
      "lot_number": "301",
@@ -16491,7 +16589,8 @@
      "hammer_total": 13.0,
      "hammer_per_unit": 3.25,
      "winning_bidder": "3730",
-     "john_max": 9.0
+     "john_max": 9.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546695-dial-pamper-and-indulge-body-wash-manuka-honey-21-fl-oz"
     },
     {
      "lot_number": "348",
@@ -16500,7 +16599,8 @@
      "hammer_total": 15.03,
      "hammer_per_unit": 5.01,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "376",
@@ -16509,7 +16609,8 @@
      "hammer_total": 13.0,
      "hammer_per_unit": 3.25,
      "winning_bidder": "3730",
-     "john_max": null
+     "john_max": null,
+     "lot_url": null
     }
    ],
    "rivals": [],
@@ -16529,7 +16630,8 @@
      "hammer_total": 90.0,
      "hammer_per_unit": 90.0,
      "winning_bidder": "5****7",
-     "john_max": 89.99
+     "john_max": 89.99,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1138/lot/553482-progress-lighting-albin-54-in-indoor-outdoor-5-blade-black-ceiling-fan-with-led-light-retail-605"
     },
     {
      "lot_number": "1428",
@@ -16538,7 +16640,8 @@
      "hammer_total": null,
      "hammer_per_unit": null,
      "winning_bidder": null,
-     "john_max": 138.0
+     "john_max": 138.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1138/lot/553398-firman-4550-3650-watt-portable-generator-retail-605"
     }
    ],
    "rivals": [
