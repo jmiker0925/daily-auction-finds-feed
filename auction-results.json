@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T21:01:14.294616-05:00",
+ "generatedAt": "2026-10-04T21:02:01.847511-05:00",
  "auctions": [
   {
    "id": "1130",
@@ -20873,8 +20873,3340 @@
      "lot_url": null
     }
    ],
-   "rivals": [],
-   "bidderLots": {}
+   "rivals": [
+    {
+     "bidder": "1****0",
+     "lotsWon": 197,
+     "hammerTotal": 1585.89
+    },
+    {
+     "bidder": "1****7",
+     "lotsWon": 109,
+     "hammerTotal": 1080.13
+    },
+    {
+     "bidder": "4****3",
+     "lotsWon": 23,
+     "hammerTotal": 214.0
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 12,
+     "hammerTotal": 124.5
+    },
+    {
+     "bidder": "5****4",
+     "lotsWon": 9,
+     "hammerTotal": 111.4
+    },
+    {
+     "bidder": "1****8",
+     "lotsWon": 9,
+     "hammerTotal": 81.32
+    },
+    {
+     "bidder": "4****5",
+     "lotsWon": 2,
+     "hammerTotal": 16.0
+    },
+    {
+     "bidder": "2****7",
+     "lotsWon": 1,
+     "hammerTotal": 4.0
+    },
+    {
+     "bidder": "6****2",
+     "lotsWon": 1,
+     "hammerTotal": 3.0
+    }
+   ],
+   "bidderLots": {
+    "1****8": [
+     {
+      "lot_number": 1,
+      "title": "Wet Brush Hair Detangler for Kids with Soft IntelliFlex Bristles, Bunny (Mae), Detachable Toy, Purple",
+      "hammer_total": 7.6,
+      "hammer_per_unit": 1.9,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546584-wet-brush-hair-detangler-for-kids-with-soft-intelliflex-bristles-bunny-mae-detachable-toy-purple",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2025/2/d7X8sctpXhdLQ5b8pdih9178.png"
+     },
+     {
+      "lot_number": 2,
+      "title": "Wet Brush Plush Brush Elephant Detangling Hair Brush",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546581-wet-brush-plush-brush-elephant-detangling-hair-brush",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/XXwpqVSmYuG2lgD0ZMvROL5Y.jpeg"
+     },
+     {
+      "lot_number": 3,
+      "title": "Softsoap Limited Edition Peppermint Dazzle Moisturizing Body Wash, 20 fl oz",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546582-softsoap-limited-edition-peppermint-dazzle-moisturizing-body-wash-20-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/C0Fx_I5a3NIRDuQVGLsDMNOn.jpeg"
+     },
+     {
+      "lot_number": 4,
+      "title": "Softsoap Limited Edition Peppermint Dazzle Moisturizing Body Wash, 20 fl oz",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546583-softsoap-limited-edition-peppermint-dazzle-moisturizing-body-wash-20-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/kj5A2it3XG2HuPZItssiXldr.jpeg"
+     },
+     {
+      "lot_number": 5,
+      "title": "Wilton Silicone Nature Designs Fondant and Gum Paste Mold",
+      "hammer_total": 6.6000000000000005,
+      "hammer_per_unit": 2.2,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546585-wilton-silicone-nature-designs-fondant-and-gum-paste-mold",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/W_b8IQ-Rr7AJslgizSesAk1c.jpeg"
+     },
+     {
+      "lot_number": 6,
+      "title": "Wilton Silicone Nature Designs Fondant and Gum Paste Mold",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546990-wilton-silicone-nature-designs-fondant-and-gum-paste-mold",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/3XgKCvzdTYCwgwtVReJe2pGK.jpeg"
+     },
+     {
+      "lot_number": 16,
+      "title": "BIC PrevaGuard Clic Stic Ballpoint Pen, Medium Point (1.0mm), 12-Count",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546980-bic-prevaguard-clic-stic-ballpoint-pen-medium-point-10mm-12-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/j7ydwSyf_gBJhvXC6s9KTlnt.jpeg"
+     },
+     {
+      "lot_number": 227,
+      "title": "Wilton Silver 13 x 19-Inch Cake Platters, 4-Count",
+      "hammer_total": 25.12,
+      "hammer_per_unit": 1.57,
+      "quantity": 16,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546769-wilton-silver-13-x-19-inch-cake-platters-4-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/nUb4NJ70BmeNIBnwYTwL2StD.jpeg"
+     },
+     {
+      "lot_number": 229,
+      "title": "Wilton 14-Inch Scalloped Silver Cake Circles, 6-Count",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546767-wilton-14-inch-scalloped-silver-cake-circles-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/wkEkea7P3KqZlpCa8FFQoTKy.jpeg"
+     }
+    ],
+    "1****0": [
+     {
+      "lot_number": 7,
+      "title": "Wilton Silicone Nature Designs Fondant and Gum Paste Mold",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546989-wilton-silicone-nature-designs-fondant-and-gum-paste-mold",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/icEFg21e_EBwUa7LjZ-jPlwT.jpeg"
+     },
+     {
+      "lot_number": 8,
+      "title": "Wilton Silicone Nature Designs Fondant and Gum Paste Mold",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546988-wilton-silicone-nature-designs-fondant-and-gum-paste-mold",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/N7BqnTF_mjujdZe1a8pKZ2SR.jpeg"
+     },
+     {
+      "lot_number": 9,
+      "title": "Nature's Miracle Litter Box Fragrance Inserts",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546987-natures-miracle-litter-box-fragrance-inserts",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/jJF_5jsD4tJzCoqL1Zb1K_bu.jpeg"
+     },
+     {
+      "lot_number": 10,
+      "title": "Nature's Miracle Litter Box Fragrance Inserts",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546986-natures-miracle-litter-box-fragrance-inserts",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Y2OSmD4c6gAi8i59xMr6Rpue.jpeg"
+     },
+     {
+      "lot_number": 11,
+      "title": "Nature's Miracle Litter Box Fragrance Inserts",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546985-natures-miracle-litter-box-fragrance-inserts",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Zqq4F1yko_ZxjGeV8h0jezAR.jpeg"
+     },
+     {
+      "lot_number": 12,
+      "title": "Nature's Miracle Litter Box Fragrance Inserts",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546984-natures-miracle-litter-box-fragrance-inserts",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/DX87wjcOVUkEYslKXDPv2gtp.jpeg"
+     },
+     {
+      "lot_number": 13,
+      "title": "Woolite Carpet & Upholstery Foam Cleaner, 12 oz (Model 8352)",
+      "hammer_total": 6.25,
+      "hammer_per_unit": 1.25,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546983-woolite-carpet-and-upholstery-foam-cleaner-12-oz-model-8352",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/-fGzBBmL0bckN9dFu3lzbBce.jpeg"
+     },
+     {
+      "lot_number": 14,
+      "title": "BIC PrevaGuard Clic Stic Ballpoint Pen, Medium Point (1.0mm), 12-Count",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546982-bic-prevaguard-clic-stic-ballpoint-pen-medium-point-10mm-12-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/tmHmyK1ce4FrdCDm5aNk3Le2.jpeg"
+     },
+     {
+      "lot_number": 15,
+      "title": "BIC PrevaGuard Clic Stic Ballpoint Pen, Medium Point (1.0mm), 12-Count",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546981-bic-prevaguard-clic-stic-ballpoint-pen-medium-point-10mm-12-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/gHlpJVnfWZopcDh7eksIpUoC.jpeg"
+     },
+     {
+      "lot_number": 18,
+      "title": "Wilton Silicone Nature Designs Fondant and Gum Paste Mold",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546978-wilton-silicone-nature-designs-fondant-and-gum-paste-mold",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/FLFumU5PYN2ERSt1NjZJE0gC.jpeg"
+     },
+     {
+      "lot_number": 19,
+      "title": "Wilton Silicone Nature Designs Fondant and Gum Paste Mold",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546977-wilton-silicone-nature-designs-fondant-and-gum-paste-mold",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Gq_-rOTnhQV6gy464CXSvQUQ.jpeg"
+     },
+     {
+      "lot_number": 20,
+      "title": "Wilton Silicone Nature Designs Fondant and Gum Paste Mold",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546976-wilton-silicone-nature-designs-fondant-and-gum-paste-mold",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/GZi95TZFFD7iHt6tXSuUwWRe.jpeg"
+     },
+     {
+      "lot_number": 21,
+      "title": "Wilton Silicone Nature Designs Fondant and Gum Paste Mold",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546975-wilton-silicone-nature-designs-fondant-and-gum-paste-mold",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/HKaR9sPuyiUvOBSuufxWwVRS.jpeg"
+     },
+     {
+      "lot_number": 22,
+      "title": "Schwarzkopf g\u00f6t2b Color Pop Semi-Permanent Hair Color Mask, Purple/Violet, 5.1 fl oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546974-schwarzkopf-got2b-color-pop-semi-permanent-hair-color-mask-purple-violet-51-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/tovseGjiWw5omfzLUyPthlTy.jpeg"
+     },
+     {
+      "lot_number": 23,
+      "title": "Schwarzkopf g\u00f6t2b Color Pop Semi-Permanent Hair Color Mask, Purple/Violet, 5.1 fl oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546973-schwarzkopf-got2b-color-pop-semi-permanent-hair-color-mask-purple-violet-51-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/vZyWLmL4pjboHhvMm7073Hw4.jpeg"
+     },
+     {
+      "lot_number": 24,
+      "title": "Schwarzkopf g\u00f6t2b Color Pop Semi-Permanent Hair Color Mask, Purple/Violet, 5.1 fl oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546972-schwarzkopf-got2b-color-pop-semi-permanent-hair-color-mask-purple-violet-51-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/M7GMTORKuwQGT068hEBHUhLh.jpeg"
+     },
+     {
+      "lot_number": 25,
+      "title": "Got2b Metallics Permanent Hair Color, M65 Ultra Deep Red",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546971-got2b-metallics-permanent-hair-color-m65-ultra-deep-red",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/bopW1gTlFKm4izus3HaUNtr8.jpeg"
+     },
+     {
+      "lot_number": 26,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color, M66 Blue Charcoal",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546970-schwarzkopf-got2b-metallics-permanent-hair-color-m66-blue-charcoal",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/IBDdFBW_q2DntiWm45XJCuvx.jpeg"
+     },
+     {
+      "lot_number": 27,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color, M66 Blue Charcoal",
+      "hammer_total": 3.75,
+      "hammer_per_unit": 1.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546969-schwarzkopf-got2b-metallics-permanent-hair-color-m66-blue-charcoal",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Wb0alBVZfO2-wjSsR79fhVxV.jpeg"
+     },
+     {
+      "lot_number": 28,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color, M66 Blue Charcoal",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546967-schwarzkopf-got2b-metallics-permanent-hair-color-m66-blue-charcoal",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/O701Y5xs-78quxHAV9LJMo-I.jpeg"
+     },
+     {
+      "lot_number": 29,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color, M66 Blue Charcoal",
+      "hammer_total": 3.75,
+      "hammer_per_unit": 1.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546968-schwarzkopf-got2b-metallics-permanent-hair-color-m66-blue-charcoal",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/cVW_6NhZZVLInJK_scS7mw0D.jpeg"
+     },
+     {
+      "lot_number": 30,
+      "title": "g\u00f6t2b Color Pop Semi-Permanent Hair Color Mask, Pink/Rose, 5.1 oz",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546966-got2b-color-pop-semi-permanent-hair-color-mask-pink-rose-51-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ji9q-KsYkuWmiPOIbB2rkr7s.jpeg"
+     },
+     {
+      "lot_number": 31,
+      "title": "g\u00f6t2b Color Pop Semi-Permanent Hair Color Mask, Pink/Rose, 5.1 oz",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546965-got2b-color-pop-semi-permanent-hair-color-mask-pink-rose-51-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/AIdxHgY4gnPgWMtVYSwzaGM2.jpeg"
+     },
+     {
+      "lot_number": 32,
+      "title": "g\u00f6t2b Color Pop Semi-Permanent Hair Color Mask, Pink/Rose, 5.1 oz",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546964-got2b-color-pop-semi-permanent-hair-color-mask-pink-rose-51-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/LW91fhf3CuCrZJhVVtD_6TnK.jpeg"
+     },
+     {
+      "lot_number": 33,
+      "title": "g\u00f6t2b Color Pop Semi-Permanent Hair Color Mask, Pink/Rose, 5.1 oz",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546963-got2b-color-pop-semi-permanent-hair-color-mask-pink-rose-51-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/k7DYNBB2d1FOUydzQEwYNkmk.jpeg"
+     },
+     {
+      "lot_number": 34,
+      "title": "Kingman Night Light Wall Plug-In with On/Off Switch",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546962-kingman-night-light-wall-plug-in-with-on-off-switch",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/NytjXQLr7x5eCABOvaBrKX6F.jpeg"
+     },
+     {
+      "lot_number": 35,
+      "title": "Kingman Night Light Wall Plug-In with On/Off Switch",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546960-kingman-night-light-wall-plug-in-with-on-off-switch",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ttbdwTVdSHUl33P0YMdsDVdH.jpeg"
+     },
+     {
+      "lot_number": 45,
+      "title": "L'Oreal Paris Colorista 1-Day Hair Color, 10 Raspberry",
+      "hammer_total": 11.25,
+      "hammer_per_unit": 1.25,
+      "quantity": 9,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546951-loreal-paris-colorista-1-day-hair-color-10-raspberry",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/SudVdLK9xS_Ecgb-hNcQVnQL.jpeg"
+     },
+     {
+      "lot_number": 46,
+      "title": "L'Oreal Paris Colorista 1-Day Hair Color, 10 Raspberry",
+      "hammer_total": 11.25,
+      "hammer_per_unit": 1.25,
+      "quantity": 9,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546950-loreal-paris-colorista-1-day-hair-color-10-raspberry",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ltGrqceqBSXUwLV0S0_1_p5y.jpeg"
+     },
+     {
+      "lot_number": 47,
+      "title": "L'Oreal Paris Colorista Hair Makeup Temporary 1-Day Hair Color, Holographic Moonstone",
+      "hammer_total": 3.75,
+      "hammer_per_unit": 1.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546948-loreal-paris-colorista-hair-makeup-temporary-1-day-hair-color-holographic-moonstone",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/NUrsc13bJcuWHGsENNQN0APt.jpeg"
+     },
+     {
+      "lot_number": 48,
+      "title": "L'Oreal Paris Colorista Hair Makeup Temporary 1-Day Hair Color, Holographic Moonstone",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546949-loreal-paris-colorista-hair-makeup-temporary-1-day-hair-color-holographic-moonstone",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/bC5uXz4setElyP6G-xZjE21H.jpeg"
+     },
+     {
+      "lot_number": 49,
+      "title": "L'Oreal Paris Colorista Hair Makeup Temporary 1-Day Hair Color, Holographic Moonstone",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546947-loreal-paris-colorista-hair-makeup-temporary-1-day-hair-color-holographic-moonstone",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/17_7sSbEIqgZz3-o2iaHCBm8.jpeg"
+     },
+     {
+      "lot_number": 50,
+      "title": "L'Oreal Paris Colorista Hair Makeup Temporary 1-Day Hair Color, Holographic Moonstone",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546946-loreal-paris-colorista-hair-makeup-temporary-1-day-hair-color-holographic-moonstone",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/izg3VePyaZix-t-2Q80E4fv1.jpeg"
+     },
+     {
+      "lot_number": 51,
+      "title": "BOD man Black Sport Pak Gift Set",
+      "hammer_total": 2.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546945-bod-man-black-sport-pak-gift-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2025/2/d7X8sctpXhdLQ5b8pdih9178.png"
+     },
+     {
+      "lot_number": 56,
+      "title": "Love Beauty and Planet Nourish Shea Butter and Vitamin E Body Lotion",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546940-love-beauty-and-planet-nourish-shea-butter-and-vitamin-e-body-lotion",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/xi4hPwOKhULFUHKHHNishgmH.jpeg"
+     },
+     {
+      "lot_number": 57,
+      "title": "Allsop DeskTek Series File Inbox with Clingo Technology (30644)",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546939-allsop-desktek-series-file-inbox-with-clingo-technology-30644",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/rjSmARnalnyEYcMRb978g82r.jpeg"
+     },
+     {
+      "lot_number": 58,
+      "title": "Allsop DeskTek Series File Inbox with Clingo Technology (30644)",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546938-allsop-desktek-series-file-inbox-with-clingo-technology-30644",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/vuj282rymtJcP_LZbbNiLEPf.jpeg"
+     },
+     {
+      "lot_number": 59,
+      "title": "Allsop DeskTek Series File Inbox with Clingo Technology (30644)",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546937-allsop-desktek-series-file-inbox-with-clingo-technology-30644",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/B1nKrRySdgY5ceXPP7EznP0H.jpeg"
+     },
+     {
+      "lot_number": 60,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color, M66 Blue Charcoal",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546936-schwarzkopf-got2b-metallics-permanent-hair-color-m66-blue-charcoal",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/fozye_Ps9KA4na4cL2oxGray.jpeg"
+     },
+     {
+      "lot_number": 61,
+      "title": "Got2b Metallics Permanent Hair Color, M65 Ultra Deep Red",
+      "hammer_total": 3.75,
+      "hammer_per_unit": 1.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546935-got2b-metallics-permanent-hair-color-m65-ultra-deep-red",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/B9LBAdSzPG94ILSGNN90ACYL.jpeg"
+     },
+     {
+      "lot_number": 62,
+      "title": "Got2b Metallics Permanent Hair Color, M65 Ultra Deep Red",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546934-got2b-metallics-permanent-hair-color-m65-ultra-deep-red",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/AalO3eTrkIdLdjlpcCULjrvH.jpeg"
+     },
+     {
+      "lot_number": 63,
+      "title": "Got2b Metallics Permanent Hair Color, M65 Ultra Deep Red",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546933-got2b-metallics-permanent-hair-color-m65-ultra-deep-red",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/TgSkUdb3r3hhnvh-GYtv0Beo.jpeg"
+     },
+     {
+      "lot_number": 64,
+      "title": "Got2b Metallics Permanent Hair Color, M65 Ultra Deep Red",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546932-got2b-metallics-permanent-hair-color-m65-ultra-deep-red",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/9N8ZMzXUMdHQcSnOrDIt7YXw.jpeg"
+     },
+     {
+      "lot_number": 65,
+      "title": "Raid Ant Killer 26, Insecticide Spray for Home, Pine Forest Fresh Scent, 17.5 oz",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546931-raid-ant-killer-26-insecticide-spray-for-home-pine-forest-fresh-scent-175-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/KrPZa8pkvCIU-BpA0MyX3Q-O.jpeg"
+     },
+     {
+      "lot_number": 66,
+      "title": "Allrecipes Asian Spice Blends Set (BBQ Bulgogi, Sweet & Sour, Thai Ginger Basil)",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546930-allrecipes-asian-spice-blends-set-bbq-bulgogi-sweet-and-sour-thai-ginger-basil",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ACFKFXXeadgwxNMZSf73eQdy.jpeg"
+     },
+     {
+      "lot_number": 67,
+      "title": "Allrecipes Asian Spice Blends Set (BBQ Bulgogi, Sweet & Sour, Thai Ginger Basil)",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546929-allrecipes-asian-spice-blends-set-bbq-bulgogi-sweet-and-sour-thai-ginger-basil",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/j6Am0rhLP1Nx3jBOZdOptbt9.jpeg"
+     },
+     {
+      "lot_number": 68,
+      "title": "Schwarzkopf Professional OSiS+ Session Label Smooth Strong Hairspray",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546928-schwarzkopf-professional-osis-session-label-smooth-strong-hairspray",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/rIpF5foPqX8tQgWNTERkgyEA.jpeg"
+     },
+     {
+      "lot_number": 69,
+      "title": "Schwarzkopf Professional OSiS+ Session Label Smooth Strong Hairspray",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546927-schwarzkopf-professional-osis-session-label-smooth-strong-hairspray",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/N5idzW_NiHA1ymU7AMjhMI64.jpeg"
+     },
+     {
+      "lot_number": 70,
+      "title": "Schwarzkopf Professional OSiS+ Session Label Smooth Strong Hairspray",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546926-schwarzkopf-professional-osis-session-label-smooth-strong-hairspray",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/PdTKrVsal6yxBj3GxHluctPY.jpeg"
+     },
+     {
+      "lot_number": 71,
+      "title": "Schwarzkopf Professional OSiS+ Session Label Smooth Strong Hairspray",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546925-schwarzkopf-professional-osis-session-label-smooth-strong-hairspray",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/V4oEaAa50j80lNMD_48dycyS.jpeg"
+     },
+     {
+      "lot_number": 72,
+      "title": "Softsoap Limited Edition Peppermint Dazzle Moisturizing Body Wash, 20 fl oz",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546923-softsoap-limited-edition-peppermint-dazzle-moisturizing-body-wash-20-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/mmDtR5_KpimRQFfsWFS7bikQ.jpeg"
+     },
+     {
+      "lot_number": 73,
+      "title": "Softsoap Limited Edition Peppermint Dazzle Moisturizing Body Wash, 20 fl oz",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546924-softsoap-limited-edition-peppermint-dazzle-moisturizing-body-wash-20-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/_YhMtF5P0L4U5aTDurPxv2ZL.jpeg"
+     },
+     {
+      "lot_number": 74,
+      "title": "Ziploc Smart Snap Divided Rectangle Food Storage Containers, 2 Count",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546922-ziploc-smart-snap-divided-rectangle-food-storage-containers-2-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/2kgX15_7AXYOwzl_hdapHLNb.jpeg"
+     },
+     {
+      "lot_number": 75,
+      "title": "The Himalayan Salt Company Basket Salt Crystal Lamp",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546921-the-himalayan-salt-company-basket-salt-crystal-lamp",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/fVmMxwPW1FSkj6V6eqnLW_q7.jpeg"
+     },
+     {
+      "lot_number": 76,
+      "title": "The Himalayan Salt Company Basket Salt Crystal Lamp",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546920-the-himalayan-salt-company-basket-salt-crystal-lamp",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/2PDL3uXbuNTEaBSfWgva_Rh3.jpeg"
+     },
+     {
+      "lot_number": 77,
+      "title": "The Himalayan Salt Company Basket Salt Crystal Lamp",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546918-the-himalayan-salt-company-basket-salt-crystal-lamp",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/v5O3TL7dLTm82PCRxI0w0aR8.jpeg"
+     },
+     {
+      "lot_number": 78,
+      "title": "The Himalayan Salt Company Basket Salt Crystal Lamp",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546917-the-himalayan-salt-company-basket-salt-crystal-lamp",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Rc1hhnEMHoUXULOOqMp_6bx-.jpeg"
+     },
+     {
+      "lot_number": 79,
+      "title": "Dark & Lovely Protective Styles Hair Hydrator with Rice Water Complex",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546919-dark-and-lovely-protective-styles-hair-hydrator-with-rice-water-complex",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/p6J1DkIvHORxCZMWz1tQc0SC.jpeg"
+     },
+     {
+      "lot_number": 80,
+      "title": "Suave Professionals Tea Tree & Hemp Seed Oil Revitalizing Conditioner",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546916-suave-professionals-tea-tree-and-hemp-seed-oil-revitalizing-conditioner",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/qn_P_tVGW_28l0k3-zy1gium.jpeg"
+     },
+     {
+      "lot_number": 81,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash - Sugar Cookie Sprinkle, 12 fl oz",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546913-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle-12-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Jq4cTqB4Fks-MKS9F959Uyrd.jpeg"
+     },
+     {
+      "lot_number": 82,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash - Sugar Cookie Sprinkle, 12 fl oz",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546914-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle-12-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/t-w8RZxNDII3jXWjsHO1ySTm.jpeg"
+     },
+     {
+      "lot_number": 83,
+      "title": "BOD man BLACK Sport Pak Gift Set",
+      "hammer_total": 6.75,
+      "hammer_per_unit": 2.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546915-bod-man-black-sport-pak-gift-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/z3NuMu-Dirwtdk5vQT3AVuqe.jpeg"
+     },
+     {
+      "lot_number": 84,
+      "title": "BOD man BLACK Sport Pak Gift Set",
+      "hammer_total": 6.75,
+      "hammer_per_unit": 2.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546912-bod-man-black-sport-pak-gift-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/TopE8qqMeqOD5r0lTCgrjQHg.jpeg"
+     },
+     {
+      "lot_number": 85,
+      "title": "Raid Ant Killer 26 Insecticide Spray for Home, Pine Forest Fresh Scent, 17.5 oz",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546910-raid-ant-killer-26-insecticide-spray-for-home-pine-forest-fresh-scent-175-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/vXrQJbZWVV_2a5c83C_amLtd.jpeg"
+     },
+     {
+      "lot_number": 89,
+      "title": "Softsoap Coconut Lovers Holiday Gift Set",
+      "hammer_total": 3.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546907-softsoap-coconut-lovers-holiday-gift-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/OB4C843_MBqdlaJ3WeHtOxAH.jpeg"
+     },
+     {
+      "lot_number": 90,
+      "title": "Softsoap Warm Up with Exfoliating Gift Set",
+      "hammer_total": 2.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546906-softsoap-warm-up-with-exfoliating-gift-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/pvys4BJYqwfxxcO20NgEqHRQ.jpeg"
+     },
+     {
+      "lot_number": 91,
+      "title": "Dove Hair Therapy Smoothing Genius Conditioning Cream",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546905-dove-hair-therapy-smoothing-genius-conditioning-cream",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/mBqiXvsEY2Q2zAey3MJ-njyU.jpeg"
+     },
+     {
+      "lot_number": 92,
+      "title": "Dove Hair Therapy Smoothing Genius Conditioning Cream",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546904-dove-hair-therapy-smoothing-genius-conditioning-cream",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/m4djWnN43H4Qk0uCHSr9HkaR.jpeg"
+     },
+     {
+      "lot_number": 93,
+      "title": "Dove Hair Therapy Smoothing Genius Conditioning Cream",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546903-dove-hair-therapy-smoothing-genius-conditioning-cream",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/K3G46ACfE0EmrHTOmOYRTgIg.jpeg"
+     },
+     {
+      "lot_number": 94,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 1.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546902-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/zrcCVo3NBObtzd_nsNWbfaLP.jpeg"
+     },
+     {
+      "lot_number": 95,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 1.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546901-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/cDyJgJdLKKxb0SzUCQXh9ri9.jpeg"
+     },
+     {
+      "lot_number": 96,
+      "title": "Kiwi Select Universal Shoe Stretch Spray, 7oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546900-kiwi-select-universal-shoe-stretch-spray-7oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/eX6xLvQ5I2vNjlJwGqu_ZzbJ.jpeg"
+     },
+     {
+      "lot_number": 99,
+      "title": "Raid Ant Killer 26 Insecticide Spray for Home, Pine Forest Fresh Scent, 17.5 oz",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546899-raid-ant-killer-26-insecticide-spray-for-home-pine-forest-fresh-scent-175-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/sTu_kRwmcdO20fxAAnmFneLI.jpeg"
+     },
+     {
+      "lot_number": 102,
+      "title": "Scrubbing Bubbles Continuous Clean Drop-Ins Discs, Toilet Bowl Cleaner Tablets, 5 Count",
+      "hammer_total": 9.600000000000001,
+      "hammer_per_unit": 3.2,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546894-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/DLqSEJOWVQoavB1lIo2fMZxY.jpeg"
+     },
+     {
+      "lot_number": 103,
+      "title": "Scrubbing Bubbles Continuous Clean Drop-Ins Discs, Toilet Bowl Cleaner Tablets, 5 Count",
+      "hammer_total": 9.600000000000001,
+      "hammer_per_unit": 3.2,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546893-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/m6qNHSChrTT7ZQYFrZfa14b2.jpeg"
+     },
+     {
+      "lot_number": 104,
+      "title": "Degree Advanced Pickleball Performance Set",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 3.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546892-degree-advanced-pickleball-performance-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/jojd4K1EyHi9P_eWjqEjNPgl.jpeg"
+     },
+     {
+      "lot_number": 105,
+      "title": "Degree Advanced Pickleball Performance Set",
+      "hammer_total": 19.5,
+      "hammer_per_unit": 3.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546891-degree-advanced-pickleball-performance-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/UumfYDJxLr0kTQO84mMtx5bt.jpeg"
+     },
+     {
+      "lot_number": 106,
+      "title": "Degree Advanced Pickleball Performance Set",
+      "hammer_total": 33.0,
+      "hammer_per_unit": 5.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546889-degree-advanced-pickleball-performance-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/lhYlUQjT0zQa_SNL6_WEvUNi.jpeg"
+     },
+     {
+      "lot_number": 107,
+      "title": "Degree Advanced Pickleball Performance Set",
+      "hammer_total": 19.5,
+      "hammer_per_unit": 3.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546890-degree-advanced-pickleball-performance-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/QtvvYmZw2Kv49cwK1W7yzp2Y.jpeg"
+     },
+     {
+      "lot_number": 108,
+      "title": "Degree Advanced Pickleball Performance Set",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 3.5,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546888-degree-advanced-pickleball-performance-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/bqvn2V_aYjA5FTy2H4K7Lf3g.jpeg"
+     },
+     {
+      "lot_number": 109,
+      "title": "Wilton Perfect Results Mega Non-Stick 20-Cavity Donut Baking Pan",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546887-wilton-perfect-results-mega-non-stick-20-cavity-donut-baking-pan",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/8xSwFHhyJA9CsxPb2HbCT0Hh.jpeg"
+     },
+     {
+      "lot_number": 110,
+      "title": "Pop Art 'Best Friends 4 Ever!' Accent Table Lamp",
+      "hammer_total": 3.75,
+      "hammer_per_unit": 1.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546886-pop-art-best-friends-4-ever-accent-table-lamp",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/dLWJGuqix2wFvZ0EL3_EllHQ.jpeg"
+     },
+     {
+      "lot_number": 111,
+      "title": "Graffiti Peace Sign Table Lamp with Brushed Nickel Base",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546885-graffiti-peace-sign-table-lamp-with-brushed-nickel-base",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/oGOkOLdWTUGfQemwB0hL6Dx7.jpeg"
+     },
+     {
+      "lot_number": 112,
+      "title": "Goliath Games Googly Eyes Showdown",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546884-goliath-games-googly-eyes-showdown",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Xfo2aVKKRc87n4plLQuhLyeu.jpeg"
+     },
+     {
+      "lot_number": 113,
+      "title": "Goliath Games Googly Eyes Showdown",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546883-goliath-games-googly-eyes-showdown",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/DcKteb4skTwVWKkRBol9ekUT.jpeg"
+     },
+     {
+      "lot_number": 114,
+      "title": "BOD man BLACK Sport Pak Gift Set",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546882-bod-man-black-sport-pak-gift-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/0KB4xvs0WlGocT3d44K6mz__.jpeg"
+     },
+     {
+      "lot_number": 115,
+      "title": "BOD man BLACK Sport Pak Gift Set",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546881-bod-man-black-sport-pak-gift-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/fN-s1LE3pER-PI4ZDCfP5x8C.jpeg"
+     },
+     {
+      "lot_number": 116,
+      "title": "BOD man BLACK Sport Pak Gift Set",
+      "hammer_total": 13.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546880-bod-man-black-sport-pak-gift-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/zKosv0yvGxomn277x69cMStD.jpeg"
+     },
+     {
+      "lot_number": 117,
+      "title": "Windex Commercial Line Original Glass and Surface Cleaner, 1 Gallon (128 oz)",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546879-windex-commercial-line-original-glass-and-surface-cleaner-1-gallon-128-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/_TIg6UeyclKgO5BqUy_z4F70.jpeg"
+     },
+     {
+      "lot_number": 118,
+      "title": "Softsoap Limited Edition Peppermint Dazzle Moisturizing Body Wash, 20 fl oz",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546878-softsoap-limited-edition-peppermint-dazzle-moisturizing-body-wash-20-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/RyScTfL5jUM6NhiQ8RkgEuCT.jpeg"
+     },
+     {
+      "lot_number": 119,
+      "title": "Raid Ant & Roach Killer 26, Pine Forest Fresh Scent, 17.5 oz",
+      "hammer_total": 12.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546877-raid-ant-and-roach-killer-26-pine-forest-fresh-scent-175-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/zmY2WzOASNOgqkQpWPATX8XP.jpeg"
+     },
+     {
+      "lot_number": 120,
+      "title": "Raid Ant & Roach Killer 26, Pine Forest Fresh Scent, 17.5 oz",
+      "hammer_total": 12.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546876-raid-ant-and-roach-killer-26-pine-forest-fresh-scent-175-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/NV3ML09zjV3xgXywgOrTIZq-.jpeg"
+     },
+     {
+      "lot_number": 121,
+      "title": "Allrecipes Taste of Morocco Spice Set (Harissa, Mediterranean Blend, Za'atar)",
+      "hammer_total": 6.75,
+      "hammer_per_unit": 2.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546875-allrecipes-taste-of-morocco-spice-set-harissa-mediterranean-blend-zaatar",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/8dzZViMxP3rRmAzYlBKHffgs.jpeg"
+     },
+     {
+      "lot_number": 122,
+      "title": "Allrecipes Taste of Morocco Spice Set (Harissa, Mediterranean Blend, Za'atar)",
+      "hammer_total": 16.5,
+      "hammer_per_unit": 2.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546874-allrecipes-taste-of-morocco-spice-set-harissa-mediterranean-blend-zaatar",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/EZSzKWRXMXK9Xz3BoYcFwjhf.jpeg"
+     },
+     {
+      "lot_number": 123,
+      "title": "Woolite Carpet & Upholstery Cleaner, 12 oz. (Model 8352)",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546873-woolite-carpet-and-upholstery-cleaner-12-oz-model-8352",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/goyCGNuvIsnOk3cR8D6EScMs.jpeg"
+     },
+     {
+      "lot_number": 124,
+      "title": "Woolite Carpet & Upholstery Foam Cleaner, 12 oz",
+      "hammer_total": 3.75,
+      "hammer_per_unit": 1.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546872-woolite-carpet-and-upholstery-foam-cleaner-12-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/BTqreZ4pM3TaJfl-kGCeSWsg.jpeg"
+     },
+     {
+      "lot_number": 125,
+      "title": "Wilton Fondant and Gum Paste Mold Set",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546871-wilton-fondant-and-gum-paste-mold-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/p1-h2SRiDhCd8_hYZOMWd_Vf.jpeg"
+     },
+     {
+      "lot_number": 126,
+      "title": "Wilton Fondant and Gum Paste Mold Set",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546869-wilton-fondant-and-gum-paste-mold-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/XwQO7XBpAfUGxPdyHqbGoFRy.jpeg"
+     },
+     {
+      "lot_number": 127,
+      "title": "Wilton Fondant and Gum Paste Mold Set",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546870-wilton-fondant-and-gum-paste-mold-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/MjC0twEdYZyKrIUTkv2x1qtc.jpeg"
+     },
+     {
+      "lot_number": 128,
+      "title": "Ziploc Smart Snap Divided Rectangle Food Storage Containers, 2 Count",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546868-ziploc-smart-snap-divided-rectangle-food-storage-containers-2-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/XgVlHLFECISKZItp4KbUijbs.jpeg"
+     },
+     {
+      "lot_number": 129,
+      "title": "Ziploc Smart Snap Divided Rectangle Food Storage Containers, 2 Count",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546867-ziploc-smart-snap-divided-rectangle-food-storage-containers-2-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/8yO113wJlUlkszkUIJBNdK8f.jpeg"
+     },
+     {
+      "lot_number": 130,
+      "title": "Pop Art 'Best Friends 4 Ever!' Accent Table Lamp",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546866-pop-art-best-friends-4-ever-accent-table-lamp",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/baEqvCdRjwWCxYpxkSsUioz_.jpeg"
+     },
+     {
+      "lot_number": 131,
+      "title": "Pop Art 'Best Friends 4 Ever!' Accent Table Lamp",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546865-pop-art-best-friends-4-ever-accent-table-lamp",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/e-BJLnQsfm4S-BA7qDfaFAC7.jpeg"
+     },
+     {
+      "lot_number": 132,
+      "title": "Wilton 14-Inch Scalloped Silver Cake Circles, 6-Count",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546864-wilton-14-inch-scalloped-silver-cake-circles-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/BzzB3QkC7lkuvx513Ey6MCn5.jpeg"
+     },
+     {
+      "lot_number": 133,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color, M66 Blue Charcoal",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546863-schwarzkopf-got2b-metallics-permanent-hair-color-m66-blue-charcoal",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/cTtzfhvzPDIyzlsU_iwtZRCT.jpeg"
+     },
+     {
+      "lot_number": 134,
+      "title": "Perky-Pet Carriage Wild Bird Feeder",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546862-perky-pet-carriage-wild-bird-feeder",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/w5FnLhdaHGlpYj79F-epmfj_.jpeg"
+     },
+     {
+      "lot_number": 135,
+      "title": "LOL Surprise 2D Kids Bike Helmet",
+      "hammer_total": 3.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546861-lol-surprise-2d-kids-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/whd2xxpw5SzgjZ1IuT-ZkebL.jpeg"
+     },
+     {
+      "lot_number": 136,
+      "title": "Raskullz Infant Lil Buddy Bike Helmet",
+      "hammer_total": 2.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546859-raskullz-infant-lil-buddy-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/2wNdbP9Hl7-S86lHHo40uMb0.jpeg"
+     },
+     {
+      "lot_number": 137,
+      "title": "Goliath Games Googly Eyes Showdown",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546860-goliath-games-googly-eyes-showdown",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/LmW8gjxcLdIBiaeKbZlALzUR.jpeg"
+     },
+     {
+      "lot_number": 138,
+      "title": "Goliath Games Googly Eyes Showdown",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546858-goliath-games-googly-eyes-showdown",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/iVxVmJofFlcuHCoIGiEKeJ0y.jpeg"
+     },
+     {
+      "lot_number": 139,
+      "title": "Wilton Fondant and Gum Paste Mold Set",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546857-wilton-fondant-and-gum-paste-mold-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/meyVGEkuvVnhEGaWh3DfkWjQ.jpeg"
+     },
+     {
+      "lot_number": 140,
+      "title": "Wilton Fondant and Gum Paste Mold Set",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546856-wilton-fondant-and-gum-paste-mold-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/-on1vYSbzCCUExXUL2PXw7b5.jpeg"
+     },
+     {
+      "lot_number": 141,
+      "title": "Wilton Fondant and Gum Paste Mold Set",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546855-wilton-fondant-and-gum-paste-mold-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/bg9xyXP9WZXOY19CmCr-WRWp.jpeg"
+     },
+     {
+      "lot_number": 142,
+      "title": "Wilton Fondant and Gum Paste Mold Set",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546854-wilton-fondant-and-gum-paste-mold-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/FGXtOQ_ZtMWgcLIDdSWUyKg-.jpeg"
+     },
+     {
+      "lot_number": 143,
+      "title": "Hostess Aluminum Square Cake Pan With Lid",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546853-hostess-aluminum-square-cake-pan-with-lid",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/AlaJhN28QjfoY00YL3Nuzgjo.jpeg"
+     },
+     {
+      "lot_number": 144,
+      "title": "Hostess Aluminum Square Cake Pan With Lid",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546852-hostess-aluminum-square-cake-pan-with-lid",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Vi6fqx9XzTanUhfJPep5gBRr.jpeg"
+     },
+     {
+      "lot_number": 145,
+      "title": "Allrecipes Taste of Morocco Spice Set (Harissa, Mediterranean Blend, Za'atar)",
+      "hammer_total": 19.5,
+      "hammer_per_unit": 3.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546851-allrecipes-taste-of-morocco-spice-set-harissa-mediterranean-blend-zaatar",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ngEVkPOCQgBih41V316GVTtr.jpeg"
+     },
+     {
+      "lot_number": 147,
+      "title": "The Himalayan Salt Company Basket Salt Crystal Lamp",
+      "hammer_total": 1.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546849-the-himalayan-salt-company-basket-salt-crystal-lamp",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/coXKq7lgl6ZyABI9lE1dkFA3.jpeg"
+     },
+     {
+      "lot_number": 151,
+      "title": "Liberty 50 II Plus IGR Spot-On for Dogs (11 to 32 lbs)",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546844-liberty-50-ii-plus-igr-spot-on-for-dogs-11-to-32-lbs",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2025/2/d7X8sctpXhdLQ5b8pdih9178.png"
+     },
+     {
+      "lot_number": 155,
+      "title": "Scrubbing Bubbles Continuous Clean Drop-Ins Discs, Toilet Bowl Cleaner Tablets, 5 Count",
+      "hammer_total": 9.18,
+      "hammer_per_unit": 3.06,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546841-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/R7_b2PthMvzLmMB16_jBHslI.jpeg"
+     },
+     {
+      "lot_number": 156,
+      "title": "Scrubbing Bubbles Continuous Clean Drop-Ins Discs, Toilet Bowl Cleaner Tablets, 5 Count",
+      "hammer_total": 9.18,
+      "hammer_per_unit": 3.06,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546840-scrubbing-bubbles-continuous-clean-drop-ins-discs-toilet-bowl-cleaner-tablets-5-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/3_hnD9FM3FmW0R6_aaSw4l24.jpeg"
+     },
+     {
+      "lot_number": 157,
+      "title": "KIWI Instant Wax Shine - Brown - 73ml",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546839-kiwi-instant-wax-shine-brown-73ml",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/HWoU9tOAXeWfrZVN5tSu0fCe.jpeg"
+     },
+     {
+      "lot_number": 158,
+      "title": "KIWI Instant Wax Shine - Brown - 73ml",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546837-kiwi-instant-wax-shine-brown-73ml",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/fsugcqYDv3RclgJFPVhvmaQA.jpeg"
+     },
+     {
+      "lot_number": 159,
+      "title": "Cantu Shea Butter for Natural Hair Deep Nourishing Hair & Scalp Masque",
+      "hammer_total": 57.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 57,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546838-cantu-shea-butter-for-natural-hair-deep-nourishing-hair-and-scalp-masque",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/CgWtO6Af6jUFtUy8x2sV6USA.jpeg"
+     },
+     {
+      "lot_number": 160,
+      "title": "Revlon Professional UniqOne All In One Hair & Scalp Conditioning Shampoo (300ml)",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546836-revlon-professional-uniqone-all-in-one-hair-and-scalp-conditioning-shampoo-300ml",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/FPGgND-Wtoi4fRVWd6-n1DnC.jpeg"
+     },
+     {
+      "lot_number": 161,
+      "title": "Slim Can Cooler - \"Drink in Hand, Toes in Sand\"",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546835-slim-can-cooler-drink-in-hand-toes-in-sand",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/fWisIPjMI3MEqvDTb4qNQqtt.jpeg"
+     },
+     {
+      "lot_number": 162,
+      "title": "Eveready Rechargeable LED Headlamps (2-Pack)",
+      "hammer_total": 12.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546833-eveready-rechargeable-led-headlamps-2-pack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/wFJCmM0hmrMq5eCNsxLJpPUR.jpeg"
+     },
+     {
+      "lot_number": 163,
+      "title": "Garnier Color Sensation Hair Color Cream, 9.0 Summer Fling Light Natural Blonde",
+      "hammer_total": 15.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546834-garnier-color-sensation-hair-color-cream-90-summer-fling-light-natural-blonde",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/PYrJBKNEDRUpCoC_0u-jiv8D.jpeg"
+     },
+     {
+      "lot_number": 164,
+      "title": "Garnier Color Sensation Hair Color Cream, 9.0 Summer Fling Light Natural Blonde",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546832-garnier-color-sensation-hair-color-cream-90-summer-fling-light-natural-blonde",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/otDZmGm09GIJYQN2tiLXOx5F.jpeg"
+     },
+     {
+      "lot_number": 165,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 1.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546831-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/YaomvlO78OsHX1OG24SNFBYl.jpeg"
+     },
+     {
+      "lot_number": 166,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 2.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546830-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/X19jwLi-lpjGEsrgWVlPGEHJ.jpeg"
+     },
+     {
+      "lot_number": 167,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 1.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546828-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/fH3jDGBIuVFTu8Q9atL_Wh8U.jpeg"
+     },
+     {
+      "lot_number": 168,
+      "title": "Revlon Professional UniqOne All In One Hair & Scalp Conditioning Shampoo (300ml)",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546829-revlon-professional-uniqone-all-in-one-hair-and-scalp-conditioning-shampoo-300ml",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/i6nY-Hkfo2UQMQGcrduSyr7i.jpeg"
+     },
+     {
+      "lot_number": 169,
+      "title": "Olay Ultra Moisture Beauty Bar with Shea Butter & Niacinamide, 6 Count",
+      "hammer_total": 22.08,
+      "hammer_per_unit": 2.76,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546827-olay-ultra-moisture-beauty-bar-with-shea-butter-and-niacinamide-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/qm9vRLoX9XyduoJCuVkZMgNv.jpeg"
+     },
+     {
+      "lot_number": 170,
+      "title": "Olay Ultra Moisture Beauty Bar with Shea Butter & Niacinamide, 6 Count",
+      "hammer_total": 24.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546826-olay-ultra-moisture-beauty-bar-with-shea-butter-and-niacinamide-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/AVOI1CDN4SinCBWTIM0MxFzi.jpeg"
+     },
+     {
+      "lot_number": 171,
+      "title": "Olay Ultra Moisture Beauty Bar with Shea Butter & Niacinamide, 6 Count",
+      "hammer_total": 22.0,
+      "hammer_per_unit": 5.5,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546825-olay-ultra-moisture-beauty-bar-with-shea-butter-and-niacinamide-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ZgzcGtAPk69ff3dpAp0QgGAw.jpeg"
+     },
+     {
+      "lot_number": 173,
+      "title": "Olay Ultra Moisture Beauty Bar with Shea Butter & Niacinamide, 6 Count",
+      "hammer_total": 44.0,
+      "hammer_per_unit": 5.5,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546823-olay-ultra-moisture-beauty-bar-with-shea-butter-and-niacinamide-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Xw-lo7B4Jp9YRWuiYTGLgHve.jpeg"
+     },
+     {
+      "lot_number": 174,
+      "title": "Revlon Professional UniqOne All In One Hair & Scalp Conditioning Shampoo (300ml)",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546822-revlon-professional-uniqone-all-in-one-hair-and-scalp-conditioning-shampoo-300ml",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/KZ2PVS5kUM5d5Rg2gkplF4nL.jpeg"
+     },
+     {
+      "lot_number": 175,
+      "title": "Revlon Professional UniqOne All In One Hair & Scalp Conditioning Shampoo (300ml)",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546821-revlon-professional-uniqone-all-in-one-hair-and-scalp-conditioning-shampoo-300ml",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/UkTDfTBjFejLdZphxzQ_o0Pa.jpeg"
+     },
+     {
+      "lot_number": 176,
+      "title": "Cra-Z-Art Colored Pencils, 36 Count",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546820-cra-z-art-colored-pencils-36-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/GPoHKNv8EMyMAgskAVGL2BXC.jpeg"
+     },
+     {
+      "lot_number": 177,
+      "title": "Cra-Z-Art Colored Pencils, 36 Count",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546819-cra-z-art-colored-pencils-36-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/3eUSUfZUdkBIL2KDCZggg6iG.jpeg"
+     },
+     {
+      "lot_number": 178,
+      "title": "Cra-Z-Art Colored Pencils, 36 Count",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546818-cra-z-art-colored-pencils-36-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/BSFXCiVSDr79ZSEq-DrqYMp9.jpeg"
+     },
+     {
+      "lot_number": 179,
+      "title": "Cra-Z-Art Colored Pencils, 36 Count",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546817-cra-z-art-colored-pencils-36-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/qLDf8a8OQTjbplhh_RxASIe7.jpeg"
+     },
+     {
+      "lot_number": 180,
+      "title": "Dove Hair Therapy Smoothing Genius Conditioning Cream",
+      "hammer_total": 10.6,
+      "hammer_per_unit": 2.65,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546815-dove-hair-therapy-smoothing-genius-conditioning-cream",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/7ly7vaVm3VVJZoECXibazgaN.jpeg"
+     },
+     {
+      "lot_number": 181,
+      "title": "Dove Hair Therapy Smoothing Genius Conditioning Cream",
+      "hammer_total": 10.6,
+      "hammer_per_unit": 2.65,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546816-dove-hair-therapy-smoothing-genius-conditioning-cream",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/rg04b1HZPkBACdXzXQi3-OQL.jpeg"
+     },
+     {
+      "lot_number": 182,
+      "title": "Dove Hair Therapy Smoothing Genius Conditioning Cream",
+      "hammer_total": 10.6,
+      "hammer_per_unit": 2.65,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546813-dove-hair-therapy-smoothing-genius-conditioning-cream",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/czG8lljAsPzdZCv8_3fzGLtQ.jpeg"
+     },
+     {
+      "lot_number": 183,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 1.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546814-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/e4xMFC7ZM2bEnSrCyddXpyGH.jpeg"
+     },
+     {
+      "lot_number": 184,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 1.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546812-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/TWhdFOmXPR1_tV0DnBKr0Rbs.jpeg"
+     },
+     {
+      "lot_number": 185,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 1.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546811-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Lym6S_aNZnzy7lSNAgCcAVVS.jpeg"
+     },
+     {
+      "lot_number": 186,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 1.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546810-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/XscqfqzOhsJUr0Bi1RYpvWFt.jpeg"
+     },
+     {
+      "lot_number": 187,
+      "title": "Starbucks Campus Collection Reusable Cold Cups 5-Pack (24 oz)",
+      "hammer_total": 1.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546809-starbucks-campus-collection-reusable-cold-cups-5-pack-24-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Yom300OThr8n9O4ZjcideA16.jpeg"
+     },
+     {
+      "lot_number": 188,
+      "title": "Wilton 6 Cavity Sweet Shooters Cookie Shot Glass Pan Set",
+      "hammer_total": 6.25,
+      "hammer_per_unit": 1.25,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546808-wilton-6-cavity-sweet-shooters-cookie-shot-glass-pan-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/iEk7kiOh_y_NgU4l1qe_g7qc.jpeg"
+     },
+     {
+      "lot_number": 189,
+      "title": "Eveready Rechargeable LED Headlamps (2-Pack)",
+      "hammer_total": 11.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 11,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546807-eveready-rechargeable-led-headlamps-2-pack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/10T7g933rZfyheRHlzNInQTn.jpeg"
+     },
+     {
+      "lot_number": 190,
+      "title": "Wilton 6 Cavity Sweet Shooters Cookie Shot Glass Pan Set",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546806-wilton-6-cavity-sweet-shooters-cookie-shot-glass-pan-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/mUZsl43FOXT2To0c-aMGvzkl.jpeg"
+     },
+     {
+      "lot_number": 191,
+      "title": "Love Beauty and Planet Nourish Shea Butter & Vitamin E Pump Body Lotion",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546805-love-beauty-and-planet-nourish-shea-butter-and-vitamin-e-pump-body-lotion",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/hI_PJM5qWzRw4xccACaMIHg3.jpeg"
+     },
+     {
+      "lot_number": 192,
+      "title": "Allsop DeskTek Series File Inbox with Clingo Technology (30644)",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546804-allsop-desktek-series-file-inbox-with-clingo-technology-30644",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/iQXZ9tk1sq3Znx_eIor7GwbR.jpeg"
+     },
+     {
+      "lot_number": 194,
+      "title": "Petmate 2-Door Top Load Kennel",
+      "hammer_total": 1.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546802-petmate-2-door-top-load-kennel",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/6WGezp2685B2Vr7pMJzs2lRO.jpeg"
+     },
+     {
+      "lot_number": 195,
+      "title": "Love Beauty and Planet Nourish Shea Butter & Vitamin E Pump Body Lotion",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546801-love-beauty-and-planet-nourish-shea-butter-and-vitamin-e-pump-body-lotion",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/lAUWlpcLzb6hEZaFmsz1YEEt.jpeg"
+     },
+     {
+      "lot_number": 196,
+      "title": "Love Beauty and Planet Nourish Shea Butter & Vitamin E Pump Body Lotion",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546800-love-beauty-and-planet-nourish-shea-butter-and-vitamin-e-pump-body-lotion",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Dplj1vO-tZAze9Aozzto1zAa.jpeg"
+     },
+     {
+      "lot_number": 197,
+      "title": "Olay Ultra Moisture Beauty Bar with Shea Butter & Niacinamide, 6 Count",
+      "hammer_total": 22.08,
+      "hammer_per_unit": 2.76,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546799-olay-ultra-moisture-beauty-bar-with-shea-butter-and-niacinamide-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/DB3-uzq6EGLaRYmCF9B6eonC.jpeg"
+     },
+     {
+      "lot_number": 198,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color M64 Purple Night",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546798-schwarzkopf-got2b-metallics-permanent-hair-color-m64-purple-night",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/M-wyhcE-35kUEKc79_kemXRQ.jpeg"
+     },
+     {
+      "lot_number": 199,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color M64 Purple Night",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546797-schwarzkopf-got2b-metallics-permanent-hair-color-m64-purple-night",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/04PH9LkDa2icHZhu7-ZcZ_oL.jpeg"
+     },
+     {
+      "lot_number": 200,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color M64 Purple Night",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546796-schwarzkopf-got2b-metallics-permanent-hair-color-m64-purple-night",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/XH0Ls6vjD7gIHerIUODpKa7i.jpeg"
+     },
+     {
+      "lot_number": 201,
+      "title": "Schwarzkopf got2b Metallics Permanent Hair Color M64 Purple Night",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546795-schwarzkopf-got2b-metallics-permanent-hair-color-m64-purple-night",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2025/2/d7X8sctpXhdLQ5b8pdih9178.png"
+     },
+     {
+      "lot_number": 202,
+      "title": "Love Beauty and Planet Nourish Shea Butter & Vitamin E Pump Body Lotion",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546794-love-beauty-and-planet-nourish-shea-butter-and-vitamin-e-pump-body-lotion",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/tB5UA1eDdAG6i5Z5yiHC0JYT.jpeg"
+     },
+     {
+      "lot_number": 203,
+      "title": "Allrecipes Asian Spice Blends (Asian BBQ Bulgogi, Sweet and Sour, Thai Ginger Basil) Set of 3",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546793-allrecipes-asian-spice-blends-asian-bbq-bulgogi-sweet-and-sour-thai-ginger-basil-set-of-3",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/OIqTaRyy1xs5wczOhNJmW4HH.jpeg"
+     },
+     {
+      "lot_number": 204,
+      "title": "Wilton Perfect Results Mega Non-Stick 20-Cavity Donut Baking Pan",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546792-wilton-perfect-results-mega-non-stick-20-cavity-donut-baking-pan",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/_L4FTLgRbUrXN9JInCE6KQ9V.jpeg"
+     },
+     {
+      "lot_number": 205,
+      "title": "Got2b Metallics Permanent Hair Color, M84 Sakura Pink",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546791-got2b-metallics-permanent-hair-color-m84-sakura-pink",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/PWEbjrCHY9LRy21l41yydkam.jpeg"
+     },
+     {
+      "lot_number": 206,
+      "title": "Got2b Metallics Permanent Hair Color, M84 Sakura Pink",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546790-got2b-metallics-permanent-hair-color-m84-sakura-pink",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/jSwKjXhrfP1V1ZEnCam-8MIA.jpeg"
+     },
+     {
+      "lot_number": 207,
+      "title": "Got2b Metallics Permanent Hair Color, M84 Sakura Pink",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546789-got2b-metallics-permanent-hair-color-m84-sakura-pink",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/TY914vqZfKzDkHTBnL-mX9PL.jpeg"
+     },
+     {
+      "lot_number": 208,
+      "title": "Got2b Metallics Permanent Hair Color, M84 Sakura Pink",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546788-got2b-metallics-permanent-hair-color-m84-sakura-pink",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/4HVwdTnIBOYK--wfbakZaGNV.jpeg"
+     },
+     {
+      "lot_number": 209,
+      "title": "3M Filtering Barrier Face Covering (Adult Sized, 3-Pack)",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546787-3m-filtering-barrier-face-covering-adult-sized-3-pack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/9CbfwGqFTdAco9YffYLPwFCh.jpeg"
+     },
+     {
+      "lot_number": 210,
+      "title": "3M Filtering Barrier Face Covering (Adult Sized, 3-Pack)",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546786-3m-filtering-barrier-face-covering-adult-sized-3-pack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/HG6sIg0E9raNgeX2sftdSvgc.jpeg"
+     },
+     {
+      "lot_number": 211,
+      "title": "Wilton 6 Cavity Sweet Shooters Cookie Shot Glass Pan Set",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546785-wilton-6-cavity-sweet-shooters-cookie-shot-glass-pan-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/HWhFH3jJmnurHEa5vFt7VdxJ.jpeg"
+     },
+     {
+      "lot_number": 212,
+      "title": "Wilton 6 Cavity Sweet Shooters Cookie Shot Glass Pan Set",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546784-wilton-6-cavity-sweet-shooters-cookie-shot-glass-pan-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/2VyNtEPiYa0yguEQQFKMURcH.jpeg"
+     },
+     {
+      "lot_number": 215,
+      "title": "Duck Brand EasyLiner Adh\u00e9sion Supr\u00eame Shelf Liner",
+      "hammer_total": 1.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546781-duck-brand-easyliner-adhesion-supreme-shelf-liner",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/qvg_lA21zH2fC7KV3rIpchws.jpeg"
+     },
+     {
+      "lot_number": 216,
+      "title": "Windex Commercial Line Original Glass and Surface Cleaner, 1 Gallon (128 oz)",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546780-windex-commercial-line-original-glass-and-surface-cleaner-1-gallon-128-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/vdgCxWkv5grE2Y-czVNmS4BA.jpeg"
+     },
+     {
+      "lot_number": 217,
+      "title": "Windex Commercial Line Original Glass and Surface Cleaner, 1 Gallon (128 oz)",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546779-windex-commercial-line-original-glass-and-surface-cleaner-1-gallon-128-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Aabq0BnHnCtjF9FrswtgMOPA.jpeg"
+     },
+     {
+      "lot_number": 219,
+      "title": "Wilton Perfect Results Mega Non-Stick 20-Cavity Donut Baking Pan",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546777-wilton-perfect-results-mega-non-stick-20-cavity-donut-baking-pan",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/L1-QlKG_1fRFS7P2q7xGXEgI.jpeg"
+     },
+     {
+      "lot_number": 220,
+      "title": "Allrecipes Savory Seasonings Set of 3",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546776-allrecipes-savory-seasonings-set-of-3",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/CH3vQLpN5UnL8X5jxggTKbWz.jpeg"
+     },
+     {
+      "lot_number": 221,
+      "title": "Wilton 6 Cavity Sweet Shooters Cookie Shot Glass Pan Set",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546775-wilton-6-cavity-sweet-shooters-cookie-shot-glass-pan-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/One6WPUDWqe6SkRtTy1e2nKj.jpeg"
+     },
+     {
+      "lot_number": 222,
+      "title": "Wilton 6 Cavity Sweet Shooters Cookie Shot Glass Pan Set",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546774-wilton-6-cavity-sweet-shooters-cookie-shot-glass-pan-set",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/6q3ubsVFBgmPT7T04nG56I_O.jpeg"
+     },
+     {
+      "lot_number": 225,
+      "title": "Schwarzkopf Professional OSiS+ Session Label Smooth Strong Hairspray",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546770-schwarzkopf-professional-osis-session-label-smooth-strong-hairspray",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ceaRSIsVa8xljkrPDwaIeIVY.jpeg"
+     },
+     {
+      "lot_number": 226,
+      "title": "Schwarzkopf Professional OSiS+ Session Label Smooth Strong Hairspray",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546771-schwarzkopf-professional-osis-session-label-smooth-strong-hairspray",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/eNMvbpx2EdBKsqwXQuVdjNbT.jpeg"
+     },
+     {
+      "lot_number": 228,
+      "title": "Wilton Silver 13 x 19-Inch Cake Platters, 4-Count",
+      "hammer_total": 21.12,
+      "hammer_per_unit": 1.32,
+      "quantity": 16,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546768-wilton-silver-13-x-19-inch-cake-platters-4-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/vEuwt7k496eWxlTCl_esvHbv.jpeg"
+     },
+     {
+      "lot_number": 230,
+      "title": "Ziploc Smart Snap Divided Rectangle Food Storage Containers, 2 Count",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546766-ziploc-smart-snap-divided-rectangle-food-storage-containers-2-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/SXifL8zezM5iBgTN8dAddfy0.jpeg"
+     },
+     {
+      "lot_number": 231,
+      "title": "Ziploc Smart Snap Divided Rectangle Food Storage Containers, 2 Count",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546765-ziploc-smart-snap-divided-rectangle-food-storage-containers-2-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Cj_vs3_WdGzu_MJoW-vaNoVk.jpeg"
+     },
+     {
+      "lot_number": 232,
+      "title": "GE Classic LED 60W Replacement A19 Clear Soft White 4-Pack",
+      "hammer_total": 24.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 24,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546764-ge-classic-led-60w-replacement-a19-clear-soft-white-4-pack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/UGW2iPSzqn7IuB6WrXbWycIF.jpeg"
+     },
+     {
+      "lot_number": 233,
+      "title": "Wilton 14-Inch Scalloped Silver Cake Circles, 6-Count",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546763-wilton-14-inch-scalloped-silver-cake-circles-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/8i1qVn-H5KjeHBrgvGoXCe06.jpeg"
+     },
+     {
+      "lot_number": 234,
+      "title": "Wilton 14-Inch Scalloped Silver Cake Circles, 6-Count",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546762-wilton-14-inch-scalloped-silver-cake-circles-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/IjoAVinK4qimbL8hFltNcQS8.jpeg"
+     },
+     {
+      "lot_number": 235,
+      "title": "Wilton 14-Inch Scalloped Silver Cake Circles, 6-Count",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 1.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546760-wilton-14-inch-scalloped-silver-cake-circles-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/fuV9TWURt0aWBx8ShFe9zwhg.jpeg"
+     },
+     {
+      "lot_number": 236,
+      "title": "Allsop DeskTek Series File Inbox with Clingo Technology (30644)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546758-allsop-desktek-series-file-inbox-with-clingo-technology-30644",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Ct_psasbajhLcnrEgKdKQk2D.jpeg"
+     },
+     {
+      "lot_number": 237,
+      "title": "Allsop DeskTek Series File Inbox with Clingo Technology (30644)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546759-allsop-desktek-series-file-inbox-with-clingo-technology-30644",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/l2JpR7CPbaHTvk7sIN-Od0Oy.jpeg"
+     },
+     {
+      "lot_number": 238,
+      "title": "Allsop DeskTek Series File Inbox with Clingo Technology (30644)",
+      "hammer_total": 3.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546761-allsop-desktek-series-file-inbox-with-clingo-technology-30644",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/hZUgeWrAgiGijpcbEhb6MqAL.jpeg"
+     },
+     {
+      "lot_number": 239,
+      "title": "Wilton Disposable Counter Covers, 10-Count",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546757-wilton-disposable-counter-covers-10-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/37vbw7dRdIHKrR06WoH9ifGW.jpeg"
+     },
+     {
+      "lot_number": 241,
+      "title": "Wilton Disposable Counter Covers, 10-Count",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546755-wilton-disposable-counter-covers-10-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ixYnOBrHzKD-ayiQi7fftmRj.jpeg"
+     },
+     {
+      "lot_number": 242,
+      "title": "Wilton Disposable Counter Covers, 10-Count",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546754-wilton-disposable-counter-covers-10-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/KkqOav2Jeo8YSwPMdza9awDT.jpeg"
+     }
+    ],
+    "4****3": [
+     {
+      "lot_number": 17,
+      "title": "BIC PrevaGuard Clic Stic Ballpoint Pen, Medium Point (1.0mm), 12-Count",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546979-bic-prevaguard-clic-stic-ballpoint-pen-medium-point-10mm-12-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/E0_xtGZGsljJXUttFaeLgFth.jpeg"
+     },
+     {
+      "lot_number": 98,
+      "title": "Dark & Lovely Protective Styles Hair Hydrator with Rice Water Complex",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546897-dark-and-lovely-protective-styles-hair-hydrator-with-rice-water-complex",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/rgUSzFwIs6wSFns64jKXzE0P.jpeg"
+     },
+     {
+      "lot_number": 172,
+      "title": "Axe Essentials 24-Hour Odor Protection Deodorant, Fresh Shield, 1.2oz",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546824-axe-essentials-24-hour-odor-protection-deodorant-fresh-shield-12oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/UsmU2Jb1B0czJtwaickSYGgL.jpeg"
+     },
+     {
+      "lot_number": 213,
+      "title": "Village Naturals Therapy Wake Up Energy Clarity Bath or Shower Salt",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546783-village-naturals-therapy-wake-up-energy-clarity-bath-or-shower-salt",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/a9XN5K_QwH3gyIabw_kF6Uqp.jpeg"
+     },
+     {
+      "lot_number": 249,
+      "title": "Freeman Flirty Feet Exfoliating Peppermint & Plum Foot Scrub",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546749-freeman-flirty-feet-exfoliating-peppermint-and-plum-foot-scrub",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/nRu_Vyx2-2eAsuopTTklZ9G3.jpeg"
+     },
+     {
+      "lot_number": 253,
+      "title": "Scrubbing Bubbles Fresh Gel Toilet Cleaning Stamp Starter Pack, Lavender",
+      "hammer_total": 25.0,
+      "hammer_per_unit": 2.5,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546743-scrubbing-bubbles-fresh-gel-toilet-cleaning-stamp-starter-pack-lavender",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/kXV0sYSa_ZHLqS5zochZzJBd.jpeg"
+     },
+     {
+      "lot_number": 254,
+      "title": "Scrubbing Bubbles Fresh Gel Toilet Cleaning Stamp Starter Pack, Lavender",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546742-scrubbing-bubbles-fresh-gel-toilet-cleaning-stamp-starter-pack-lavender",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/C4h6VSASrVAQooXGrP1W4TSh.jpeg"
+     },
+     {
+      "lot_number": 256,
+      "title": "Glade Automatic Spray Refill, Pet Clean Scent, 6.2 oz",
+      "hammer_total": 15.0,
+      "hammer_per_unit": 2.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546740-glade-automatic-spray-refill-pet-clean-scent-62-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/2-_6m1Hx5GaPGaEorkIfVgE3.jpeg"
+     },
+     {
+      "lot_number": 273,
+      "title": "First Steps: Hello Baby! Mirror Book",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546723-first-steps-hello-baby-mirror-book",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/SXby4Zw3uBvSAeQpeLfK3WNI.jpeg"
+     },
+     {
+      "lot_number": 274,
+      "title": "First Steps: Hello Baby! Mirror Book",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546722-first-steps-hello-baby-mirror-book",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/3Q_aL19Cpa7-HyR9lPbJbvU0.jpeg"
+     },
+     {
+      "lot_number": 318,
+      "title": "Imaginext Disney and Pixar Lightyear Mission Multipack",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546678-imaginext-disney-and-pixar-lightyear-mission-multipack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ex6injhK9VVHjrxsj-eIGFdL.jpeg"
+     },
+     {
+      "lot_number": 322,
+      "title": "Disney 100 Years of Wonder Framed Wall Art Collection",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546674-disney-100-years-of-wonder-framed-wall-art-collection",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/7EJOec3taiIJuA_omZiIoD1U.jpeg"
+     },
+     {
+      "lot_number": 323,
+      "title": "Disney 100 Years of Wonder Framed Wall Art Collection",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546673-disney-100-years-of-wonder-framed-wall-art-collection",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Z8SenSsVRjAcFri-luQT1ObM.jpeg"
+     },
+     {
+      "lot_number": 324,
+      "title": "Disney 100 Years of Wonder Framed Wall Art Collection",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546672-disney-100-years-of-wonder-framed-wall-art-collection",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/7AH6Q5sDZbAaLYU2yNexqUA-.jpeg"
+     },
+     {
+      "lot_number": 335,
+      "title": "Wilton 12-Cavity Mini Doughnut Pan",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546661-wilton-12-cavity-mini-doughnut-pan",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/JokAkdR1YumLsWnJLx2OLMcy.jpeg"
+     },
+     {
+      "lot_number": 345,
+      "title": "Suave Professionals Tea Tree + Hemp Seed Oil Revitalizing Conditioner",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546650-suave-professionals-tea-tree-hemp-seed-oil-revitalizing-conditioner",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/zZUcE04YEK56mlZbeDAzIzok.jpeg"
+     },
+     {
+      "lot_number": 346,
+      "title": "Suave Professionals Tea Tree + Hemp Seed Oil Revitalizing Conditioner",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546652-suave-professionals-tea-tree-hemp-seed-oil-revitalizing-conditioner",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/1PojvxBHY5A-juLcTDh_DdtE.jpeg"
+     },
+     {
+      "lot_number": 352,
+      "title": "Halloween Witch Gnome Dangle Leg Decorative Pillow",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546644-halloween-witch-gnome-dangle-leg-decorative-pillow",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/uB6x3QIV-sVLufANvM27XanR.jpeg"
+     },
+     {
+      "lot_number": 353,
+      "title": "Halloween Witch Gnome Dangle Leg Decorative Pillow",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546643-halloween-witch-gnome-dangle-leg-decorative-pillow",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/VXy1hRhJ8KlRpf6TXdFoJhDq.jpeg"
+     },
+     {
+      "lot_number": 354,
+      "title": "Halloween Witch Gnome Dangle Leg Decorative Pillow",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546642-halloween-witch-gnome-dangle-leg-decorative-pillow",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/tLzvxBAUskiSG7cQun1lD4QD.jpeg"
+     },
+     {
+      "lot_number": 408,
+      "title": "Halloween Witch Gnome Dangle Leg Decorative Pillow",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546590-halloween-witch-gnome-dangle-leg-decorative-pillow",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/VGksa1QOIJ1TvdN81YiTp32l.jpeg"
+     },
+     {
+      "lot_number": 409,
+      "title": "Halloween Witch Gnome Dangle Leg Decorative Pillow",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546587-halloween-witch-gnome-dangle-leg-decorative-pillow",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/4mRZanvAFeDzz_xU1_jWt-ke.jpeg"
+     },
+     {
+      "lot_number": 410,
+      "title": "Halloween Witch Gnome Dangle Leg Decorative Pillow",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546588-halloween-witch-gnome-dangle-leg-decorative-pillow",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/BxzIO2k9mBM_skY4ek3xrp2-.jpeg"
+     }
+    ],
+    "4****7": [
+     {
+      "lot_number": 36,
+      "title": "Wilton Standard Pink Baking Cups, 75-Count",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 7,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546961-wilton-standard-pink-baking-cups-75-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/0iENIjAqN8v26ovGjLmxZ4x_.jpeg"
+     },
+     {
+      "lot_number": 41,
+      "title": "Wilton Standard Pink Baking Cups, 75-Count",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546955-wilton-standard-pink-baking-cups-75-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ex1DDmx3JhDFv0ZzJiNC4PmU.jpeg"
+     },
+     {
+      "lot_number": 42,
+      "title": "Wilton Standard Pink Baking Cups, 75-Count",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546954-wilton-standard-pink-baking-cups-75-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/uyuLxUlOIXNJ4GtPzRB9xTF-.jpeg"
+     },
+     {
+      "lot_number": 43,
+      "title": "Wilton Standard Pink Baking Cups, 75-Count",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546953-wilton-standard-pink-baking-cups-75-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/r0weB-wet1vbonJIUg_YGeST.jpeg"
+     },
+     {
+      "lot_number": 44,
+      "title": "Wilton Standard Pink Baking Cups, 75-Count",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546952-wilton-standard-pink-baking-cups-75-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Mp-MpU147d3WCQSd0aWlPxwg.jpeg"
+     },
+     {
+      "lot_number": 146,
+      "title": "Axe Essentials 24-Hour Odor Protection Deodorant, Fresh Shield, 1.2oz",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546850-axe-essentials-24-hour-odor-protection-deodorant-fresh-shield-12oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/HWOBoYPn645gTx8XMZCotAoE.jpeg"
+     },
+     {
+      "lot_number": 246,
+      "title": "Freeman Flirty Feet Exfoliating Peppermint & Plum Foot Scrub",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546748-freeman-flirty-feet-exfoliating-peppermint-and-plum-foot-scrub",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/6XwuvTpt_fXO6dFD3_3AxIK8.jpeg"
+     },
+     {
+      "lot_number": 247,
+      "title": "Freeman Flirty Feet Exfoliating Peppermint & Plum Foot Scrub",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546750-freeman-flirty-feet-exfoliating-peppermint-and-plum-foot-scrub",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/sWdz2W3mBW-VBzsNPJ-rs5MS.jpeg"
+     },
+     {
+      "lot_number": 248,
+      "title": "Freeman Flirty Feet Exfoliating Peppermint & Plum Foot Scrub",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546747-freeman-flirty-feet-exfoliating-peppermint-and-plum-foot-scrub",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/rRYXXfGD75erxLqkY2oBtd4u.jpeg"
+     },
+     {
+      "lot_number": 255,
+      "title": "Glade Automatic Spray Refill, Pet Clean Scent, 6.2 oz",
+      "hammer_total": 16.5,
+      "hammer_per_unit": 2.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546741-glade-automatic-spray-refill-pet-clean-scent-62-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/bH-QFzuy8NqzsLW93PncikdK.jpeg"
+     },
+     {
+      "lot_number": 257,
+      "title": "Glade Automatic Spray Refill, Pet Clean Scent, 6.2 oz",
+      "hammer_total": 16.5,
+      "hammer_per_unit": 2.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546739-glade-automatic-spray-refill-pet-clean-scent-62-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/nrgjZ_OwalfVkGqUWcne3Bma.jpeg"
+     },
+     {
+      "lot_number": 258,
+      "title": "Glade Automatic Spray Refill, Pet Clean Scent, 6.2 oz",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546738-glade-automatic-spray-refill-pet-clean-scent-62-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/aSIH3K_-SA2M0_oA2auUC5Gh.jpeg"
+     }
+    ],
+    "5****4": [
+     {
+      "lot_number": 97,
+      "title": "Kiwi Select Universal Shoe Stretch Spray, 7oz",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546898-kiwi-select-universal-shoe-stretch-spray-7oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/m4873apHw2gDsB8m4ubCGL_C.jpeg"
+     },
+     {
+      "lot_number": 193,
+      "title": "Olay Ultra Moisture Beauty Bar with Shea Butter & Niacinamide, 6 Count",
+      "hammer_total": 52.4,
+      "hammer_per_unit": 6.55,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546803-olay-ultra-moisture-beauty-bar-with-shea-butter-and-niacinamide-6-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/J1gO8mZErMQ0zpHhOmpGSPzp.jpeg"
+     },
+     {
+      "lot_number": 294,
+      "title": "Dial Pamper & Indulge Manuka Honey + Vitamin E Body Wash, 21 fl oz",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 3.5,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546702-dial-pamper-and-indulge-manuka-honey-vitamin-e-body-wash-21-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/P4haKUzJ37fNpU3f6xQLBdi2.jpeg"
+     },
+     {
+      "lot_number": 296,
+      "title": "Method All-Purpose Cleaner, French Lavender, 28 fl oz",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546700-method-all-purpose-cleaner-french-lavender-28-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/bOT_XPKQsd7SmEAsaB5a42pI.jpeg"
+     },
+     {
+      "lot_number": 302,
+      "title": "Dial Pamper & Indulge Body Wash - Manuka Honey, 21 fl oz",
+      "hammer_total": 13.0,
+      "hammer_per_unit": 3.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546694-dial-pamper-and-indulge-body-wash-manuka-honey-21-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/i3Os4_lvQF_7VXGHJD0JHuF_.jpeg"
+     },
+     {
+      "lot_number": 391,
+      "title": "Polident 3 Minute Antibacterial Denture Cleanser - 28 Count",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546605-polident-3-minute-antibacterial-denture-cleanser-28-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/tIWUnz44QkXct3YZ-AA_sOfW.jpeg"
+     },
+     {
+      "lot_number": 392,
+      "title": "Polident 3 Minute Antibacterial Denture Cleanser - 28 Count",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546604-polident-3-minute-antibacterial-denture-cleanser-28-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/A7t-GZIwmB7HmCsIbeih3kcf.jpeg"
+     },
+     {
+      "lot_number": 393,
+      "title": "Polident 3 Minute Antibacterial Denture Cleanser - 28 Count",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546603-polident-3-minute-antibacterial-denture-cleanser-28-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/E9RjhaKyvpcln_3WeBOZbt3f.jpeg"
+     },
+     {
+      "lot_number": 395,
+      "title": "Slim Can Cooler - \"Drink in Hand, Toes in Sand\"",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546601-slim-can-cooler-drink-in-hand-toes-in-sand",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/mETY1L70gXPosDHxOJ1EOM2U.jpeg"
+     }
+    ],
+    "4****5": [
+     {
+      "lot_number": 152,
+      "title": "Liberty 50 II Plus IGR Spot-On for Dogs (11 to 32 lbs)",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546843-liberty-50-ii-plus-igr-spot-on-for-dogs-11-to-32-lbs",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/fuagE61N7zsoD8qRlywu39yR.jpeg"
+     },
+     {
+      "lot_number": 330,
+      "title": "GE 40-Watt G25 Soft White Decorative Globe Light Bulbs (3-Pack)",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546666-ge-40-watt-g25-soft-white-decorative-globe-light-bulbs-3-pack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/3DIVKi2Ras52wLlY6GUH40vO.jpeg"
+     }
+    ],
+    "2****7": [
+     {
+      "lot_number": 240,
+      "title": "Wilton Disposable Counter Covers, 10-Count",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546756-wilton-disposable-counter-covers-10-count",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/DPVNb6649vFbraA0KUInoNII.jpeg"
+     }
+    ],
+    "6****2": [
+     {
+      "lot_number": 243,
+      "title": "Perky-Pet Carriage Wild Bird Feeder",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546753-perky-pet-carriage-wild-bird-feeder",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Ag8o08m2O9eQK8mD6IR99y1e.jpeg"
+     }
+    ],
+    "1****7": [
+     {
+      "lot_number": 250,
+      "title": "Stetson Original Deep Cleansing Face & Beard Wash (Citrus & Vetiver)",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546746-stetson-original-deep-cleansing-face-and-beard-wash-citrus-and-vetiver",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/BFFXvY4zsrrfq25PMZvwLiAj.jpeg"
+     },
+     {
+      "lot_number": 251,
+      "title": "Stetson Original Deep Cleansing Face & Beard Wash (Citrus & Vetiver)",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546745-stetson-original-deep-cleansing-face-and-beard-wash-citrus-and-vetiver",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2025/2/d7X8sctpXhdLQ5b8pdih9178.png"
+     },
+     {
+      "lot_number": 252,
+      "title": "Scrubbing Bubbles Fresh Gel Toilet Cleaning Stamp Starter Pack, Lavender",
+      "hammer_total": 22.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546744-scrubbing-bubbles-fresh-gel-toilet-cleaning-stamp-starter-pack-lavender",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/5kSboQnXSTKZjTgr5tHNFp5U.jpeg"
+     },
+     {
+      "lot_number": 259,
+      "title": "SheaMoisture Manuka Honey & Yogurt Skin Renewal Recipe Body Scrub",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546737-sheamoisture-manuka-honey-and-yogurt-skin-renewal-recipe-body-scrub",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/GB_txChma7ya8M2mMVWYu4dt.jpeg"
+     },
+     {
+      "lot_number": 260,
+      "title": "SheaMoisture Manuka Honey & Yogurt Skin Renewal Recipe Body Scrub",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546736-sheamoisture-manuka-honey-and-yogurt-skin-renewal-recipe-body-scrub",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/tcVPvXMNQidOs5g7oMrgIjtK.jpeg"
+     },
+     {
+      "lot_number": 261,
+      "title": "SheaMoisture Manuka Honey & Yogurt Skin Renewal Recipe Body Scrub",
+      "hammer_total": 13.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546734-sheamoisture-manuka-honey-and-yogurt-skin-renewal-recipe-body-scrub",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/fV_IzB-9TtoNKDWRLZ9fXOOn.jpeg"
+     },
+     {
+      "lot_number": 262,
+      "title": "SheaMoisture Manuka Honey & Yogurt Skin Renewal Recipe Body Scrub",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546735-sheamoisture-manuka-honey-and-yogurt-skin-renewal-recipe-body-scrub",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/0HBnNSwIuJn21ty1eWAA15Pe.jpeg"
+     },
+     {
+      "lot_number": 264,
+      "title": "Evercare Extreme Stick All Purpose Lint Roller, 100 Sheets",
+      "hammer_total": 16.5,
+      "hammer_per_unit": 2.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546733-evercare-extreme-stick-all-purpose-lint-roller-100-sheets",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/RQ59Ic5nlCW03rRTCvDglLPG.jpeg"
+     },
+     {
+      "lot_number": 265,
+      "title": "Evercare Extreme Stick All Purpose Lint Roller, 100 Sheets",
+      "hammer_total": 16.5,
+      "hammer_per_unit": 2.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546731-evercare-extreme-stick-all-purpose-lint-roller-100-sheets",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/QTP2e66Uhv6002L8PLp46PfW.jpeg"
+     },
+     {
+      "lot_number": 266,
+      "title": "Evercare Extreme Stick All Purpose Lint Roller, 100 Sheets",
+      "hammer_total": 16.5,
+      "hammer_per_unit": 2.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546730-evercare-extreme-stick-all-purpose-lint-roller-100-sheets",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/UwGlKrcOFb6vowlZREYwfc71.jpeg"
+     },
+     {
+      "lot_number": 267,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash, Sugar Cookie Sprinkle",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546729-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/T4jaSCMF8IrJFKVKs51b0Z4f.jpeg"
+     },
+     {
+      "lot_number": 268,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash, Sugar Cookie Sprinkle",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546728-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/1u1e2hR0I2k27g7sqS8_wqMs.jpeg"
+     },
+     {
+      "lot_number": 269,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash, Sugar Cookie Sprinkle",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546727-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/DKWw5D_nFRdBKlrAUMwBs-oS.jpeg"
+     },
+     {
+      "lot_number": 275,
+      "title": "L'Oreal Paris Colorista 1-Day Hair Color Spray, 40 Pastel Mint, 2 oz",
+      "hammer_total": 15.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546721-loreal-paris-colorista-1-day-hair-color-spray-40-pastel-mint-2-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/mVTCwG2C0EJt8uj6klobiC5d.jpeg"
+     },
+     {
+      "lot_number": 276,
+      "title": "L'Oreal Paris Colorista 1-Day Hair Color Spray, 40 Pastel Mint, 2 oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546720-loreal-paris-colorista-1-day-hair-color-spray-40-pastel-mint-2-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/g0Ts_Hmn284HusYVooipJoTR.jpeg"
+     },
+     {
+      "lot_number": 277,
+      "title": "TIGI Bed Head For Men Balm Down Cooling Aftershave 125ml",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546719-tigi-bed-head-for-men-balm-down-cooling-aftershave-125ml",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/6EzOJjnpXOwmCsZD06DvWkXf.jpeg"
+     },
+     {
+      "lot_number": 278,
+      "title": "TIGI Bed Head For Men Balm Down Cooling Aftershave 125ml",
+      "hammer_total": 27.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546718-tigi-bed-head-for-men-balm-down-cooling-aftershave-125ml",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/W9gjRDeJVsZSTkc-rbe6Jvma.jpeg"
+     },
+     {
+      "lot_number": 279,
+      "title": "Dove Whole Body Deo pH Balancing Deodorant Cream",
+      "hammer_total": 13.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546717-dove-whole-body-deo-ph-balancing-deodorant-cream",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/iFh0yxRXCSPijyBRaBn92_kV.jpeg"
+     },
+     {
+      "lot_number": 280,
+      "title": "Dove Whole Body Deo pH Balancing Deodorant Cream",
+      "hammer_total": 15.0,
+      "hammer_per_unit": 2.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546715-dove-whole-body-deo-ph-balancing-deodorant-cream",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/FRNqsIaoudTXtnldNIlYepFB.jpeg"
+     },
+     {
+      "lot_number": 281,
+      "title": "Dove Body Love Exfoliate Away Body Polish 12 oz",
+      "hammer_total": 27.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546716-dove-body-love-exfoliate-away-body-polish-12-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/A6tcVXZMUGmiiKc6x1TsEaub.jpeg"
+     },
+     {
+      "lot_number": 282,
+      "title": "Dove Body Love Exfoliate Away Body Polish 12 oz",
+      "hammer_total": 27.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546714-dove-body-love-exfoliate-away-body-polish-12-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/PqCuQEaBsxl-k6QE3SP31xcz.jpeg"
+     },
+     {
+      "lot_number": 283,
+      "title": "Method All-Purpose Cleaner, 28 fl oz Spray Bottle",
+      "hammer_total": 13.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546713-method-all-purpose-cleaner-28-fl-oz-spray-bottle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/yEYjbITMHG_Di_HARPL7JTpB.jpeg"
+     },
+     {
+      "lot_number": 284,
+      "title": "Method All-Purpose Cleaner, 28 fl oz Spray Bottle",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546712-method-all-purpose-cleaner-28-fl-oz-spray-bottle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/z11Dzud2vmGgU5_xNwSATLYW.jpeg"
+     },
+     {
+      "lot_number": 285,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash, Sugar Cookie Sprinkle",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546711-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/oZsAHTlAZXG01_2dyZFf1bSk.jpeg"
+     },
+     {
+      "lot_number": 286,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash, Sugar Cookie Sprinkle",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546710-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/MoCBzaWlfWGEoB2P9G_SAL3u.jpeg"
+     },
+     {
+      "lot_number": 287,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash, Sugar Cookie Sprinkle",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546709-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/uE4IWEYDQWFR9lw3A1rdNwGU.jpeg"
+     },
+     {
+      "lot_number": 295,
+      "title": "Method All-Purpose Cleaner, French Lavender, 28 fl oz",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546701-method-all-purpose-cleaner-french-lavender-28-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/blXTFbr7I4DaxwUwUrVP15p1.jpeg"
+     },
+     {
+      "lot_number": 297,
+      "title": "Method All-Purpose Cleaner, French Lavender, 28 fl oz",
+      "hammer_total": 16.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546699-method-all-purpose-cleaner-french-lavender-28-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/nseVzC_1n6TFzDc9oUlT8E5o.jpeg"
+     },
+     {
+      "lot_number": 298,
+      "title": "Method All-Purpose Cleaner, French Lavender, 28 fl oz",
+      "hammer_total": 16.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546698-method-all-purpose-cleaner-french-lavender-28-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ROV19EuPcWx48Ff9a-XG8WX0.jpeg"
+     },
+     {
+      "lot_number": 303,
+      "title": "Dial Pamper & Indulge Body Wash - Manuka Honey, 21 fl oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546693-dial-pamper-and-indulge-body-wash-manuka-honey-21-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/5rmahHdTdIU_iY4eN3csGIvz.jpeg"
+     },
+     {
+      "lot_number": 304,
+      "title": "Dial Pamper & Indulge Body Wash - Manuka Honey, 21 fl oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546692-dial-pamper-and-indulge-body-wash-manuka-honey-21-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/5j4lV_lpVGjYVCqW6UTh8NV4.jpeg"
+     },
+     {
+      "lot_number": 305,
+      "title": "Babyganics Natural Insect Repellent",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546691-babyganics-natural-insect-repellent",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/X9PSjSvZEAr2X5Hx4r7y-v0y.jpeg"
+     },
+     {
+      "lot_number": 306,
+      "title": "Babyganics Natural Insect Repellent",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546690-babyganics-natural-insect-repellent",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/OXxZmjF-475FxaXpUQayz9Jc.jpeg"
+     },
+     {
+      "lot_number": 307,
+      "title": "Babyganics Natural Insect Repellent",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546689-babyganics-natural-insect-repellent",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/R0xoyZvKpWyjXfXRcuTvq-or.jpeg"
+     },
+     {
+      "lot_number": 308,
+      "title": "Babyganics Natural Insect Repellent",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546688-babyganics-natural-insect-repellent",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/SuQGhnWl4hXklHf5yVRGSdf6.jpeg"
+     },
+     {
+      "lot_number": 309,
+      "title": "Raid MAX Liquid Ant Bait, 8 Count Value Pack",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546687-raid-max-liquid-ant-bait-8-count-value-pack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/tBq_8FmgONwwv8AhFtikqSGa.jpeg"
+     },
+     {
+      "lot_number": 310,
+      "title": "Raid MAX Liquid Ant Bait, 8 Count Value Pack",
+      "hammer_total": 15.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546685-raid-max-liquid-ant-bait-8-count-value-pack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/l6qKtoQfD_cuFU3zlwrDX3hn.jpeg"
+     },
+     {
+      "lot_number": 311,
+      "title": "Babyganics Natural Insect Repellent",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546686-babyganics-natural-insect-repellent",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/4Eu6XPtS5hvbGkwCmAUMXHh5.jpeg"
+     },
+     {
+      "lot_number": 312,
+      "title": "Babyganics Natural Insect Repellent",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546684-babyganics-natural-insect-repellent",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Bo1kNDaM6hGW8hO3vwOapbkv.jpeg"
+     },
+     {
+      "lot_number": 313,
+      "title": "Schwarzkopf got2b Creative Semi-Permanent Hair Color, 095 Electric Blue",
+      "hammer_total": 15.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546683-schwarzkopf-got2b-creative-semi-permanent-hair-color-095-electric-blue",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/wxaa7R2GKtd3mPaa44Mke_bB.jpeg"
+     },
+     {
+      "lot_number": 314,
+      "title": "Schwarzkopf got2b Creative Semi-Permanent Hair Color, 095 Electric Blue",
+      "hammer_total": 15.0,
+      "hammer_per_unit": 1.25,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546682-schwarzkopf-got2b-creative-semi-permanent-hair-color-095-electric-blue",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/jko5oHTz2VJr9uMzaxLdtaVI.jpeg"
+     },
+     {
+      "lot_number": 315,
+      "title": "AXE Fine Fragrance Collection Blue Lavender Aluminum-Free Deodorant Stick, 2.6 oz",
+      "hammer_total": 18.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546681-axe-fine-fragrance-collection-blue-lavender-aluminum-free-deodorant-stick-26-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/LZxSIKyXT7XZ9XB9pBKUBtlV.jpeg"
+     },
+     {
+      "lot_number": 316,
+      "title": "AXE Fine Fragrance Collection Blue Lavender Aluminum-Free Deodorant Stick, 2.6 oz",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546680-axe-fine-fragrance-collection-blue-lavender-aluminum-free-deodorant-stick-26-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/7rcOi4m71rLn9FO020iX3kty.jpeg"
+     },
+     {
+      "lot_number": 317,
+      "title": "Imaginext Disney and Pixar Lightyear Mission Multipack",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 2.25,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546679-imaginext-disney-and-pixar-lightyear-mission-multipack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/m0rbbImlgy489UgKPUnrBij6.jpeg"
+     },
+     {
+      "lot_number": 319,
+      "title": "Imaginext Disney and Pixar Lightyear Mission Multipack",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546677-imaginext-disney-and-pixar-lightyear-mission-multipack",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/qKbxigV1-DG679NqCPUFgdNW.jpeg"
+     },
+     {
+      "lot_number": 320,
+      "title": "Softsoap Limited Edition Liquid Hand Soap Refill, Pumpkin, 50 oz Bottle",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546676-softsoap-limited-edition-liquid-hand-soap-refill-pumpkin-50-oz-bottle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/rII2BusvLhdNrkksDY2EReLI.jpeg"
+     },
+     {
+      "lot_number": 321,
+      "title": "Softsoap Limited Edition Liquid Hand Soap Refill, Pumpkin, 50 oz Bottle",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546675-softsoap-limited-edition-liquid-hand-soap-refill-pumpkin-50-oz-bottle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/-8M4Nz5woQar7Qmw98v00A3O.jpeg"
+     },
+     {
+      "lot_number": 325,
+      "title": "Wilton How to Decorate with Fondant Shapes & Cut-Outs Kit",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546670-wilton-how-to-decorate-with-fondant-shapes-and-cut-outs-kit",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/ZqFn2BgFKuIxr3PlKq0MDFIk.jpeg"
+     },
+     {
+      "lot_number": 326,
+      "title": "Wet Brush Easy Blowout Hair Brush",
+      "hammer_total": 11.04,
+      "hammer_per_unit": 2.76,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546671-wet-brush-easy-blowout-hair-brush",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/PrWbR8HZMyUpCNSi3XdP-AIX.jpeg"
+     },
+     {
+      "lot_number": 327,
+      "title": "Wet Brush Easy Blowout Brush",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546669-wet-brush-easy-blowout-brush",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/sfrqvJurH_7Rbaikhxtu25-J.jpeg"
+     },
+     {
+      "lot_number": 328,
+      "title": "Softsoap Limited Edition Liquid Hand Soap Refill, Pumpkin, 50 oz Bottle",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546668-softsoap-limited-edition-liquid-hand-soap-refill-pumpkin-50-oz-bottle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Idr3-4KBEO6gK_is16k8uqz6.jpeg"
+     },
+     {
+      "lot_number": 329,
+      "title": "Softsoap Limited Edition Liquid Hand Soap Refill, Pumpkin, 50 oz Bottle",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 1.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546667-softsoap-limited-edition-liquid-hand-soap-refill-pumpkin-50-oz-bottle",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/xOdcnbRFWR3gO4aTfKtXAPZd.jpeg"
+     },
+     {
+      "lot_number": 333,
+      "title": "Wet Brush Easy Blowout Brush",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546663-wet-brush-easy-blowout-brush",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/BTyf8Je26yC_kbt6bpXRGI9l.jpeg"
+     },
+     {
+      "lot_number": 334,
+      "title": "Wet Brush Easy Blowout Brush",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 1.75,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546662-wet-brush-easy-blowout-brush",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/hYWmfIFoI8AMHwXx5gi8BmPw.jpeg"
+     },
+     {
+      "lot_number": 336,
+      "title": "Glade Automatic Spray Air Freshener Refill, Limited Edition Mighty Mango",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546660-glade-automatic-spray-air-freshener-refill-limited-edition-mighty-mango",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/lrjhEltZPT91tOvrb_MrIJyx.jpeg"
+     },
+     {
+      "lot_number": 337,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546659-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/6ZSQ3mp4_I_C-KMmaQeMm9Km.jpeg"
+     },
+     {
+      "lot_number": 338,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546658-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/1EEnumtr3UAXVlx-lAtwhRuC.jpeg"
+     },
+     {
+      "lot_number": 339,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 4.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546655-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/KuuJ6wl2tXNzaDOFNTmHy_R4.jpeg"
+     },
+     {
+      "lot_number": 340,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546656-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/DFDzsanVrkSsyIhGrw6opvRU.jpeg"
+     },
+     {
+      "lot_number": 341,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash, Sugar Cookie Sprinkle, 12 fl oz",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546654-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle-12-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/XOm3MnP3ZGRLLmSwDO3RdZzh.jpeg"
+     },
+     {
+      "lot_number": 342,
+      "title": "Dove Limited Edition Holiday Treats Liquid Hand Wash, Sugar Cookie Sprinkle, 12 fl oz",
+      "hammer_total": 8.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546657-dove-limited-edition-holiday-treats-liquid-hand-wash-sugar-cookie-sprinkle-12-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/s0ATFOZ7rhO9L1ED3KffUs9-.jpeg"
+     },
+     {
+      "lot_number": 343,
+      "title": "Wilton 24-Cup Mini Muffin Pan",
+      "hammer_total": 3.75,
+      "hammer_per_unit": 1.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546653-wilton-24-cup-mini-muffin-pan",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/pZkIcr82im-1I0GtfucY_GLc.jpeg"
+     },
+     {
+      "lot_number": 344,
+      "title": "Wilton 24-Cup Mini Muffin Pan",
+      "hammer_total": 6.75,
+      "hammer_per_unit": 2.25,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546651-wilton-24-cup-mini-muffin-pan",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/G1yIgGs4FUk1y2OgYhQ0bXdT.jpeg"
+     },
+     {
+      "lot_number": 347,
+      "title": "Method Refill + Reuse Foaming Hand Wash Concentrate Kit, Sea Minerals",
+      "hammer_total": 14.28,
+      "hammer_per_unit": 4.76,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546649-method-refill-reuse-foaming-hand-wash-concentrate-kit-sea-minerals",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/6MP7d5rOA8C3Gk2dSA5zgMsl.jpeg"
+     },
+     {
+      "lot_number": 349,
+      "title": "Method Refill + Reuse Foaming Hand Wash Concentrate Kit, Sea Minerals",
+      "hammer_total": 14.28,
+      "hammer_per_unit": 4.76,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546647-method-refill-reuse-foaming-hand-wash-concentrate-kit-sea-minerals",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/QOebp6r8r7V_ljQCOvCkFRPf.jpeg"
+     },
+     {
+      "lot_number": 350,
+      "title": "Method Refill + Reuse Foaming Hand Wash Concentrate Kit, Sea Minerals",
+      "hammer_total": 14.28,
+      "hammer_per_unit": 4.76,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546646-method-refill-reuse-foaming-hand-wash-concentrate-kit-sea-minerals",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/-FPFoJZ-iEx-HfjvP4YPUbbg.jpeg"
+     },
+     {
+      "lot_number": 351,
+      "title": "Method Refill + Reuse Foaming Hand Wash Concentrate Kit, Sea Minerals",
+      "hammer_total": 15.0,
+      "hammer_per_unit": 5.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546645-method-refill-reuse-foaming-hand-wash-concentrate-kit-sea-minerals",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2025/2/d7X8sctpXhdLQ5b8pdih9178.png"
+     },
+     {
+      "lot_number": 355,
+      "title": "Goliath Googly Eyes Showdown",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546641-goliath-googly-eyes-showdown",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/VQn5P9LTnDC87gaNUl0-Vl82.jpeg"
+     },
+     {
+      "lot_number": 356,
+      "title": "Goliath Googly Eyes Showdown",
+      "hammer_total": 4.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546640-goliath-googly-eyes-showdown",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/rOqBpBQWrokhCJ_ImoYSiEyG.jpeg"
+     },
+     {
+      "lot_number": 359,
+      "title": "Wilton How to Decorate with Fondant Shapes & Cut-Outs Kit",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546637-wilton-how-to-decorate-with-fondant-shapes-and-cut-outs-kit",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/sjvNP4l3Lo72gpm-CPjfvw4S.jpeg"
+     },
+     {
+      "lot_number": 360,
+      "title": "Wilton How to Decorate with Fondant Shapes & Cut-Outs Kit",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546636-wilton-how-to-decorate-with-fondant-shapes-and-cut-outs-kit",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/T2S6DLquGtb2uBDqexJJZX0P.jpeg"
+     },
+     {
+      "lot_number": 361,
+      "title": "Method Refill + Reuse Concentrated Foaming Hand Soap Starter Kit, Sea Minerals",
+      "hammer_total": 14.25,
+      "hammer_per_unit": 4.75,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546635-method-refill-reuse-concentrated-foaming-hand-soap-starter-kit-sea-minerals",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/nnqTAiTzcHVjcFg9fPwSZUcE.jpeg"
+     },
+     {
+      "lot_number": 362,
+      "title": "Method Refill + Reuse Concentrated Foaming Hand Soap Starter Kit, Sea Minerals",
+      "hammer_total": 15.0,
+      "hammer_per_unit": 5.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546634-method-refill-reuse-concentrated-foaming-hand-soap-starter-kit-sea-minerals",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/dnqgzSDr2jY0qHu0DeXJJ9bQ.jpeg"
+     },
+     {
+      "lot_number": 363,
+      "title": "Method Refill + Reuse Concentrated Foaming Hand Soap Starter Kit, Sea Minerals",
+      "hammer_total": 14.25,
+      "hammer_per_unit": 4.75,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546633-method-refill-reuse-concentrated-foaming-hand-soap-starter-kit-sea-minerals",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/KUFHvdXN5ubt0poOWiiZvM84.jpeg"
+     },
+     {
+      "lot_number": 364,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546632-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/OkEONSYuOD82T6b9m1XE5BbP.jpeg"
+     },
+     {
+      "lot_number": 365,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546631-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/63pn35ehzj_d-E-JPOnxyb2V.jpeg"
+     },
+     {
+      "lot_number": 366,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546630-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/nHNgX4UsrmlaZfgE2f4-ECOG.jpeg"
+     },
+     {
+      "lot_number": 367,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546629-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/iqvYHWq6K-6_Ki-lQGpsjlWm.jpeg"
+     },
+     {
+      "lot_number": 368,
+      "title": "KIWI Recruit Care Kit",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546628-kiwi-recruit-care-kit",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/nM2dwoGNVXN1dLnU9w1sf_5L.jpeg"
+     },
+     {
+      "lot_number": 369,
+      "title": "KIWI Recruit Care Kit",
+      "hammer_total": 7.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546627-kiwi-recruit-care-kit",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/9DYW29x3HAOfNjGlIZk83rt0.jpeg"
+     },
+     {
+      "lot_number": 370,
+      "title": "Method Gel Hand Wash Refill, Vetiver + Amber, 34 fl oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546626-method-gel-hand-wash-refill-vetiver-amber-34-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/pTSNlHKtiosProCA9Z1Fij-L.jpeg"
+     },
+     {
+      "lot_number": 371,
+      "title": "Method Gel Hand Wash Refill, Vetiver + Amber, 34 fl oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546625-method-gel-hand-wash-refill-vetiver-amber-34-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/kHJCdkqyuZYLAlmFWRnZP4Z2.jpeg"
+     },
+     {
+      "lot_number": 372,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546624-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/p_s70u73khJQaYC8Nj6mYKv8.jpeg"
+     },
+     {
+      "lot_number": 373,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546623-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Fn93oUJSKePWw7II9rthPMd0.jpeg"
+     },
+     {
+      "lot_number": 374,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546622-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/djkU1j_NDVVd6t1EJv1tK5JS.jpeg"
+     },
+     {
+      "lot_number": 375,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546621-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/vpPkj1M2OBDsyfZ2RkAbQCpT.jpeg"
+     },
+     {
+      "lot_number": 377,
+      "title": "Method Gel Hand Wash Refill, Vetiver + Amber, 34 fl oz",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546619-method-gel-hand-wash-refill-vetiver-amber-34-fl-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/CemhtpRnekEMJsz8qQMKs2nu.jpeg"
+     },
+     {
+      "lot_number": 378,
+      "title": "Glade Automatic Spray Air Freshener, Radiant Bloom Limited Edition, 2 Refills",
+      "hammer_total": 11.25,
+      "hammer_per_unit": 3.75,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546618-glade-automatic-spray-air-freshener-radiant-bloom-limited-edition-2-refills",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/z8AqqVsl3Ca3UzYXdFYCC_jE.jpeg"
+     },
+     {
+      "lot_number": 379,
+      "title": "Glade Automatic Spray Air Freshener, Radiant Bloom Limited Edition, 2 Refills",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 3.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546617-glade-automatic-spray-air-freshener-radiant-bloom-limited-edition-2-refills",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/U7zXVdt70P_w_N9nAVg-Megg.jpeg"
+     },
+     {
+      "lot_number": 380,
+      "title": "Glade Automatic Spray Air Freshener, Radiant Bloom Limited Edition, 2 Refills",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 3.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546616-glade-automatic-spray-air-freshener-radiant-bloom-limited-edition-2-refills",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/yzkca82SMRjv0E-riRjgkih9.jpeg"
+     },
+     {
+      "lot_number": 381,
+      "title": "Glade Automatic Spray Air Freshener, Radiant Bloom Limited Edition, 2 Refills",
+      "hammer_total": 10.5,
+      "hammer_per_unit": 3.5,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546615-glade-automatic-spray-air-freshener-radiant-bloom-limited-edition-2-refills",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/hH5ZBlIGHoowGPpv_W8_OpKL.jpeg"
+     },
+     {
+      "lot_number": 383,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546613-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/wYSEQlg6nGOWfImHROo7h8Cp.jpeg"
+     },
+     {
+      "lot_number": 384,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546612-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/Qyh1ftojrM8KkH6Es1woQ71T.jpeg"
+     },
+     {
+      "lot_number": 385,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546611-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/f-Z-tAeFECGEoWKFEVhHsCxv.jpeg"
+     },
+     {
+      "lot_number": 386,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546610-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/52wu1PTwrXYt5vIK1WCqtTcc.jpeg"
+     },
+     {
+      "lot_number": 387,
+      "title": "Barbie Wellness Figure Pack by Little People (HMX81)",
+      "hammer_total": 13.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546609-barbie-wellness-figure-pack-by-little-people-hmx81",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/MhrzvElICBvjTH90RBgHvQKt.jpeg"
+     },
+     {
+      "lot_number": 388,
+      "title": "Barbie Wellness Figure Pack by Little People (HMX81)",
+      "hammer_total": 13.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546608-barbie-wellness-figure-pack-by-little-people-hmx81",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/HczKbJEUghXTeeBzh1DkKqDt.jpeg"
+     },
+     {
+      "lot_number": 389,
+      "title": "Barbie Wellness Figure Pack by Little People (HMX81)",
+      "hammer_total": 13.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546607-barbie-wellness-figure-pack-by-little-people-hmx81",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/upMfXPtzdgUmdN0OOdY_b1F-.jpeg"
+     },
+     {
+      "lot_number": 390,
+      "title": "Barbie Wellness Figure Pack by Little People (HMX81)",
+      "hammer_total": 13.5,
+      "hammer_per_unit": 2.25,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546606-barbie-wellness-figure-pack-by-little-people-hmx81",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/DK8KGc-MnTTz2TYWzKQ21Ce6.jpeg"
+     },
+     {
+      "lot_number": 398,
+      "title": "Perky-Pet Carriage Wild Bird Feeder",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546598-perky-pet-carriage-wild-bird-feeder",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/p9CEbjuxQREHHv3g-Fc792K6.jpeg"
+     },
+     {
+      "lot_number": 399,
+      "title": "Perky-Pet Carriage Wild Bird Feeder",
+      "hammer_total": 6.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546597-perky-pet-carriage-wild-bird-feeder",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/6cHKYiDg2njJW-ZavGPhR47E.jpeg"
+     },
+     {
+      "lot_number": 400,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546596-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/gvYf_UV8LuA3vGNKBtzsrWp8.jpeg"
+     },
+     {
+      "lot_number": 401,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.0,
+      "hammer_per_unit": 1.0,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546595-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2025/2/d7X8sctpXhdLQ5b8pdih9178.png"
+     },
+     {
+      "lot_number": 402,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546593-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/zLkBzvzfOE4Np8T_JMrDUW3E.jpeg"
+     },
+     {
+      "lot_number": 403,
+      "title": "Raskullz Lil' Buddy Infant Bike Helmet",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546594-raskullz-lil-buddy-infant-bike-helmet",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/xqrbptmrQR24tjJSP2dKmFAn.jpeg"
+     },
+     {
+      "lot_number": 404,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546592-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/1d08hTf2t23QRrSeJoGGRjqG.jpeg"
+     },
+     {
+      "lot_number": 405,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 1.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546591-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/_VmCBM99waapEUj2NzIBKbS9.jpeg"
+     },
+     {
+      "lot_number": 406,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546589-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/RJeLEHISRGBuDWRKkwLJJlWH.jpeg"
+     },
+     {
+      "lot_number": 407,
+      "title": "L.O.L. Surprise! 2D Kids Bike Helmet (Ages 5+)",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1128/lot/546586-lol-surprise-2d-kids-bike-helmet-ages-5",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/9/medium/NWutY365tjds8tZmK1d5Hiy2.jpeg"
+     }
+    ]
+   }
   },
   {
    "id": "1138",
