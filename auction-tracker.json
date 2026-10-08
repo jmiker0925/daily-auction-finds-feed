@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T09:35:25.033432-05:00",
+ "generatedAt": "2026-10-07T20:48:57.229982-05:00",
  "auctions": [
   {
    "id": "HiBid-ElmMott",
@@ -976,24 +976,6 @@
      "notes": "MSRP $134.10. 1 bid."
     },
     {
-     "lotNumber": 165,
-     "item": "RIDGID 18V Cordless 1/4 in. Impact Driver (Tool Only)",
-     "category": "Power Tools",
-     "condition": "Unknown",
-     "currentBid": 0.5,
-     "workingMax": 22,
-     "proxyPlaced": 22,
-     "allInAtCurrent": 0.62,
-     "status": "Winning",
-     "highBidder": null,
-     "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556516-msrp-9900-ridgid-18v-cordless-1-4-in-impact-driver-tool-only",
-     "closeAt": "2026-10-15T19:00:00-05:00",
-     "priority": "Medium",
-     "authorization": "Awaiting Approval",
-     "miles": 20,
-     "notes": "MSRP $99.00. 1 bid."
-    },
-    {
      "lotNumber": 166,
      "item": "Everbilt 1/2 in. Brass Female Hose Bibb [Used]",
      "category": "Plumbing",
@@ -1046,24 +1028,6 @@
      "authorization": "Awaiting Approval",
      "miles": 20,
      "notes": "MSRP $129.00. 1 bid."
-    },
-    {
-     "lotNumber": 180,
-     "item": "DEWALT FLEXVOLT 9 Ah Battery 20V/60V",
-     "category": "Power Tools",
-     "condition": "Unknown",
-     "currentBid": 4,
-     "workingMax": 72,
-     "proxyPlaced": 72,
-     "allInAtCurrent": 4.98,
-     "status": "Winning",
-     "highBidder": null,
-     "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556501-msrp-31873-tadewalt-battery-flexvolt-9-ah-battery-included-20v-dc-60v-dc",
-     "closeAt": "2026-10-15T19:00:00-05:00",
-     "priority": "High",
-     "authorization": "Awaiting Approval",
-     "miles": 20,
-     "notes": "MSRP $318.73. 18 bids - hot."
     },
     {
      "lotNumber": 182,
