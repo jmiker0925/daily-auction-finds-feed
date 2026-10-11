@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T14:35:49+00:00",
+ "generated_at": "2026-10-11T14:37:44+00:00",
  "listings": [
   {
    "listingId": "facebook:1649016526747974:4836",
@@ -4247,19 +4247,19 @@
    "costCents": null
   },
   {
-   "listingId": "facebook:1402455985101413",
+   "listingId": "facebook:1402455985101413:499",
    "platform": "facebook",
    "platformLabel": "Facebook Marketplace",
    "title": "Porter Cable 21-Degree 3-1/2 in. Full Round Framing Nailer",
    "url": "https://www.facebook.com/marketplace/item/1402455985101413",
    "listPrice": 165.0,
-   "listedDate": "2026-07-27",
-   "daysOnSite": 76,
+   "listedDate": "2026-10-11",
+   "daysOnSite": 0,
    "quantityListed": 1,
-   "location": null,
-   "description": "Porter Cable 21-Degree 3-1/2 in. Full Round Framing Nailer\n\nModel: FR350B\n\nLightweight at just 7.3 lbs.\n\nPower to drive nails up to 3-1/2 in. x 0.131 in. into engineered lumber\n\nTool-free adjustable exhaust\n\nAccepts 21-degree plastic round head nails from 2 in. to 3-1/2 in. (0.113 in. to 0.148 in. diameter)\n\nOperating pressure of 70 PSI - 120 PSI\n\nIdeal for most framing applications\n\nSearch tags: framing nailer, nail gun, Porter Cable, FR350B, 21 degree nailer, pneumatic nailer, full round head nailer, air nailer",
-   "itemId": null,
-   "costCents": null
+   "location": "DRW-T2-S5",
+   "description": "Porter Cable nailer $6.50",
+   "itemId": 499,
+   "costCents": 809
   },
   {
    "listingId": "facebook:1077600208183608",
