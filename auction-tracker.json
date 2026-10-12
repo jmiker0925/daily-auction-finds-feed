@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T07:43:05.243562-05:00",
+ "generatedAt": "2026-10-12T07:43:04.716032-05:00",
  "auctions": [
   {
    "id": "SS-Dal-0928",
@@ -218,24 +218,6 @@
    "pickup": "2905 Miller Park N, Garland, TX",
    "lots": [
     {
-     "lotNumber": 5,
-     "item": "DEWALT 12V/20V MAX Dual Port Jobsite Charging Station DCB102",
-     "category": "Power Tools",
-     "condition": "Unknown",
-     "currentBid": 5.5,
-     "workingMax": 25,
-     "proxyPlaced": 25,
-     "allInAtCurrent": 6.85,
-     "status": "Winning",
-     "highBidder": null,
-     "listingUrl": "https://www.auctionhubtexas.com/auctions/1149/lot/557024-dewalt-12v-to-20v-max-lithium-ion-dual-port-jobsite-charging-station-model-dcb102-11900",
-     "closeAt": "2026-10-14T19:00:00-05:00",
-     "priority": "High",
-     "authorization": "Awaiting Approval",
-     "miles": 20,
-     "notes": "Re-based 10/9 from title retail to own comps: eBay sold new $69.99 (40 sold). Ends 7:00 PM."
-    },
-    {
      "lotNumber": 9,
      "item": "DEWALT 1.5 in. 20V MAX Cordless Pruner",
      "category": "Power Tools",
@@ -270,24 +252,6 @@
      "authorization": "Awaiting Approval",
      "miles": 20,
      "notes": "Re-based 10/9 from title retail to own comps: eBay XL box ~$79.95. Ends 7:01 PM."
-    },
-    {
-     "lotNumber": 35,
-     "item": "Milwaukee 16ft Tape Measure",
-     "category": "Hand Tools",
-     "condition": "Unknown",
-     "currentBid": 5,
-     "workingMax": 5,
-     "proxyPlaced": 5,
-     "allInAtCurrent": 6.22,
-     "status": "Winning",
-     "highBidder": null,
-     "listingUrl": "https://www.auctionhubtexas.com/auctions/1149/lot/558541-milwaukee-16ft-tape-measure",
-     "closeAt": "2026-10-14T19:00:00-05:00",
-     "priority": "Low",
-     "authorization": "Awaiting Approval",
-     "miles": 20,
-     "notes": "Own comp: eBay 16ft tape ~$12-15. Ends 7:03 PM. Outbid at 10/9 pull: current $5 vs your max $5. TIE at your max - 6****2 holds top bid on the site, so treat as outbid."
     },
     {
      "lotNumber": 86,
@@ -360,24 +324,6 @@
      "authorization": "Awaiting Approval",
      "miles": 20,
      "notes": "Own comp: eBay tool-only sold $89.99-99.91 (97 sold); kit w/ battery+charger. Ends 7:31 PM."
-    },
-    {
-     "lotNumber": 468,
-     "item": "RIDGID 18V Brushless 4-1/2 in. Paddle Switch Angle Grinder",
-     "category": "Power Tools",
-     "condition": "Unknown",
-     "currentBid": 22,
-     "workingMax": 31,
-     "proxyPlaced": 31,
-     "allInAtCurrent": 27.39,
-     "status": "Winning",
-     "highBidder": null,
-     "listingUrl": "https://www.auctionhubtexas.com/auctions/1149/lot/558107-ridgid-brushless-18v-brushless-4-1-2in-paddle-switch-angle-grinder",
-     "closeAt": "2026-10-14T19:00:00-05:00",
-     "priority": "High",
-     "authorization": "Awaiting Approval",
-     "miles": 20,
-     "notes": "Own comp: eBay new $87.99-109, $89.99 (HD bare ~$149-159). Ends 7:46 PM."
     },
     {
      "lotNumber": 518,
@@ -576,24 +522,6 @@
      "authorization": "Awaiting Approval",
      "miles": 20,
      "notes": "Own comp: eBay kit BIN $274.87, tool-only $210-270 (retail $449-549 overstated). Ends 8:13 PM. John placed $80 (ceiling $95)."
-    },
-    {
-     "lotNumber": 971,
-     "item": "Milwaukee Head Lamp with Hardhat Clamps",
-     "category": "Lighting",
-     "condition": "Unknown",
-     "currentBid": 5.5,
-     "workingMax": 18,
-     "proxyPlaced": 18,
-     "allInAtCurrent": 6.85,
-     "status": "Winning",
-     "highBidder": null,
-     "listingUrl": "https://www.auctionhubtexas.com/auctions/1149/lot/557605-milwaukee-head-lamp-with-hardhat-clamps",
-     "closeAt": "2026-10-14T19:00:00-05:00",
-     "priority": "Low",
-     "authorization": "Awaiting Approval",
-     "miles": 20,
-     "notes": "Own comp: eBay 2163-21 $65 new / $36.95 used. Ends 8:37 PM."
     },
     {
      "lotNumber": 975,
@@ -844,10 +772,10 @@
      "item": "Husky Framers 3-Bag Work Tool Belt with Suspenders",
      "category": "Tool Storage",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 5,
      "workingMax": 18,
      "proxyPlaced": 10,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 6.22,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556611-msrp-7998-husky-framers-3-bag-work-tool-belt-with-suspenders",
@@ -855,7 +783,7 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $79.98. 1 bid."
+     "notes": "MSRP $79.98. 22 bids."
     },
     {
      "lotNumber": 81,
@@ -873,7 +801,7 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "EXT MSRP $324.95 = lot total for qty 5. Per-unit: resale ~$32.50, max ~$14. No bids yet."
+     "notes": "EXT MSRP $324.95 = lot total for qty 5. Per-unit: resale ~$32.50, max ~$14. No bids yet. 1 bid."
     },
     {
      "lotNumber": 82,
@@ -891,7 +819,7 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "EXT MSRP $324.95 = lot total for qty 5. Per-unit: resale ~$32.50, max ~$14. No bids yet."
+     "notes": "EXT MSRP $324.95 = lot total for qty 5. Per-unit: resale ~$32.50, max ~$14. No bids yet. 1 bid."
     },
     {
      "lotNumber": 104,
@@ -916,10 +844,10 @@
      "item": "4-in-1 1000V Insulated Slim-Tip Multi-Bit Screwdriver",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 1.75,
+     "currentBid": 5,
      "workingMax": 6,
      "proxyPlaced": null,
-     "allInAtCurrent": 2.18,
+     "allInAtCurrent": 6.22,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556567-msrp-2997-4-in-1-1000v-insulated-slim-tip-multi-bit-screwdriver",
@@ -927,17 +855,17 @@
      "priority": "Low",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $29.97. 9 bids - getting attention."
+     "notes": "MSRP $29.97. 11 bids."
     },
     {
      "lotNumber": 115,
      "item": "4-in-1 1000V Insulated Slim-Tip Multi-Bit Screwdriver",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 3.75,
+     "currentBid": 6,
      "workingMax": 6,
      "proxyPlaced": null,
-     "allInAtCurrent": 4.67,
+     "allInAtCurrent": 7.47,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556566-msrp-2997-4-in-1-1000v-insulated-slim-tip-multi-bit-screwdriver",
@@ -945,17 +873,17 @@
      "priority": "Low",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $29.97. 17 bids - hot."
+     "notes": "MSRP $29.97. 21 bids."
     },
     {
      "lotNumber": 155,
      "item": "Dasco Pro Pry Bar Set (3-Piece)",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 2.5,
      "workingMax": 4,
      "proxyPlaced": 4,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 3.11,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556526-msrp-1897-dasco-pro-pry-bar-set-3-piece",
@@ -963,17 +891,17 @@
      "priority": "Low",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $18.97. 1 bid."
+     "notes": "MSRP $18.97. 12 bids."
     },
     {
      "lotNumber": 159,
      "item": "18V Brushless 1/2 in. High Torque Hammer Drill/Driver",
      "category": "Power Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 10.5,
      "workingMax": 38,
      "proxyPlaced": 38,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 13.07,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556521-msrp-16900-18v-brushless-cordless-1-2-in-high-torque-hammer-drill-driver",
@@ -981,17 +909,17 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $169.00. 1 bid."
+     "notes": "MSRP $169.00. 13 bids."
     },
     {
      "lotNumber": 161,
      "item": "RIDGID 18V SubCompact 3/8 in. Right Angle Drill (Tool Only)",
      "category": "Power Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 16,
      "workingMax": 31,
      "proxyPlaced": 31,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 19.92,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556520-msrp-13900-ridgid-18v-subcompact-brushless-cordless-3-8-in-right-angle-drill-tool-only",
@@ -999,17 +927,17 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $139.00. 1 bid."
+     "notes": "MSRP $139.00. 7 bids."
     },
     {
      "lotNumber": 162,
      "item": "RIDGID 18V Cordless 1/2 in. Drill/Driver",
      "category": "Power Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 11.5,
      "workingMax": 27,
      "proxyPlaced": 27,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 14.32,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556519-msrp-11900-ridgid-18v-cordless-1-2-in-drill-driver",
@@ -1017,17 +945,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $119.00. 1 bid."
+     "notes": "MSRP $119.00. 15 bids."
     },
     {
      "lotNumber": 164,
      "item": "RIDGID 18V Brushless 1/4 in. Impact Driver (Tool Only)",
      "category": "Power Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 27,
      "workingMax": 30,
      "proxyPlaced": 30,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 33.61,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556517-msrp-13410-ridgid-18v-brushless-cordless-1-4-in-impact-driver-tool-only",
@@ -1035,7 +963,7 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $134.10. 1 bid."
+     "notes": "MSRP $134.10. 33 bids."
     },
     {
      "lotNumber": 166,
@@ -1078,10 +1006,10 @@
      "item": "RIDGID 18V 4.0 Ah MAX Output Battery",
      "category": "Power Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 16,
      "workingMax": 29,
      "proxyPlaced": 29,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 19.92,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556507-msrp-12900-ridgid-18v-40-ah-max-output-lithium-ion-battery",
@@ -1089,35 +1017,35 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $129.00. 1 bid."
+     "notes": "MSRP $129.00. 15 bids."
     },
     {
      "lotNumber": 182,
      "item": "DEWALT 20V 21-Degree Cordless Framing Nailer (Tool Only) [Used As Is]",
      "category": "Power Tools",
      "condition": "Used as-is",
-     "currentBid": 13.5,
+     "currentBid": 63,
      "workingMax": 91,
      "proxyPlaced": 60,
-     "allInAtCurrent": 16.81,
-     "status": "Winning",
-     "highBidder": null,
+     "allInAtCurrent": 78.43,
+     "status": "Outbid",
+     "highBidder": "4****3",
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556499-msrp-39900-dewalt-20-volt-21-cordless-framing-nailer-tool-only-used-as-is",
      "closeAt": "2026-10-15T19:00:00-05:00",
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $399.00. USED AS-IS (customer return) - verify condition; standard formula applied. 10 bids."
+     "notes": "MSRP $399.00. USED AS-IS (customer return) - verify condition; standard formula applied. 33 bids."
     },
     {
      "lotNumber": 217,
      "item": "18V Dual Port Rapid Optimum Charger",
      "category": "Power Tools",
      "condition": "Unknown",
-     "currentBid": 0.7,
+     "currentBid": 16,
      "workingMax": 45,
      "proxyPlaced": 40,
-     "allInAtCurrent": 0.87,
+     "allInAtCurrent": 19.92,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556464-msrp-19900-18v-lithium-ion-dual-port-rapid-optimum-charger",
@@ -1125,17 +1053,17 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $199.00. 3 bids."
+     "notes": "MSRP $199.00. 15 bids."
     },
     {
      "lotNumber": 240,
      "item": "FastenMaster TimberLok 8 in. Wood Screws (50-Pack)",
      "category": "Hardware",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 7.25,
      "workingMax": 13,
      "proxyPlaced": 13,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 9.03,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556440-msrp-6000-fastenmaster-timberlok-8-in-heavy-duty-wood-screws-8-in-timberlok-coarse-steel-hex-head-heavy-duty-wood-screws-50-pack-blacks",
@@ -1143,17 +1071,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $60.00. 1 bid."
+     "notes": "MSRP $60.00. 24 bids."
     },
     {
      "lotNumber": 278,
      "item": "Milwaukee SHOCKWAVE Titanium Drill Bit Set 23-Pc [Missing 4 Small Bits]",
      "category": "Accessories",
      "condition": "Incomplete",
-     "currentBid": 0.5,
+     "currentBid": 0.8,
      "workingMax": 11,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 1.0,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556402-msrp-4997-milwaukee-shockwave-impact-duty-titanium-twist-drill-bit-set-23-piece-missing-4-small-bits",
@@ -1161,17 +1089,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $49.97. MISSING 4 small bits. 1 bid."
+     "notes": "MSRP $49.97. MISSING 4 small bits. 4 bids."
     },
     {
      "lotNumber": 293,
      "item": "3/16-15/16 in. Close Quarters Tubing Cutter",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 0.6,
      "workingMax": 4,
      "proxyPlaced": 4,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 0.75,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556388-msrp-1998-3-16-in-to-15-16-in-104-close-quarters-copper-aluminum-brass-and-plastic-tubing-cutter-multi-use-tubing-tool",
@@ -1179,17 +1107,17 @@
      "priority": "Low",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $19.98. No bids yet."
+     "notes": "MSRP $19.98. No bids yet. 2 bids."
     },
     {
      "lotNumber": 297,
      "item": "27-in-1 Tamperproof Multi-Bit Screwdriver",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 6,
      "workingMax": 7,
      "proxyPlaced": 7,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 7.47,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556384-msrp-3297-27-in-1-tamperproof-multi-bit-screwdriver",
@@ -1197,7 +1125,7 @@
      "priority": "Low",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $32.97. 1 bid."
+     "notes": "MSRP $32.97. 13 bids."
     },
     {
      "lotNumber": 326,
@@ -1240,10 +1168,10 @@
      "item": "FIRM GRIP Large Work Gloves (4-Pack) (qty 14)",
      "category": "Workwear",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 0.7,
      "workingMax": 25,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 0.87,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556353-ext-msrp-11018-firm-grip-large-polyurethane-grip-work-gloves-4-pack",
@@ -1251,7 +1179,7 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "EXT MSRP $110.18 = lot total for qty 14 (4-packs). Per 4-pack: resale ~$3.93. No bids yet."
+     "notes": "EXT MSRP $110.18 = lot total for qty 14 (4-packs). Per 4-pack: resale ~$3.93. No bids yet. 3 bids."
     },
     {
      "lotNumber": 364,
@@ -1269,7 +1197,7 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MYSTERY - John decides (no ceiling per standing tactic). No bids yet."
+     "notes": "MYSTERY - John decides (no ceiling per standing tactic). No bids yet. 0 bids."
     },
     {
      "lotNumber": 383,
@@ -1305,7 +1233,7 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MYSTERY - John decides (no ceiling per standing tactic). Site est. value $1,750. No bids yet."
+     "notes": "MYSTERY - John decides (no ceiling per standing tactic). Site est. value $1,750. No bids yet. 0 bids."
     },
     {
      "lotNumber": 456,
@@ -1330,10 +1258,10 @@
      "item": "RYOBI ONE+ HP 18V Brushless 3/8 in. Right Angle Drill (Tool Only) [slightly used]",
      "category": "Power Tools",
      "condition": "Slightly used",
-     "currentBid": 5.5,
+     "currentBid": 21,
      "workingMax": 27,
      "proxyPlaced": 27,
-     "allInAtCurrent": 6.85,
+     "allInAtCurrent": 26.14,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556195-msrp-11900-ryobi-one-hp-18v-brushless-cordless-compact-3-8-in-right-angle-drill-tool-only-slightly-used",
@@ -1341,17 +1269,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $119.00. SLIGHTLY USED - standard formula applied. 10 bids."
+     "notes": "MSRP $119.00. SLIGHTLY USED - standard formula applied. 35 bids."
     },
     {
      "lotNumber": 490,
      "item": "20 oz. Steel Rip Claw Nailing Hammer",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 1.75,
      "workingMax": 7,
      "proxyPlaced": 1.99,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 2.18,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556191-msrp-3197-20-oz-steel-rip-claw-nailing-hammer",
@@ -1359,17 +1287,17 @@
      "priority": "Low",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $31.97. No bids yet."
+     "notes": "MSRP $31.97. No bids yet. 9 bids."
     },
     {
      "lotNumber": 494,
      "item": "DEWALT 15 Amp 7-1/4 in. Lightweight Circular Saw",
      "category": "Power Tools",
      "condition": "Unknown",
-     "currentBid": 11,
+     "currentBid": 31,
      "workingMax": 34,
      "proxyPlaced": 34,
-     "allInAtCurrent": 13.69,
+     "allInAtCurrent": 38.59,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556187-msrp-14900-dewalt-15-amp-corded-7-1-4-in-lightweight-circular-saw",
@@ -1377,17 +1305,17 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $149.00. 14 bids."
+     "notes": "MSRP $149.00. 31 bids."
     },
     {
      "lotNumber": 502,
      "item": "Zircon MultiScanner HD900 Stud Finder",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 1.5,
      "workingMax": 14,
      "proxyPlaced": 2.99,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 1.87,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556179-msrp-6497-zircon-multiscanner-hd900-3-in-multifunction-stud-finder",
@@ -1395,17 +1323,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $64.97. 1 bid."
+     "notes": "MSRP $64.97. 8 bids."
     },
     {
      "lotNumber": 509,
      "item": "ONE+ 18V Hybrid WHISPER SERIES 14 in. Air Cannon Fan (Tool Only)",
      "category": "Power Tools",
      "condition": "Unknown",
-     "currentBid": 5.5,
+     "currentBid": 22,
      "workingMax": 29,
      "proxyPlaced": 29,
-     "allInAtCurrent": 6.85,
+     "allInAtCurrent": 27.39,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556172-msrp-12900-one-18v-cordless-hybrid-whisper-series-14-in-air-cannon-fan-tool-only-tested-and-works",
@@ -1413,17 +1341,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $129.00. 4 bids."
+     "notes": "MSRP $129.00. 12 bids."
     },
     {
      "lotNumber": 570,
      "item": "Hole Dozer Bi-Metal Hole Saw Set (17-Piece)",
      "category": "Accessories",
      "condition": "Unknown",
-     "currentBid": 0.6,
+     "currentBid": 6,
      "workingMax": 15,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.75,
+     "allInAtCurrent": 7.47,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556110-msrp-6997-hole-dozer-general-purpose-bi-metal-hole-saw-set-17-piece",
@@ -1431,17 +1359,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $69.97. 2 bids."
+     "notes": "MSRP $69.97. 8 bids."
     },
     {
      "lotNumber": 609,
      "item": "2500 Peak Amp Lithium Jump Starter w/ USB Power Bank",
      "category": "Accessories",
      "condition": "Unknown",
-     "currentBid": 5.5,
+     "currentBid": 29,
      "workingMax": 50,
      "proxyPlaced": null,
-     "allInAtCurrent": 6.85,
+     "allInAtCurrent": 36.1,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556073-msrp-21900-2500-peak-amp-lithium-jump-starter-with-usb-power-bank-and-carrying-case-dxaelj25c",
@@ -1449,17 +1377,17 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $219.00. 4 bids."
+     "notes": "MSRP $219.00. 32 bids."
     },
     {
      "lotNumber": 616,
      "item": "ONE+ HP 18V Brushless 1/2 in. Hammer Drill (Tool Only) [TESTED AND WORKS]",
      "category": "Power Tools",
      "condition": "Tested",
-     "currentBid": 5.5,
+     "currentBid": 16,
      "workingMax": 29,
      "proxyPlaced": 29,
-     "allInAtCurrent": 6.85,
+     "allInAtCurrent": 19.92,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556065-msrp-12900-one-hp-18v-brushless-cordless-1-2-in-hammer-drill-tool-only-tested-and-works",
@@ -1467,17 +1395,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $129.00. TESTED AND WORKS per listing. 3 bids."
+     "notes": "MSRP $129.00. TESTED AND WORKS per listing. 15 bids."
     },
     {
      "lotNumber": 631,
      "item": "HUSKY 3/8\"D 6PT Socket MM 27-Piece Set",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.6,
+     "currentBid": 2.25,
      "workingMax": 15,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.75,
+     "allInAtCurrent": 2.8,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556049-msrp-6952-husky-3-8d-6pt-socket-mm-27-piece-set",
@@ -1485,17 +1413,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $69.52. 2 bids."
+     "notes": "MSRP $69.52. 6 bids."
     },
     {
      "lotNumber": 634,
      "item": "1/2 in. Drive Deep MM Socket Set (11-Piece)",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 2,
      "workingMax": 10,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 2.49,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556050-msrp-4697-1-2-in-drive-deep-mm-socket-set-11-piece",
@@ -1503,17 +1431,17 @@
      "priority": "Low",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $46.97. 1 bid."
+     "notes": "MSRP $46.97. 5 bids."
     },
     {
      "lotNumber": 637,
      "item": "HUSKY 17 Piece Red/Clear Handle Flat Head Screwdriver Set",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 2.75,
+     "currentBid": 7.5,
      "workingMax": 10,
      "proxyPlaced": null,
-     "allInAtCurrent": 3.42,
+     "allInAtCurrent": 9.34,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556044-msrp-4497-husky-17-piece-red-and-clear-handle-flat-head-screw-driver-set",
@@ -1521,7 +1449,7 @@
      "priority": "Low",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $44.97. 5 bids."
+     "notes": "MSRP $44.97. 20 bids."
     },
     {
      "lotNumber": 641,
@@ -1546,10 +1474,10 @@
      "item": "Gear Wrench B#5 15PC 12Dr Standard Socket MM",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 5,
      "workingMax": null,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 6.22,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556040-gear-wrench-b5-15pc-12dr-standard-socket-mm",
@@ -1557,17 +1485,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "NO MSRP - need comp. 1 bid."
+     "notes": "NO MSRP - need comp. 3 bids."
     },
     {
      "lotNumber": 643,
      "item": "Gear Wrench 1/4Dr 6pt Std/Deep Skt SAE/MM",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 6,
      "workingMax": null,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 7.47,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556038-gear-wrench-14dr6pt-std-deep-sktsae-mm",
@@ -1575,17 +1503,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "NO MSRP - need comp (piece count unknown). 1 bid."
+     "notes": "NO MSRP - need comp (piece count unknown). 5 bids."
     },
     {
      "lotNumber": 644,
      "item": "Gear Wrench A#2 30PC 3/8Dr 6pt Std Skt SAE/MM",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 6,
      "workingMax": null,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 7.47,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556037-gear-wrench-a2-30pc-38dr6pt-std-skt-sae-mm",
@@ -1593,17 +1521,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "NO MSRP - need comp. 1 bid."
+     "notes": "NO MSRP - need comp. 5 bids."
     },
     {
      "lotNumber": 645,
      "item": "Gear Wrench A#3 31PC 3/8Dr Deep Socket SAE/MM",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 6,
      "workingMax": null,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 7.47,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556036-gear-wrench-a3-31pc-38drdeep-socket-sae-mm",
@@ -1611,17 +1539,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "NO MSRP - need comp. 1 bid."
+     "notes": "NO MSRP - need comp. 5 bids."
     },
     {
      "lotNumber": 646,
      "item": "Gear Wrench B#6 14PC 12Dr Deep Socket SAE",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 5,
      "workingMax": 28,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 6.22,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556035-gear-wrench-b6-14pc-12drdeep-socket-sae",
@@ -1629,17 +1557,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "Retail comp: GearWrench 80732 14pc 1/2\" 12pt deep SAE @ $123.37 (mrotools; bcfasteners $167.53). 1 bid."
+     "notes": "Retail comp: GearWrench 80732 14pc 1/2\" 12pt deep SAE @ $123.37 (mrotools; bcfasteners $167.53). 3 bids."
     },
     {
      "lotNumber": 647,
      "item": "Gear Wrench b#7 10PC 12Dr Deep Socket MM",
      "category": "Hand Tools",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 5,
      "workingMax": null,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 6.22,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556034-gear-wrench-b7-10pc-12drdeep-socket-mm",
@@ -1647,17 +1575,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "NO MSRP - need comp. 1 bid."
+     "notes": "NO MSRP - need comp. 3 bids."
     },
     {
      "lotNumber": 674,
      "item": "26.5 cc Gas 4-Stroke Hedge Trimmer, 22 in. Bar",
      "category": "Outdoor Power",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 16,
      "workingMax": 33,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 19.92,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/556007-msrp-14873-265-cc-gas-4-stroke-hedge-trimmer-with-a-22-in-bar",
@@ -1665,17 +1593,17 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $148.73. No bids yet."
+     "notes": "MSRP $148.73. No bids yet. 16 bids."
     },
     {
      "lotNumber": 706,
      "item": "Mystery Gondola (est. value $1800)",
      "category": "Mystery",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 0.6,
      "workingMax": null,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 0.75,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/555974-mystery-gondola-estimated-value-1800",
@@ -1683,17 +1611,17 @@
      "priority": "Medium",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MYSTERY - John decides (no ceiling per standing tactic). Site est. value $1,800. 1 bid."
+     "notes": "MYSTERY - John decides (no ceiling per standing tactic). Site est. value $1,800. 2 bids."
     },
     {
      "lotNumber": 710,
      "item": "ONE+ HP 18V Handheld Wet/Dry Masonry Tile Saw (Tool Only) [used as is]",
      "category": "Power Tools",
      "condition": "Used as-is",
-     "currentBid": 6.5,
+     "currentBid": 11,
      "workingMax": 45,
      "proxyPlaced": null,
-     "allInAtCurrent": 8.09,
+     "allInAtCurrent": 13.69,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/555971-msrp-19900-one-hp-18v-cordless-handheld-wet-dry-masonry-tile-saw-tool-only-used-as-is",
@@ -1701,17 +1629,17 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $199.00. USED AS-IS - verify condition; standard formula applied. 5 bids."
+     "notes": "MSRP $199.00. USED AS-IS - verify condition; standard formula applied. 15 bids."
     },
     {
      "lotNumber": 713,
      "item": "DEWALT 20V MAX XR 5 in. Random Orbital Sander (Tool Only) [used as is]",
      "category": "Power Tools",
      "condition": "Used as-is",
-     "currentBid": 0.8,
+     "currentBid": 21,
      "workingMax": 38,
      "proxyPlaced": 38,
-     "allInAtCurrent": 1.0,
+     "allInAtCurrent": 26.14,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/555968-msrp-16900-dewalt-20v-max-xr-cordless-brushless-5-in-random-orbital-sander-tool-only-used-as-is",
@@ -1719,17 +1647,17 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $169.00. USED AS-IS - verify condition; standard formula applied. 4 bids."
+     "notes": "MSRP $169.00. USED AS-IS - verify condition; standard formula applied. 14 bids."
     },
     {
      "lotNumber": 714,
      "item": "Milwaukee SHOCKWAVE Impact Duty Screwdriver Bit Set (45-Piece)",
      "category": "Accessories",
      "condition": "Unknown",
-     "currentBid": 0.5,
+     "currentBid": 5,
      "workingMax": 5,
      "proxyPlaced": null,
-     "allInAtCurrent": 0.62,
+     "allInAtCurrent": 6.22,
      "status": "Watching",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1146/lot/555967-msrp-2697-milwaukee-shockwave-impact-duty-alloy-steel-screw-driver-bit-set-45-piece",
@@ -1737,7 +1665,7 @@
      "priority": "Low",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "MSRP $26.97. 1 bid."
+     "notes": "MSRP $26.97. 3 bids."
     }
    ]
   }
