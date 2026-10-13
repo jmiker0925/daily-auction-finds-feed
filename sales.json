@@ -1,0 +1,5129 @@
+{
+ "generated_at": "2026-10-13T01:08:48+00:00",
+ "sales": [
+  {
+   "saleId": 274,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Zircon MetalliScanner MT 7",
+   "soldDate": "2026-10-11",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 61.0,
+   "profit": 49.0,
+   "allocations": [
+    {
+     "itemId": 1002,
+     "description": "Zircon MetalliScanner MT 7 metal finder (new in aluminum case)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 273,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18-Volt LXT Lithium-Ion Brushless Cordless 6 in. Mini Chain Saw (Tool Only)",
+   "soldDate": "2026-10-10",
+   "gross": 135.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 105.21,
+   "profit": 29.79,
+   "allocations": [
+    {
+     "itemId": 4244,
+     "description": "071- Makita 18-Volt LXT Lithium-Ion Brushless Cordless 6 in. Mini Chain Saw (Tool Only) XCU14Z   #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 272,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SeeSii 21v Cordless Pole Hedge Trimmer Kit",
+   "soldDate": "2026-10-09",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 38.67,
+   "profit": 41.33,
+   "allocations": [
+    {
+     "itemId": 4104,
+     "description": "Hedge trimmer #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 271,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "PRICED TO MOVE - Ryobi 18V ONE+ LED Spotlight 3000 Lumens (Tool Only)",
+   "soldDate": "2026-10-02",
+   "gross": 25.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 4502,
+     "description": "Ryobi 18V ONE+ LED Spotlight 3000 Lumens PCL661 (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 270,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SEESII Cordless Nail Gun Battery Powered, 18G Pneumatic Brad Nailer Staple Gun",
+   "soldDate": "2026-09-29",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 44.93,
+   "profit": 35.07,
+   "allocations": [
+    {
+     "itemId": 4222,
+     "description": "Cordless Nail Gun Large Size with 2 Bigger Batteries 18GA",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 267,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "Direct sale to Duran Gonzales \u2014 Husky 22 in. Connect Rolling Toolbox 3-piece (picked up 9/28)",
+   "soldDate": "2026-09-28",
+   "gross": 70.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 69.69,
+   "profit": 0.31,
+   "allocations": [
+    {
+     "itemId": 4484,
+     "description": "Husky 22 in. Connect Rolling Toolbox - 3-piece rolling system (cart, tool box, organizer), model 230381",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 266,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX XR Premium Lithium-Ion 5.0Ah Battery Pack (2 Pack), Charger and Kit Bag",
+   "soldDate": "2026-09-27",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 125.0,
+   "profit": 25.0,
+   "allocations": [
+    {
+     "itemId": 3618,
+     "description": "Dewalt 20v starter kit #3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 265,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Rain Bird 25PJDA-C Brass Deluxe Impact Sprinkler 0-360 NEW on Card \u2014 eBay order 16-15211-69689; buyer-paid shipping $6.27; eBay final fees not in sale email",
+   "soldDate": "2026-09-27",
+   "gross": 14.99,
+   "fees": 0,
+   "shipping": 6.27,
+   "costBasis": 9.35,
+   "profit": -0.63,
+   "allocations": [
+    {
+     "itemId": 5,
+     "description": "Rain Bird brass impact sprinkler 7\u00d7$7.51=$52.57",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 264,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "DeWalt 20V starter kit (Whatnot) sold $120 via Facebook Marketplace message 2026-09-27 \u2014 buyer picked up per John; unit is the non-shelf one of #3617/#3618, exact unit unconfirmed",
+   "soldDate": "2026-09-27",
+   "gross": 120.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 134.21,
+   "profit": -14.21,
+   "allocations": [
+    {
+     "itemId": 3617,
+     "description": "Dewalt 20v starter kit #4",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 263,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "DeWalt 20V starter kit (Whatnot) direct sale \u2014 $130 approximate per John 2026-09-27; sale date recorded = report date",
+   "soldDate": "2026-09-27",
+   "gross": 130.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 125.0,
+   "profit": 5.0,
+   "allocations": [
+    {
+     "itemId": 3573,
+     "description": "Dewalt 20v xr battery starter kit #5",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 262,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "DeWalt 20V starter kit (Whatnot) direct sale \u2014 $130 approximate per John 2026-09-27; sale date recorded = report date",
+   "soldDate": "2026-09-27",
+   "gross": 130.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 134.21,
+   "profit": -4.21,
+   "allocations": [
+    {
+     "itemId": 3572,
+     "description": "Dewalt 20v xr battery starter kit #6",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 261,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "DeWalt 20V starter kit (Whatnot) direct sale \u2014 $130 approximate per John 2026-09-27; sale date recorded = report date",
+   "soldDate": "2026-09-27",
+   "gross": 130.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 134.21,
+   "profit": -4.21,
+   "allocations": [
+    {
+     "itemId": 3571,
+     "description": "Dewalt 20v xr battery starter kit #7",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 260,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "DeWalt 20V starter kit (Whatnot) direct sale \u2014 $130 approximate per John 2026-09-27; sale date recorded = report date",
+   "soldDate": "2026-09-27",
+   "gross": 130.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 134.21,
+   "profit": -4.21,
+   "allocations": [
+    {
+     "itemId": 3570,
+     "description": "Dewalt 20v xr battery starter kit #9",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 259,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "(NIB) Dewalt 20V MAX XR Cordless Brushless Drywall Screw Gun Threaded Clutch Housing (Tool Only)",
+   "soldDate": "2026-09-27",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 62.21,
+   "profit": 47.79,
+   "allocations": [
+    {
+     "itemId": 4408,
+     "description": "102.0-DeWalt $229MSRP 20V Cordless Drywall Screw Gun Threaded Clutch Housing(Tool Only) DCF624B  #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 258,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Mystery-box air hose w/ fittings (compressor add-on)",
+   "soldDate": "2026-09-27",
+   "gross": 10.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 0.0,
+   "profit": 10.0,
+   "allocations": []
+  },
+  {
+   "saleId": 257,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "RIDGID 6 Gal 150 PSI Pancake Air Compressor - New Out of Box",
+   "soldDate": "2026-09-27",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 73.45,
+   "profit": 6.55,
+   "allocations": [
+    {
+     "itemId": 4498,
+     "description": "RIDGID 6 Gal. 150 PSI Pancake Air Compressor (model 02106416), new out of box",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 252,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SeeSii 21v 6-1/2 Inch Cordless Circular Saw with Laser with 2x 4.0Ah Batteries and Charger",
+   "soldDate": "2026-09-25",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 38.21,
+   "profit": 11.79,
+   "allocations": [
+    {
+     "itemId": 4360,
+     "description": "CS01 circular saw with 2B #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 220,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Ridgid Diamond Grit Tile File (3 Pack) - New",
+   "soldDate": "2026-09-19",
+   "gross": 25.0,
+   "fees": 3.89,
+   "shipping": 6.64,
+   "costBasis": 0.69,
+   "profit": 13.78,
+   "allocations": [
+    {
+     "itemId": 358,
+     "description": "Ridgid tile files 48pk $9.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 219,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-09-19",
+   "gross": 16.0,
+   "fees": 3.93,
+   "shipping": 8.07,
+   "costBasis": 0.46,
+   "profit": 3.54,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 269,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Lithium-Ion Cordless Cut-Out Tool (Tool-Only)",
+   "soldDate": "2026-09-15",
+   "gross": 95.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 54.21,
+   "profit": 40.79,
+   "allocations": [
+    {
+     "itemId": 4309,
+     "description": "082.8-$169MSRP Makita 18V LXT Lithium-Ion Cut-Out Tool (Tool-Only) XOC01Z #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 268,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Lithium-Ion Cordless Cut-Out Tool (Tool-Only)",
+   "soldDate": "2026-09-15",
+   "gross": 95.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 55.53,
+   "profit": 39.47,
+   "allocations": [
+    {
+     "itemId": 4308,
+     "description": "082.8-$169MSRP Makita 18V LXT Lithium-Ion Cut-Out Tool (Tool-Only) XOC01Z #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 221,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-09-15",
+   "gross": 18.0,
+   "fees": 3.66,
+   "shipping": 7.26,
+   "costBasis": 0.46,
+   "profit": 6.62,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 222,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-09-09",
+   "gross": 16.0,
+   "fees": 4.19,
+   "shipping": 7.59,
+   "costBasis": 0.46,
+   "profit": 3.76,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 223,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-09-08",
+   "gross": 16.0,
+   "fees": 3.4,
+   "shipping": 7.42,
+   "costBasis": 0.46,
+   "profit": 4.72,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 224,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Marshall Excelsior Motor Fuel Service Valve 3/4in MNPT x 3/8in MNPT 2.6",
+   "soldDate": "2026-09-07",
+   "gross": 70.0,
+   "fees": 11.4,
+   "shipping": 7.51,
+   "costBasis": 7.72,
+   "profit": 43.37,
+   "allocations": [
+    {
+     "itemId": 227,
+     "description": "Marshall Excelsior fill valves 30\u00d7$3.10=$93.00",
+     "quantity": 2
+    }
+   ]
+  },
+  {
+   "saleId": 225,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-09-02",
+   "gross": 72.0,
+   "fees": 10.69,
+   "shipping": 5.56,
+   "costBasis": 1.84,
+   "profit": 53.91,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 4
+    }
+   ]
+  },
+  {
+   "saleId": 256,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "Cordless Car Buffer Polisher kit (direct sale \u2014 date estimated per John's 'one a month at $40' recollection)",
+   "soldDate": "2026-08-26",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 34.21,
+   "profit": 5.79,
+   "allocations": [
+    {
+     "itemId": 4430,
+     "description": "Cordless Car Buffer Polisher kit w/ 2x2000mAh 21V Batteries, 6 Inch Car buffer Waxer Kit w/ 6 Variable Speed & Extra Attachments",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 226,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Qty: 2 of New Viega AD-03 ProPress 1in Press x 1in MPT Zero-Lead Bronze Adapter",
+   "soldDate": "2026-08-26",
+   "gross": 16.0,
+   "fees": 2.7,
+   "shipping": 6.72,
+   "costBasis": 32.37,
+   "profit": -25.79,
+   "allocations": [
+    {
+     "itemId": 193,
+     "description": "Viega ProPress adapter $26.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 90,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18-Volt LXT Lithium-Ion Brushless Cordless 4-Speed Impact Driver (Tool Only)",
+   "soldDate": "2026-08-16",
+   "gross": 170.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 74.21,
+   "profit": 95.79,
+   "allocations": [
+    {
+     "itemId": 4334,
+     "description": "123.2-$249MSRP Makita 18V LXT Lithium-Ion Brushless Cordless Quick-Shift Mode 4-Speed Impact Driver, Tool Only XDT16Z #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 26,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 10 Amp Corded 7 in. Polisher",
+   "soldDate": "2026-08-09",
+   "gross": 200.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 133.19,
+   "profit": 66.81,
+   "allocations": [
+    {
+     "itemId": 1005,
+     "description": "Makita 9237CX3 7\" polisher",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 227,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Ridgid Diamond Grit Tile File (3 Pack) - New",
+   "soldDate": "2026-08-04",
+   "gross": 20.0,
+   "fees": 3.24,
+   "shipping": 8.52,
+   "costBasis": 0.69,
+   "profit": 7.55,
+   "allocations": [
+    {
+     "itemId": 358,
+     "description": "Ridgid tile files 48pk $9.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 228,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-07-30",
+   "gross": 18.0,
+   "fees": 4.21,
+   "shipping": 7.59,
+   "costBasis": 0.46,
+   "profit": 5.74,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 229,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Ridgid Diamond Grit Tile File (3 Pack) - New",
+   "soldDate": "2026-07-28",
+   "gross": 20.0,
+   "fees": 3.22,
+   "shipping": 7.89,
+   "costBasis": 0.69,
+   "profit": 8.2,
+   "allocations": [
+    {
+     "itemId": 358,
+     "description": "Ridgid tile files 48pk $9.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 255,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "Cordless Car Buffer Polisher kit (direct sale \u2014 date estimated per John's 'one a month at $40' recollection)",
+   "soldDate": "2026-07-26",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 34.21,
+   "profit": 5.79,
+   "allocations": [
+    {
+     "itemId": 4428,
+     "description": "Cordless Car Buffer Polisher kit w/ 2x2000mAh 21V Batteries, 6 Inch Car buffer Waxer Kit w/ 6 Variable Speed & Extra Attachments",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 245,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Vintage Gameboy Color Light magnifier By High Frequency",
+   "soldDate": "2026-07-26",
+   "gross": 25.0,
+   "fees": 4.73,
+   "shipping": 5.96,
+   "costBasis": 5.81,
+   "profit": 8.5,
+   "allocations": [
+    {
+     "itemId": 105,
+     "description": "Tornado activewear bulk lot $42.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 246,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Vintage Gameboy Color Light magnifier By High Frequency",
+   "soldDate": "2026-07-25",
+   "gross": 25.0,
+   "fees": 4.68,
+   "shipping": 5.96,
+   "costBasis": 5.81,
+   "profit": 8.55,
+   "allocations": [
+    {
+     "itemId": 105,
+     "description": "Tornado activewear bulk lot $42.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 188,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 9 Amp Corded 1/2 in. Spade Handle Mud Mixer",
+   "soldDate": "2026-07-23",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 26.98,
+   "profit": 73.02,
+   "allocations": [
+    {
+     "itemId": 3004,
+     "description": "Ridgid Corded 1/2 in spade handle mud mixer 9 Amp Q518X46 Retails $179",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 89,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 6.2 Amp Corded 5/8 in. Variable Speed Hammer Drill",
+   "soldDate": "2026-07-23",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 32.54,
+   "profit": 7.46,
+   "allocations": [
+    {
+     "itemId": 2651,
+     "description": "6.2 Amp Corded 5/8 in. Variable Speed Hammer Drill",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 25,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 7.5 Amp Corded 4-1/2 in. Easy Wheel Change Compact Angle Grinder",
+   "soldDate": "2026-07-18",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 49.78,
+   "profit": 15.22,
+   "allocations": [
+    {
+     "itemId": 53,
+     "description": "Makita 9557NB angle grinder $39.99",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 247,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Vintage Gameboy Color Light magnifier By High Frequency",
+   "soldDate": "2026-07-17",
+   "gross": 25.0,
+   "fees": 4.72,
+   "shipping": 5.96,
+   "costBasis": 5.81,
+   "profit": 8.51,
+   "allocations": [
+    {
+     "itemId": 105,
+     "description": "Tornado activewear bulk lot $42.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 249,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Vintage Gameboy Color Light magnifier By High Frequency",
+   "soldDate": "2026-07-16",
+   "gross": 75.0,
+   "fees": 11.77,
+   "shipping": 11.57,
+   "costBasis": 17.43,
+   "profit": 34.23,
+   "allocations": [
+    {
+     "itemId": 105,
+     "description": "Tornado activewear bulk lot $42.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 248,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Vintage Gameboy Color Light magnifier By High Frequency",
+   "soldDate": "2026-07-16",
+   "gross": 25.0,
+   "fees": 4.7,
+   "shipping": 5.96,
+   "costBasis": 5.81,
+   "profit": 8.53,
+   "allocations": [
+    {
+     "itemId": 105,
+     "description": "Tornado activewear bulk lot $42.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 230,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Cash Acme EB45 SharkBite Pressure Regulating Valve, 3/4 Inch Push to Connect",
+   "soldDate": "2026-07-16",
+   "gross": 40.0,
+   "fees": 7.29,
+   "shipping": 8.52,
+   "costBasis": 19.3,
+   "profit": 4.89,
+   "allocations": [
+    {
+     "itemId": 277,
+     "description": "SharkBite valves $13.75/$15.00/$16.25/$16.25/$16.25",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 251,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Vintage Gameboy Color Light magnifier By High Frequency",
+   "soldDate": "2026-07-15",
+   "gross": 25.0,
+   "fees": 4.7,
+   "shipping": 5.82,
+   "costBasis": 5.8,
+   "profit": 8.68,
+   "allocations": [
+    {
+     "itemId": 105,
+     "description": "Tornado activewear bulk lot $42.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 250,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Vintage Gameboy Color Light magnifier By High Frequency",
+   "soldDate": "2026-07-15",
+   "gross": 25.0,
+   "fees": 4.68,
+   "shipping": 5.72,
+   "costBasis": 5.81,
+   "profit": 8.79,
+   "allocations": [
+    {
+     "itemId": 105,
+     "description": "Tornado activewear bulk lot $42.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 88,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Cordless Oscillating Multi-Tool (Tool Only)",
+   "soldDate": "2026-07-10",
+   "gross": 20.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 30.11,
+   "profit": -10.11,
+   "allocations": [
+    {
+     "itemId": 2372,
+     "description": "(LA) 29 - Ryobi ONE+ 18V Cordless Oscillating Multi-Tool; Tool Only; NEW; Model # PCL430B",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 87,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M18 18V Lithium-Ion PACKOUT 6-Port (2 Batteries Simultaneously) Rapid Charger",
+   "soldDate": "2026-07-06",
+   "gross": 185.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 169.21,
+   "profit": 15.79,
+   "allocations": [
+    {
+     "itemId": 4425,
+     "description": "MSRP - $279 Milwaukee M18 18V Lithium-Ion PACKOUT 6-Port Rapid Charger 48-59-1809 #5",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 162,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Delta 6 in. Variable Speed Bench Grinder",
+   "soldDate": "2026-07-04",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 78.43,
+   "profit": 1.57,
+   "allocations": [
+    {
+     "itemId": 1014,
+     "description": "Delta 23-196 6\" variable speed bench grinder",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 161,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SeeSii 8\" Single Side Compound Sliding Miter Saw with Speed 4900RPM - Laser Guide",
+   "soldDate": "2026-07-03",
+   "gross": 75.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 53.86,
+   "profit": 21.14,
+   "allocations": [
+    {
+     "itemId": 4167,
+     "description": "Miter saw",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 231,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "RIDGID - 1-1/8 in. Wood Plunge Cut Blade (6 Pieces)",
+   "soldDate": "2026-07-01",
+   "gross": 15.0,
+   "fees": 2.54,
+   "shipping": 5.89,
+   "costBasis": 50.42,
+   "profit": -43.85,
+   "allocations": [
+    {
+     "itemId": 247,
+     "description": "Ridgid plunge cut blades $41.00/$39.99",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 86,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 15 Amp 7 in. Corded Angle Grinder with Grinding wheel, Side handle and Wheel Guard",
+   "soldDate": "2026-06-29",
+   "gross": 140.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 67.41,
+   "profit": 72.59,
+   "allocations": [
+    {
+     "itemId": 4423,
+     "description": "011- Makita $199MSRP 7\" Angle Grinder GA7021 #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 254,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "Cordless Car Buffer Polisher kit (direct sale \u2014 date estimated per John's 'one a month at $40' recollection)",
+   "soldDate": "2026-06-26",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 21.03,
+   "profit": 18.97,
+   "allocations": [
+    {
+     "itemId": 4111,
+     "description": "Cordless Car Buffer Polisher kit w/ 2x2000mAh 21V Batteries, 6 Inch Car buffer Waxer Kit w/ 6 Variable Speed & Extra Attachments #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 232,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Cash Acme EB45 SharkBite Pressure Regulating Valve, 3/4 Inch Push to Connect",
+   "soldDate": "2026-06-23",
+   "gross": 160.0,
+   "fees": 25.7,
+   "shipping": 5.82,
+   "costBasis": 77.18,
+   "profit": 51.3,
+   "allocations": [
+    {
+     "itemId": 277,
+     "description": "SharkBite valves $13.75/$15.00/$16.25/$16.25/$16.25",
+     "quantity": 4
+    }
+   ]
+  },
+  {
+   "saleId": 160,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt FLEXVOLT 60V MAX 17 in. Cordless Battery Powered Attachment Capable Trimmer (Tool Only)",
+   "soldDate": "2026-06-18",
+   "gross": 200.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 170.07,
+   "profit": 29.93,
+   "allocations": [
+    {
+     "itemId": 964,
+     "description": "AS-IS DEWALT FLEXVOLT 60V MAX 17 in. Cordless Battery Powered Attachment Capable Trimmer Kit with (1) FLEXVOLT 3 Ah Battery & Charger",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 159,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Robustrue 1/2\" Electric Ratchet Wrench Kit",
+   "soldDate": "2026-06-13",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 49.21,
+   "profit": 30.79,
+   "allocations": [
+    {
+     "itemId": 4171,
+     "description": "RH90B",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 233,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Marshall Excelsior 1/4in Adjustable Regulator 1-100 Spring Range With Handwheel",
+   "soldDate": "2026-06-09",
+   "gross": 76.0,
+   "fees": 14.56,
+   "shipping": 8.52,
+   "costBasis": 39.22,
+   "profit": 13.7,
+   "allocations": [
+    {
+     "itemId": 344,
+     "description": "Marshall Excelsior regulators 5\u00d7$15.75=$78.75",
+     "quantity": 2
+    }
+   ]
+  },
+  {
+   "saleId": 191,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Lithium-Ion Cordless PEX Tubing Clamp Tool (Tool Only)",
+   "soldDate": "2026-06-07",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 26.1,
+   "profit": 63.9,
+   "allocations": [
+    {
+     "itemId": 2991,
+     "description": "RYOBI ONE+ 18V Lithium-lon Cordless PEX Tubing Clamp Tool (Tool Only) SKU:0184",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 24,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 40V HP Brushless EZClean 600 PSI 0.7 GPM Cold Water Electric Power Cleaner (Tool-Only)",
+   "soldDate": "2026-06-07",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 80.11,
+   "profit": -30.11,
+   "allocations": [
+    {
+     "itemId": 967,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 201,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-06-05",
+   "gross": 54.0,
+   "fees": 8.36,
+   "shipping": 8.34,
+   "costBasis": 9.33,
+   "profit": 27.97,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 200,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-06-05",
+   "gross": 18.0,
+   "fees": 3.06,
+   "shipping": 7.99,
+   "costBasis": 3.11,
+   "profit": 3.84,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 202,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Deckmate 1/4 in. x 6 in. Tan Star Drive Flat-Head Wood Deck Screws (150-Piece)",
+   "soldDate": "2026-06-03",
+   "gross": 35.0,
+   "fees": 5.59,
+   "shipping": 9.37,
+   "costBasis": 24.58,
+   "profit": -4.54,
+   "allocations": [
+    {
+     "itemId": 574,
+     "description": "Deckmate screws $19.25/$19.75/$19.99/$19.99",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 203,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-06-02",
+   "gross": 19.0,
+   "fees": 3.24,
+   "shipping": 7.81,
+   "costBasis": 3.11,
+   "profit": 4.84,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 23,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Bosch 15 Amp 12 in. Corded Dual-Bevel Sliding Glide Miter Saw with 60 Tooth Saw Blade",
+   "soldDate": "2026-05-29",
+   "gross": 600.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 414.0,
+   "profit": 186.0,
+   "allocations": [
+    {
+     "itemId": 959,
+     "description": "AS-IS - Bosch 15 Amp 12 in. Corded Dual-Bevel Sliding Glide Miter Saw with 60 Tooth Saw Blade",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 234,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-05-27",
+   "gross": 18.0,
+   "fees": 4.24,
+   "shipping": 7.42,
+   "costBasis": 0.46,
+   "profit": 5.88,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 235,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-05-25",
+   "gross": 16.0,
+   "fees": 4.64,
+   "shipping": 7.6,
+   "costBasis": 0.46,
+   "profit": 3.3,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 236,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-05-18",
+   "gross": 36.0,
+   "fees": 7.41,
+   "shipping": 10.25,
+   "costBasis": 0.92,
+   "profit": 17.42,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 2
+    }
+   ]
+  },
+  {
+   "saleId": 205,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-05-18",
+   "gross": 57.0,
+   "fees": 9.0,
+   "shipping": 7.22,
+   "costBasis": 9.33,
+   "profit": 31.45,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 204,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-05-18",
+   "gross": 19.0,
+   "fees": 3.21,
+   "shipping": 7.88,
+   "costBasis": 3.11,
+   "profit": 4.8,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 207,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-05-15",
+   "gross": 48.0,
+   "fees": 7.5,
+   "shipping": 8.99,
+   "costBasis": 9.33,
+   "profit": 22.18,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 206,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-05-15",
+   "gross": 19.0,
+   "fees": 3.27,
+   "shipping": 7.88,
+   "costBasis": 3.11,
+   "profit": 4.74,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 199,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SeeSii 1/2\" High-Torque Brushless Impact Wrench Kit",
+   "soldDate": "2026-05-13",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 6.03,
+   "profit": 83.97,
+   "allocations": [
+    {
+     "itemId": 4056,
+     "description": "Impact wrench",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 198,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Robustrue 3/4\" Cordless Impact Wrench Kit",
+   "soldDate": "2026-05-13",
+   "gross": 120.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 6.03,
+   "profit": 113.97,
+   "allocations": [
+    {
+     "itemId": 4056,
+     "description": "Impact wrench",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 237,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Duty Plus Uniform Shirt - Brown Long Sleeve",
+   "soldDate": "2026-05-11",
+   "gross": 18.0,
+   "fees": 4.24,
+   "shipping": 8.13,
+   "costBasis": 0.46,
+   "profit": 5.17,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 238,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "(25 PACK) Nibco 9042900 Copper 45 Degree Elbow 3/4 Inch C x C 606",
+   "soldDate": "2026-05-08",
+   "gross": 25.0,
+   "fees": 5.61,
+   "shipping": 9.3,
+   "costBasis": 15.5,
+   "profit": -5.41,
+   "allocations": [
+    {
+     "itemId": 241,
+     "description": "copper elbows 50\u00d7$0.50=$25.00",
+     "quantity": 25
+    }
+   ]
+  },
+  {
+   "saleId": 239,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Long Sleeve Tan Uniform Shirt",
+   "soldDate": "2026-05-06",
+   "gross": 18.0,
+   "fees": 4.22,
+   "shipping": 9.33,
+   "costBasis": 0.46,
+   "profit": 3.99,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 208,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-05-06",
+   "gross": 19.0,
+   "fees": 0,
+   "shipping": 8.74,
+   "costBasis": 3.11,
+   "profit": 7.15,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 193,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Brushless  High Torque 1/2 in. Sq. Drive Utility Impact Wrench (Tool Only)",
+   "soldDate": "2026-05-06",
+   "gross": 290.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 48.72,
+   "profit": 241.28,
+   "allocations": [
+    {
+     "itemId": 3383,
+     "description": "043-MAKITA XWT08Z 18V LXT Lithium-Ion Brushless Cordless High Torque 1/2 in. 3-Speed Drive Impact Wrench (Tool-Only) #3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 240,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Elbeco Duty Plus Uniform Shirt - Grey Short Sleeve, Size 16 1/2",
+   "soldDate": "2026-05-02",
+   "gross": 18.0,
+   "fees": 3.06,
+   "shipping": 7.96,
+   "costBasis": 0.46,
+   "profit": 6.52,
+   "allocations": [
+    {
+     "itemId": 304,
+     "description": "Elbeco uniform shirts 70\u00d7$0.37=$25.90",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 85,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 13 Amp Corded 7-1/4 in. Circular Saw",
+   "soldDate": "2026-04-29",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.0,
+   "profit": 11.0,
+   "allocations": [
+    {
+     "itemId": 4344,
+     "description": "#114 RYOBI 13 Amp Corded 7-1/4 in. Circular Saw CSB125",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 197,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Uaoaii 21v 1/2\" Cordless Impact Wrench Kit",
+   "soldDate": "2026-04-28",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 6.03,
+   "profit": 58.97,
+   "allocations": [
+    {
+     "itemId": 4056,
+     "description": "Impact wrench",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 84,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Lithium-Ion 16-Gauge Cordless 2-1/2 in. Straight Finish Nailer (Tool Only)",
+   "soldDate": "2026-04-28",
+   "gross": 220.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 101.62,
+   "profit": 118.38,
+   "allocations": [
+    {
+     "itemId": 3459,
+     "description": "067-XNB02Z #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 241,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "(25 PACK) Nibco 9042900 Copper 45 Degree Elbow 3/4 Inch C x C 606",
+   "soldDate": "2026-04-25",
+   "gross": 25.0,
+   "fees": 5.2,
+   "shipping": 7.52,
+   "costBasis": 15.62,
+   "profit": -3.34,
+   "allocations": [
+    {
+     "itemId": 241,
+     "description": "copper elbows 50\u00d7$0.50=$25.00",
+     "quantity": 25
+    }
+   ]
+  },
+  {
+   "saleId": 242,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "RIDGID - 1-1/8 in. Wood Plunge Cut Blade (6 Pieces)",
+   "soldDate": "2026-04-20",
+   "gross": 15.0,
+   "fees": 2.65,
+   "shipping": 5.45,
+   "costBasis": 50.41,
+   "profit": -43.51,
+   "allocations": [
+    {
+     "itemId": 247,
+     "description": "Ridgid plunge cut blades $41.00/$39.99",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 83,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Black Canyon Carbide Hole Saw Kit, 12 pcs",
+   "soldDate": "2026-04-20",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 50.95,
+   "profit": 39.05,
+   "allocations": [
+    {
+     "itemId": 3911,
+     "description": "Black Canyon 12-Piece Carbide Hole Saw Kit \u2013 Premium Tungsten Carbide Tip, Professional Cutting Set",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 82,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V Brushless Cordless Compact 6-1/2 in. Circular Saw (Tool Only)",
+   "soldDate": "2026-04-19",
+   "gross": 70.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 59.21,
+   "profit": 10.79,
+   "allocations": [
+    {
+     "itemId": 4345,
+     "description": "#112 RYOBI ONE+ HP 18V Compact 6-1/2 in. Circular Saw (Tool Only) PSBCS01B",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 209,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-04-18",
+   "gross": 57.0,
+   "fees": 9.0,
+   "shipping": 6.68,
+   "costBasis": 9.33,
+   "profit": 31.99,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 168,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Metabo HPT 3-1/4-in 21 -Degree Pneumatic Roundhead Framing Nailer",
+   "soldDate": "2026-04-17",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 59.61,
+   "profit": 0.39,
+   "allocations": [
+    {
+     "itemId": 2203,
+     "description": "Metabo HPT 3.5-in 21-Degree Pneumatic Framing Nailer $199",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 211,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-04-16",
+   "gross": 95.0,
+   "fees": 14.97,
+   "shipping": 8.38,
+   "costBasis": 15.55,
+   "profit": 56.1,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 5
+    }
+   ]
+  },
+  {
+   "saleId": 210,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-04-16",
+   "gross": 19.0,
+   "fees": 3.31,
+   "shipping": 6.5,
+   "costBasis": 3.11,
+   "profit": 6.08,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 81,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 12 Amp Corded Reciprocating Saw",
+   "soldDate": "2026-04-15",
+   "gross": 45.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 71.85,
+   "profit": -26.85,
+   "allocations": [
+    {
+     "itemId": 2402,
+     "description": "42 - Ryobi RJ1861V - 12 Amp Corded Reciprocating Saw (no blade) (RETAILS $90+)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 80,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Gearwrench 3/8 in. Drive 90-Tooth Dual Material Teardrop Ratchet",
+   "soldDate": "2026-04-12",
+   "gross": 25.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 25.58,
+   "profit": -0.58,
+   "allocations": [
+    {
+     "itemId": 3061,
+     "description": "GearWrench 81208T 3/8\" Drive 90 Tooth Dual Material Teardrop Ratchet, 9\" #3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 79,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee 7.5 Amp 1/2 in. Hole Hawg Heavy-Duty Corded Drill",
+   "soldDate": "2026-04-12",
+   "gross": 250.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 113.6,
+   "profit": 136.4,
+   "allocations": [
+    {
+     "itemId": 3847,
+     "description": "#34 Milwaukee 7.5 Amp 1/2 in. Hole Hawg Heavy-Duty Corded Drill 1675-6",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 78,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V 18-Gauge Brushless Cordless AirStrike Brad Nailer (Tool Only)",
+   "soldDate": "2026-04-12",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 92.21,
+   "profit": 7.79,
+   "allocations": [
+    {
+     "itemId": 3964,
+     "description": "MSRP 199$ RYOBI ONE+ HP 18V 18-Gauge Brushless Cordless AirStrike Brad Nailer (Tool Only) #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 212,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-04-11",
+   "gross": 16.0,
+   "fees": 2.78,
+   "shipping": 8.1,
+   "costBasis": 3.11,
+   "profit": 2.01,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 196,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Olmlmo 21v 1/2\" Impact Wrench Kit 800 ft lbs",
+   "soldDate": "2026-04-10",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 6.03,
+   "profit": 83.97,
+   "allocations": [
+    {
+     "itemId": 4056,
+     "description": "Impact wrench",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 77,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 15 Amp 10-1/4 in. Corded Circular Saw",
+   "soldDate": "2026-04-10",
+   "gross": 300.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 164.47,
+   "profit": 135.53,
+   "allocations": [
+    {
+     "itemId": 4166,
+     "description": "X-MAKITA $414MSRP 15 Amp 10-1/4 in. Corded Circular Saw HS0600 #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 158,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Hybrid 20-Watt LED Work Light (Tool-Only)",
+   "soldDate": "2026-04-04",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 25.98,
+   "profit": 24.02,
+   "allocations": [
+    {
+     "itemId": 1770,
+     "description": "Ryobi P790 18-Volt ONE+ Hybrid LED Project Light",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 214,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-04-03",
+   "gross": 19.0,
+   "fees": 3.24,
+   "shipping": 7.86,
+   "costBasis": 3.11,
+   "profit": 4.79,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 213,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-04-03",
+   "gross": 95.0,
+   "fees": 14.75,
+   "shipping": 9.81,
+   "costBasis": 15.55,
+   "profit": 54.89,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 5
+    }
+   ]
+  },
+  {
+   "saleId": 76,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V Lithium-Ion Brushless 1/2 In. Cordless Hammer Driver Drill (Tool Only)",
+   "soldDate": "2026-04-03",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 55.62,
+   "profit": 44.38,
+   "allocations": [
+    {
+     "itemId": 4306,
+     "description": "085.1-MAKITA $199MSRP 18V Lithium-Ion Brushless 1/2 In. Cordless Hammer Driver Drill (Tool Only) XPH14Z #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 215,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-03-30",
+   "gross": 190.0,
+   "fees": 28.74,
+   "shipping": 11.53,
+   "costBasis": 31.18,
+   "profit": 118.55,
+   "allocations": [
+    {
+     "itemId": 404,
+     "description": "Premier check valves 40\u00d7$2.50=$100.00",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "saleId": 216,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-03-27",
+   "gross": 30.0,
+   "fees": 4.59,
+   "shipping": 7.69,
+   "costBasis": 4.96,
+   "profit": 12.76,
+   "allocations": [
+    {
+     "itemId": 385,
+     "description": "Premier check valves 40\u00d7$1.99=$79.60",
+     "quantity": 2
+    }
+   ]
+  },
+  {
+   "saleId": 157,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SeeSii 3-Piece Torque Wrench Set, 1/4\" 3/8\" 1/2\"",
+   "soldDate": "2026-03-25",
+   "gross": 70.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 38.21,
+   "profit": 31.79,
+   "allocations": [
+    {
+     "itemId": 4108,
+     "description": "Torque Wrench Set",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 217,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-03-20",
+   "gross": 96.0,
+   "fees": 14.59,
+   "shipping": 8.65,
+   "costBasis": 14.88,
+   "profit": 57.88,
+   "allocations": [
+    {
+     "itemId": 385,
+     "description": "Premier check valves 40\u00d7$1.99=$79.60",
+     "quantity": 6
+    }
+   ]
+  },
+  {
+   "saleId": 75,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Lithium-Ion Cordless 5 in. Variable Speed Random Orbit Sander (Tool-Only)",
+   "soldDate": "2026-03-19",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 52.51,
+   "profit": 37.49,
+   "allocations": [
+    {
+     "itemId": 3862,
+     "description": "052 - Makita random orbital sander - XOB01Z #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 74,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V 18-Gauge Cordless AirStrike Brad Nailer (Tool Only)",
+   "soldDate": "2026-03-17",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 48.0,
+   "profit": 32.0,
+   "allocations": [
+    {
+     "itemId": 3963,
+     "description": "MSRP 139$:RYOBI ONE+ 18V 18-Gauge Cordless AirStrike Brad Nailer (Tool Only) #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 243,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Ridgid Diamond Grit Tile File (3 Pack) - New",
+   "soldDate": "2026-03-15",
+   "gross": 20.0,
+   "fees": 3.4,
+   "shipping": 8.8,
+   "costBasis": 0.69,
+   "profit": 7.11,
+   "allocations": [
+    {
+     "itemId": 358,
+     "description": "Ridgid tile files 48pk $9.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 156,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless 7-1/4 in. Circular Saw (Tool-Only)",
+   "soldDate": "2026-03-12",
+   "gross": 160.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 114.99,
+   "profit": 45.01,
+   "allocations": [
+    {
+     "itemId": 936,
+     "description": "AS-IS Milwaukee FUEL 18V Lithium-Ion Brushless Cordless 7-1/4 in. Circular Saw (Tool-Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 244,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "Ridgid Diamond Grit Tile File (3 Pack) - New",
+   "soldDate": "2026-03-07",
+   "gross": 23.0,
+   "fees": 3.81,
+   "shipping": 8.35,
+   "costBasis": 0.69,
+   "profit": 10.15,
+   "allocations": [
+    {
+     "itemId": 358,
+     "description": "Ridgid tile files 48pk $9.00",
+     "quantity": 3
+    }
+   ]
+  },
+  {
+   "saleId": 155,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Powerbuilt 4 Piece Pro Tech Flex Head Long Reach Ratchet Set",
+   "soldDate": "2026-03-07",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 63.49,
+   "profit": 26.51,
+   "allocations": [
+    {
+     "itemId": 1079,
+     "description": "Powerbuilt 4-pc Pro Tech long-reach flex-head ratchet set",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 154,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Seesii Handheld Cordless Mini 6\" Chainsaw with 2 Batteries and Charger",
+   "soldDate": "2026-02-26",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 21.21,
+   "profit": 13.79,
+   "allocations": [
+    {
+     "itemId": 4046,
+     "description": "Mini Chainsaw, 6-inch Mini Chainsaw Cordless, Handheld Electric Power Chain Saw with 2 Batteries, for Tree Trimming #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 195,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SeeSii 1/2\" Cordless Impact Wrench Kit",
+   "soldDate": "2026-02-23",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 6.04,
+   "profit": 83.96,
+   "allocations": [
+    {
+     "itemId": 4056,
+     "description": "Impact wrench",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 22,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt FLEXVOLT 60V MAX Cordless Brushless Reciprocating Saw (Tool Only)",
+   "soldDate": "2026-02-22",
+   "gross": 170.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 117.09,
+   "profit": 52.91,
+   "allocations": [
+    {
+     "itemId": 977,
+     "description": "AS-IS DeWalt DCS389B FLEXVOLT 60V MAX Cordless Brushless Reciprocating Saw (Tool-Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 153,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 6.5 Amp Corded Variable Speed Lightweight Top Handle Jig Saw with Case",
+   "soldDate": "2026-02-19",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 38.36,
+   "profit": 51.64,
+   "allocations": [
+    {
+     "itemId": 3482,
+     "description": "010-Makita Jig Saw - JV0600K #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 218,
+   "platform": "ebay",
+   "platformLabel": "eBay",
+   "title": "PREMIER - 157299 - 3/4 in. FIP Lead Free Dual Check Valve (21021-2 R B56) - NEW",
+   "soldDate": "2026-02-12",
+   "gross": 15.0,
+   "fees": 3.65,
+   "shipping": 7.46,
+   "costBasis": 2.48,
+   "profit": 1.41,
+   "allocations": [
+    {
+     "itemId": 385,
+     "description": "Premier check valves 40\u00d7$1.99=$79.60",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 174,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "8pc Proto Blackhawk Flexible Gear Ratcheting Wrench Flex Head Set",
+   "soldDate": "2026-02-11",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.48,
+   "profit": 40.52,
+   "allocations": [
+    {
+     "itemId": 2495,
+     "description": "83. Blackhawk 8pc flex head ratcheting wrench set",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 21,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Gearwrench 1/2 in. Drive 25-250 ft./lbs. Flex-Head Electronic Torque Wrench with Angle",
+   "soldDate": "2026-02-11",
+   "gross": 200.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 100.83,
+   "profit": 99.17,
+   "allocations": [
+    {
+     "itemId": 1130,
+     "description": "GEARWRENCH 1/2\" flex-head electronic torque wrench 25-250 ft-lbs 85079 x2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 190,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT 7/8 in. Cordless SDS-Plus Concrete/Masonry Rotary Hammer Drill (Tool-Only)",
+   "soldDate": "2026-02-05",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 50.64,
+   "profit": 99.36,
+   "allocations": [
+    {
+     "itemId": 3594,
+     "description": "057-XRH04Z #3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 194,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Robustrue 1/2\" Impact Wrench Kit",
+   "soldDate": "2026-02-02",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 6.04,
+   "profit": 83.96,
+   "allocations": [
+    {
+     "itemId": 4056,
+     "description": "Impact wrench",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 20,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX 7-1/4 in. Sidewinder Style Circular Saw with FLEXVOLT ADVANTAGE (Tool Only)",
+   "soldDate": "2026-01-28",
+   "gross": 190.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 166.81,
+   "profit": 23.19,
+   "allocations": [
+    {
+     "itemId": 1152,
+     "description": "DEWALT DCS573B 20V MAX 7-1/4\" brushless cordless circular saw",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 73,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only)",
+   "soldDate": "2026-01-25",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 51.0,
+   "profit": 29.0,
+   "allocations": [
+    {
+     "itemId": 3800,
+     "description": "18V SubCompact Brushless Cordless 3 in. Multi-Material Saw (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 72,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee PACKOUT Roll Holder",
+   "soldDate": "2026-01-25",
+   "gross": 15.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 2.7,
+   "profit": 12.3,
+   "allocations": [
+    {
+     "itemId": 3980,
+     "description": "Milwaukee PACKOUT Roll Holder",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 19,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ingersoll Rand DXS2 1/2\" Air Impact Wrench 1,500 ft-lb Torque",
+   "soldDate": "2026-01-25",
+   "gross": 250.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 123.24,
+   "profit": 126.76,
+   "allocations": [
+    {
+     "itemId": 1068,
+     "description": "Ingersoll Rand 2236QTIMAX DXS2 1/2\" air impact wrench",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 71,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Variable Speed Oscillating Multi-Tool (Tool-Only) With Blade and Accessory Adapters",
+   "soldDate": "2026-01-21",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 69.62,
+   "profit": 30.38,
+   "allocations": [
+    {
+     "itemId": 4075,
+     "description": "047-$159MSRP Makita cordless oscillating tool - XMT03Z #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 70,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 40V 1800-Watt Portable Battery Inverter Power Station and 4-Port Charger (Tool Only)",
+   "soldDate": "2026-01-18",
+   "gross": 450.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 310.0,
+   "profit": 140.0,
+   "allocations": [
+    {
+     "itemId": 3738,
+     "description": "40V 1800-Watt Portable Battery Power Station Inverter Generator and 4-Port Charger (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 152,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SeeSii 21v 1/2'' Cordless Impact Wrench Kit",
+   "soldDate": "2026-01-16",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 6.04,
+   "profit": 53.96,
+   "allocations": [
+    {
+     "itemId": 4056,
+     "description": "Impact wrench",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 151,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V 6-1/2 in. LXT Sub-Compact Lithium-Ion Brushless Cordless Circular Saw (Tool Only)",
+   "soldDate": "2026-01-11",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 48.12,
+   "profit": 51.88,
+   "allocations": [
+    {
+     "itemId": 2896,
+     "description": "Makita XSH04Z - 18V Brushless Circular Saw - Tool Only ($279.99) #13",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 150,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Black Canyon 1/2 in Drive Impact Socket Set, 6-Point, Metric, 14 Piece",
+   "soldDate": "2026-01-11",
+   "gross": 55.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 52.87,
+   "profit": 2.13,
+   "allocations": [
+    {
+     "itemId": 3907,
+     "description": "Black Canyon 1/2\" Drive Impact Socket Set \u2013 14-Piece Metric Only, 6-Point, Heavy-Duty Construction #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 149,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V Brushless Cordless 15-Gauge 34\u00b0 Angled Finish Nailer (Tool Only)",
+   "soldDate": "2025-12-27",
+   "gross": 180.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 94.3,
+   "profit": 85.7,
+   "allocations": [
+    {
+     "itemId": 958,
+     "description": "NEW! - Ryobi ONE+ HP 18V Cordless 15-Gauge 34\u00b0 Angled Finish Nailer (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 148,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M18 FUEL 18V Lithium-Ion Brushless Cordless Barrel Grip Jig Saw (Tool Only)",
+   "soldDate": "2025-12-27",
+   "gross": 180.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 81.08,
+   "profit": 98.92,
+   "allocations": [
+    {
+     "itemId": 957,
+     "description": "AS-IS- Milwaukee M18 FUEL 18 Volt Lithium-Ion Brushless Barrel Grip Cordless Jig Saw (TOOL ONLY)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 147,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX 10Ah Lithium-Ion Battery Pack",
+   "soldDate": "2025-12-25",
+   "gross": 120.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 92.44,
+   "profit": 27.56,
+   "allocations": [
+    {
+     "itemId": 980,
+     "description": "AS-IS DEWALT 20V MAX Lithium-Ion 6.0Ah and 4.0Ah Battery and Charger Starter Kit",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 69,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Black Canyon HSS Twist Drill Bit Set, 15-Piece",
+   "soldDate": "2025-12-15",
+   "gross": 12.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 40.0,
+   "profit": -28.0,
+   "allocations": [
+    {
+     "itemId": 3910,
+     "description": "Black Canyon 14-Piece Forstner Drill Bit Set \u2013 High-Strength 40CR Alloy, Flat-Bottom Hole Performance",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 146,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee PACKOUT Straight Utility Hook",
+   "soldDate": "2025-12-06",
+   "gross": 10.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 5.34,
+   "profit": 4.66,
+   "allocations": [
+    {
+     "itemId": 3982,
+     "description": "Milwaukee PACKOUT Straight Utility Hook 9\" #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 68,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee PACKOUT M18 Battery Rack",
+   "soldDate": "2025-12-06",
+   "gross": 15.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 10.54,
+   "profit": 4.46,
+   "allocations": [
+    {
+     "itemId": 3974,
+     "description": "Milwaukee PACKOUT M18 Battery Rack",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 192,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V X2 LXT Lithium-Ion (36V) 7-1/4 in. Brushless Cordless Circular Saw (Tool-Only)",
+   "soldDate": "2025-12-03",
+   "gross": 140.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 48.73,
+   "profit": 91.27,
+   "allocations": [
+    {
+     "itemId": 3383,
+     "description": "043-MAKITA XWT08Z 18V LXT Lithium-Ion Brushless Cordless High Torque 1/2 in. 3-Speed Drive Impact Wrench (Tool-Only) #3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 67,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Sub-Compact Brushless Cordless Variable Speed Reciprocating Saw (Tool-Only)",
+   "soldDate": "2025-12-03",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 84.71,
+   "profit": 25.29,
+   "allocations": [
+    {
+     "itemId": 3595,
+     "description": "048-XRJ07Z 18V LXT\u00ae Sub-Compact Brushless Recipro Saw #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 145,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 120 MPH 473 CFM LXT 18V X2 (36V) Lithium-Ion Cordless Brushless Leaf Blower (Tool-Only)",
+   "soldDate": "2025-11-30",
+   "gross": 185.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 192.57,
+   "profit": -7.57,
+   "allocations": [
+    {
+     "itemId": 3387,
+     "description": "037- MAKITA XBU02PT 120 MPH 473 CFM 18V X2 (36V) LXT Lithium-Ion Brushless Cordless Leaf Blower Kit with 2 Batteries 5.0Ah and Charger #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 144,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Lithium-Ion 1/2 in. Cordless Hammer Driver/Drill (Tool-Only)",
+   "soldDate": "2025-11-30",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 48.73,
+   "profit": 11.27,
+   "allocations": [
+    {
+     "itemId": 3383,
+     "description": "043-MAKITA XWT08Z 18V LXT Lithium-Ion Brushless Cordless High Torque 1/2 in. 3-Speed Drive Impact Wrench (Tool-Only) #3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 143,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Everbilt 6 ft. x 9 ft. Slip Resistant Paper/Poly Drop Cloth",
+   "soldDate": "2025-11-28",
+   "gross": 8.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 20.0,
+   "profit": -12.0,
+   "allocations": [
+    {
+     "itemId": 3793,
+     "description": "#6",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 18,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 15 Amp 7 in. Corded Concrete Surface Planer with Dust Extraction Shroud",
+   "soldDate": "2025-11-24",
+   "gross": 230.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 114.53,
+   "profit": 115.47,
+   "allocations": [
+    {
+     "itemId": 1133,
+     "description": "Makita GA9060RX3 9\" concrete surface planer",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 179,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt Heavy-Duty 2-Watt Walkie Talkies (2-Pack)",
+   "soldDate": "2025-11-22",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 15.64,
+   "profit": 84.36,
+   "allocations": [
+    {
+     "itemId": 1684,
+     "description": "Dewalt",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 142,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee SHOCKWAVE Impact-Duty 1/2 in. Drive Deep SAE & Metric Lug Nut Impact Socket Set (9-Piece)",
+   "soldDate": "2025-11-22",
+   "gross": 95.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 16.24,
+   "profit": 78.76,
+   "allocations": [
+    {
+     "itemId": 1683,
+     "description": "Socket set",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 17,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Lithium-Ion Brushless Cordless 4-Speed Impact Driver (Tool Only)",
+   "soldDate": "2025-11-22",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 56.02,
+   "profit": 93.98,
+   "allocations": [
+    {
+     "itemId": 1166,
+     "description": "Makita XDT19Z 18V LXT brushless impact driver",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 141,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Black Canyon Screwdriver Bit Set, Drill and Driver, 42 pcs",
+   "soldDate": "2025-11-20",
+   "gross": 12.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 10.56,
+   "profit": 1.44,
+   "allocations": [
+    {
+     "itemId": 3905,
+     "description": "Black Canyon 42-Piece Drill & Driver Bit Set \u2013 Complete Screw/Driver Kit, Professional Grade #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 66,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 18-Gauge Pneumatic Brad Nailer",
+   "soldDate": "2025-11-15",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 49.85,
+   "profit": 30.15,
+   "allocations": [
+    {
+     "itemId": 2046,
+     "description": "DX 9897 DeWalt 18-Gauge Pneumatic Brad Nailer; NEW",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 140,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Brushless Cordless Variable Speed Compact Router with Built-In LED Light (Tool Only)",
+   "soldDate": "2025-11-07",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 75.03,
+   "profit": 74.97,
+   "allocations": [
+    {
+     "itemId": 3457,
+     "description": "023-Makita cordeless router - XTR01Z #5",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 139,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 6.5 Amp 3-1/4 in. Corded Handheld Planer Kit with Blade Set, Hard Case",
+   "soldDate": "2025-11-04",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 80.67,
+   "profit": 29.33,
+   "allocations": [
+    {
+     "itemId": 3589,
+     "description": "003- Makita corded planer - KP0800K #3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 138,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Lithium-Ion Cordless PEX Tubing Clamp Tool (Tool Only)",
+   "soldDate": "2025-10-30",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 26.11,
+   "profit": 53.89,
+   "allocations": [
+    {
+     "itemId": 2991,
+     "description": "RYOBI ONE+ 18V Lithium-lon Cordless PEX Tubing Clamp Tool (Tool Only) SKU:0184",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 183,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 18V Cordless 5 in. Random Orbit Sander (Tool Only)",
+   "soldDate": "2025-10-26",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 8.3,
+   "profit": 31.7,
+   "allocations": [
+    {
+     "itemId": 1336,
+     "description": "tool",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 16,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt ATOMIC 20V MAX Cordless Brushless 4-1/2 in. Circular Saw (Tool Only)",
+   "soldDate": "2025-10-26",
+   "gross": 145.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 126.5,
+   "profit": 18.5,
+   "allocations": [
+    {
+     "itemId": 945,
+     "description": "AS-IS- DEWALT ATOMIC 20V MAX Cordless Brushless 4-1/2 in. Circular Saw (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 137,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V 18-Gauge Brushless Cordless AirStrike Brad Nailer (Tool Only)",
+   "soldDate": "2025-10-20",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 125.42,
+   "profit": -25.42,
+   "allocations": [
+    {
+     "itemId": 3002,
+     "description": "Ryobi 18v HP Brushless 18 gauge brad nailer Tool Only Q518X25 Retails $189",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 136,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT 7/8 in. Cordless SDS-Plus Concrete/Masonry Rotary Hammer Drill (Tool-Only)",
+   "soldDate": "2025-10-13",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 50.65,
+   "profit": 99.35,
+   "allocations": [
+    {
+     "itemId": 3594,
+     "description": "057-XRH04Z #3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 135,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 18V Cordless LED Stick Light (Tool Only)",
+   "soldDate": "2025-10-13",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.0,
+   "profit": 16.0,
+   "allocations": [
+    {
+     "itemId": 3803,
+     "description": "18V Cordless LED Stick Light (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 65,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Lithium-Ion Cordless Variable Speed Jigsaw (Tool-Only)",
+   "soldDate": "2025-10-13",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 99.91,
+   "profit": 10.09,
+   "allocations": [
+    {
+     "itemId": 3596,
+     "description": "042-Makita cordless jigsaw - XVJ03Z #3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 177,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Master Mechanic Pneumatic 3 In 1 Nailer/Stapler w/18-GA Nails, 16-GA Brads & Staples",
+   "soldDate": "2025-10-10",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 8.24,
+   "profit": 21.76,
+   "allocations": [
+    {
+     "itemId": 2486,
+     "description": "#8",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 134,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M12 12-Volt Lithium-Ion Battery Charger",
+   "soldDate": "2025-10-08",
+   "gross": 10.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 26.21,
+   "profit": -16.21,
+   "allocations": [
+    {
+     "itemId": 3018,
+     "description": "#34 Bundle of 4 Milwaukee M12 12-Volt Lithium-Ion Battery Chargers 48-59-2401",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 189,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Brushless Cordless 6-1/2 in. Circular Saw with Electric Brake  (Tool-Only)",
+   "soldDate": "2025-10-06",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 91.96,
+   "profit": 18.04,
+   "allocations": [
+    {
+     "itemId": 3470,
+     "description": "MAKITA XCU04CM LXT 16 in. 18V X2 (36V) Lithium-Ion Brushless Battery Electric Chain Saw Kit (4.0Ah) FACTORY RECON 1YR WARRANTY #4",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 64,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Cordless 1/4 in. Impact Driver (Tool Only)",
+   "soldDate": "2025-09-27",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 35.48,
+   "profit": -5.48,
+   "allocations": [
+    {
+     "itemId": 2373,
+     "description": "(LA) 37 - Ryobi ONE+ 18V Cordless 1/4\" Impact Driver; Tool Only; New; Model # PCL235B",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 133,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M12 12V Lithium-Ion Cordless Variable Speed Polisher/Sander (Tool-Only)",
+   "soldDate": "2025-09-23",
+   "gross": 120.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 73.0,
+   "profit": 47.0,
+   "allocations": [
+    {
+     "itemId": 3678,
+     "description": "Milwaukee Surprise Pull! - Milwaukee 2438-20 M12 Variable Speed Polisher/Sander (Used/Excellent)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 185,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 18V Brushless Cordless 1/2 in. Drill/Driver (Tool Only)",
+   "soldDate": "2025-09-18",
+   "gross": 55.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 1.08,
+   "profit": 53.92,
+   "allocations": [
+    {
+     "itemId": 1568,
+     "description": "drill",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 15,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt ATOMIC 20V MAX Cordless Brushless 4-1/2 in. Circular Saw (Tool Only)",
+   "soldDate": "2025-09-15",
+   "gross": 120.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 86.27,
+   "profit": 33.73,
+   "allocations": [
+    {
+     "itemId": 986,
+     "description": "AS-IS DEWALT ATOMIC 20V MAX Cordless Brushless 4-1/2 in. Circular Saw (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 132,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Lithium-Ion Cordless Variable Speed Reciprocating Saw (Tool-Only)",
+   "soldDate": "2025-09-11",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 91.97,
+   "profit": 8.03,
+   "allocations": [
+    {
+     "itemId": 3470,
+     "description": "MAKITA XCU04CM LXT 16 in. 18V X2 (36V) Lithium-Ion Brushless Battery Electric Chain Saw Kit (4.0Ah) FACTORY RECON 1YR WARRANTY #4",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 63,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Variable Speed Lightweight Compact Reciprocating Saw with Built-in LED (Tool-Only)",
+   "soldDate": "2025-09-07",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 59.21,
+   "profit": 30.79,
+   "allocations": [
+    {
+     "itemId": 3390,
+     "description": "027-Makita reciprocating saw - XRJ01Z #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 176,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Qty: 10 - Simpson Strong-Tie RFB 5/8 in. x 10 in. Zinc-Plated Retrofit Bolt",
+   "soldDate": "2025-09-04",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 8.24,
+   "profit": 26.76,
+   "allocations": [
+    {
+     "itemId": 2486,
+     "description": "#8",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 187,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi USB Lithium Glue Pen Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+   "soldDate": "2025-09-01",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.24,
+   "profit": 10.76,
+   "allocations": [
+    {
+     "itemId": 1650,
+     "description": "Ryobi",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 165,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Porter Cable 1/2\" 20V MAX Lithium Ion Drill Driver (Tool Only)",
+   "soldDate": "2025-09-01",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 7.94,
+   "profit": 27.06,
+   "allocations": [
+    {
+     "itemId": 1576,
+     "description": "Porter Cable",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 131,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M18 FUEL Brushless Cordless 4-1/2 in./5 in. Grinder w/Paddle Switch (Tool-Only)",
+   "soldDate": "2025-08-14",
+   "gross": 135.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 117.94,
+   "profit": 17.06,
+   "allocations": [
+    {
+     "itemId": 2196,
+     "description": "Milwaukee M18 FUEL 4-1/2inch / 5inch Grinder Paddle Switch No-Lock (Bare Tool)  $199",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 62,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 12 Amp 6-1/2 in. Plunge Circular Saw",
+   "soldDate": "2025-08-11",
+   "gross": 325.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 205.47,
+   "profit": 119.53,
+   "allocations": [
+    {
+     "itemId": 3024,
+     "description": "036-MAKITA SP6000J 12 Amp 6-1/2 in. Plunge Circular Saw #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 182,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 6.6 Amp 1/2 in. Corded Variable Speed Hammer Drill",
+   "soldDate": "2025-08-02",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.28,
+   "profit": 80.72,
+   "allocations": [
+    {
+     "itemId": 2956,
+     "description": "#188 Makita HP2050 - Hammer Drill - 3/4 Inch ($169.99)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 130,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 9 Amp Corded 1/2 in. Spade Handle Mud Mixer",
+   "soldDate": "2025-07-26",
+   "gross": 120.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 26.99,
+   "profit": 93.01,
+   "allocations": [
+    {
+     "itemId": 3004,
+     "description": "Ridgid Corded 1/2 in spade handle mud mixer 9 Amp Q518X46 Retails $179",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 129,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Master Lock Large Outdoor Lock Box with Combination Dial and Removable Shackle",
+   "soldDate": "2025-07-24",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 29.21,
+   "profit": 0.79,
+   "allocations": [
+    {
+     "itemId": 3111,
+     "description": "#129- Master lock Large Outdoor Lock Box with Combination Dial and Removable Shackle (2-Pack)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 172,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V Brushless Cordless Compact 1/2 in. Drill/Driver Kit",
+   "soldDate": "2025-07-22",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 32.13,
+   "profit": 32.87,
+   "allocations": [
+    {
+     "itemId": 2658,
+     "description": "18V Cordless 2-Tool Combo Kit with Drill/Driver, Impact Driver, (2) 2.0 Ah Batteries, and Charger",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 128,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Craftsman V-Series 96-Tooth 1/2-in Drive Comfort Grip Handle Ratchet",
+   "soldDate": "2025-07-03",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 50.08,
+   "profit": -15.08,
+   "allocations": [
+    {
+     "itemId": 3167,
+     "description": "Ratchet",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 184,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 120 Piece Set Multi-Material Drill and Impact Rate Drive Kit",
+   "soldDate": "2025-06-27",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 1.08,
+   "profit": 28.92,
+   "allocations": [
+    {
+     "itemId": 1568,
+     "description": "drill",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 28,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 2 Amp Corded 1/4 Sheet Sander",
+   "soldDate": "2025-06-25",
+   "gross": 20.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 13.52,
+   "profit": 6.48,
+   "allocations": [
+    {
+     "itemId": 992,
+     "description": "DALLAS LOCATION - RYOBI 2 Amp Corded 1/4 Sheet Sander - (24 UNITS)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 186,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V Brushless Edger (Tool Only)",
+   "soldDate": "2025-06-23",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.25,
+   "profit": 90.75,
+   "allocations": [
+    {
+     "itemId": 1650,
+     "description": "Ryobi",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 181,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 6.6 Amp 1/2 in. Corded Variable Speed Hammer Drill",
+   "soldDate": "2025-06-23",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.29,
+   "profit": 80.71,
+   "allocations": [
+    {
+     "itemId": 2956,
+     "description": "#188 Makita HP2050 - Hammer Drill - 3/4 Inch ($169.99)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 13,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 40V HP Brushless EZClean 600 PSI 0.7 GPM Cold Water Electric Power Cleaner (Tool-Only)",
+   "soldDate": "2025-06-23",
+   "gross": 70.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 80.11,
+   "profit": -10.11,
+   "allocations": [
+    {
+     "itemId": 966,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 12,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 12V max CXT Lithium-Ion 1/4 in. Cordless Impact Driver (Tool only)",
+   "soldDate": "2025-06-23",
+   "gross": 45.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 26.14,
+   "profit": 18.86,
+   "allocations": [
+    {
+     "itemId": 1151,
+     "description": "Makita DT03Z 12V max CXT impact driver, renewed",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 127,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi USB Lithium Compact Scrubber Kit",
+   "soldDate": "2025-06-16",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.25,
+   "profit": 10.75,
+   "allocations": [
+    {
+     "itemId": 1650,
+     "description": "Ryobi",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 170,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Right Angle Die Grinder (Tool-Only)",
+   "soldDate": "2025-06-09",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 44.62,
+   "profit": 105.38,
+   "allocations": [
+    {
+     "itemId": 2437,
+     "description": "Milwaukee M12 FUEL 1/4\" Right Angle Die Grinder Kit (new, open box)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 126,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi USB Lithium Clamp Fan Kit with 2.0 Ah USB Lithium Battery and Charging Cable",
+   "soldDate": "2025-06-05",
+   "gross": 25.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 25.02,
+   "profit": -0.02,
+   "allocations": [
+    {
+     "itemId": 2367,
+     "description": "(LA) 76 - Ryobi USB Lithium Mini Clamp Fan with Battery, New",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 164,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Porter Cable 1/2\" 20V MAX Lithium Ion Drill Driver (Tool Only)",
+   "soldDate": "2025-05-25",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 7.94,
+   "profit": 27.06,
+   "allocations": [
+    {
+     "itemId": 1576,
+     "description": "Porter Cable",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 125,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SK Tools USA 1/2\" Drive Flex Handle Breaker Bar, 16\" Long",
+   "soldDate": "2025-05-25",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 14.95,
+   "profit": 35.05,
+   "allocations": [
+    {
+     "itemId": 2981,
+     "description": "1/2\" Drive, Flex Handle",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 61,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V Brushless Cordless Oscillating Multi-Tool (Tool Only)",
+   "soldDate": "2025-05-25",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 44.14,
+   "profit": 20.86,
+   "allocations": [
+    {
+     "itemId": 2295,
+     "description": "(JQ) 29 - Ryobi ONE+ HP 18V Brushless Cordless Oscillating Multi-Tool (Tool Only) NO Battery, NO Charger -\n NEW (Factory Sealed) ",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 11,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX 8in. Brushless Cordless Battery Powered Pole Saw (Tool Only)",
+   "soldDate": "2025-05-23",
+   "gross": 175.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 93.67,
+   "profit": 81.33,
+   "allocations": [
+    {
+     "itemId": 962,
+     "description": "AS-IS DEWALT 20V MAX 8in. Brushless Cordless Battery Powered Pole Saw (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 173,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Craftsman V-Series 3/8 in. drive Comfort Grip Ratchet 96 teeth",
+   "soldDate": "2025-05-15",
+   "gross": 25.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 8.69,
+   "profit": 16.31,
+   "allocations": [
+    {
+     "itemId": 1777,
+     "description": "Craftsman V-SERIES Ratchet, 3/8 Inch Drive, 96-Tooth, Comfort Grip #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 124,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Husky QIW001 1/2\" Air Impact Wrench 260 Ft - lb 90 psi",
+   "soldDate": "2025-05-15",
+   "gross": 25.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 11.05,
+   "profit": 13.95,
+   "allocations": [
+    {
+     "itemId": 2868,
+     "description": "1/2\" air impact",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 10,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Master Lock Key Lock Box for Knobs and Lever Door Handles",
+   "soldDate": "2025-05-10",
+   "gross": 25.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 6.22,
+   "profit": 18.78,
+   "allocations": [
+    {
+     "itemId": 1160,
+     "description": "Master Lock key lock box",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 175,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 18V SubCompact Brushless Cordless 1/2 in. Drill",
+   "soldDate": "2025-05-09",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 8.25,
+   "profit": 21.75,
+   "allocations": [
+    {
+     "itemId": 2486,
+     "description": "#8",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 60,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX Cordless Reciprocating Saw (Tool Only)",
+   "soldDate": "2025-05-09",
+   "gross": 75.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 65.0,
+   "profit": 10.0,
+   "allocations": [
+    {
+     "itemId": 2982,
+     "description": "DeWalt Variable Sped Reciprocating Saw DCS381 Display model ",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 9,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt XTREME 12-volt Max Variable Speed Brushless Cordless Reciprocating Saw",
+   "soldDate": "2025-04-21",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 78.43,
+   "profit": 21.57,
+   "allocations": [
+    {
+     "itemId": 1162,
+     "description": "DEWALT Xtreme 12V MAX reciprocating saw DCS312B",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 180,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 10 Amp 1-9/16 in. Corded SDS-MAX Concrete/Masonry Rotary Hammer Drill with Side Handle",
+   "soldDate": "2025-04-20",
+   "gross": 230.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 42.8,
+   "profit": 187.2,
+   "allocations": [
+    {
+     "itemId": 2893,
+     "description": "Makita HR4002 - Rotary Hammer - 1-9/16 in ($338) #14",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 123,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V 1/2 in. Hammer Drill Kit with (2) 2.0 Ah Batteries, Charger, and Bag",
+   "soldDate": "2025-04-13",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 1.09,
+   "profit": 108.91,
+   "allocations": [
+    {
+     "itemId": 1568,
+     "description": "drill",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 59,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 40-Volt 120 MPH 450 CFM Cordless Battery Variable-Speed Jet-Fan Blower (Tool-Only)",
+   "soldDate": "2025-04-13",
+   "gross": 75.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 34.71,
+   "profit": 40.29,
+   "allocations": [
+    {
+     "itemId": 2657,
+     "description": "40V 120 MPH 450 CFM Cordless Battery Variable-Speed Jet-Fan Blower (Tool-Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 58,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 14 Amp 7-1/4 in. Circular Saw with Laser",
+   "soldDate": "2025-04-02",
+   "gross": 55.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 65.62,
+   "profit": -10.62,
+   "allocations": [
+    {
+     "itemId": 1459,
+     "description": "Ryobi 14 Amp 7-1/4 in. Circular Saw with Laser $84",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 57,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Cordless High Volume Inflator (Tool Only)",
+   "soldDate": "2025-04-02",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 13.86,
+   "profit": 26.14,
+   "allocations": [
+    {
+     "itemId": 2359,
+     "description": "(LA) 90 - Ryobi ONE+ 18V Cordless High-Volume Inflator; Tool Only; Unused; Tested & Works (*Missing 1 Nozzle*)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 163,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Porter Cable 20V Max Cordless Lithium Reciprocating Saw",
+   "soldDate": "2025-04-01",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 7.94,
+   "profit": 27.06,
+   "allocations": [
+    {
+     "itemId": 1576,
+     "description": "Porter Cable",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 122,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Porter Cable 20V MAX* Oscillating Tool (Tool Only)",
+   "soldDate": "2025-04-01",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 8.31,
+   "profit": 26.69,
+   "allocations": [
+    {
+     "itemId": 1336,
+     "description": "tool",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 121,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 6.6 Amp 1/2 in. Corded Variable Speed Hammer Drill",
+   "soldDate": "2025-03-31",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.29,
+   "profit": 80.71,
+   "allocations": [
+    {
+     "itemId": 2956,
+     "description": "#188 Makita HP2050 - Hammer Drill - 3/4 Inch ($169.99)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 56,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V X2 LXT (36V) Brushless Cordless Rear Handle 7-1/4 in. Circular Saw (Tool-Only)",
+   "soldDate": "2025-03-31",
+   "gross": 140.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 70.5,
+   "profit": 69.5,
+   "allocations": [
+    {
+     "itemId": 2941,
+     "description": "#145 Makita XSR01Z - Brushless 7-1/4in Circular Saw ($239.99)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 120,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Sub-Compact Brushless Cordless 3/8 in. Sq. Drive Impact Wrench (Tool Only)",
+   "soldDate": "2025-03-23",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 70.36,
+   "profit": 19.64,
+   "allocations": [
+    {
+     "itemId": 1666,
+     "description": "Makita",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 119,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M12 FUEL 12V 3 in. Lithium-Ion Brushless Cordless Cut Off Saw Kit",
+   "soldDate": "2025-03-16",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 112.56,
+   "profit": 37.44,
+   "allocations": [
+    {
+     "itemId": 2365,
+     "description": "(LA) 94 - Milwaukee M12 FUEL 12V Cordless Brushless 3\" Cut-Off Saw Kit with Battery & Charger (NEW)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 118,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Skil Brushless 12V 1/2-Inch Drill Driver & Laser Measurer Kit with Charger",
+   "soldDate": "2025-03-15",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 51.11,
+   "profit": -1.11,
+   "allocations": [
+    {
+     "itemId": 2923,
+     "description": "Skil 2004129 12V PWRCore 12 Cordless Brushless 2 Tool Drill Driver & Laser Measure Kit",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 55,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 6.1 Amp Corded Variable Speed Orbital Jig Saw with SPEEDMATCH Technology",
+   "soldDate": "2025-03-15",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 45.71,
+   "profit": 4.29,
+   "allocations": [
+    {
+     "itemId": 2368,
+     "description": "(LA) 10 - Ryobi 6-Amp Corded Variable-Speed Orbital Jig Saw with SpeedMatch Technology & Carry Bag; Slightly Used; Tested & Works",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 178,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt FLEXVOLT 20V/60V MAX Lithium-Ion 6.0Ah Battery Pack (New in the Box)",
+   "soldDate": "2025-03-13",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 15.64,
+   "profit": 74.36,
+   "allocations": [
+    {
+     "itemId": 1684,
+     "description": "Dewalt",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 8,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX 1/4 in. and 1/8 in. Cordless Drywall Cut-Out Tool (Tool Only)",
+   "soldDate": "2025-03-12",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 81.35,
+   "profit": 18.65,
+   "allocations": [
+    {
+     "itemId": 990,
+     "description": "NEW! - DEWALT 20V MAX 1/4 in. and 1/8 in. Cordless Drywall Cut-Out Tool (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 117,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Lithium-Ion Brushless Cordless 6-1/2 in. Circular Saw  (Tool-Only)",
+   "soldDate": "2025-03-11",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 48.23,
+   "profit": 61.77,
+   "allocations": [
+    {
+     "itemId": 2890,
+     "description": "Makita XSH03Z - 18V LXT Circular Saw - Tool Only ($239.99) #13",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 116,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 10 Amp 1-9/16 in. SDS-MAX Masonry Rotary Hammer Drill with Side Handle and Hard Case",
+   "soldDate": "2025-03-11",
+   "gross": 240.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 42.8,
+   "profit": 197.2,
+   "allocations": [
+    {
+     "itemId": 2893,
+     "description": "Makita HR4002 - Rotary Hammer - 1-9/16 in ($338) #14",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 54,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Sub-Compact 11/16 in. Rotary Hammer, accepts SDS-PLUS bits, Tool Only",
+   "soldDate": "2025-03-11",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 51.1,
+   "profit": 98.9,
+   "allocations": [
+    {
+     "itemId": 2892,
+     "description": "Makita XRH06ZB - Rotary Hammer Tool Only - Sub Compact ($459.99) #15",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 53,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V X2 LXT Lithium-Ion (36V) Brushless Rear Handle 7-1/4 in. Circular Saw (Tool-Only)",
+   "soldDate": "2025-03-11",
+   "gross": 145.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 69.13,
+   "profit": 75.87,
+   "allocations": [
+    {
+     "itemId": 2891,
+     "description": "Makita XSR01Z - 18V X2 Brushless 7-1/4in Circular Saw ($239.99) #13",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 115,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX XR Brushless Screw Gun with (2) 20V MAX XR 4.0 Ah Battery Packs and a Charger",
+   "soldDate": "2025-03-09",
+   "gross": 270.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 15.64,
+   "profit": 254.36,
+   "allocations": [
+    {
+     "itemId": 1684,
+     "description": "Dewalt",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 114,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Bosch 18V CORE18V\u00ae Lithium-Ion 8 Ah High Power Battery",
+   "soldDate": "2025-03-06",
+   "gross": 75.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 8.25,
+   "profit": 66.75,
+   "allocations": [
+    {
+     "itemId": 2486,
+     "description": "#8",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 113,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Metabo WEV 1500-125 RT (601243000) 5\" Angle grinder",
+   "soldDate": "2025-02-27",
+   "gross": 140.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 76.86,
+   "profit": 63.14,
+   "allocations": [
+    {
+     "itemId": 2099,
+     "description": "Metabo WEV 1500-125 RT (601243420) Angle Grinder $222.99",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 112,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Porter Cable 6 Gal. 150 PSI Portable Electric Pancake Air Compressor",
+   "soldDate": "2025-02-25",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 62.24,
+   "profit": 47.76,
+   "allocations": [
+    {
+     "itemId": 923,
+     "description": "Porter Cable compressor $50.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 52,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 100 ft. Green Self-Leveling Cross Line Laser Level with (3) AA Batteries & Case",
+   "soldDate": "2025-02-17",
+   "gross": 155.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 90.69,
+   "profit": 64.31,
+   "allocations": [
+    {
+     "itemId": 2277,
+     "description": "Dewalt Laser Level DW088CG",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 111,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "8pc Proto Blackhawk Flexible Gear Ratcheting Wrench Flex Head Set",
+   "soldDate": "2025-02-16",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.49,
+   "profit": 40.51,
+   "allocations": [
+    {
+     "itemId": 2495,
+     "description": "83. Blackhawk 8pc flex head ratcheting wrench set",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 7,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M18 FUEL 18V Lithium-Ion Cordless Brushless Oscillating Multi-Tool (Tool-Only)",
+   "soldDate": "2025-02-13",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 51.75,
+   "profit": 98.25,
+   "allocations": [
+    {
+     "itemId": 955,
+     "description": "AS-IS- Milwaukee M18 FUEL 18V Lithium-Ion Cordless Brushless Oscillating Multi-Tool (Tool-Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 51,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 18V 100 MPH 350 CFM Variable Speed Jet Fan Leaf Blower with 4.0 Ah Battery and Charger",
+   "soldDate": "2025-02-12",
+   "gross": 85.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 57.15,
+   "profit": 27.85,
+   "allocations": [
+    {
+     "itemId": 2656,
+     "description": "ONE+ 18V 100 MPH 350 CFM Cordless Battery Variable Speed Jet Fan Leaf Blower with 4.0 Ah Battery and Charger",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 110,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M18 FUEL Brushless Cordless 4-1/2 in./5 in. Grinder w/Paddle Switch (Tool-Only)",
+   "soldDate": "2025-02-11",
+   "gross": 110.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 103.92,
+   "profit": 6.08,
+   "allocations": [
+    {
+     "itemId": 2188,
+     "description": "Milwaukee M18 FUEL 4-1/2inch / 5inch Grinder Paddle Switch No-Lock (Bare Tool)  $199",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 109,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 1 HP Stainless Steel Dual Suction Sump Pump",
+   "soldDate": "2025-02-09",
+   "gross": 180.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 94.94,
+   "profit": 85.06,
+   "allocations": [
+    {
+     "itemId": 2738,
+     "description": "$359 1HP Ridgid Sump Pump! Brand new! Cast Iron & Stainless ",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 108,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Craftsman V-Series 1/4-in Drive Standard (SAE) Shallow Socket Set (38-Pieces)",
+   "soldDate": "2025-02-07",
+   "gross": 25.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 44.71,
+   "profit": -19.71,
+   "allocations": [
+    {
+     "itemId": 2861,
+     "description": "0106 CRAFTSMAN V-Series 1/4-in Drive Metric Shallow Socket Set (38-Pieces)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 50,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Craftsman V-Series 96-Tooth 3/8-in Drive Comfort Grip Handle Ratchet",
+   "soldDate": "2025-02-07",
+   "gross": 15.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 8.69,
+   "profit": 6.31,
+   "allocations": [
+    {
+     "itemId": 1777,
+     "description": "Craftsman V-SERIES Ratchet, 3/8 Inch Drive, 96-Tooth, Comfort Grip #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 171,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Cordless 1/2 in. Drill/Driver Kit with (1) 1.5 Ah Batteries and Charger",
+   "soldDate": "2025-02-04",
+   "gross": 55.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 32.14,
+   "profit": 22.86,
+   "allocations": [
+    {
+     "itemId": 2658,
+     "description": "18V Cordless 2-Tool Combo Kit with Drill/Driver, Impact Driver, (2) 2.0 Ah Batteries, and Charger",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 107,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 18V Brushless Cordless Compact Router (Tool Only)",
+   "soldDate": "2025-02-04",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 27.06,
+   "profit": 52.94,
+   "allocations": [
+    {
+     "itemId": 1360,
+     "description": "Power tools & More #20",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 49,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 18V SubCompact Brushless Cordless One-Handed Reciprocating Saw (Tool Only)",
+   "soldDate": "2025-02-04",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 45.22,
+   "profit": 4.78,
+   "allocations": [
+    {
+     "itemId": 2405,
+     "description": "35 - RIDGID R8648 18V SubCompact Brushless Cordless One-Handed Reciprocating Saw (Tool Only) (RETAILS $130)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 48,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Craftsman 6-Gallons Portable Electric 150 PSI Pancake Air Compressor with Accessories Included",
+   "soldDate": "2025-02-02",
+   "gross": 115.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 99.39,
+   "profit": 15.61,
+   "allocations": [
+    {
+     "itemId": 1889,
+     "description": "CRAFTSMAN Air Compressor, 6 Gallon, Pancake, Oil-Free with 13 Piece Accessory Kit (CMEC6150K)$184",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 27,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 2 Amp Corded 1/4 Sheet Sander",
+   "soldDate": "2025-01-24",
+   "gross": 20.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 14.84,
+   "profit": 5.16,
+   "allocations": [
+    {
+     "itemId": 991,
+     "description": "DALLAS LOCATION - RYOBI 2 Amp Corded 1/4 Sheet Sander - (24 UNITS)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 106,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee SHOCKWAVE Impact Duty 1/4 in. x 1-7/8 in. Alloy Steel Magnetic Nut Driver Bit (3-Pack)",
+   "soldDate": "2025-01-22",
+   "gross": 4.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 5.41,
+   "profit": -1.41,
+   "allocations": [
+    {
+     "itemId": 2487,
+     "description": "#3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 167,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 4.8 Amp Corded Variable Speed Orbital Jig Saw",
+   "soldDate": "2025-01-19",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 12.97,
+   "profit": 22.03,
+   "allocations": [
+    {
+     "itemId": 2358,
+     "description": "(LA) 83 - Ryobi 4.8-Amp Corded Variable Speed Orbital Jig Saw; Used Condition; Tested & Works",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 47,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Apollo PEX-A Expansion Tool Kit with 1/2 in., 3/4 in. and 1 in. Expander Heads",
+   "soldDate": "2025-01-08",
+   "gross": 75.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 32.07,
+   "profit": 42.93,
+   "allocations": [
+    {
+     "itemId": 2404,
+     "description": "33- Apollo - PEX-A Expansion Tool Kit with 1/2 in., 3/4 in. and 1 in. Expander Heads (Retails $140)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 105,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 55 ft. Green Self-Leveling Cross Line Laser Level with (2) AA Batteries & Case",
+   "soldDate": "2025-01-03",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 133.99,
+   "profit": -68.99,
+   "allocations": [
+    {
+     "itemId": 1988,
+     "description": "BZ 0970 DeWalt 100-Ft Green Self-Leveling 3-Spot Laser Level with Batteries & Case; Unused",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 104,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita Drill/Impact Driver Kit",
+   "soldDate": "2024-12-27",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 32.14,
+   "profit": 47.86,
+   "allocations": [
+    {
+     "itemId": 2658,
+     "description": "18V Cordless 2-Tool Combo Kit with Drill/Driver, Impact Driver, (2) 2.0 Ah Batteries, and Charger",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 46,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 18v 1.5ah Battery And Charger",
+   "soldDate": "2024-12-17",
+   "gross": 20.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 18.7,
+   "profit": 1.3,
+   "allocations": [
+    {
+     "itemId": 1754,
+     "description": "Ryobi PBP002 18v 1.5ah Battery Reconditioned",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 5,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 6 Gal. Portable Electric Pancake Air Compressor",
+   "soldDate": "2024-12-10",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 178.71,
+   "profit": -128.71,
+   "allocations": [
+    {
+     "itemId": 994,
+     "description": "NEW! - RIDGID 6 Gal. Portable Electric Pancake Air Compressor w/ 18GA Brad Nailer, 16GA Straight Finish Nailer, & 18GA Finish Stapler",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 103,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 18V SubCompact Brushless Cordless Impact Driver",
+   "soldDate": "2024-12-08",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 120.95,
+   "profit": -70.95,
+   "allocations": [
+    {
+     "itemId": 2045,
+     "description": "DX 9892 Ridgid 18V Brushless Cordless 2-Tool Kit (Drill/Driver; Impact Driver; Batteries & Charger); Unused Condition",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 45,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Lithium-Ion 2.0 Ah Compact Battery and Charger Starter Kit",
+   "soldDate": "2024-12-01",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 83.11,
+   "profit": -53.11,
+   "allocations": [
+    {
+     "itemId": 2049,
+     "description": "DX 9878 Ryobi 18V Lithium-Ion Battery & Charger Starter Kit (2 Batteries, 1 Charger); Unused",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 44,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 3 Amp Corded 5 in. Random Orbital Sander with AIRGUARD Technology",
+   "soldDate": "2024-11-25",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 16.14,
+   "profit": 18.86,
+   "allocations": [
+    {
+     "itemId": 2360,
+     "description": "(LA) 92 - Ridgid 3-Amp Corded 5\" Random Orbital Sander - Used Condition; Tested & Works [R26011]",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 43,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 6.2 Amp Corded 5/8 in. Variable Speed Hammer Drill",
+   "soldDate": "2024-11-23",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 38.18,
+   "profit": 1.82,
+   "allocations": [
+    {
+     "itemId": 1953,
+     "description": "AY540 RYOBI 6.2 Amp Corded 5/8 in. Variable Speed Hammer Drill",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 169,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Right Angle Die Grinder (Tool-Only)",
+   "soldDate": "2024-11-22",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 44.63,
+   "profit": 105.37,
+   "allocations": [
+    {
+     "itemId": 2437,
+     "description": "Milwaukee M12 FUEL 1/4\" Right Angle Die Grinder Kit (new, open box)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 166,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dremel Multi Max 3.5 amp corded Oscillating Tool Kit",
+   "soldDate": "2024-11-16",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 25.44,
+   "profit": 24.56,
+   "allocations": [
+    {
+     "itemId": 1544,
+     "description": "Dremel Multi Max",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 42,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Craftsman V20 20-volt Max 1/2-in Cordless Drill (1-Battery Included and Charger Included",
+   "soldDate": "2024-11-16",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 53.41,
+   "profit": -18.41,
+   "allocations": [
+    {
+     "itemId": 1621,
+     "description": "Craftsman 20Volt brushless 1/2\u201d drill /driver set",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 4,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ridgid 6 Gal. Portable Electric Pancake Air Compressor",
+   "soldDate": "2024-11-16",
+   "gross": 75.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 178.71,
+   "profit": -103.71,
+   "allocations": [
+    {
+     "itemId": 993,
+     "description": "NEW! - RIDGID 6 Gal. Portable Electric Pancake Air Compressor w/ 18GA Brad Nailer, 16GA Straight Finish Nailer, & 18GA Finish Stapler",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 41,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Cordless 5 in. Random Orbit Sander (Tool Only)",
+   "soldDate": "2024-10-31",
+   "gross": 45.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 31.43,
+   "profit": 13.57,
+   "allocations": [
+    {
+     "itemId": 2403,
+     "description": "46 - RYOBI ONE+ 18V Cordless 5 in. Random Orbit Sander (Tool Only) (RETAILS $60)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 40,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "#45 Ridgid 18V Cordless 1/4 in. Impact Driver (Tool Only)",
+   "soldDate": "2024-10-31",
+   "gross": 45.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 21.65,
+   "profit": 23.35,
+   "allocations": [
+    {
+     "itemId": 1768,
+     "description": "Ridgid 18V Impact Driver R86002 #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 39,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Rockwell RK5142K 4.0 Amp Sonicrafter F50 Oscillating Multi-Tool",
+   "soldDate": "2024-10-23",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 41.43,
+   "profit": 8.57,
+   "allocations": [
+    {
+     "itemId": 2251,
+     "description": "Rockwell RK5142K 4.0 Amp Sonicrafter F50 Oscillating Multi-TooL (NEW, OPEN BOX) *IN BAG*",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 102,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Stryker 200 - Multi-Fuel Camping Stove",
+   "soldDate": "2024-10-12",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 19.49,
+   "profit": 20.51,
+   "allocations": [
+    {
+     "itemId": 1778,
+     "description": "Camp Chef Stryker Multi Fuel Cooking System #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 101,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M12 FUEL 12V Lithium-Ion Brushless Cordless 1/4 in. Right Angle Die Grinder Kit",
+   "soldDate": "2024-10-12",
+   "gross": 230.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 44.63,
+   "profit": 185.37,
+   "allocations": [
+    {
+     "itemId": 2437,
+     "description": "Milwaukee M12 FUEL 1/4\" Right Angle Die Grinder Kit (new, open box)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 100,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Metabo Pneumatic HPT 21 Degree Framing Nailer",
+   "soldDate": "2024-10-10",
+   "gross": 210.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 59.61,
+   "profit": 150.39,
+   "allocations": [
+    {
+     "itemId": 2203,
+     "description": "Metabo HPT 3.5-in 21-Degree Pneumatic Framing Nailer $199",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 38,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Lithium-Ion Charger",
+   "soldDate": "2024-10-08",
+   "gross": 12.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 12.04,
+   "profit": -0.04,
+   "allocations": [
+    {
+     "itemId": 2362,
+     "description": "(LA) 48 - Ryobi ONE+ 18V Lithium-Ion Battery Charger; Unused; Tested & Works [Model # PCG002]",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 99,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 4.8 Amp Corded Variable Speed Orbital Jig Saw",
+   "soldDate": "2024-10-04",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 12.98,
+   "profit": 22.02,
+   "allocations": [
+    {
+     "itemId": 2358,
+     "description": "(LA) 83 - Ryobi 4.8-Amp Corded Variable Speed Orbital Jig Saw; Used Condition; Tested & Works",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 37,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Milwaukee M12 FUEL 12V 3 in. Lithium-Ion Brushless Cordless Cut Off Saw Kit",
+   "soldDate": "2024-10-04",
+   "gross": 150.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 111.56,
+   "profit": 38.44,
+   "allocations": [
+    {
+     "itemId": 1928,
+     "description": "AE4356 M12 FUEL 12V 3 in. Lithium-Ion Brushless Cordless Cut Off Saw Kit with One 4.0 Ah Battery Charger and Bag",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 36,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Kobalt 24-volt 3-Tool Brushless Power Tool Combo Kit (2-Batteries Included and Charger Included)",
+   "soldDate": "2024-10-03",
+   "gross": 135.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 135.31,
+   "profit": -0.31,
+   "allocations": [
+    {
+     "itemId": 2097,
+     "description": "Kobalt 3-Tool Combo Kit w2 Batteries Charger 5026833 $299",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 98,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 18V ONE+ Dual Function Cordless Inflator/Deflator (Tool Only)",
+   "soldDate": "2024-09-24",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 45.27,
+   "profit": -15.27,
+   "allocations": [
+    {
+     "itemId": 2234,
+     "description": "RYOBI 18V HIGH PRESSURE DIGITAL INFLATOR KIT ",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 97,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt ATOMIC 20V MAX Cordless Brushless Ultra-Compact 5/8 in. SDS Plus Hammer Drill (Tool Only)",
+   "soldDate": "2024-09-24",
+   "gross": 140.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 95.26,
+   "profit": 44.74,
+   "allocations": [
+    {
+     "itemId": 2114,
+     "description": "Dewalt 20v atomic 5/8\" SDs rotary hammer #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 96,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Metabo 18V Sub-Compact Driver Drill/Impact Driver Combo Kit",
+   "soldDate": "2024-09-17",
+   "gross": 95.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 86.6,
+   "profit": 8.4,
+   "allocations": [
+    {
+     "itemId": 2098,
+     "description": "Metabo Compact Driver Drill/Impact Driver Combo Kit",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 35,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Compression Drive Cordless 3/8 in. Crown Stapler",
+   "soldDate": "2024-09-17",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 36.81,
+   "profit": 23.19,
+   "allocations": [
+    {
+     "itemId": 1771,
+     "description": "Ryobi 18V Crown Stapler P317 *lightly used*",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 95,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dremel Multi Max 3.5 amp corded Oscillating Tool Kit",
+   "soldDate": "2024-09-08",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 25.44,
+   "profit": 24.56,
+   "allocations": [
+    {
+     "itemId": 1544,
+     "description": "Dremel Multi Max",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 34,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 18V ONE+ HP Brushless Cordless 130 MPH 510 CFM Blower (Tool Only)",
+   "soldDate": "2024-09-06",
+   "gross": 70.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 60.19,
+   "profit": 9.81,
+   "allocations": [
+    {
+     "itemId": 2063,
+     "description": "18V ONE+ HP Brushless Cordless 130 MPH 510 CFM Blower (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 33,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX Cordless 1/4 in. Impact Driver (Tool Only)",
+   "soldDate": "2024-09-06",
+   "gross": 35.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 58.46,
+   "profit": -23.46,
+   "allocations": [
+    {
+     "itemId": 1772,
+     "description": "DeWalt DCF885 1/4\" Impact Driver New $129 Retail",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 32,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Porter Cable 18-Gauge Pneumatic Brad Nailer",
+   "soldDate": "2024-09-05",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 16.61,
+   "profit": 13.39,
+   "allocations": [
+    {
+     "itemId": 1260,
+     "description": "Porter Cable 2in 18ga Brad nailer BN200SB",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 3,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX XR Cordless Brushless Reciprocating Saw (Tool Only)",
+   "soldDate": "2024-08-31",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 117.09,
+   "profit": -52.09,
+   "allocations": [
+    {
+     "itemId": 963,
+     "description": "AS-IS DEWALT 20V MAX XR Cordless Brushless Reciprocating Saw (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 94,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V Brushless Cordless 1/2 in. Hammer Drill with Tool Bag",
+   "soldDate": "2024-08-30",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 59.52,
+   "profit": 5.48,
+   "allocations": [
+    {
+     "itemId": 2245,
+     "description": "1003 (RYOBI ONE+ HP 19V Brushless Cordless 1/2 In Hammer Drill Kit With 4.0 Ah Battery,Charger,Tools Bag)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 29,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt ATOMIC 20V MAX Cordless Brushless Compact Reciprocating Saw (Tool Only)",
+   "soldDate": "2024-08-29",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 108.46,
+   "profit": -8.46,
+   "allocations": [
+    {
+     "itemId": 978,
+     "description": "AS-IS DeWalt 18v XR Cordless Brushless Reciprocating Saw (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 2,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt XR 20V MAX Lithium-Ion Cordless Brushless Screw Gun (Tool Only)",
+   "soldDate": "2024-08-27",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 73.94,
+   "profit": -23.94,
+   "allocations": [
+    {
+     "itemId": 988,
+     "description": "AS-IS DeWalt DCF630B 20V Cordless Brushless Screw Gun (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 30,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt FLEXVOLT 60V MAX Cordless Brushless 7-1/4 in. Circular Saw with Brake (Tool Only)",
+   "soldDate": "2024-08-21",
+   "gross": 155.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 136.86,
+   "profit": 18.14,
+   "allocations": [
+    {
+     "itemId": 933,
+     "description": "AS-IS DEWALT 20-Volt MAX 7-1/4 in. Cordless Circular Saw (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 93,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Porter-Cable 18 Ga. Brad Nailer (#BN125A)",
+   "soldDate": "2024-08-19",
+   "gross": 25.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 7.94,
+   "profit": 17.06,
+   "allocations": [
+    {
+     "itemId": 1576,
+     "description": "Porter Cable",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 1,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX Cordless Reciprocating Saw (Tool Only)",
+   "soldDate": "2024-08-19",
+   "gross": 75.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 69.03,
+   "profit": 5.97,
+   "allocations": [
+    {
+     "itemId": 979,
+     "description": "AS-IS DEWALT 20V MAX Cordless Reciprocating Saw (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 92,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 40V 6.0AH Lithium-Ion Battery",
+   "soldDate": "2024-08-17",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 97.43,
+   "profit": -17.43,
+   "allocations": [
+    {
+     "itemId": 2090,
+     "description": "RYOBI 40 Volt Lithium-Ion 6. Ah Battery and Rapid Charger",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 31,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 6.2 Amp Corded 5/8 in. Variable Speed Hammer Drill",
+   "soldDate": "2024-08-15",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 21.77,
+   "profit": 18.23,
+   "allocations": [
+    {
+     "itemId": 1573,
+     "description": "Ryobi D620H Concrete 6.2Amp Concrete hammer drill",
+     "quantity": 1
+    }
+   ]
+  }
+ ]
+}
