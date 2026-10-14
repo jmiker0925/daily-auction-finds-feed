@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-10-13T12:45:15+00:00",
+ "generated_at": "2026-10-14T12:47:10+00:00",
  "sales": [
+  {
+   "saleId": 275,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Brushless 1/2\" High Torque Impact Wrench - Tool Only (XWT08Z)",
+   "soldDate": "2026-10-13",
+   "gross": 200.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 142.21,
+   "profit": 57.79,
+   "allocations": [
+    {
+     "itemId": 4836,
+     "description": "Makita XWT08Z 18V LXT Brushless Cordless High Torque 1/2 in. Impact Wrench (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 274,
    "platform": "facebook",
