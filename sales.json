@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T12:47:10+00:00",
+ "generated_at": "2026-10-15T12:45:21+00:00",
  "sales": [
   {
    "saleId": 275,
@@ -92,6 +92,25 @@
     {
      "itemId": 4502,
      "description": "Ryobi 18V ONE+ LED Spotlight 3000 Lumens PCL661 (Tool Only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 276,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Stabila 48 in level",
+   "soldDate": "2026-09-30",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 31.76,
+   "profit": 68.24,
+   "allocations": [
+    {
+     "itemId": 189,
+     "description": "Stabila 48\" level $25.51",
      "quantity": 1
     }
    ]
