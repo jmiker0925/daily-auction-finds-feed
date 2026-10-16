@@ -1,6 +1,44 @@
 {
- "generated_at": "2026-10-15T12:45:21+00:00",
+ "generated_at": "2026-10-16T12:45:13+00:00",
  "sales": [
+  {
+   "saleId": 278,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Husky 36.5 in Rolling Tool Box 50-Gal w/ Keyed Lock - Like New",
+   "soldDate": "2026-10-15",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 739,
+     "description": "Husky tool box $30.55",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 277,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita LXT 18V X2 (36V) Lithium-Ion Brushless Cordless String Trimmer (Tool-Only)",
+   "soldDate": "2026-10-15",
+   "gross": 220.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 100.84,
+   "profit": 119.16,
+   "allocations": [
+    {
+     "itemId": 398,
+     "description": "Makita string trimmer kit $81.00",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 275,
    "platform": "facebook",
