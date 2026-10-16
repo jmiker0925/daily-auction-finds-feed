@@ -1409,6 +1409,48 @@
    "buyerPremiumPct": 0.15,
    "salesTaxPct": 0.0825,
    "distanceMi": 56.6
+  },
+  {
+   "sourceKey": "hibid-atxwaco-325794767",
+   "site": "HiBid",
+   "auctionName": "ATX Auctions Waco - October Multi-Warehouse Liquidation Auction",
+   "lotNumber": "590",
+   "title": "Pallet Of Damaged And/Or Incomplete Goods",
+   "category": "Tool Pallets",
+   "condition": "Unknown",
+   "lotUrl": "https://hibid.com/lot/325794767/pallet-of-damaged-and-or-incomplete-goods",
+   "location": "Elm Mott, TX",
+   "currentBid": 5,
+   "retailPrice": null,
+   "estimatedResale": null,
+   "pricingNote": "Closes Thu 10/22; ~6 days left at check; condition/retail not shown in list view",
+   "closeAt": null,
+   "closeTimezone": "America/Chicago",
+   "discoveredOn": "2026-10-16",
+   "sourceUpdatedAt": "2026-10-16T07:40:00-05:00",
+   "buyerPremiumPct": 0.15,
+   "salesTaxPct": 0.0825
+  },
+  {
+   "sourceKey": "hibid-willowbranch-326545249",
+   "site": "HiBid",
+   "auctionName": "Willow Branch Auction - Tyler, TX",
+   "lotNumber": "202",
+   "title": "Milwaukee 1/2 in. Impact Wrench (battery works)",
+   "category": "Power Tools",
+   "condition": "Unknown",
+   "lotUrl": "https://hibid.com/lot/326545249/milwaukee-1-2--impact-wrench-battery-works",
+   "location": "Tyler, TX 75707",
+   "currentBid": 6,
+   "retailPrice": null,
+   "estimatedResale": null,
+   "pricingNote": "Auction runs 10/8-11/3; ~17 days left at check; condition/retail not shown in list view",
+   "closeAt": null,
+   "closeTimezone": "America/Chicago",
+   "discoveredOn": "2026-10-16",
+   "sourceUpdatedAt": "2026-10-16T07:40:00-05:00",
+   "buyerPremiumPct": 0.15,
+   "salesTaxPct": 0.0825
   }
  ]
 }
