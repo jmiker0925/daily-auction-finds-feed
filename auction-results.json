@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T07:43:45.445346-05:00",
+ "generatedAt": "2026-10-16T07:43:46.696898-05:00",
  "auctions": [
   {
    "id": "1130",
@@ -25804,10 +25804,10 @@
     {
      "lot_number": "1237",
      "title": "Contents of shelf: flange fixer, brass valves, Milwaukee tape measure etc.",
-     "outcome": "watch_only",
+     "outcome": "won",
      "hammer_total": 95.0,
      "hammer_per_unit": 95.0,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": null,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557338-contents-of-shelve-containing-flange-fixer-brass-valves-milwaukee-tape-measure-etc"
     },
@@ -25832,6 +25832,16 @@
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557290-dewalt-digging-shovel-fiberglass-handle"
     },
     {
+     "lot_number": "1293",
+     "title": "DeWalt 16-Tine Bow Rake - Fiberglass Handle",
+     "outcome": "won",
+     "hammer_total": 14.5,
+     "hammer_per_unit": 14.5,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
+    },
+    {
      "lot_number": "1299",
      "title": "DEWALT 24-Tine Steel Rake, Fiberglass Handle",
      "outcome": "removed",
@@ -25850,6 +25860,16 @@
      "winning_bidder": "4****3",
      "john_max": 9.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557275-dewalt-24-tine-steel-rake-fiberglass-handle"
+    },
+    {
+     "lot_number": "1304",
+     "title": "DeWalt Mortar Hoe - Fiberglass Handle",
+     "outcome": "won",
+     "hammer_total": 10.0,
+     "hammer_per_unit": 10.0,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "136",
@@ -25894,10 +25914,10 @@
     {
      "lot_number": "1483",
      "title": "Sterilite 16qt Storage Box",
-     "outcome": "removed",
+     "outcome": "won",
      "hammer_total": 3.25,
      "hammer_per_unit": 3.25,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 2.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557092-sterlite-16qt-storage-box"
     },
@@ -25907,7 +25927,7 @@
      "outcome": "won",
      "hammer_total": 2.25,
      "hammer_per_unit": 2.25,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 5.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558427-oatey-size-aa-3-8-hammer-arrestor"
     },
@@ -26062,6 +26082,26 @@
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558329-bridget-6-gallon-with-dry-vac"
     },
     {
+     "lot_number": "268",
+     "title": "Miscellaneous Shelf Of Items",
+     "outcome": "won",
+     "hammer_total": 15.25,
+     "hammer_per_unit": 15.25,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
+    },
+    {
+     "lot_number": "289",
+     "title": "Miscellaneous Shelf Of Items",
+     "outcome": "won",
+     "hammer_total": 9.5,
+     "hammer_per_unit": 9.5,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
+    },
+    {
      "lot_number": "3",
      "title": "RIDGID 18V 6-1/2 in. Circular Saw Kit",
      "outcome": "removed",
@@ -26070,6 +26110,16 @@
      "winning_bidder": "5****5",
      "john_max": 43.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557021-rigid-18v-6-1-2-circular-saw-kit-18500"
+    },
+    {
+     "lot_number": "304",
+     "title": "Miscellaneous shelf of items",
+     "outcome": "won",
+     "hammer_total": 36.25,
+     "hammer_per_unit": 36.25,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "31",
@@ -26097,7 +26147,7 @@
      "outcome": "won",
      "hammer_total": 54.0,
      "hammer_per_unit": 54.0,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 54.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558261-ryobi-40v-one-250cfm-blower-kit-450cfm-1007573600"
     },
@@ -26287,7 +26337,7 @@
      "outcome": "won",
      "hammer_total": 50.0,
      "hammer_per_unit": 50.0,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 50.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557918-pro-plus-pressure-switch-30-to-50-psi-50-pack-box"
     },
@@ -26297,7 +26347,7 @@
      "outcome": "won",
      "hammer_total": 50.0,
      "hammer_per_unit": 50.0,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 50.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557916-pro-plus-pressure-switch-30-to-50-psi-50-pack-box"
     },
@@ -26317,7 +26367,7 @@
      "outcome": "won",
      "hammer_total": 30.0,
      "hammer_per_unit": 30.0,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 50.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557917-pro-plus-pressure-switch-30-to-50-psi-50-pack-box"
     },
@@ -26342,12 +26392,32 @@
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557864-milwaukee-pack-out-large-rolling-tool-box"
     },
     {
+     "lot_number": "715",
+     "title": "Flexible Pipe Couplings 1-1/2 in. (100 pcs)",
+     "outcome": "won",
+     "hammer_total": 11.5,
+     "hammer_per_unit": 11.5,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
+    },
+    {
+     "lot_number": "716",
+     "title": "Flexible Pipe Couplings 1-1/2 in. (100 pcs)",
+     "outcome": "won",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
+    },
+    {
      "lot_number": "717",
      "title": "Flexible Pipe Couplings 1-1/2 in. (100 pcs box)",
      "outcome": "won",
      "hammer_total": 29.25,
      "hammer_per_unit": 29.25,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 91.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557859-100-pieces-box-of-flexible-9-hub-pipe-coupling-1-and-1-2-in-by-1-and-1-2-in"
     },
@@ -26357,7 +26427,7 @@
      "outcome": "won",
      "hammer_total": 30.0,
      "hammer_per_unit": 30.0,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 91.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557858-100-pieces-box-of-flexible-9-hub-pipe-coupling-1-and-1-2-in-by-1-and-1-2-in"
     },
@@ -26430,6 +26500,16 @@
      "winning_bidder": "5****4",
      "john_max": 40.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558567-dewalt-15-20v-max-cordless-pruner-12900"
+    },
+    {
+     "lot_number": "905",
+     "title": "Purell Hand Sanitizer 12-8oz Case",
+     "outcome": "won",
+     "hammer_total": 1.25,
+     "hammer_per_unit": 1.25,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
     },
     {
      "lot_number": "93",
