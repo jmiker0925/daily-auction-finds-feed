@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T16:07:23.102506-05:00",
+ "generatedAt": "2026-10-17T16:08:17.600591-05:00",
  "auctions": [
   {
    "id": "HiBid-Bidwells",
@@ -53,7 +53,7 @@
      "priority": "High",
      "authorization": "Approved to Bid",
      "miles": 7,
-     "notes": "NIB. Resale basis $160 from our comps (retail $319) - NOT title retail. 40 bids, at $40 on 2026-10-17. Max $72 approved by John 2026-10-17. Listing URL to be captured by the bid watch (never guessed)."
+     "notes": "NIB. Resale basis $160 from our comps (retail $319) - NOT title retail. 40 bids, at $40 on 2026-10-17. Max $72 approved by John 2026-10-17. Listing URL captured from the live catalog."
     },
     {
      "lotNumber": 74,
@@ -71,7 +71,7 @@
      "priority": "High",
      "authorization": "Approved to Bid",
      "miles": 7,
-     "notes": "Used, tested/working per catalog, Diablo 36T blade included. At $41 on 2026-10-17 - only $4 under max. $45 HARD STOP (John 2026-10-17): do not chase. Listing URL to be captured by the bid watch (never guessed)."
+     "notes": "Used, tested/working per catalog, Diablo 36T blade included. At $41 on 2026-10-17 - only $4 under max. $45 HARD STOP (John 2026-10-17): do not chase. Listing URL captured from the live catalog."
     }
    ]
   }
