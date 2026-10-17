@@ -1,6 +1,44 @@
 {
- "generated_at": "2026-10-16T12:45:13+00:00",
+ "generated_at": "2026-10-17T12:44:33+00:00",
  "sales": [
+  {
+   "saleId": 280,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V Lithium-Ion Dual Port Rapid Optimum Charger",
+   "soldDate": "2026-10-16",
+   "gross": 70.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 4966,
+     "description": "Makita DC18SH 18V dual port rapid optimum charger",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 279,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Seesii Cordless Reciprocating Saw Kit",
+   "soldDate": "2026-10-16",
+   "gross": 45.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 4560,
+     "description": "SeeSii SRW02 21V cordless reciprocating saw kit (saw, 2x 4000mAh batteries, charger, blades, gloves, manual, case)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 278,
    "platform": "facebook",
