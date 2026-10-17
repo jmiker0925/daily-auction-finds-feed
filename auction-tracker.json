@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T16:04:56.919862-05:00",
+ "generatedAt": "2026-10-17T16:05:57.028282-05:00",
  "auctions": [
   {
    "id": "HiBid-Bidwells",
@@ -48,7 +48,7 @@
      "allInAtCurrent": 49.8,
      "status": "Watching",
      "highBidder": null,
-     "listingUrl": null,
+     "listingUrl": "https://www.auctionhubtexas.com/auctions/1151/lot/559268-nib-makita-cordless-plate-joiner-xjp03z-18v-lithiun-ion-dfwsh001",
      "closeAt": "2026-10-19T19:00:00-05:00",
      "priority": "High",
      "authorization": "Approved to Bid",
