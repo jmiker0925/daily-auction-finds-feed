@@ -1,6 +1,65 @@
 {
- "generated_at": "2026-10-17T12:44:33+00:00",
+ "generated_at": "2026-10-17T19:14:40+00:00",
  "sales": [
+  {
+   "saleId": 281,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "Ryobi 40V EZClean 600 PSI Power Cleaner Kits x9 - batch closeout (sold at a loss, batteries bad; sale date, buyer and amount were never recorded - closed out 2026-10-17 at John's direction)",
+   "soldDate": "2026-10-17",
+   "gross": 0.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 708.71,
+   "profit": -708.71,
+   "allocations": [
+    {
+     "itemId": 968,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    },
+    {
+     "itemId": 969,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    },
+    {
+     "itemId": 970,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    },
+    {
+     "itemId": 971,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    },
+    {
+     "itemId": 972,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    },
+    {
+     "itemId": 973,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    },
+    {
+     "itemId": 974,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    },
+    {
+     "itemId": 975,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    },
+    {
+     "itemId": 976,
+     "description": "NEW! RYOBI 40V HP Brushless EZClean 600 PSI Cordless Cold Water Power Cleaner Kit",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 280,
    "platform": "facebook",
