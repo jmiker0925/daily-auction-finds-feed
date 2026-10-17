@@ -1,4 +1,79 @@
 {
- "generatedAt": "2026-10-17T07:43:13.609275-05:00",
- "auctions": []
+ "generatedAt": "2026-10-17T16:04:56.919862-05:00",
+ "auctions": [
+  {
+   "id": "HiBid-Bidwells",
+   "site": "HiBid",
+   "name": "Bidwells: September DFW Estate Sale!",
+   "closeAt": "2026-10-19T19:00:00-05:00",
+   "closeText": "Mon Oct 19, ~7:00 PM CDT",
+   "pickup": "2575 Southwell Rd Ste 104, Dallas, TX 75229 (13 mi)",
+   "lots": [
+    {
+     "lotNumber": "105",
+     "item": "TOOL BOX W/TOOLS",
+     "category": "Hand Tools",
+     "condition": "Unknown",
+     "currentBid": null,
+     "workingMax": null,
+     "proxyPlaced": null,
+     "allInAtCurrent": null,
+     "status": "Watching",
+     "highBidder": null,
+     "listingUrl": "https://hibid.com/lot/323872108/tool-box-w-tools?ref=catalog",
+     "closeAt": null,
+     "priority": "Medium",
+     "authorization": "Awaiting Approval",
+     "miles": 13,
+     "notes": "Metal toolbox with tools; 0 bids; local pickup only; pickup Thu 10/1 11am-6pm; 18% BP"
+    }
+   ]
+  },
+  {
+   "id": "1151",
+   "site": "Auction Hub Texas",
+   "name": "SHORT NOTICE DFW Secondhands #1151",
+   "closeAt": "2026-10-19T19:00:00-05:00",
+   "closeText": null,
+   "pickup": "945 Stockton Dr Unit 8120, Allen, TX",
+   "lots": [
+    {
+     "lotNumber": 44,
+     "item": "Makita XJP03Z 18V LXT Plate Joiner (tool only)",
+     "category": "Power Tools",
+     "condition": "New in box",
+     "currentBid": 40,
+     "workingMax": 72,
+     "proxyPlaced": null,
+     "allInAtCurrent": 49.8,
+     "status": "Watching",
+     "highBidder": null,
+     "listingUrl": null,
+     "closeAt": "2026-10-19T19:00:00-05:00",
+     "priority": "High",
+     "authorization": "Approved to Bid",
+     "miles": 7,
+     "notes": "NIB. Resale basis $160 from our comps (retail $319) - NOT title retail. 40 bids, at $40 on 2026-10-17. Max $72 approved by John 2026-10-17. Listing URL to be captured by the bid watch (never guessed)."
+    },
+    {
+     "lotNumber": 74,
+     "item": "Ryobi ONE+ 18V P553 7-1/4 in. Miter Saw with Diablo 36T Blade",
+     "category": "Power Tools",
+     "condition": "Used - tested/working",
+     "currentBid": 41,
+     "workingMax": 45,
+     "proxyPlaced": null,
+     "allInAtCurrent": 51.04,
+     "status": "Watching",
+     "highBidder": null,
+     "listingUrl": null,
+     "closeAt": "2026-10-19T19:00:00-05:00",
+     "priority": "High",
+     "authorization": "Approved to Bid",
+     "miles": 7,
+     "notes": "Used, tested/working per catalog, Diablo 36T blade included. At $41 on 2026-10-17 - only $4 under max. $45 HARD STOP (John 2026-10-17): do not chase. Listing URL to be captured by the bid watch (never guessed)."
+    }
+   ]
+  }
+ ]
 }
