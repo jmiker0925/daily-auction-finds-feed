@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T16:08:50.560021-05:00",
+ "generatedAt": "2026-10-17T22:07:02.230514-05:00",
  "auctions": [
   {
    "id": "1130",
@@ -486,11 +486,6 @@
      "hammerTotal": 222.0
     },
     {
-     "bidder": "3****0",
-     "lotsWon": 10,
-     "hammerTotal": 220.54
-    },
-    {
      "bidder": "6****6",
      "lotsWon": 4,
      "hammerTotal": 195.5
@@ -554,6 +549,11 @@
      "bidder": "4****8",
      "lotsWon": 6,
      "hammerTotal": 90.77
+    },
+    {
+     "bidder": "3****0",
+     "lotsWon": 2,
+     "hammerTotal": 83.0
     },
     {
      "bidder": "4****9",
@@ -3905,98 +3905,6 @@
       "photo_url": null
      }
     ],
-    "3****0": [
-     {
-      "lot_number": "111",
-      "title": "Everbilt Submersible Sump Pump 1/3HP W Tethered switch $159.00",
-      "hammer_total": 33.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "247",
-      "title": "Ryobi Link 21\" Solid Shelf",
-      "hammer_total": 9.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "248",
-      "title": "Ryobi Link 21\" Solid Shelf",
-      "hammer_total": 9.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "249",
-      "title": "Ryobi Link 21\" Solid Shelf",
-      "hammer_total": 9.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "250",
-      "title": "Ryobi Link 21\" Solid Shelf",
-      "hammer_total": 9.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "27",
-      "title": "Rigid Universal Submersible Water pump",
-      "hammer_total": 21.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "383",
-      "title": "RYOBI ONE+ 18V 6 in. Cordless Battery Compact Pruning Mini Chainsaw",
-      "hammer_total": 21.55,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "47",
-      "title": "Rigid Brushless 18v 2-1/8\" Brad Nailer",
-      "hammer_total": 50.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "494",
-      "title": "Ryobi 18v One + Brushless 4-1/2\"angle grinder /cut off tool",
-      "hammer_total": 28.99,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "66",
-      "title": "Rigid 18V Brushless 4-1/2\" paddle switch angle grinder",
-      "hammer_total": 30.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     }
-    ],
     "4****5": [
      {
       "lot_number": "101",
@@ -4683,6 +4591,26 @@
       "lot_number": "96",
       "title": "natural rattan accent chair featuring a crisscross woven lattice back and soft off-white seat cushions",
       "hammer_total": 6.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "3****0": [
+     {
+      "lot_number": "111",
+      "title": "Everbilt Submersible Sump Pump 1/3HP W Tethered switch $159.00",
+      "hammer_total": 33.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "47",
+      "title": "Rigid Brushless 18v 2-1/8\" Brad Nailer",
+      "hammer_total": 50.0,
       "hammer_per_unit": null,
       "quantity": 1,
       "lot_url": null,
@@ -6381,11 +6309,6 @@
      "hammerTotal": 170.76
     },
     {
-     "bidder": "3****0",
-     "lotsWon": 16,
-     "hammerTotal": 154.75
-    },
-    {
      "bidder": "3****4",
      "lotsWon": 6,
      "hammerTotal": 124.01
@@ -6439,6 +6362,11 @@
      "bidder": "2****1",
      "lotsWon": 3,
      "hammerTotal": 31.0
+    },
+    {
+     "bidder": "3****0",
+     "lotsWon": 11,
+     "hammerTotal": 19.25
     }
    ],
    "bidderLots": {
@@ -19661,15 +19589,6 @@
       "photo_url": null
      },
      {
-      "lot_number": "1286",
-      "title": "Ridgid 6-Gallon Portable Electric Pancake Air Compressor (Model OF150350)",
-      "hammer_total": 59.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
       "lot_number": "422",
       "title": "Lithonia Lighting L3 4-inch Recessed Lighting Housing",
       "hammer_total": 1.0,
@@ -19709,42 +19628,6 @@
       "lot_number": "426",
       "title": "Lithonia Lighting L3 4-inch Recessed Lighting Housing",
       "hammer_total": 1.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "445",
-      "title": "HDX Black Plastic 5 shelf Storage Shelving Unit $89.98",
-      "hammer_total": 38.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "519",
-      "title": "Ridgid Pro Gear System Gen 2.0 Tool Box",
-      "hammer_total": 28.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "831",
-      "title": "ProPlus 30-50 PSI Water Well Pressure Switch (Model 800044)",
-      "hammer_total": 4.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": null,
-      "photo_url": null
-     },
-     {
-      "lot_number": "833",
-      "title": "ProPlus 30-50 PSI Water Well Pump Pressure Switch (Model 522544)",
-      "hammer_total": 6.5,
       "hammer_per_unit": null,
       "quantity": 1,
       "lot_url": null,
@@ -26599,11 +26482,6 @@
      "hammerTotal": 1456.39
     },
     {
-     "bidder": "3****0",
-     "lotsWon": 67,
-     "hammerTotal": 1384.01
-    },
-    {
      "bidder": "5****5",
      "lotsWon": 39,
      "hammerTotal": 1305.45
@@ -26637,6 +26515,11 @@
      "bidder": "2****2",
      "lotsWon": 40,
      "hammerTotal": 935.72
+    },
+    {
+     "bidder": "3****0",
+     "lotsWon": 50,
+     "hammerTotal": 931.26
     },
     {
      "bidder": "2****0",
@@ -29526,15 +29409,6 @@
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/JQz4VptrCp66-wgb3PMELL4y.jpeg"
      },
      {
-      "lot_number": 149,
-      "title": "Oatey Size AA 3/8\" Hammer Arrestor",
-      "hammer_total": 2.25,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558427",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/mKCQ4-oI0XVHXY4rZMdV8yG2.jpeg"
-     },
-     {
       "lot_number": 224,
       "title": "glacier Bay dunning collection single handle pull out laundry faucet $89.00",
       "hammer_total": 6.5,
@@ -29542,15 +29416,6 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558352",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/8MEv0A6I_oq4IYWb3u9cLr22.jpeg"
-     },
-     {
-      "lot_number": 268,
-      "title": "Miscellaneous Shelf Of Items",
-      "hammer_total": 15.25,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558308",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/ofnbSERPKOcRisbMExnfYn0G.jpeg"
      },
      {
       "lot_number": 277,
@@ -29562,15 +29427,6 @@
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/8VFhSNSagbrdeoWiEGmICrQs.jpeg"
      },
      {
-      "lot_number": 289,
-      "title": "Miscellaneous Shelf Of Items",
-      "hammer_total": 9.5,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558287",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/nGbeLdNz_RCUhw6txX-4zF73.jpeg"
-     },
-     {
       "lot_number": 300,
       "title": "Tzumi Jobsite Speaker Bluetooth 5.1",
       "hammer_total": 8.5,
@@ -29578,24 +29434,6 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558276",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/lPRMCLWQKuTccjmgM6bBHDb9.jpeg"
-     },
-     {
-      "lot_number": 304,
-      "title": "Miscellaneous shelf of items",
-      "hammer_total": 36.25,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558272",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/SxfMflgzw1W8MUp86H_WgSCp.jpeg"
-     },
-     {
-      "lot_number": 315,
-      "title": "Ryobi 40v One+ 250cfm Blower Kit 450cfm 1007573600",
-      "hammer_total": 54.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/558261",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/ihW3K8DQLQDW96kQ0ljRfs9H.jpeg"
      },
      {
       "lot_number": 318,
@@ -29805,24 +29643,6 @@
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/dd2beiiIOZqO3BexOgu5JiTS.jpeg"
      },
      {
-      "lot_number": 658,
-      "title": "pro Plus pressure switch 30 to 50 psi 50 pack box",
-      "hammer_total": 50.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557918",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/X9R87k4s51QKU6amqnZCcCFD.jpeg"
-     },
-     {
-      "lot_number": 659,
-      "title": "pro Plus pressure switch 30 to 50 psi 50 pack box",
-      "hammer_total": 50.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557916",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/bv9T6Pfzi5eDi2-ZEYMaPkDc.jpeg"
-     },
-     {
       "lot_number": 660,
       "title": "pro Plus pressure switch 30 to 50 psi 50 pack box",
       "hammer_total": 31.0,
@@ -29830,15 +29650,6 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557915",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/5UanfTFAP-I2Uey8v0Olus0M.jpeg"
-     },
-     {
-      "lot_number": 661,
-      "title": "pro Plus pressure switch 30 to 50 psi 50 pack box",
-      "hammer_total": 30.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557917",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/CFg_-0vwAAc9lt1WTg7ICHhv.jpeg"
      },
      {
       "lot_number": 668,
@@ -29857,42 +29668,6 @@
       "quantity": 2,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557907",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/3Rp0Xvy1pTvErW3bh_PdKgOi.jpeg"
-     },
-     {
-      "lot_number": 715,
-      "title": "100 pieces box of flexible 9 hub pipe coupling 1 and 1/2 in by 1 and 1/2 in",
-      "hammer_total": 11.5,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557863",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/12rgIvY1w9TmNpufETdWrohz.jpeg"
-     },
-     {
-      "lot_number": 716,
-      "title": "100 pieces box of flexible 9 hub pipe coupling 1 and 1/2 in by 1 and 1/2 in",
-      "hammer_total": 10.75,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557860",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/H-1NyxBsiAdQ71K3BStszRYW.jpeg"
-     },
-     {
-      "lot_number": 717,
-      "title": "100 pieces box of flexible 9 hub pipe coupling 1 and 1/2 in by 1 and 1/2 in",
-      "hammer_total": 29.25,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557859",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/QnKfVvIc1b1sIKYUi2Ko7rGY.jpeg"
-     },
-     {
-      "lot_number": 718,
-      "title": "100 pieces box of flexible 9 hub pipe coupling 1 and 1/2 in by 1 and 1/2 in",
-      "hammer_total": 30.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557858",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/Lr-_gGWwFh7_QC5Z4A9fcgwf.jpeg"
      },
      {
       "lot_number": 837,
@@ -29920,15 +29695,6 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557672",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/cXjIpGquSRpyua5-e_ZLtAX3.jpeg"
-     },
-     {
-      "lot_number": 905,
-      "title": "purell hand sanitizer 12 -8OZ. bottle in case",
-      "hammer_total": 1.25,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557671",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/xT9bOJmagS1sbi3wo7d1wnCa.jpeg"
      },
      {
       "lot_number": 997,
@@ -29974,33 +29740,6 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557347",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/COXVI0svwxGzzX_aFbqjMwFJ.jpeg"
-     },
-     {
-      "lot_number": 1237,
-      "title": "contents of shelve containing flange fixer,brass valves,milwaukee tape measure ETC.",
-      "hammer_total": 95.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557338",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/igG0H80YUn3W8edF--c0aK_b.jpeg"
-     },
-     {
-      "lot_number": 1293,
-      "title": "Dewalt 16-Tine Bow Rake- Fiberglass Handle",
-      "hammer_total": 14.5,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557283",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/r8d9mNk-NsvUaqcGQCs-d4iG.jpeg"
-     },
-     {
-      "lot_number": 1304,
-      "title": "Dewalt Mortar Hoe- Fiberglass Handle",
-      "hammer_total": 10.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557273",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/1uzwioonJrLbHrCpMMhnh8Bw.jpeg"
      },
      {
       "lot_number": 1329,
@@ -30073,15 +29812,6 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557157",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/QR555F-8Vypepj9_p_VdFAT3.jpeg"
-     },
-     {
-      "lot_number": 1483,
-      "title": "Sterlite 16qt storage box",
-      "hammer_total": 3.25,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1149/lot/557092",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/V-uL1kjmO44Ct3CdpTMLRnTy.jpeg"
      },
      {
       "lot_number": 1502,
@@ -40049,7 +39779,7 @@
      "outcome": "removed",
      "hammer_total": 8.5,
      "hammer_per_unit": 8.5,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 6.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556574-msrp-3097-milwaukee-30-9-16-in-12-14-tpi-compact-extreme-thin-metal-cutting-high-speed-steel-band-saw-blade-3-pack-for-m12-fuel-bandsaw"
     },
@@ -40419,7 +40149,7 @@
      "outcome": "removed",
      "hammer_total": 12.5,
      "hammer_per_unit": 12.5,
-     "winning_bidder": "3****0",
+     "winning_bidder": "3730",
      "john_max": 5.0,
      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556092-msrp-2497-mens-x-large-green-cotton-polyester-short-sleeve-hybrid-work-t-shirt"
     },
@@ -40826,11 +40556,6 @@
      "hammerTotal": 644.5
     },
     {
-     "bidder": "3****0",
-     "lotsWon": 22,
-     "hammerTotal": 597.08
-    },
-    {
      "bidder": "2****0",
      "lotsWon": 8,
      "hammerTotal": 584.05
@@ -40889,6 +40614,11 @@
      "bidder": "5****4",
      "lotsWon": 17,
      "hammerTotal": 303.3
+    },
+    {
+     "bidder": "3****0",
+     "lotsWon": 12,
+     "hammerTotal": 292.41
     },
     {
      "bidder": "4****2",
@@ -45751,206 +45481,6 @@
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/DSkNfKr6_PKB4F-mVqDPzsbe.jpeg"
      }
     ],
-    "3****0": [
-     {
-      "lot_number": 70,
-      "title": "[\u2713] [MSRP: $79.98] Husky Framers 3-Bag Work Tool Belt with Suspenders",
-      "hammer_total": 10.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556611",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/AYFFQ9_DKzxGCFmAyMhoULmf.jpeg"
-     },
-     {
-      "lot_number": 107,
-      "title": "[\u2713] [MSRP: $30.97] Milwaukee 30-9/16 in. 12/14 TPI Compact Extreme Thin Metal Cutting High Speed Steel Band Saw Blade (3-Pack) For M12 FUEL Bandsaw",
-      "hammer_total": 8.5,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556574",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/vaGc0td-qP7Tvh3n-mQxUmZU.jpeg"
-     },
-     {
-      "lot_number": 139,
-      "title": "[\u2713] [MSRP: $249.00] KOHLER Elmbrook 12 in. Rough In 2-Piece 1.28 GFP Single Flush Elongated Chair Height Toilet in White with Soft Close Seat",
-      "hammer_total": 153.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556542",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/qc8-P_ReWy3f0SAuQiVD5Y49.jpeg"
-     },
-     {
-      "lot_number": 145,
-      "title": "[MSRP: $139.00] Glacier Bay McKenna Single-Handle Pull-Down Sprayer Kitchen Faucet in Matte Black with TurboSpray and FastMount",
-      "hammer_total": 13.5,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556536",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/w-pErubkHSl90z2sU6IesdP9.jpeg"
-     },
-     {
-      "lot_number": 153,
-      "title": "[\u2713] [MSRP: $15.97] Zircon StudSensor HD25 Stud Finder",
-      "hammer_total": 2.25,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556528",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/SCLGPlXaUhMBLwD8zb7vX1_B.jpeg"
-     },
-     {
-      "lot_number": 159,
-      "title": "[MSRP: $169.00] 18V Brushless Cordless 1/2 in. High Torque Hammer Drill/Driver",
-      "hammer_total": 29.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556521",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/o3AZU-K3nYwdOdRS8utFqK0e.jpeg"
-     },
-     {
-      "lot_number": 162,
-      "title": "[MSRP: $119.00] RIDGID 18V Cordless 1/2 in. Drill/Driver",
-      "hammer_total": 21.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556519",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/rnrX_JUP2FOXIzWVnlJRYbge.jpeg"
-     },
-     {
-      "lot_number": 207,
-      "title": "[\u2713] [MSRP: $58.47] 10-Year Hardwired Combination Smoke and Carbon Monoxide Detector with Interconnected Alarm and LED Warning Lights",
-      "hammer_total": 13.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556474",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/wnkIn6gJSZA4WKk752sduxpM.jpeg"
-     },
-     {
-      "lot_number": 217,
-      "title": "[MSRP: $199.00] 18V Lithium-Ion Dual Port Rapid Optimum Charger",
-      "hammer_total": 36.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556464",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/VjVHvuo7yHTSW2WCgVmUE6zX.jpeg"
-     },
-     {
-      "lot_number": 223,
-      "title": "[MSRP: $28.47] Hardwired Interconnected Smoke Detector with Photoelectric Sensor 21031482",
-      "hammer_total": 10.5,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556458",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/KqapoFA9DQFUin-IOzSV1OOd.jpeg"
-     },
-     {
-      "lot_number": 240,
-      "title": "[MSRP: $60.00] FastenMaster TimberLok 8 in. Heavy-Duty Wood Screws 8 in. TimberLok Coarse Steel Hex Head Heavy-Duty Wood Screws (50-Pack), Blacks",
-      "hammer_total": 9.25,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556440",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/TdXCcx7_rWs-PyfR1UUOdImi.jpeg"
-     },
-     {
-      "lot_number": 267,
-      "title": "[MSRP: $143.88] Findlay 8 in. Widespread 2-Handle Bathroom Faucet in Spot Resist Brushed Nickel (Valve Included)",
-      "hammer_total": 60.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556414",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/kjzuxHt9VMdVibNLYRMOsl2l.jpeg"
-     },
-     {
-      "lot_number": 326,
-      "title": "[\u2713] [EXT MSRP: $110.18] FIRM GRIP Large Polyurethane Grip Work Gloves (4-Pack)",
-      "hammer_total": 31.5,
-      "hammer_per_unit": null,
-      "quantity": 14,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556355",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/98Tzo-YNuYtkt4ZTKck0BpHp.jpeg"
-     },
-     {
-      "lot_number": 327,
-      "title": "[\u2713] [EXT MSRP: $110.18] FIRM GRIP Large Polyurethane Grip Work Gloves (4-Pack)",
-      "hammer_total": 35.84,
-      "hammer_per_unit": null,
-      "quantity": 14,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556354",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/syw8vqdeEkLunqY4RFfcnBHL.jpeg"
-     },
-     {
-      "lot_number": 388,
-      "title": "[EXT MSRP: $411.69] 3in. Hexagon Botticino Beige 9.625in. x10.375 in. Textured Matte Porcelain Mosaic Wall and Floor Tile(7.161 sq.ft./Case)",
-      "hammer_total": 2.7,
-      "hammer_per_unit": null,
-      "quantity": 3,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556293",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/LiMFRDEXfJQCRXd8IZ-jo4v6.jpeg"
-     },
-     {
-      "lot_number": 389,
-      "title": "[EXT MSRP: $195.36] Artisan Kloud Off-White 9 in. x 11.625 in. Geometric Matte Ceramic Mosaic Wall Tile (7.26 sq. ft./Case)",
-      "hammer_total": 1.0,
-      "hammer_per_unit": null,
-      "quantity": 2,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556292",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/Dh1-hGnMNG3AsCVO2zu5u5FK.jpeg"
-     },
-     {
-      "lot_number": 396,
-      "title": "[EXT MSRP: $239.70] Myrtle Sands Beige Penny Round 11 in. x 13 in. Matte Porcelain Mosaic Floor and Wall Tile (14.88 sq. ft./Case)",
-      "hammer_total": 2.0,
-      "hammer_per_unit": null,
-      "quantity": 2,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556284",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/AZymJkGJEAhbgHQp1cD17mmx.jpeg"
-     },
-     {
-      "lot_number": 401,
-      "title": "[EXT MSRP: $24.68] Greecian White 1 in. Hexagon 12 in. x 12 in. x 0.38 in. Polished Marble Mesh-Mounted Mosaic Tile (0.95 sq. ft./Each)",
-      "hammer_total": 6.68,
-      "hammer_per_unit": null,
-      "quantity": 2,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556280",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/94Y1oQ0X-RAGFEpmlqvHBwP8.jpeg"
-     },
-     {
-      "lot_number": 402,
-      "title": "[EXT MSRP: $37.02] Greecian White 1 in. Hexagon 12 in. x 12 in. x 0.38 in. Polished Marble Mesh-Mounted Mosaic Tile (0.95 sq. ft./Each)",
-      "hammer_total": 6.78,
-      "hammer_per_unit": null,
-      "quantity": 3,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556279",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/pojLGgI448nNTLOPPFVE3fCE.jpeg"
-     },
-     {
-      "lot_number": 440,
-      "title": "[\u2713] [MSRP: $219.00] Hampton Bay Hampton 24 in. W x 12 in. D x 30 in. H Assembled Diagonal Corner Wall Kitchen Cabinet in Satin White",
-      "hammer_total": 21.0,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556241",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/6AbJxRdo1gkGTVElC-WfMUWx.jpeg"
-     },
-     {
-      "lot_number": 588,
-      "title": "[MSRP: $24.97] Men's X-Large Green Cotton/Polyester Short-Sleeve Hybrid Work T-Shirt",
-      "hammer_total": 12.5,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556092",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/kr6JD7a_wNFeiQfnkuBwmz-g.jpeg"
-     },
-     {
-      "lot_number": 706,
-      "title": "mystery gondola estimated value $1800",
-      "hammer_total": 111.08,
-      "hammer_per_unit": null,
-      "quantity": 1,
-      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/555974",
-      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/qCne06ZjnlKQQv1ysdQeA2M2.jpeg"
-     }
-    ],
     "1****2": [
      {
       "lot_number": 72,
@@ -47253,6 +46783,116 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556033",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/MrZ1lNv5doDJtPGK8bwYbWXe.jpeg"
+     }
+    ],
+    "3****0": [
+     {
+      "lot_number": 139,
+      "title": "[\u2713] [MSRP: $249.00] KOHLER Elmbrook 12 in. Rough In 2-Piece 1.28 GFP Single Flush Elongated Chair Height Toilet in White with Soft Close Seat",
+      "hammer_total": 153.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556542",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/qc8-P_ReWy3f0SAuQiVD5Y49.jpeg"
+     },
+     {
+      "lot_number": 145,
+      "title": "[MSRP: $139.00] Glacier Bay McKenna Single-Handle Pull-Down Sprayer Kitchen Faucet in Matte Black with TurboSpray and FastMount",
+      "hammer_total": 13.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556536",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/w-pErubkHSl90z2sU6IesdP9.jpeg"
+     },
+     {
+      "lot_number": 153,
+      "title": "[\u2713] [MSRP: $15.97] Zircon StudSensor HD25 Stud Finder",
+      "hammer_total": 2.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556528",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/SCLGPlXaUhMBLwD8zb7vX1_B.jpeg"
+     },
+     {
+      "lot_number": 207,
+      "title": "[\u2713] [MSRP: $58.47] 10-Year Hardwired Combination Smoke and Carbon Monoxide Detector with Interconnected Alarm and LED Warning Lights",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556474",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/wnkIn6gJSZA4WKk752sduxpM.jpeg"
+     },
+     {
+      "lot_number": 223,
+      "title": "[MSRP: $28.47] Hardwired Interconnected Smoke Detector with Photoelectric Sensor 21031482",
+      "hammer_total": 10.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556458",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/KqapoFA9DQFUin-IOzSV1OOd.jpeg"
+     },
+     {
+      "lot_number": 267,
+      "title": "[MSRP: $143.88] Findlay 8 in. Widespread 2-Handle Bathroom Faucet in Spot Resist Brushed Nickel (Valve Included)",
+      "hammer_total": 60.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556414",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/kjzuxHt9VMdVibNLYRMOsl2l.jpeg"
+     },
+     {
+      "lot_number": 388,
+      "title": "[EXT MSRP: $411.69] 3in. Hexagon Botticino Beige 9.625in. x10.375 in. Textured Matte Porcelain Mosaic Wall and Floor Tile(7.161 sq.ft./Case)",
+      "hammer_total": 2.7,
+      "hammer_per_unit": null,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556293",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/LiMFRDEXfJQCRXd8IZ-jo4v6.jpeg"
+     },
+     {
+      "lot_number": 389,
+      "title": "[EXT MSRP: $195.36] Artisan Kloud Off-White 9 in. x 11.625 in. Geometric Matte Ceramic Mosaic Wall Tile (7.26 sq. ft./Case)",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556292",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/Dh1-hGnMNG3AsCVO2zu5u5FK.jpeg"
+     },
+     {
+      "lot_number": 396,
+      "title": "[EXT MSRP: $239.70] Myrtle Sands Beige Penny Round 11 in. x 13 in. Matte Porcelain Mosaic Floor and Wall Tile (14.88 sq. ft./Case)",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556284",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/AZymJkGJEAhbgHQp1cD17mmx.jpeg"
+     },
+     {
+      "lot_number": 401,
+      "title": "[EXT MSRP: $24.68] Greecian White 1 in. Hexagon 12 in. x 12 in. x 0.38 in. Polished Marble Mesh-Mounted Mosaic Tile (0.95 sq. ft./Each)",
+      "hammer_total": 6.68,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556280",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/94Y1oQ0X-RAGFEpmlqvHBwP8.jpeg"
+     },
+     {
+      "lot_number": 402,
+      "title": "[EXT MSRP: $37.02] Greecian White 1 in. Hexagon 12 in. x 12 in. x 0.38 in. Polished Marble Mesh-Mounted Mosaic Tile (0.95 sq. ft./Each)",
+      "hammer_total": 6.78,
+      "hammer_per_unit": null,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556279",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/pojLGgI448nNTLOPPFVE3fCE.jpeg"
+     },
+     {
+      "lot_number": 440,
+      "title": "[\u2713] [MSRP: $219.00] Hampton Bay Hampton 24 in. W x 12 in. D x 30 in. H Assembled Diagonal Corner Wall Kitchen Cabinet in Satin White",
+      "hammer_total": 21.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556241",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/6AbJxRdo1gkGTVElC-WfMUWx.jpeg"
      }
     ],
     "3****5": [
