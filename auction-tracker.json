@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T16:08:17.600591-05:00",
+ "generatedAt": "2026-10-17T22:06:14.305503-05:00",
  "auctions": [
   {
    "id": "HiBid-Bidwells",
@@ -44,34 +44,16 @@
      "condition": "New in box",
      "currentBid": 40,
      "workingMax": 72,
-     "proxyPlaced": null,
+     "proxyPlaced": 72,
      "allInAtCurrent": 49.8,
-     "status": "Watching",
+     "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1151/lot/559268-nib-makita-cordless-plate-joiner-xjp03z-18v-lithiun-ion-dfwsh001",
      "closeAt": "2026-10-19T19:00:00-05:00",
      "priority": "High",
      "authorization": "Approved to Bid",
      "miles": 7,
-     "notes": "NIB. Resale basis $160 from our comps (retail $319) - NOT title retail. 40 bids, at $40 on 2026-10-17. Max $72 approved by John 2026-10-17. Listing URL captured from the live catalog."
-    },
-    {
-     "lotNumber": 74,
-     "item": "Ryobi ONE+ 18V P553 7-1/4 in. Miter Saw with Diablo 36T Blade",
-     "category": "Power Tools",
-     "condition": "Used - tested/working",
-     "currentBid": 41,
-     "workingMax": 45,
-     "proxyPlaced": null,
-     "allInAtCurrent": 51.04,
-     "status": "Watching",
-     "highBidder": null,
-     "listingUrl": "https://auctionhubtexas.com/auctions/1151/lot/559194-ryobi-one-18v-cordless-7-1-4-in-compound-miter-saw-diablo-blade-36-teeth-wood-and-metal-used-tested-and-working-dfwsh001",
-     "closeAt": "2026-10-19T19:00:00-05:00",
-     "priority": "High",
-     "authorization": "Approved to Bid",
-     "miles": 7,
-     "notes": "Used, tested/working per catalog, Diablo 36T blade included. At $41 on 2026-10-17 - only $4 under max. $45 HARD STOP (John 2026-10-17): do not chase. Listing URL captured from the live catalog."
+     "notes": "NIB. Resale basis $160 from our comps (retail $319) - NOT title retail. 40 bids, at $40 on 2026-10-17. Max $72 approved by John 2026-10-17. Listing URL captured from the live catalog. Watch 10/17 eve: John LEADING at $40 (40 bids), site proxy $72 verified = working max."
     }
    ]
   }
