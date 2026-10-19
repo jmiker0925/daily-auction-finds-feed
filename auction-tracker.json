@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T07:43:09.036171-05:00",
+ "generatedAt": "2026-10-19T07:43:19.245466-05:00",
  "auctions": [
   {
    "id": "HiBid-Bidwells",
@@ -42,10 +42,10 @@
      "item": "Makita XJP03Z 18V LXT Plate Joiner (tool only)",
      "category": "Power Tools",
      "condition": "New in box",
-     "currentBid": 40,
+     "currentBid": 51,
      "workingMax": 72,
      "proxyPlaced": 72,
-     "allInAtCurrent": 49.8,
+     "allInAtCurrent": 63.49,
      "status": "Winning",
      "highBidder": null,
      "listingUrl": "https://www.auctionhubtexas.com/auctions/1151/lot/559268-nib-makita-cordless-plate-joiner-xjp03z-18v-lithiun-ion-dfwsh001",
@@ -53,7 +53,63 @@
      "priority": "High",
      "authorization": "Approved to Bid",
      "miles": 7,
-     "notes": "NIB. Resale basis $160 from our comps (retail $319) - NOT title retail. 40 bids, at $40 on 2026-10-17. Max $72 approved by John 2026-10-17. Listing URL captured from the live catalog. Watch 10/17 eve: John LEADING at $40 (40 bids), site proxy $72 verified = working max. Watch 10/18 07:05: still $40 (40 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/17 eve."
+     "notes": "NIB. Resale basis $160 from our comps (retail $319) - NOT title retail. 40 bids, at $40 on 2026-10-17. Max $72 approved by John 2026-10-17. Listing URL captured from the live catalog. Watch 10/17 eve: John LEADING at $40 (40 bids), site proxy $72 verified = working max. Watch 10/18 07:05: still $40 (40 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/17 eve. Watch 10/18 10:05: still $40 (40 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/18 07:05. Watch 10/18 13:05: $51 (44 bids), John LEADING, site proxy $72 verified = working max. Up from $40 (40 bids) at 10:05; still leading, no lead change. Watch 10/18 16:05: still $51 (44 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/18 13:05. Watch 10/18 19:05: still $51 (44 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/18 16:05. Watch 10/19 07:05: still $51 (44 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/18 19:05."
+    }
+   ]
+  },
+  {
+   "id": "HiBid-BE-Azle",
+   "site": "HiBid",
+   "name": "B & E TreasureTrove LLC \u2014 2026 AZLE OCT01 Fall Season Showcase",
+   "closeAt": "2026-10-23T18:00:00-05:00",
+   "closeText": "Fri Oct 23, 6:00 PM CDT",
+   "pickup": "Azle, TX 76020",
+   "lots": [
+    {
+     "lotNumber": "130b",
+     "item": "CRAFTSMAN VERSASTACK XL System Tool Box",
+     "category": "Tool Storage",
+     "condition": "New",
+     "currentBid": 5,
+     "workingMax": null,
+     "proxyPlaced": null,
+     "allInAtCurrent": 6.22,
+     "status": "Watching",
+     "highBidder": null,
+     "listingUrl": "https://hibid.com/lot/323671994/craftsman-versastack-xl-system-tool-box?ref=catalog",
+     "closeAt": null,
+     "priority": "Medium",
+     "authorization": "Awaiting Approval",
+     "miles": null,
+     "notes": "Brand new in box; $5.00/1 bid; local pickup only; 15% BP"
+    }
+   ]
+  },
+  {
+   "id": "1150",
+   "site": "Auction Hub Texas",
+   "name": "Bullseye Bargains (Oak Cliff) #1150",
+   "closeAt": "2026-10-23T18:00:00-05:00",
+   "closeText": null,
+   "pickup": "Bullseye Bargains, Oak Cliff, Dallas, TX",
+   "lots": [
+    {
+     "lotNumber": 292,
+     "item": "DeWalt DXGNR6500 6500-Watt Portable Generator",
+     "category": "Generators",
+     "condition": "Used (per catalog photo)",
+     "currentBid": 200.03,
+     "workingMax": 210,
+     "proxyPlaced": 210,
+     "allInAtCurrent": 249.01,
+     "status": "Winning",
+     "highBidder": null,
+     "listingUrl": "https://www.auctionhubtexas.com/auctions/1150/lot/558576-dewalt-dxgnr6500-6500-watt-portable-generator",
+     "closeAt": "2026-10-23T18:00:00-05:00",
+     "priority": "High",
+     "authorization": "Approved to Bid",
+     "miles": 28,
+     "notes": "John's own placed proxy: $210 (he reported it 2026-10-18 with a watchlist screenshot: leading as 3730 at $200.03, 80 bids; lot ends Fri Oct 23 ~6:35 PM CDT). All-in at the $210 proxy = $261.42. Resale basis $450 is George's rough used-comp estimate (retail $899) - NOT title retail. Bullseye rule: max bids can be raised, not lowered (call the auctioneer to lower). Listing URL to be captured by the bid watch (never guessed). Miles ~28 (Plano to Oak Cliff, approximate)."
     }
    ]
   }
