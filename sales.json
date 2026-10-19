@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-10-18T12:44:27+00:00",
+ "generated_at": "2026-10-19T12:45:26+00:00",
  "sales": [
+  {
+   "saleId": 282,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Metabo HPT 18-Gauge Variable Speed 18-volt Cordless Metal Shears",
+   "soldDate": "2026-10-18",
+   "gross": 130.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5095,
+     "description": "Metabo HPT CN18DSL 18V Cordless Nibbler",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 281,
    "platform": "direct",
