@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T12:45:29+00:00",
+ "generated_at": "2026-10-20T12:45:44+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -13536,10 +13536,10 @@
        "lotNumber": "1126280430",
        "description": "TS 21v caulking gun with 2 Batteries and Charger",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 28.21,
        "allInCost": 28.21,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
