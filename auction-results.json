@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T07:43:54.938927-05:00",
+ "generatedAt": "2026-10-19T22:18:07.080339-05:00",
  "auctions": [
   {
    "id": "1130",
@@ -47440,6 +47440,45 @@
       "quantity": 3,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1146/lot/556022",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/thumb/3tkvuFjCfF47EXBy8YdaLgsp.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "1151",
+   "site": "Auction HUB Texas",
+   "name": "SHORT NOTICE DFW Secondhands",
+   "closeDate": "2026-10-19",
+   "location": "Allen, TX",
+   "lots": [
+    {
+     "lot_number": "44",
+     "title": "Makita XJP03Z 18V LXT Plate Joiner (tool only)",
+     "outcome": "outbid",
+     "hammer_total": 73.0,
+     "hammer_per_unit": 73.0,
+     "winning_bidder": "5****7",
+     "john_max": 72.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559268-nib-makita-cordless-plate-joiner-xjp03z-18v-lithiun-ion-dfwsh001"
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "5****7",
+     "lotsWon": 1,
+     "hammerTotal": 73.0
+    }
+   ],
+   "bidderLots": {
+    "5****7": [
+     {
+      "lot_number": 44,
+      "title": "NIB - Makita Cordless Plate Joiner | XJP03Z | 18v Lithiun-ion -|- [DFWSH001]",
+      "hammer_total": 73.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559268-nib-makita-cordless-plate-joiner-xjp03z-18v-lithiun-ion-dfwsh001",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/jOAVeZ7ZXdPISAUHryymDf9-.jpeg"
      }
     ]
    }
