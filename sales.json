@@ -1,6 +1,44 @@
 {
- "generated_at": "2026-10-19T12:45:26+00:00",
+ "generated_at": "2026-10-20T12:45:31+00:00",
  "sales": [
+  {
+   "saleId": 284,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Husky 36.5 in Rolling Tool Box 50-Gal w/ Keyed Lock - Like New",
+   "soldDate": "2026-10-19",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5132,
+     "description": "Husky 36.5 in Rolling Tool Box 50-Gal w/ Keyed Lock",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 283,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "",
+   "soldDate": "2026-10-19",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 28.21,
+   "profit": 21.79,
+   "allocations": [
+    {
+     "itemId": 4417,
+     "description": "TS 21v caulking gun with 2 Batteries and Charger",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 282,
    "platform": "facebook",
