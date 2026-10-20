@@ -1,62 +1,6 @@
 {
- "generatedAt": "2026-10-19T07:43:19.245466-05:00",
+ "generatedAt": "2026-10-19T22:17:32.697428-05:00",
  "auctions": [
-  {
-   "id": "HiBid-Bidwells",
-   "site": "HiBid",
-   "name": "Bidwells: September DFW Estate Sale!",
-   "closeAt": "2026-10-19T19:00:00-05:00",
-   "closeText": "Mon Oct 19, ~7:00 PM CDT",
-   "pickup": "2575 Southwell Rd Ste 104, Dallas, TX 75229 (13 mi)",
-   "lots": [
-    {
-     "lotNumber": "105",
-     "item": "TOOL BOX W/TOOLS",
-     "category": "Hand Tools",
-     "condition": "Unknown",
-     "currentBid": null,
-     "workingMax": null,
-     "proxyPlaced": null,
-     "allInAtCurrent": null,
-     "status": "Watching",
-     "highBidder": null,
-     "listingUrl": "https://hibid.com/lot/323872108/tool-box-w-tools?ref=catalog",
-     "closeAt": null,
-     "priority": "Medium",
-     "authorization": "Awaiting Approval",
-     "miles": 13,
-     "notes": "Metal toolbox with tools; 0 bids; local pickup only; pickup Thu 10/1 11am-6pm; 18% BP"
-    }
-   ]
-  },
-  {
-   "id": "1151",
-   "site": "Auction Hub Texas",
-   "name": "SHORT NOTICE DFW Secondhands #1151",
-   "closeAt": "2026-10-19T19:00:00-05:00",
-   "closeText": null,
-   "pickup": "945 Stockton Dr Unit 8120, Allen, TX",
-   "lots": [
-    {
-     "lotNumber": 44,
-     "item": "Makita XJP03Z 18V LXT Plate Joiner (tool only)",
-     "category": "Power Tools",
-     "condition": "New in box",
-     "currentBid": 51,
-     "workingMax": 72,
-     "proxyPlaced": 72,
-     "allInAtCurrent": 63.49,
-     "status": "Winning",
-     "highBidder": null,
-     "listingUrl": "https://www.auctionhubtexas.com/auctions/1151/lot/559268-nib-makita-cordless-plate-joiner-xjp03z-18v-lithiun-ion-dfwsh001",
-     "closeAt": "2026-10-19T19:00:00-05:00",
-     "priority": "High",
-     "authorization": "Approved to Bid",
-     "miles": 7,
-     "notes": "NIB. Resale basis $160 from our comps (retail $319) - NOT title retail. 40 bids, at $40 on 2026-10-17. Max $72 approved by John 2026-10-17. Listing URL captured from the live catalog. Watch 10/17 eve: John LEADING at $40 (40 bids), site proxy $72 verified = working max. Watch 10/18 07:05: still $40 (40 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/17 eve. Watch 10/18 10:05: still $40 (40 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/18 07:05. Watch 10/18 13:05: $51 (44 bids), John LEADING, site proxy $72 verified = working max. Up from $40 (40 bids) at 10:05; still leading, no lead change. Watch 10/18 16:05: still $51 (44 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/18 13:05. Watch 10/18 19:05: still $51 (44 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/18 16:05. Watch 10/19 07:05: still $51 (44 bids), John LEADING, site proxy $72 verified = working max. Unchanged vs 10/18 19:05."
-    }
-   ]
-  },
   {
    "id": "HiBid-BE-Azle",
    "site": "HiBid",
