@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-10-20T12:45:31+00:00",
+ "generated_at": "2026-10-21T12:44:26+00:00",
  "sales": [
+  {
+   "saleId": 285,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Husky 36.5 in Rolling Tool Box 50-Gal w/ Keyed Lock - Like New",
+   "soldDate": "2026-10-20",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5169,
+     "description": "Husky 36.5 in Rolling Tool Box 50-Gal w/ Keyed Lock",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 284,
    "platform": "facebook",
