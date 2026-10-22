@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-10-21T12:44:26+00:00",
+ "generated_at": "2026-10-22T12:44:25+00:00",
  "sales": [
+  {
+   "saleId": 286,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Manfrotto Befree advanced Carbon Fiber Travel Tripod twist, ball head",
+   "soldDate": "2026-10-21",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5243,
+     "description": "Manfrotto Befree advanced Carbon Fiber Travel Tripod twist, ball head",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 285,
    "platform": "facebook",
