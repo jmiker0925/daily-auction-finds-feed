@@ -1,6 +1,63 @@
 {
- "generated_at": "2026-10-22T12:44:25+00:00",
+ "generated_at": "2026-10-23T12:44:42+00:00",
  "sales": [
+  {
+   "saleId": 290,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi PBLRS01B 18V ONE+ HP Brushless Reciprocating Saw (tool only)",
+   "soldDate": "2026-10-22",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 0.0,
+   "profit": 80.0,
+   "allocations": [
+    {
+     "itemId": 4608,
+     "description": "Ryobi PBLRS01B 18V ONE+ HP brushless reciprocating saw (tool only)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 289,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Husky 19 in. Pro Tool Backpack - 41 Pockets, Waterproof Hard Base",
+   "soldDate": "2026-10-22",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 31.58,
+   "profit": 18.42,
+   "allocations": [
+    {
+     "itemId": 38,
+     "description": "Husky 19\" pro tool backpack $24.00/$25.00/$26.74/$25.74",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 288,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "TaskStar cordless leaf blower, 550 CFM / 150 MPH",
+   "soldDate": "2026-10-22",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5223,
+     "description": "TaskStar cordless leaf blower, 550 CFM / 150 MPH",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 286,
    "platform": "facebook",
@@ -2843,6 +2900,25 @@
     {
      "itemId": 3595,
      "description": "048-XRJ07Z 18V LXT\u00ae Sub-Compact Brushless Recipro Saw #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 287,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "Makita XBU02PT leaf blower (tool only) \u2014 split from kit #3386",
+   "soldDate": "2025-12-02",
+   "gross": 185.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5244,
+     "description": "Makita XBU02PT 120 MPH 473 CFM 18V X2 (36V) LXT brushless leaf blower (tool only) \u2014 split from kit #3386",
      "quantity": 1
     }
    ]
