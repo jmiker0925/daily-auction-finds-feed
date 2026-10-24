@@ -1,6 +1,101 @@
 {
- "generated_at": "2026-10-23T12:44:42+00:00",
+ "generated_at": "2026-10-24T12:44:45+00:00",
  "sales": [
+  {
+   "saleId": 295,
+   "platform": "direct",
+   "platformLabel": "direct",
+   "title": "DeWalt DCF887 20V MAX XR 3-speed 1/4 in impact driver (tool only)",
+   "soldDate": "2026-10-23",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 67.0,
+   "profit": -2.0,
+   "allocations": [
+    {
+     "itemId": 4203,
+     "description": "$169 MSRP DeWalt 20V MAX 3 SPEED 1/4  IMPACT DRIVER BARE TOOL #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 294,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Orbit Hard Wired Rain/Freeze Sensor",
+   "soldDate": "2026-10-23",
+   "gross": 5.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 4963,
+     "description": "Orbit 57069 rain/freeze sensor for sprinkler timers",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 293,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Seesii 8\" Tile Suction Cup Lifter with Pressure Gauge",
+   "soldDate": "2026-10-23",
+   "gross": 45.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 17.32,
+   "profit": 27.68,
+   "allocations": [
+    {
+     "itemId": 4278,
+     "description": "SEESII S20 LITE 8-inch manual vacuum suction cup set (second unit)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 292,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Seesii 8\" Tile Suction Cup Lifter with Pressure Gauge, 250KG Max Load",
+   "soldDate": "2026-10-23",
+   "gross": 45.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 24.21,
+   "profit": 20.79,
+   "allocations": [
+    {
+     "itemId": 4366,
+     "description": "8 inch suction cup 2Pcs set #1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 291,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Dewalt 20V MAX XR Cordless Brushless Jigsaw (Tool Only)",
+   "soldDate": "2026-10-23",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5249,
+     "description": "DeWalt 20V MAX XR cordless brushless jigsaw (tool only)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 290,
    "platform": "facebook",
