@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T12:44:49+00:00",
+ "generated_at": "2026-10-24T12:44:53+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -14709,10 +14709,10 @@
        "lotNumber": "994534351",
        "description": "8 inch suction cup 2Pcs set #1",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 24.21,
        "allInCost": 24.21,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
@@ -16733,10 +16733,10 @@
        "lotNumber": "911887293",
        "description": "SEESII S20 LITE 8-inch manual vacuum suction cup set (second unit)",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 17.32,
        "allInCost": 17.32,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
@@ -18458,10 +18458,10 @@
        "lotNumber": "837406269",
        "description": "$169 MSRP DeWalt 20V MAX 3 SPEED 1/4  IMPACT DRIVER BARE TOOL #1",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 67.0,
        "allInCost": 67.0,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
