@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T12:45:22+00:00",
+ "generated_at": "2026-10-26T12:45:05+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -8608,10 +8608,10 @@
        "lotNumber": "1089",
        "description": "Ryobi PCL280B 18V ONE+ multi-size ratchet (1/4, 3/8, 1/2 in. drives), tool only",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 47.5,
        "allInCost": 59.13,
-       "status": "in_stock"
+       "status": "sold"
       },
       {
        "itemId": 651,
