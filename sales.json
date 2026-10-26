@@ -1,6 +1,101 @@
 {
- "generated_at": "2026-10-25T12:45:14+00:00",
+ "generated_at": "2026-10-26T12:44:53+00:00",
  "sales": [
+  {
+   "saleId": 300,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi tune up kit",
+   "soldDate": "2026-10-25",
+   "gross": 10.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5393,
+     "description": "Ryobi tune up kit",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 299,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Smartech Vehicle Jump Starter and Power Bank with Accessories + Air Compressor + Carrying Case",
+   "soldDate": "2026-10-25",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 10.0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 4501,
+     "description": "Smartech Products TECH-50 Power Kit (500A jump starter + power bank + air pump + flashlight)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 298,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 18V ONE+ 4.0Ah Lithium Battery PBP005",
+   "soldDate": "2026-10-25",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5042,
+     "description": "Ryobi 18V ONE+ 4.0Ah Lithium Battery PBP005",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 297,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 18V ONE+ 4.0Ah Lithium Battery PBP005",
+   "soldDate": "2026-10-25",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5041,
+     "description": "Ryobi 18V ONE+ 4.0Ah Lithium Battery PBP005",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 296,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ 18V Cordless Multi Size Ratchet (Tool Only)",
+   "soldDate": "2026-10-25",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 59.13,
+   "profit": 20.87,
+   "allocations": [
+    {
+     "itemId": 650,
+     "description": "Ryobi PCL280B 18V ONE+ multi-size ratchet (1/4, 3/8, 1/2 in. drives), tool only",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 295,
    "platform": "direct",
