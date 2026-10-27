@@ -1,6 +1,63 @@
 {
- "generated_at": "2026-10-26T12:44:53+00:00",
+ "generated_at": "2026-10-27T12:44:27+00:00",
  "sales": [
+  {
+   "saleId": 303,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Kreg Crosscut Station",
+   "soldDate": "2026-10-26",
+   "gross": 25.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 4508,
+     "description": "Kreg Crosscut Station \u2014 crosscut/miter station for circular saw, up to 12 in (boxed, appears new)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 302,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Selkirk 5 in. Steel 90-Degree Adjustable Gas Vent Elbow",
+   "soldDate": "2026-10-26",
+   "gross": 15.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5446,
+     "description": "Selkirk 5 in. Steel 90-Degree Adjustable Gas Vent Elbow",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 301,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Husky 19 in. Pro Tool Backpack - 41 Pockets, Waterproof Hard Base",
+   "soldDate": "2026-10-26",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 31.58,
+   "profit": 18.42,
+   "allocations": [
+    {
+     "itemId": 38,
+     "description": "Husky 19\" pro tool backpack $24.00/$25.00/$26.74/$25.74",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 300,
    "platform": "facebook",
