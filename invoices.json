@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T12:45:05+00:00",
+ "generated_at": "2026-10-27T12:44:32+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -1058,7 +1058,7 @@
        "lotNumber": "74/114/115/116",
        "description": "Husky 19\" pro tool backpack $24.00/$25.00/$26.74/$25.74",
        "quantity": 4,
-       "quantitySold": 1,
+       "quantitySold": 2,
        "hammer": 101.48,
        "allInCost": 126.33,
        "status": "in_stock"
