@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T12:44:48+00:00",
+ "generated_at": "2026-10-29T12:45:06+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -1084,16 +1084,6 @@
        "status": "in_stock"
       },
       {
-       "itemId": 41,
-       "lotNumber": "153",
-       "description": "Makita DC18RD dual port charger $26.00",
-       "quantity": 1,
-       "quantitySold": 0,
-       "hammer": 26.0,
-       "allInCost": 32.37,
-       "status": "in_stock"
-      },
-      {
        "itemId": 42,
        "lotNumber": "176",
        "description": "Klein digital multimeter $22.99",
@@ -1221,6 +1211,16 @@
        "quantitySold": 0,
        "hammer": 167.02,
        "allInCost": 207.93,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5508,
+       "lotNumber": "153",
+       "description": "Makita DC18RD dual-port rapid charger",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 26.0,
+       "allInCost": 32.37,
        "status": "in_stock"
       }
      ]
@@ -75195,9 +75195,9 @@
      "total": 22.73,
      "items": [
       {
-       "itemId": 1736,
+       "itemId": 5509,
        "lotNumber": "130633719",
-       "description": "Lot 59 Spyder 6pc power bit set",
+       "description": "Spyder Stinger Power Bit Set 6-pc (15003)",
        "quantity": 1,
        "quantitySold": 0,
        "hammer": 21.0,
