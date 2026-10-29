@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T12:44:43+00:00",
+ "generated_at": "2026-10-29T12:45:01+00:00",
  "sales": [
   {
    "saleId": 303,
@@ -301,6 +301,25 @@
     {
      "itemId": 5223,
      "description": "TaskStar cordless leaf blower, 550 CFM / 150 MPH",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 304,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Zircon SuperScan M4 Advanced Stud Finder",
+   "soldDate": "2026-10-21",
+   "gross": 30.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5019,
+     "description": "Zircon SuperScan M4 Advanced Stud Finder",
      "quantity": 1
     }
    ]
