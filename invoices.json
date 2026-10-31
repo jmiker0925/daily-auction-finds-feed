@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T12:44:28+00:00",
+ "generated_at": "2026-10-31T12:45:14+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -16207,7 +16207,7 @@
        "quantitySold": 0,
        "hammer": 34.21,
        "allInCost": 34.21,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
