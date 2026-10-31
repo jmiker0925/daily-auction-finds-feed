@@ -1,6 +1,44 @@
 {
- "generated_at": "2026-10-30T12:44:24+00:00",
+ "generated_at": "2026-10-31T12:45:00+00:00",
  "sales": [
+  {
+   "saleId": 306,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Seesii 8\" Tile Suction Cup Lifter with Pressure Gauge",
+   "soldDate": "2026-10-30",
+   "gross": 45.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5250,
+     "description": "SEESII S20 LITE 8-inch manual vacuum suction cup set (third unit)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 305,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "",
+   "soldDate": "2026-10-30",
+   "gross": 5.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5434,
+     "description": "Pneumatic Door Closer, Black (K5073)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 303,
    "platform": "facebook",
