@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T07:43:43.111481-05:00",
+ "generatedAt": "2026-10-31T07:43:44.357153-05:00",
  "auctions": [
   {
    "id": "1130",
@@ -47518,6 +47518,2819 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1150/lot/558576-dewalt-dxgnr6500-6500-watt-portable-generator",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/utzHFxFpsZvCct9yNpT4SVI_.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "1160",
+   "site": "Auction HUB Texas",
+   "name": "ASSET RECOVERY",
+   "closeDate": "2026-10-29",
+   "location": "2905 Miller Park N, Garland, TX",
+   "lots": [
+    {
+     "lot_number": "104",
+     "title": "DeWALT 1800 Peak Amp Lithium Jump Starter w/ USB Power Bank & Case (DXAELJ18C)",
+     "outcome": "outbid",
+     "hammer_total": 43.0,
+     "hammer_per_unit": 43.0,
+     "winning_bidder": "2****7",
+     "john_max": 30.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "105",
+     "title": "DeWALT 1800 Peak Amp Jump Starter (DXAELJ18C) dup of 104",
+     "outcome": "outbid",
+     "hammer_total": 42.25,
+     "hammer_per_unit": 42.25,
+     "winning_bidder": "1****0",
+     "john_max": 30.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1056",
+     "title": "Husky 2 Ton Trolley Jack dup of 141",
+     "outcome": "outbid",
+     "hammer_total": 15.25,
+     "hammer_per_unit": 15.25,
+     "winning_bidder": "1****6",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "106",
+     "title": "Milwaukee Heated Winter Gloves Kit (Size L)",
+     "outcome": "outbid",
+     "hammer_total": 84.0,
+     "hammer_per_unit": 84.0,
+     "winning_bidder": "5****5",
+     "john_max": 75.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "107",
+     "title": "Milwaukee Heated Winter Gloves Kit (L) dup",
+     "outcome": "outbid",
+     "hammer_total": 84.0,
+     "hammer_per_unit": 84.0,
+     "winning_bidder": "5****5",
+     "john_max": 75.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "108",
+     "title": "Milwaukee Heated Winter Gloves Kit (L) dup",
+     "outcome": "outbid",
+     "hammer_total": 84.0,
+     "hammer_per_unit": 84.0,
+     "winning_bidder": "5****5",
+     "john_max": 75.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "109",
+     "title": "Milwaukee Heated Winter Gloves Kit (L) dup",
+     "outcome": "outbid",
+     "hammer_total": 84.0,
+     "hammer_per_unit": 84.0,
+     "winning_bidder": "5****5",
+     "john_max": 75.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "114",
+     "title": "DEWALT 20V MAX 1-1/2 in. Cordless Pruner (Tool Only) DCPR320B",
+     "outcome": "outbid",
+     "hammer_total": 45.0,
+     "hammer_per_unit": 45.0,
+     "winning_bidder": "4****8",
+     "john_max": 35.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1170",
+     "title": "Rigid 6 Gallon Wet/Dry Vac HD600",
+     "outcome": "outbid",
+     "hammer_total": 32.0,
+     "hammer_per_unit": 32.0,
+     "winning_bidder": "5****8",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1188",
+     "title": "RYOBI 40V HP Brushless 800 CFM WHISPER Blower Kit (battery+charger)",
+     "outcome": "outbid",
+     "hammer_total": 77.0,
+     "hammer_per_unit": 77.0,
+     "winning_bidder": "5****6",
+     "john_max": 49.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1189",
+     "title": "Forged Steel Sledge Hammer w/ Wood Handle",
+     "outcome": "won",
+     "hammer_total": 8.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "3730",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1213",
+     "title": "RYOBI USB Lithium High Pressure Inflator Kit (FVIF51K)",
+     "outcome": "outbid",
+     "hammer_total": 14.75,
+     "hammer_per_unit": 14.75,
+     "winning_bidder": "5****5",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1218",
+     "title": "RYOBI USB Lithium 550 Lumen LED Inspection Flashlight Kit (FVL56K)",
+     "outcome": "outbid",
+     "hammer_total": 16.5,
+     "hammer_per_unit": 16.5,
+     "winning_bidder": "4****0",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1225",
+     "title": "HDX 27 Gal. Tough Storage Tote w/ Wheels and Handle",
+     "outcome": "outbid",
+     "hammer_total": 7.0,
+     "hammer_per_unit": 7.0,
+     "winning_bidder": "4****7",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "124",
+     "title": "RIDGID 22 in. Pro Gear Cart Tool Box Black",
+     "outcome": "outbid",
+     "hammer_total": 70.0,
+     "hammer_per_unit": 70.0,
+     "winning_bidder": "6****2",
+     "john_max": 20.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1271",
+     "title": "Milwaukee M18 REDLITHIUM CP2.0 Compact Battery (48-11-1820)",
+     "outcome": "outbid",
+     "hammer_total": 33.0,
+     "hammer_per_unit": 33.0,
+     "winning_bidder": "5****8",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1273",
+     "title": "Milwaukee SHOCKWAVE 3/8 in. Drive Socket Set 43-Pc (49-66-7009)",
+     "outcome": "outbid",
+     "hammer_total": 79.0,
+     "hammer_per_unit": 79.0,
+     "winning_bidder": "5****5",
+     "john_max": 48.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1287",
+     "title": "Milwaukee SHOCKWAVE 3/8 in. Drive SAE Deep Socket Set 12-Pc (49-66-7006)",
+     "outcome": "outbid",
+     "hammer_total": 46.0,
+     "hammer_per_unit": 46.0,
+     "winning_bidder": "6****2",
+     "john_max": 42.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1306",
+     "title": "RYOBI 40V 550 CFM Leaf Blower Kit (RY40LB01K)",
+     "outcome": "outbid",
+     "hammer_total": 55.0,
+     "hammer_per_unit": 55.0,
+     "winning_bidder": "1****2",
+     "john_max": 39.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1314",
+     "title": "Milwaukee 25 ft. Magnetic Tape Measure",
+     "outcome": "won",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "3730",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1315",
+     "title": "Milwaukee 35 ft. Wide Blade Tape Measure",
+     "outcome": "won",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "3730",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1316",
+     "title": "Milwaukee SDS-Max carbide rotary hammer core bit",
+     "outcome": "won",
+     "hammer_total": 31.0,
+     "hammer_per_unit": 31.0,
+     "winning_bidder": "3730",
+     "john_max": 29.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1332",
+     "title": "Milwaukee 1-1/8 in. One-Piece Carbide Hole Cutter",
+     "outcome": "won",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "3730",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1334",
+     "title": "Milwaukee Rechargeable 250L Penlight w/ Laser",
+     "outcome": "outbid",
+     "hammer_total": 14.5,
+     "hammer_per_unit": 14.5,
+     "winning_bidder": "5****5",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1348",
+     "title": "Milwaukee Hole Dozer Carbide Teeth hole saw kit",
+     "outcome": "won",
+     "hammer_total": 25.0,
+     "hammer_per_unit": 25.0,
+     "winning_bidder": "3730",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1355",
+     "title": "Milwaukee 25ft Tape Measure (x2)",
+     "outcome": "won",
+     "hammer_total": 10.0,
+     "hammer_per_unit": 5.0,
+     "winning_bidder": "3730",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1361",
+     "title": "Dewalt Jump Starter / Inflator / Power Inverter 2000 Peak Amp DXAEPS14",
+     "outcome": "outbid",
+     "hammer_total": 67.0,
+     "hammer_per_unit": 67.0,
+     "winning_bidder": "5****5",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1376",
+     "title": "Ramset Cobra+ 0.27 Cal. Semi-Auto Powder Actuated Tool (16944)",
+     "outcome": "outbid",
+     "hammer_total": 52.0,
+     "hammer_per_unit": 52.0,
+     "winning_bidder": "1****5",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1381",
+     "title": "Makita DHP486 18V LXT Brushless Hammer Driver-Drill",
+     "outcome": "won",
+     "hammer_total": 31.0,
+     "hammer_per_unit": 31.0,
+     "winning_bidder": "3730",
+     "john_max": 35.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1399",
+     "title": "RYOBI 18V ONE+ 3/8 in. Drill/Driver Kit",
+     "outcome": "outbid",
+     "hammer_total": 22.38,
+     "hammer_per_unit": 22.38,
+     "winning_bidder": "3****3",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "140",
+     "title": "Milwaukee 25 ft. Wide Blade Magnetic Tape Measure",
+     "outcome": "won",
+     "hammer_total": 7.5,
+     "hammer_per_unit": 7.5,
+     "winning_bidder": "3730",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1400",
+     "title": "FastenMaster LedgerLOK 5 in. Structural Wood Screws (50-Count)",
+     "outcome": "won",
+     "hammer_total": 7.05,
+     "hammer_per_unit": 7.05,
+     "winning_bidder": "3730",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1403",
+     "title": "RYOBI LINK 2-Drawer Tool Box (x3)",
+     "outcome": "won",
+     "hammer_total": 84.0,
+     "hammer_per_unit": 28.0,
+     "winning_bidder": "3730",
+     "john_max": 90.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1404",
+     "title": "Kreg Accu-Cut Circular Saw Track Guide (KMA2700)",
+     "outcome": "outbid",
+     "hammer_total": 29.3,
+     "hammer_per_unit": 29.3,
+     "winning_bidder": "6****2",
+     "john_max": 27.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1406",
+     "title": "Milwaukee 35-3/8 in. Band Saw Blade 3-Pack (x2)",
+     "outcome": "won",
+     "hammer_total": 18.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "141",
+     "title": "Husky 2-Ton Hydraulic Trolley Floor Jack",
+     "outcome": "outbid",
+     "hammer_total": 21.25,
+     "hammer_per_unit": 21.25,
+     "winning_bidder": "4****3",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1436",
+     "title": "DEWALT FLEXVOLT 60V MAX Brushless Reciprocating Saw (Tool Only) DCS389B",
+     "outcome": "won",
+     "hammer_total": 81.0,
+     "hammer_per_unit": 81.0,
+     "winning_bidder": "3730",
+     "john_max": 70.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1445",
+     "title": "Milwaukee M18/M12 Wireless Jobsite Speaker (2891-20)",
+     "outcome": "outbid",
+     "hammer_total": 52.0,
+     "hammer_per_unit": 52.0,
+     "winning_bidder": "4****3",
+     "john_max": 48.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "145",
+     "title": "DEWALT 20V MAX XR Brushless 1/2 in. 3-Speed Hammer Drill Kit (DCD1007WW1)",
+     "outcome": "outbid",
+     "hammer_total": 125.0,
+     "hammer_per_unit": 125.0,
+     "winning_bidder": "4****0",
+     "john_max": 70.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1452",
+     "title": "DEWALT ATOMIC Compact 25 ft. Tape Measure",
+     "outcome": "outbid",
+     "hammer_total": 6.5,
+     "hammer_per_unit": 6.5,
+     "winning_bidder": "4****3",
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1458",
+     "title": "Orbit 1 in. NPT Green Jar Top Valve",
+     "outcome": "won",
+     "hammer_total": 2.5,
+     "hammer_per_unit": 2.5,
+     "winning_bidder": "3730",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1465",
+     "title": "Milwaukee SHOCKWAVE Impact Right Angle Adapter (48-32-2390)",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "5****5",
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1488",
+     "title": "DEWALT Red Cross Line Laser Level (DW08802)",
+     "outcome": "outbid",
+     "hammer_total": 30.0,
+     "hammer_per_unit": 30.0,
+     "winning_bidder": "5****5",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1510",
+     "title": "RYOBI 18V ONE+ VORTEX Telescoping Power Scrubber Kit",
+     "outcome": "outbid",
+     "hammer_total": 31.0,
+     "hammer_per_unit": 31.0,
+     "winning_bidder": "2****9",
+     "john_max": 30.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "156",
+     "title": "Husky 12 in. 9-Compartment Waterproof Storage Bin Organizer",
+     "outcome": "outbid",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "6****2",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "157",
+     "title": "Teks #12 x 1 In. Hex Washer Head Self-Drilling Roofing Screws (400-Count)",
+     "outcome": "outbid",
+     "hammer_total": 15.3,
+     "hammer_per_unit": 15.3,
+     "winning_bidder": "4****6",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1637",
+     "title": "Rigid 6gal Wet/Dry Vac dup",
+     "outcome": "outbid",
+     "hammer_total": 20.0,
+     "hammer_per_unit": 20.0,
+     "winning_bidder": "5****8",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1642",
+     "title": "Rigid 14gal Wet/Dry Vac",
+     "outcome": "outbid",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "5****8",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1655",
+     "title": "Miscellaneous Gondola Of Items (mystery - flag only)",
+     "outcome": "won",
+     "hammer_total": 80.0,
+     "hammer_per_unit": 80.0,
+     "winning_bidder": "3730",
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "182",
+     "title": "Ridgid 16 gallon wet/dry vac w/ detachable blower",
+     "outcome": "outbid",
+     "hammer_total": 37.0,
+     "hammer_per_unit": 37.0,
+     "winning_bidder": "5****8",
+     "john_max": 30.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "201",
+     "title": "DeWalt ToughSystem 2.0 3-Drawer Tool Box (DWST08330)",
+     "outcome": "won",
+     "hammer_total": 50.0,
+     "hammer_per_unit": 50.0,
+     "winning_bidder": "3730",
+     "john_max": 50.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "204",
+     "title": "Milwaukee M18 FUEL 1/4 in. Hex Impact Driver (Tool Only) 2953-20 (37 bids, hot)",
+     "outcome": "outbid",
+     "hammer_total": 60.0,
+     "hammer_per_unit": 60.0,
+     "winning_bidder": "6****6",
+     "john_max": 50.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "205",
+     "title": "Dewalt Lithium Ion Battery 2pk 20v",
+     "outcome": "outbid",
+     "hammer_total": 49.0,
+     "hammer_per_unit": 49.0,
+     "winning_bidder": "6****8",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "206",
+     "title": "Milwaukee 8pc bi metal hole saw kit",
+     "outcome": "outbid",
+     "hammer_total": 19.0,
+     "hammer_per_unit": 19.0,
+     "winning_bidder": "5****5",
+     "john_max": 0.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "207",
+     "title": "RIDGID Pro Gear System Gen 2.0 XL 22 in. Stackable Tool Box",
+     "outcome": "outbid",
+     "hammer_total": 48.25,
+     "hammer_per_unit": 48.25,
+     "winning_bidder": "6****2",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "208",
+     "title": "Dewalt 100'/330' Self leveling cross line laser",
+     "outcome": "outbid",
+     "hammer_total": 91.0,
+     "hammer_per_unit": 91.0,
+     "winning_bidder": "5****5",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "209",
+     "title": "Makita 36V LXT Brushless 16 in. Chain Saw Kit",
+     "outcome": "outbid",
+     "hammer_total": 138.0,
+     "hammer_per_unit": 138.0,
+     "winning_bidder": "6****6",
+     "john_max": 120.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "21",
+     "title": "Milwaukee SDS PLUS 7/8 in. x 12 in. Rebar Cutter (48-20-6727)",
+     "outcome": "outbid",
+     "hammer_total": 14.75,
+     "hammer_per_unit": 14.75,
+     "winning_bidder": "1****5",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "211",
+     "title": "Dewalt XR Brushless 21deg Plastic Collated Framing Nailer Tool Only",
+     "outcome": "outbid",
+     "hammer_total": 131.0,
+     "hammer_per_unit": 131.0,
+     "winning_bidder": "4****3",
+     "john_max": 110.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "212",
+     "title": "Makita 2-1/2 in. Siding Coil Nailer",
+     "outcome": "outbid",
+     "hammer_total": 121.0,
+     "hammer_per_unit": 121.0,
+     "winning_bidder": "1****5",
+     "john_max": 90.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "214",
+     "title": "Dewalt Atomic Compact Brushless Multi Head Drill/Driver",
+     "outcome": "outbid",
+     "hammer_total": 80.0,
+     "hammer_per_unit": 80.0,
+     "winning_bidder": "4****3",
+     "john_max": 70.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "216",
+     "title": "Ryobi 8amp Electric Jet Fan Blower",
+     "outcome": "outbid",
+     "hammer_total": 19.0,
+     "hammer_per_unit": 19.0,
+     "winning_bidder": "4****3",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "217",
+     "title": "RIDGID 3 Gal. 18V Cordless Handheld NXT Wet/Dry Vac",
+     "outcome": "won",
+     "hammer_total": 30.25,
+     "hammer_per_unit": 30.25,
+     "winning_bidder": "3730",
+     "john_max": 31.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "22",
+     "title": "Milwaukee #12 Step Drill Bit, 7/8 in. - 1-3/8 in. (48-89-9212)",
+     "outcome": "outbid",
+     "hammer_total": 14.0,
+     "hammer_per_unit": 14.0,
+     "winning_bidder": "1****0",
+     "john_max": 11.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "223",
+     "title": "Milwaukee 2.5lbs Fiberglass Engineer Hammer",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "5****5",
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "225",
+     "title": "Husky 3/8 in. Drive Torque Wrench 20-100 ft-lb",
+     "outcome": "outbid",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "1****0",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "248",
+     "title": "Rigid 6 gallon wet/dry vac",
+     "outcome": "outbid",
+     "hammer_total": 29.0,
+     "hammer_per_unit": 29.0,
+     "winning_bidder": "5****7",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "254",
+     "title": "Makita 4 in. Angle Grinder",
+     "outcome": "outbid",
+     "hammer_total": 31.0,
+     "hammer_per_unit": 31.0,
+     "winning_bidder": "1****5",
+     "john_max": 23.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "256",
+     "title": "Ryobi 18v One+ Hybrid 7.5 in. Fan",
+     "outcome": "won",
+     "hammer_total": 20.0,
+     "hammer_per_unit": 20.0,
+     "winning_bidder": "3730",
+     "john_max": 20.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "275",
+     "title": "HDX Yellow & Black 27gal Tote (x4)",
+     "outcome": "outbid",
+     "hammer_total": 28.2,
+     "hammer_per_unit": 7.05,
+     "winning_bidder": "2****7",
+     "john_max": 11.2,
+     "lot_url": null
+    },
+    {
+     "lot_number": "276",
+     "title": "HDX Yellow & Black 27gal Tote (x4) dup",
+     "outcome": "outbid",
+     "hammer_total": 28.0,
+     "hammer_per_unit": 7.0,
+     "winning_bidder": "4****7",
+     "john_max": 11.2,
+     "lot_url": null
+    },
+    {
+     "lot_number": "302",
+     "title": "Milwaukee Packout Compact Tool Box",
+     "outcome": "outbid",
+     "hammer_total": 35.0,
+     "hammer_per_unit": 35.0,
+     "winning_bidder": "6****2",
+     "john_max": 34.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "31",
+     "title": "Milwaukee 10-Pc HOLE DOZER Bi-Metal Hole Saw Kit w/ PACKOUT Compact Organizer (49-22-5606)",
+     "outcome": "outbid",
+     "hammer_total": 58.0,
+     "hammer_per_unit": 58.0,
+     "winning_bidder": "5****8",
+     "john_max": 49.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "32",
+     "title": "Milwaukee 10-Pc HOLE DOZER Kit (49-22-5606) dup of 31",
+     "outcome": "outbid",
+     "hammer_total": 58.0,
+     "hammer_per_unit": 58.0,
+     "winning_bidder": "5****8",
+     "john_max": 49.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "33",
+     "title": "Milwaukee 10-Pc HOLE DOZER Kit (49-22-5606) dup of 31",
+     "outcome": "outbid",
+     "hammer_total": 59.0,
+     "hammer_per_unit": 59.0,
+     "winning_bidder": "5****8",
+     "john_max": 49.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "34",
+     "title": "Milwaukee 10-Pc HOLE DOZER Kit (49-22-5606) dup of 31",
+     "outcome": "outbid",
+     "hammer_total": 59.0,
+     "hammer_per_unit": 59.0,
+     "winning_bidder": "5****8",
+     "john_max": 49.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "360",
+     "title": "Rigid 9 Gallon Wet/Dry Vac",
+     "outcome": "outbid",
+     "hammer_total": 37.0,
+     "hammer_per_unit": 37.0,
+     "winning_bidder": "5****8",
+     "john_max": 22.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "394",
+     "title": "ProPlus Pressure Switch 30-50 psi (522044) (50 Pack)",
+     "outcome": "won",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "3730",
+     "john_max": 21.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "395",
+     "title": "ProPlus Pressure Switch 50-pack dup",
+     "outcome": "won",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "3730",
+     "john_max": 21.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "396",
+     "title": "ProPlus Pressure Switch 50-pack dup",
+     "outcome": "won",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "3730",
+     "john_max": 21.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "397",
+     "title": "ProPlus Pressure Switch 50-pack dup",
+     "outcome": "won",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "3730",
+     "john_max": 21.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "398",
+     "title": "ProPlus Pressure Switch 50-pack dup",
+     "outcome": "won",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "3730",
+     "john_max": 21.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "408",
+     "title": "Milwaukee Junior Elite Convertible Hand Truck",
+     "outcome": "outbid",
+     "hammer_total": 30.0,
+     "hammer_per_unit": 30.0,
+     "winning_bidder": "5****7",
+     "john_max": 29.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "420",
+     "title": "Milwaukee 8-Pc HOLE DOZER Bi-Metal Hole Saw Kit (49-22-4019)",
+     "outcome": "outbid",
+     "hammer_total": 20.0,
+     "hammer_per_unit": 20.0,
+     "winning_bidder": "1****8",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "475",
+     "title": "Milwaukee 32-7/8 in. 18 TPI Compact Bi-Metal Band Saw Blade (3-Pack)",
+     "outcome": "won",
+     "hammer_total": 7.0,
+     "hammer_per_unit": 7.0,
+     "winning_bidder": "3730",
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "476",
+     "title": "Milwaukee 6 in. Adjustable Wrench",
+     "outcome": "outbid",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "1****0",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "478",
+     "title": "Milwaukee 25 ft. Wide Blade Tape Measure dup",
+     "outcome": "won",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "48",
+     "title": "RYOBI USB Lithium Cordless Craft 4-in-1 Stapler/Nailer Kit w/ 3.0 Ah Battery (FVN51K)",
+     "outcome": "outbid",
+     "hammer_total": 28.0,
+     "hammer_per_unit": 28.0,
+     "winning_bidder": "5****5",
+     "john_max": 23.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "480",
+     "title": "SDS Max Carbide Tipped Masonry Rotary Hammer Drill Bit (x2)",
+     "outcome": "outbid",
+     "hammer_total": 30.0,
+     "hammer_per_unit": 15.0,
+     "winning_bidder": "1****8",
+     "john_max": 11.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "481",
+     "title": "Milwaukee 27-in-1 Ratcheting Multi-Bit Screwdriver (48-22-2904)",
+     "outcome": "outbid",
+     "hammer_total": 25.0,
+     "hammer_per_unit": 25.0,
+     "winning_bidder": "6****8",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "484",
+     "title": "DEWALT Atomic Compact 16 ft. Tape Measure (DWHT38116S)",
+     "outcome": "outbid",
+     "hammer_total": 6.0,
+     "hammer_per_unit": 6.0,
+     "winning_bidder": "4****3",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "49",
+     "title": "RYOBI 18V ONE+ Multi-Size Ratchet (Tool Only) PCL280B ONE HEAD",
+     "outcome": "outbid",
+     "hammer_total": 45.0,
+     "hammer_per_unit": 45.0,
+     "winning_bidder": "2****7",
+     "john_max": 39.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "493",
+     "title": "Milwaukee 30ft. Wide Blade Tape Measure (48-22-0230)",
+     "outcome": "outbid",
+     "hammer_total": 9.5,
+     "hammer_per_unit": 9.5,
+     "winning_bidder": "1****9",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "494",
+     "title": "Crescent 16 in. Tongue and Groove Pliers (RT216CVN-06)",
+     "outcome": "outbid",
+     "hammer_total": 15.0,
+     "hammer_per_unit": 15.0,
+     "winning_bidder": "6****0",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "500",
+     "title": "Master Lock Magnum Hidden Shackle Padlock w/ Hasp (M736XKAD)",
+     "outcome": "outbid",
+     "hammer_total": 13.75,
+     "hammer_per_unit": 13.75,
+     "winning_bidder": "3****5",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "508",
+     "title": "Milwaukee 44-7/8 in. Deep Cut Band Saw Blades (2-Pack)",
+     "outcome": "won",
+     "hammer_total": 5.0,
+     "hammer_per_unit": 5.0,
+     "winning_bidder": "3730",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "509",
+     "title": "DEWALT TOUGHSERIES 25 ft. LED Lighted Tape Measure (DWHT35625S)",
+     "outcome": "outbid",
+     "hammer_total": 14.5,
+     "hammer_per_unit": 14.5,
+     "winning_bidder": "4****0",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "51",
+     "title": "Milwaukee 9 PC BIG HAWG w/ Carbide Teeth Hole Saw Kit w/ PACKOUT Organizer (49-56-9295)",
+     "outcome": "won",
+     "hammer_total": 70.0,
+     "hammer_per_unit": 70.0,
+     "winning_bidder": "3730",
+     "john_max": 70.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "524",
+     "title": "Milwaukee 10 in. Molding Puller (48-22-9033)",
+     "outcome": "outbid",
+     "hammer_total": 7.0,
+     "hammer_per_unit": 7.0,
+     "winning_bidder": "3****2",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "527",
+     "title": "FastenMaster TimberLOK 8 in. Structural Wood Screws (50-Pack)",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "6****9",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "528",
+     "title": "DEWALT DW088K Self-Leveling Cross Line Laser",
+     "outcome": "outbid",
+     "hammer_total": 83.0,
+     "hammer_per_unit": 83.0,
+     "winning_bidder": "5****5",
+     "john_max": 40.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "596",
+     "title": "Milwaukee 35-3/8 in. Compact Thick Metal Saw Blade",
+     "outcome": "outbid",
+     "hammer_total": 4.25,
+     "hammer_per_unit": 4.25,
+     "winning_bidder": "6****2",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "638",
+     "title": "Milwaukee M18 TOP-OFF 175W Power Supply & Charger (2847-20)",
+     "outcome": "won",
+     "hammer_total": 45.0,
+     "hammer_per_unit": 45.0,
+     "winning_bidder": "3730",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "67",
+     "title": "DEWALT 600 CFM Portable Air Mover (DXAM2260)",
+     "outcome": "outbid",
+     "hammer_total": 36.0,
+     "hammer_per_unit": 36.0,
+     "winning_bidder": "4****0",
+     "john_max": 23.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "69",
+     "title": "GEARWRENCH 1/4 in. 120XP Flex Head Electronic Torque Wrench w/ Angle (85194)",
+     "outcome": "won",
+     "hammer_total": 93.0,
+     "hammer_per_unit": 93.0,
+     "winning_bidder": "3730",
+     "john_max": 49.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "72",
+     "title": "RYOBI ONE+ 18V Blower/Sweeper Kit w/ 2.0 Ah Battery + Charger (P21011K)",
+     "outcome": "outbid",
+     "hammer_total": 42.0,
+     "hammer_per_unit": 42.0,
+     "winning_bidder": "1****5",
+     "john_max": 23.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "758",
+     "title": "Loctite Polyseamseal Tub & Tile Caulk Almond 5.5 oz (x2)",
+     "outcome": "outbid",
+     "hammer_total": 10.0,
+     "hammer_per_unit": 5.0,
+     "winning_bidder": "3****5",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "759",
+     "title": "Loctite caulk dup (x2)",
+     "outcome": "outbid",
+     "hammer_total": 11.0,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "3****5",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "760",
+     "title": "Loctite caulk dup (x2)",
+     "outcome": "outbid",
+     "hammer_total": 13.0,
+     "hammer_per_unit": 6.5,
+     "winning_bidder": "1****0",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "761",
+     "title": "Loctite caulk dup (x2)",
+     "outcome": "outbid",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 4.25,
+     "winning_bidder": "3****5",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "762",
+     "title": "Loctite caulk dup (x2)",
+     "outcome": "outbid",
+     "hammer_total": 4.5,
+     "hammer_per_unit": 2.25,
+     "winning_bidder": "3****5",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "805",
+     "title": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in. (799294)",
+     "outcome": "won",
+     "hammer_total": 27.0,
+     "hammer_per_unit": 27.0,
+     "winning_bidder": "3730",
+     "john_max": 28.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "806",
+     "title": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in. (799294)",
+     "outcome": "won",
+     "hammer_total": 18.0,
+     "hammer_per_unit": 18.0,
+     "winning_bidder": "3730",
+     "john_max": 28.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "807",
+     "title": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in. (799294)",
+     "outcome": "won",
+     "hammer_total": 16.0,
+     "hammer_per_unit": 16.0,
+     "winning_bidder": "3730",
+     "john_max": 28.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "808",
+     "title": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in. (799294)",
+     "outcome": "won",
+     "hammer_total": 16.0,
+     "hammer_per_unit": 16.0,
+     "winning_bidder": "3730",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "809",
+     "title": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in. (799294)",
+     "outcome": "won",
+     "hammer_total": 16.0,
+     "hammer_per_unit": 16.0,
+     "winning_bidder": "3730",
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "85",
+     "title": "Zircon StudSensor HD70 OneStep Stud Finder (x2)",
+     "outcome": "won",
+     "hammer_total": 16.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "3730",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "857",
+     "title": "MSI Sliced Pebble Marble Mosaic Tile 12x12 (x5 pieces)",
+     "outcome": "outbid",
+     "hammer_total": 15.25,
+     "hammer_per_unit": 3.05,
+     "winning_bidder": "3****2",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "887",
+     "title": "RIDGID K-400 Powered Drain Cleaner (Cat 523363)",
+     "outcome": "outbid",
+     "hammer_total": 177.0,
+     "hammer_per_unit": 177.0,
+     "winning_bidder": "4****0",
+     "john_max": 75.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "892",
+     "title": "RIDGID 1625 CFM 3-Speed Portable Air Mover (AM2560)",
+     "outcome": "outbid",
+     "hammer_total": 65.0,
+     "hammer_per_unit": 65.0,
+     "winning_bidder": "6****2",
+     "john_max": 30.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "9",
+     "title": "DEWALT Fiberglass Handle Digging Shovel",
+     "outcome": "won",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "91",
+     "title": "Milwaukee 1-1/2-Inch Hole Dozer Bi-Metal Hole Saw w/ Arbor (49-56-9665)",
+     "outcome": "won",
+     "hammer_total": 5.0,
+     "hammer_per_unit": 5.0,
+     "winning_bidder": "3730",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "921",
+     "title": "Rain Bird 3/4 in. Anti-Siphon Irrigation Valve w/ Flow Control (DASASVF075)",
+     "outcome": "won",
+     "hammer_total": 4.0,
+     "hammer_per_unit": 4.0,
+     "winning_bidder": "3730",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "926",
+     "title": "Ryobi 18V ONE+ 4 in. Clamp Fan (PCF02B) fan only",
+     "outcome": "outbid",
+     "hammer_total": 11.55,
+     "hammer_per_unit": 11.55,
+     "winning_bidder": "6****2",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "927",
+     "title": "Milwaukee 25 ft. Compact Auto-Lock Tape Measure",
+     "outcome": "outbid",
+     "hammer_total": 7.5,
+     "hammer_per_unit": 7.5,
+     "winning_bidder": "5****5",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "928",
+     "title": "DeWalt Atomic 55-ft. Pocket Laser Distance Measurer (DW055PL)",
+     "outcome": "outbid",
+     "hammer_total": 23.0,
+     "hammer_per_unit": 23.0,
+     "winning_bidder": "4****8",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "933",
+     "title": "Milwaukee 9 in. TORQUE LOCK Long Nose Locking Pliers (48-22-3509)",
+     "outcome": "outbid",
+     "hammer_total": 6.0,
+     "hammer_per_unit": 6.0,
+     "winning_bidder": "1****5",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "934",
+     "title": "DeWalt 3/4 in. Stud Finder DW0100",
+     "outcome": "outbid",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "6****7",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "94",
+     "title": "Milwaukee 25-Pc 1/4 in. Drive Metric & SAE Ratchet and Socket Set (48-22-9044)",
+     "outcome": "outbid",
+     "hammer_total": 38.0,
+     "hammer_per_unit": 38.0,
+     "winning_bidder": "6****2",
+     "john_max": 22.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "950",
+     "title": "DEWALT 1600 Peak Amp Jump Starter w/ Digital Compressor (DXAEJ14)",
+     "outcome": "outbid",
+     "hammer_total": 59.0,
+     "hammer_per_unit": 59.0,
+     "winning_bidder": "5****5",
+     "john_max": 49.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "963",
+     "title": "DEWALT Max Fit Telescoping Ratcheting Screwdriver Set 10-Pc (DWHT68001)",
+     "outcome": "outbid",
+     "hammer_total": 7.5,
+     "hammer_per_unit": 7.5,
+     "winning_bidder": "1****0",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "967",
+     "title": "FastenMaster TimberLOK 6 in. wood screws",
+     "outcome": "outbid",
+     "hammer_total": 18.0,
+     "hammer_per_unit": 18.0,
+     "winning_bidder": "4****7",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "975",
+     "title": "DEWALT 25 ft. ATOMIC Compact Tape Measure w/ Finger Brake",
+     "outcome": "outbid",
+     "hammer_total": 6.5,
+     "hammer_per_unit": 6.5,
+     "winning_bidder": "4****2",
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "98",
+     "title": "Milwaukee 25 ft. Wide Blade Tape Measure",
+     "outcome": "won",
+     "hammer_total": 8.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "3730",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "99",
+     "title": "Milwaukee 25 ft. Wide Blade Tape Measure dup",
+     "outcome": "outbid",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "2****3",
+     "john_max": 8.0,
+     "lot_url": null
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "5****5",
+     "lotsWon": 17,
+     "hammerTotal": 850.25
+    },
+    {
+     "bidder": "5****8",
+     "lotsWon": 10,
+     "hammerTotal": 419.0
+    },
+    {
+     "bidder": "4****0",
+     "lotsWon": 5,
+     "hammerTotal": 369.0
+    },
+    {
+     "bidder": "6****2",
+     "lotsWon": 10,
+     "hammerTotal": 352.85
+    },
+    {
+     "bidder": "4****3",
+     "lotsWon": 7,
+     "hammerTotal": 315.75
+    },
+    {
+     "bidder": "1****5",
+     "lotsWon": 6,
+     "hammerTotal": 266.75
+    },
+    {
+     "bidder": "6****6",
+     "lotsWon": 2,
+     "hammerTotal": 198.0
+    },
+    {
+     "bidder": "2****7",
+     "lotsWon": 3,
+     "hammerTotal": 116.2
+    },
+    {
+     "bidder": "1****0",
+     "lotsWon": 6,
+     "hammerTotal": 103.25
+    },
+    {
+     "bidder": "5****6",
+     "lotsWon": 1,
+     "hammerTotal": 77.0
+    },
+    {
+     "bidder": "6****8",
+     "lotsWon": 2,
+     "hammerTotal": 74.0
+    },
+    {
+     "bidder": "4****8",
+     "lotsWon": 2,
+     "hammerTotal": 68.0
+    },
+    {
+     "bidder": "5****7",
+     "lotsWon": 2,
+     "hammerTotal": 59.0
+    },
+    {
+     "bidder": "1****2",
+     "lotsWon": 1,
+     "hammerTotal": 55.0
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 3,
+     "hammerTotal": 53.0
+    },
+    {
+     "bidder": "1****8",
+     "lotsWon": 2,
+     "hammerTotal": 50.0
+    },
+    {
+     "bidder": "3****5",
+     "lotsWon": 5,
+     "hammerTotal": 47.75
+    },
+    {
+     "bidder": "2****9",
+     "lotsWon": 1,
+     "hammerTotal": 31.0
+    },
+    {
+     "bidder": "3****3",
+     "lotsWon": 1,
+     "hammerTotal": 22.38
+    },
+    {
+     "bidder": "3****2",
+     "lotsWon": 2,
+     "hammerTotal": 22.25
+    },
+    {
+     "bidder": "4****6",
+     "lotsWon": 1,
+     "hammerTotal": 15.3
+    },
+    {
+     "bidder": "1****6",
+     "lotsWon": 1,
+     "hammerTotal": 15.25
+    },
+    {
+     "bidder": "6****0",
+     "lotsWon": 1,
+     "hammerTotal": 15.0
+    },
+    {
+     "bidder": "6****9",
+     "lotsWon": 1,
+     "hammerTotal": 10.75
+    },
+    {
+     "bidder": "1****9",
+     "lotsWon": 1,
+     "hammerTotal": 9.5
+    },
+    {
+     "bidder": "2****3",
+     "lotsWon": 1,
+     "hammerTotal": 8.5
+    },
+    {
+     "bidder": "4****2",
+     "lotsWon": 1,
+     "hammerTotal": 6.5
+    },
+    {
+     "bidder": "6****7",
+     "lotsWon": 1,
+     "hammerTotal": 5.5
+    }
+   ],
+   "bidderLots": {
+    "1****5": [
+     {
+      "lot_number": 21,
+      "title": "Milwaukee SDS PLUS 7/8 in. x 12 in. Rebar Cutter (48-20-6727)",
+      "hammer_total": 14.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 72,
+      "title": "RYOBI ONE+ 18V Blower/Sweeper Kit w/ 2.0 Ah Battery + Charger (P21011K)",
+      "hammer_total": 42.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 212,
+      "title": "Makita 2-1/2 in. Siding Coil Nailer",
+      "hammer_total": 121.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 254,
+      "title": "Makita 4 in. Angle Grinder",
+      "hammer_total": 31.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 933,
+      "title": "Milwaukee 9 in. TORQUE LOCK Long Nose Locking Pliers (48-22-3509)",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 1376,
+      "title": "Ramset Cobra+ 0.27 Cal. Semi-Auto Powder Actuated Tool (16944)",
+      "hammer_total": 52.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563021-ramset-cobra-027-caliber-semi-automatic-powder-actuated-tool-model-16944",
+      "photo_url": null
+     }
+    ],
+    "1****0": [
+     {
+      "lot_number": 22,
+      "title": "Milwaukee #12 Step Drill Bit, 7/8 in. - 1-3/8 in. (48-89-9212)",
+      "hammer_total": 14.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 105,
+      "title": "DeWALT 1800 Peak Amp Jump Starter (DXAELJ18C) dup of 104",
+      "hammer_total": 42.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 225,
+      "title": "Husky 3/8 in. Drive Torque Wrench 20-100 ft-lb",
+      "hammer_total": 21.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 476,
+      "title": "Milwaukee 6 in. Adjustable Wrench",
+      "hammer_total": 5.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 760,
+      "title": "Loctite caulk dup (x2)",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 963,
+      "title": "DEWALT Max Fit Telescoping Ratcheting Screwdriver Set 10-Pc (DWHT68001)",
+      "hammer_total": 7.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "5****8": [
+     {
+      "lot_number": 31,
+      "title": "Milwaukee 10-Pc HOLE DOZER Bi-Metal Hole Saw Kit w/ PACKOUT Compact Organizer (49-22-5606)",
+      "hammer_total": 58.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 32,
+      "title": "Milwaukee 10-Pc HOLE DOZER Kit (49-22-5606) dup of 31",
+      "hammer_total": 58.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 33,
+      "title": "Milwaukee 10-Pc HOLE DOZER Kit (49-22-5606) dup of 31",
+      "hammer_total": 59.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 34,
+      "title": "Milwaukee 10-Pc HOLE DOZER Kit (49-22-5606) dup of 31",
+      "hammer_total": 59.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 182,
+      "title": "Ridgid 16 gallon wet/dry vac w/ detachable blower",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 360,
+      "title": "Rigid 9 Gallon Wet/Dry Vac",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 1170,
+      "title": "Rigid 6 Gallon Wet/Dry Vac HD600",
+      "hammer_total": 32.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563225-rigid-6-gallon-wet-dry-vac-hd600",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1271,
+      "title": "Milwaukee M18 REDLITHIUM CP2.0 Compact Battery (48-11-1820)",
+      "hammer_total": 33.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563125-milwaukee-m18-redlithium-cp20-compact-battery-model-48-11-1820",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1637,
+      "title": "Rigid 6gal Wet/Dry Vac dup",
+      "hammer_total": 20.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/562758-rigid-6gal-wet-dry-vac",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1642,
+      "title": "Rigid 14gal Wet/Dry Vac",
+      "hammer_total": 26.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/562754-rigid-14gal-wet-dry-vac",
+      "photo_url": null
+     }
+    ],
+    "5****5": [
+     {
+      "lot_number": 48,
+      "title": "RYOBI USB Lithium Cordless Craft 4-in-1 Stapler/Nailer Kit w/ 3.0 Ah Battery (FVN51K)",
+      "hammer_total": 28.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 106,
+      "title": "Milwaukee Heated Winter Gloves Kit (Size L)",
+      "hammer_total": 84.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 107,
+      "title": "Milwaukee Heated Winter Gloves Kit (L) dup",
+      "hammer_total": 84.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 108,
+      "title": "Milwaukee Heated Winter Gloves Kit (L) dup",
+      "hammer_total": 84.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 109,
+      "title": "Milwaukee Heated Winter Gloves Kit (L) dup",
+      "hammer_total": 84.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 206,
+      "title": "Milwaukee 8pc bi metal hole saw kit",
+      "hammer_total": 19.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 208,
+      "title": "Dewalt 100'/330' Self leveling cross line laser",
+      "hammer_total": 91.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 223,
+      "title": "Milwaukee 2.5lbs Fiberglass Engineer Hammer",
+      "hammer_total": 10.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 528,
+      "title": "DEWALT DW088K Self-Leveling Cross Line Laser",
+      "hammer_total": 83.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 927,
+      "title": "Milwaukee 25 ft. Compact Auto-Lock Tape Measure",
+      "hammer_total": 7.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 950,
+      "title": "DEWALT 1600 Peak Amp Jump Starter w/ Digital Compressor (DXAEJ14)",
+      "hammer_total": 59.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 1213,
+      "title": "RYOBI USB Lithium High Pressure Inflator Kit (FVIF51K)",
+      "hammer_total": 14.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563182-ryobi-usb-lithium-high-pressure-inflator-kit-fvif51k",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1273,
+      "title": "Milwaukee SHOCKWAVE 3/8 in. Drive Socket Set 43-Pc (49-66-7009)",
+      "hammer_total": 79.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563122-milwaukee-shockwave-impact-duty-3-8-drive-sae-and-metric-deep-standard-6-point-socket-set-43-piece-model-number-49-66-7009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1334,
+      "title": "Milwaukee Rechargeable 250L Penlight w/ Laser",
+      "hammer_total": 14.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563062-milwaukee-rechargeable-250l-penlight-with-laser",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1361,
+      "title": "Dewalt Jump Starter / Inflator / Power Inverter 2000 Peak Amp DXAEPS14",
+      "hammer_total": 67.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563035-dewalt-portable-jump-starter-digital-inflator-and-power-inverter-2000-peak-amp-dxaeps14",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1465,
+      "title": "Milwaukee SHOCKWAVE Impact Right Angle Adapter (48-32-2390)",
+      "hammer_total": 10.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/562931-milwaukee-shockwave-impact-right-angle-adapter-48-32-2390",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1488,
+      "title": "DEWALT Red Cross Line Laser Level (DW08802)",
+      "hammer_total": 30.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/562908-dewalt-red-cross-line-laser-level-dw08802",
+      "photo_url": null
+     }
+    ],
+    "2****7": [
+     {
+      "lot_number": 49,
+      "title": "RYOBI 18V ONE+ Multi-Size Ratchet (Tool Only) PCL280B ONE HEAD",
+      "hammer_total": 45.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 104,
+      "title": "DeWALT 1800 Peak Amp Lithium Jump Starter w/ USB Power Bank & Case (DXAELJ18C)",
+      "hammer_total": 43.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 275,
+      "title": "HDX Yellow & Black 27gal Tote (x4)",
+      "hammer_total": 28.2,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****0": [
+     {
+      "lot_number": 67,
+      "title": "DEWALT 600 CFM Portable Air Mover (DXAM2260)",
+      "hammer_total": 36.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 145,
+      "title": "DEWALT 20V MAX XR Brushless 1/2 in. 3-Speed Hammer Drill Kit (DCD1007WW1)",
+      "hammer_total": 125.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 509,
+      "title": "DEWALT TOUGHSERIES 25 ft. LED Lighted Tape Measure (DWHT35625S)",
+      "hammer_total": 14.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 887,
+      "title": "RIDGID K-400 Powered Drain Cleaner (Cat 523363)",
+      "hammer_total": 177.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563509-ridgid-k-400-powered-drain-cleaner-cat-no-523363",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1218,
+      "title": "RYOBI USB Lithium 550 Lumen LED Inspection Flashlight Kit (FVL56K)",
+      "hammer_total": 16.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563178-ryobi-usb-lithium-550-lumen-cordless-rechargeable-led-inspection-flashlight-kit-fvl56k",
+      "photo_url": null
+     }
+    ],
+    "6****2": [
+     {
+      "lot_number": 94,
+      "title": "Milwaukee 25-Pc 1/4 in. Drive Metric & SAE Ratchet and Socket Set (48-22-9044)",
+      "hammer_total": 38.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 124,
+      "title": "RIDGID 22 in. Pro Gear Cart Tool Box Black",
+      "hammer_total": 70.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 156,
+      "title": "Husky 12 in. 9-Compartment Waterproof Storage Bin Organizer",
+      "hammer_total": 5.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 207,
+      "title": "RIDGID Pro Gear System Gen 2.0 XL 22 in. Stackable Tool Box",
+      "hammer_total": 48.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 302,
+      "title": "Milwaukee Packout Compact Tool Box",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 596,
+      "title": "Milwaukee 35-3/8 in. Compact Thick Metal Saw Blade",
+      "hammer_total": 4.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 892,
+      "title": "RIDGID 1625 CFM 3-Speed Portable Air Mover (AM2560)",
+      "hammer_total": 65.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 926,
+      "title": "Ryobi 18V ONE+ 4 in. Clamp Fan (PCF02B) fan only",
+      "hammer_total": 11.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 1287,
+      "title": "Milwaukee SHOCKWAVE 3/8 in. Drive SAE Deep Socket Set 12-Pc (49-66-7006)",
+      "hammer_total": 46.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563109-milwaukee-shockwave-impact-duty-3-8-drive-sae-deep-6-point-socket-set-12-piece-model-49-66-7006",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1404,
+      "title": "Kreg Accu-Cut Circular Saw Track Guide (KMA2700)",
+      "hammer_total": 29.3,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/562992-kreg-adaptive-cutting-system-accu-cut-circular-saw-track-guide-kma2700",
+      "photo_url": null
+     }
+    ],
+    "2****3": [
+     {
+      "lot_number": 99,
+      "title": "Milwaukee 25 ft. Wide Blade Tape Measure dup",
+      "hammer_total": 8.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****8": [
+     {
+      "lot_number": 114,
+      "title": "DEWALT 20V MAX 1-1/2 in. Cordless Pruner (Tool Only) DCPR320B",
+      "hammer_total": 45.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 928,
+      "title": "DeWalt Atomic 55-ft. Pocket Laser Distance Measurer (DW055PL)",
+      "hammer_total": 23.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****3": [
+     {
+      "lot_number": 141,
+      "title": "Husky 2-Ton Hydraulic Trolley Floor Jack",
+      "hammer_total": 21.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 211,
+      "title": "Dewalt XR Brushless 21deg Plastic Collated Framing Nailer Tool Only",
+      "hammer_total": 131.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 214,
+      "title": "Dewalt Atomic Compact Brushless Multi Head Drill/Driver",
+      "hammer_total": 80.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 216,
+      "title": "Ryobi 8amp Electric Jet Fan Blower",
+      "hammer_total": 19.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 484,
+      "title": "DEWALT Atomic Compact 16 ft. Tape Measure (DWHT38116S)",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 1445,
+      "title": "Milwaukee M18/M12 Wireless Jobsite Speaker (2891-20)",
+      "hammer_total": 52.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/562951-milwaukee-m18-m12-wireless-jobsite-speaker-2891-20",
+      "photo_url": null
+     },
+     {
+      "lot_number": 1452,
+      "title": "DEWALT ATOMIC Compact 25 ft. Tape Measure",
+      "hammer_total": 6.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/562944-dewalt-atomic-compact-series-25-ft-tape-measure",
+      "photo_url": null
+     }
+    ],
+    "4****6": [
+     {
+      "lot_number": 157,
+      "title": "Teks #12 x 1 In. Hex Washer Head Self-Drilling Roofing Screws (400-Count)",
+      "hammer_total": 15.3,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****6": [
+     {
+      "lot_number": 204,
+      "title": "Milwaukee M18 FUEL 1/4 in. Hex Impact Driver (Tool Only) 2953-20 (37 bids, hot)",
+      "hammer_total": 60.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 209,
+      "title": "Makita 36V LXT Brushless 16 in. Chain Saw Kit",
+      "hammer_total": 138.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****8": [
+     {
+      "lot_number": 205,
+      "title": "Dewalt Lithium Ion Battery 2pk 20v",
+      "hammer_total": 49.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 481,
+      "title": "Milwaukee 27-in-1 Ratcheting Multi-Bit Screwdriver (48-22-2904)",
+      "hammer_total": 25.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "5****7": [
+     {
+      "lot_number": 248,
+      "title": "Rigid 6 gallon wet/dry vac",
+      "hammer_total": 29.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 408,
+      "title": "Milwaukee Junior Elite Convertible Hand Truck",
+      "hammer_total": 30.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****7": [
+     {
+      "lot_number": 276,
+      "title": "HDX Yellow & Black 27gal Tote (x4) dup",
+      "hammer_total": 28.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 967,
+      "title": "FastenMaster TimberLOK 6 in. wood screws",
+      "hammer_total": 18.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 1225,
+      "title": "HDX 27 Gal. Tough Storage Tote w/ Wheels and Handle",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563169-hdx-27-gal-tough-storage-tote-with-wheels-and-handle-in-black-and-yellow",
+      "photo_url": null
+     }
+    ],
+    "1****8": [
+     {
+      "lot_number": 420,
+      "title": "Milwaukee 8-Pc HOLE DOZER Bi-Metal Hole Saw Kit (49-22-4019)",
+      "hammer_total": 20.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 480,
+      "title": "SDS Max Carbide Tipped Masonry Rotary Hammer Drill Bit (x2)",
+      "hammer_total": 30.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****9": [
+     {
+      "lot_number": 493,
+      "title": "Milwaukee 30ft. Wide Blade Tape Measure (48-22-0230)",
+      "hammer_total": 9.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****0": [
+     {
+      "lot_number": 494,
+      "title": "Crescent 16 in. Tongue and Groove Pliers (RT216CVN-06)",
+      "hammer_total": 15.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "3****5": [
+     {
+      "lot_number": 500,
+      "title": "Master Lock Magnum Hidden Shackle Padlock w/ Hasp (M736XKAD)",
+      "hammer_total": 13.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 758,
+      "title": "Loctite Polyseamseal Tub & Tile Caulk Almond 5.5 oz (x2)",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 759,
+      "title": "Loctite caulk dup (x2)",
+      "hammer_total": 11.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 761,
+      "title": "Loctite caulk dup (x2)",
+      "hammer_total": 8.5,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 762,
+      "title": "Loctite caulk dup (x2)",
+      "hammer_total": 4.5,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "3****2": [
+     {
+      "lot_number": 524,
+      "title": "Milwaukee 10 in. Molding Puller (48-22-9033)",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 857,
+      "title": "MSI Sliced Pebble Marble Mosaic Tile 12x12 (x5 pieces)",
+      "hammer_total": 15.25,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****9": [
+     {
+      "lot_number": 527,
+      "title": "FastenMaster TimberLOK 8 in. Structural Wood Screws (50-Pack)",
+      "hammer_total": 10.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****7": [
+     {
+      "lot_number": 934,
+      "title": "DeWalt 3/4 in. Stud Finder DW0100",
+      "hammer_total": 5.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****2": [
+     {
+      "lot_number": 975,
+      "title": "DEWALT 25 ft. ATOMIC Compact Tape Measure w/ Finger Brake",
+      "hammer_total": 6.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****6": [
+     {
+      "lot_number": 1056,
+      "title": "Husky 2 Ton Trolley Jack dup of 141",
+      "hammer_total": 15.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563339-husky-2-ton-trolkey-jack-1014288485",
+      "photo_url": null
+     }
+    ],
+    "5****6": [
+     {
+      "lot_number": 1188,
+      "title": "RYOBI 40V HP Brushless 800 CFM WHISPER Blower Kit (battery+charger)",
+      "hammer_total": 77.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563208-ryobi-40v-hp-brushless-800-cfm-whisper-series-blower-kit-batterycharger-included-27900",
+      "photo_url": null
+     }
+    ],
+    "1****2": [
+     {
+      "lot_number": 1306,
+      "title": "RYOBI 40V 550 CFM Leaf Blower Kit (RY40LB01K)",
+      "hammer_total": 55.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/563090-ryobi-40v-120-mph-550-cfm-cordless-battery-leaf-blower-kit-model-ry40lb01k",
+      "photo_url": null
+     }
+    ],
+    "3****3": [
+     {
+      "lot_number": 1399,
+      "title": "RYOBI 18V ONE+ 3/8 in. Drill/Driver Kit",
+      "hammer_total": 22.38,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/562997-ryobi-18v-one-cordless-3-8-in-drill-driver-kit",
+      "photo_url": null
+     }
+    ],
+    "2****9": [
+     {
+      "lot_number": 1510,
+      "title": "RYOBI 18V ONE+ VORTEX Telescoping Power Scrubber Kit",
+      "hammer_total": 31.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1160/lot/562886-ryobi-18v-one-vortex-telescoping-power-scrubber-kit",
+      "photo_url": null
+     }
+    ]
+   }
+  },
+  {
+   "id": "1158",
+   "site": "Auction HUB Texas",
+   "name": "STATEWIDE AUCTIONEERS",
+   "closeDate": "2026-10-30",
+   "location": "1612 Bruce Way, Seagoville, TX 75159",
+   "lots": [
+    {
+     "lot_number": "110",
+     "title": "Eagle One All Wheel & Tire Cleaner 23 oz",
+     "outcome": "outbid",
+     "hammer_total": 16.5,
+     "hammer_per_unit": 2.75,
+     "winning_bidder": "1****5",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "111",
+     "title": "Eagle One PVD & Aluminum Wheel Cleaner 23 oz",
+     "outcome": "won",
+     "hammer_total": 4.5,
+     "hammer_per_unit": 0.75,
+     "winning_bidder": "3730",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "159",
+     "title": "Everbilt Electric Box Screws flat head slotted (250 PC)",
+     "outcome": "won",
+     "hammer_total": 3.0,
+     "hammer_per_unit": 0.5,
+     "winning_bidder": "3730",
+     "john_max": 10.5,
+     "lot_url": null
+    },
+    {
+     "lot_number": "194",
+     "title": "Winzer 8x1 Tek Screws 100 per box",
+     "outcome": "outbid",
+     "hammer_total": 20.0,
+     "hammer_per_unit": 2.0,
+     "winning_bidder": "1****8",
+     "john_max": 17.5,
+     "lot_url": null
+    },
+    {
+     "lot_number": "195",
+     "title": "Winzer 8x1 Tek Screws 100 per box",
+     "outcome": "won",
+     "hammer_total": 15.0,
+     "hammer_per_unit": 1.5,
+     "winning_bidder": "3730",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "196",
+     "title": "Winzer 8x1 Tek Screws 100 per box",
+     "outcome": "won",
+     "hammer_total": 12.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "3730",
+     "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "289",
+     "title": "RYOBI 18V Blower Kit w/ 2ah battery + charger",
+     "outcome": "outbid",
+     "hammer_total": 23.0,
+     "hammer_per_unit": 23.0,
+     "winning_bidder": "6****1",
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "290",
+     "title": "RYOBI 18V Blower Kit w/ 2ah battery + charger",
+     "outcome": "outbid",
+     "hammer_total": 24.0,
+     "hammer_per_unit": 24.0,
+     "winning_bidder": "6****1",
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "292",
+     "title": "RYOBI 40V Brushless 12 in. Chainsaw Kit w/ battery & charger",
+     "outcome": "won",
+     "hammer_total": 50.0,
+     "hammer_per_unit": 50.0,
+     "winning_bidder": "3730",
+     "john_max": 50.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "293",
+     "title": "RYOBI 40V Brushless 12 in. Chainsaw Kit tool only",
+     "outcome": "outbid",
+     "hammer_total": 42.0,
+     "hammer_per_unit": 42.0,
+     "winning_bidder": "6****1",
+     "john_max": 40.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "294",
+     "title": "RYOBI ONE 18V Blower w/ 2ah Battery & Charger",
+     "outcome": "outbid",
+     "hammer_total": 24.0,
+     "hammer_per_unit": 24.0,
+     "winning_bidder": "6****1",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "295",
+     "title": "RYOBI 40V Blower w/ charger",
+     "outcome": "outbid",
+     "hammer_total": 52.0,
+     "hammer_per_unit": 52.0,
+     "winning_bidder": "5****7",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "296",
+     "title": "RYOBI ONE 18V Blower w/ 2ah battery + charger",
+     "outcome": "outbid",
+     "hammer_total": 25.0,
+     "hammer_per_unit": 25.0,
+     "winning_bidder": "6****1",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "297",
+     "title": "RYOBI ONE 18V Blower w/ 2ah battery NO charger",
+     "outcome": "outbid",
+     "hammer_total": 28.0,
+     "hammer_per_unit": 28.0,
+     "winning_bidder": "5****2",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "298",
+     "title": "RYOBI 40V Blower tool & charger only",
+     "outcome": "won",
+     "hammer_total": 32.5,
+     "hammer_per_unit": 32.5,
+     "winning_bidder": "3730",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "461",
+     "title": "RYOBI 40V 4ah BATTERY",
+     "outcome": "outbid",
+     "hammer_total": 28.0,
+     "hammer_per_unit": 28.0,
+     "winning_bidder": "5****7",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "462",
+     "title": "RYOBI 40V 4ah BATTERY",
+     "outcome": "outbid",
+     "hammer_total": 27.25,
+     "hammer_per_unit": 27.25,
+     "winning_bidder": "4****7",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "509",
+     "title": "GOO GONE Graffiti Remover 24oz",
+     "outcome": "won",
+     "hammer_total": 20.0,
+     "hammer_per_unit": 5.0,
+     "winning_bidder": "3730",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "51",
+     "title": "Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp",
+     "outcome": "won",
+     "hammer_total": 12.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "3730",
+     "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "52",
+     "title": "Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp",
+     "outcome": "won",
+     "hammer_total": 12.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "3730",
+     "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "53",
+     "title": "B & K 1/2 in. Compression Coupling",
+     "outcome": "won",
+     "hammer_total": 12.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "3730",
+     "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "552",
+     "title": "11 LED Rechargeable Headlamp Waterproof",
+     "outcome": "outbid",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 4.25,
+     "winning_bidder": "6****2",
+     "john_max": 8.0,
+     "lot_url": null
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "6****1",
+     "lotsWon": 5,
+     "hammerTotal": 138.0
+    },
+    {
+     "bidder": "5****7",
+     "lotsWon": 2,
+     "hammerTotal": 80.0
+    },
+    {
+     "bidder": "5****2",
+     "lotsWon": 1,
+     "hammerTotal": 28.0
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 1,
+     "hammerTotal": 27.25
+    },
+    {
+     "bidder": "1****8",
+     "lotsWon": 1,
+     "hammerTotal": 20.0
+    },
+    {
+     "bidder": "1****5",
+     "lotsWon": 1,
+     "hammerTotal": 16.5
+    },
+    {
+     "bidder": "6****2",
+     "lotsWon": 1,
+     "hammerTotal": 8.5
+    }
+   ],
+   "bidderLots": {
+    "1****5": [
+     {
+      "lot_number": 110,
+      "title": "Eagle One All Wheel & Tire Cleaner 23 oz",
+      "hammer_total": 16.5,
+      "hammer_per_unit": 2.75,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564945-eagle-one-all-wheel-and-tire-cleaner-23-oz-foam-action",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/qp7vuDaYrsSaLPVrWo4t6A1W.jpeg"
+     }
+    ],
+    "1****8": [
+     {
+      "lot_number": 194,
+      "title": "Winzer 8x1 Tek Screws 100 per box",
+      "hammer_total": 20.0,
+      "hammer_per_unit": 2.0,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564861-winzer-8x1-milled-point-self-tapping-tek-screws-100-screws-per-box",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/0mCSZNqKp527pXKqW1ooGb95.jpeg"
+     }
+    ],
+    "6****1": [
+     {
+      "lot_number": 289,
+      "title": "RYOBI 18V Blower Kit w/ 2ah battery + charger",
+      "hammer_total": 23.0,
+      "hammer_per_unit": 23.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564766-ryobi-18v-blower-kit-includes-2ah-battery-and-charger-new-tested-working",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/iM1yIjIKR6VSw3C-9qDJ3sAL.jpeg"
+     },
+     {
+      "lot_number": 290,
+      "title": "RYOBI 18V Blower Kit w/ 2ah battery + charger",
+      "hammer_total": 24.0,
+      "hammer_per_unit": 24.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564765-ryobi-18v-blower-kit-includes-2ah-battery-and-charger-new-tested-working",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/534IhykhfL5P13CKSQ2tdwnp.jpeg"
+     },
+     {
+      "lot_number": 293,
+      "title": "RYOBI 40V Brushless 12 in. Chainsaw Kit tool only",
+      "hammer_total": 42.0,
+      "hammer_per_unit": 42.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564762-ryobi-40v-31cc-brushless-12-chainsaw-kit-no-battery-no-charger-tested-working",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/VNvGdZ0a4js8GR41ZjTgRqGZ.jpeg"
+     },
+     {
+      "lot_number": 294,
+      "title": "RYOBI ONE 18V Blower w/ 2ah Battery & Charger",
+      "hammer_total": 24.0,
+      "hammer_per_unit": 24.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564761-ryobi-one-18v-blower-includes-2ah-battery-and-charger-tested-working",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/N7tCJZePYewSJSwNi_vbuqvZ.jpeg"
+     },
+     {
+      "lot_number": 296,
+      "title": "RYOBI ONE 18V Blower w/ 2ah battery + charger",
+      "hammer_total": 25.0,
+      "hammer_per_unit": 25.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564759-ryobi-one-18v-blower-w-2ah-battery-and-charger-tested-working",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/KeeTY6moZ9xQ5tSPbSD4LbsV.jpeg"
+     }
+    ],
+    "5****7": [
+     {
+      "lot_number": 295,
+      "title": "RYOBI 40V Blower w/ charger",
+      "hammer_total": 52.0,
+      "hammer_per_unit": 52.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564760-ryobi-40v-blower-blower-and-charger-tested-working",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/O7IDpJIR00CSKi8nP7e3mgGT.jpeg"
+     },
+     {
+      "lot_number": 461,
+      "title": "RYOBI 40V 4ah BATTERY",
+      "hammer_total": 28.0,
+      "hammer_per_unit": 28.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564593-ryobi-40v-4ah-battery-good",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/KwvS5vn7_bCxRpavlPYyN0Id.jpeg"
+     }
+    ],
+    "5****2": [
+     {
+      "lot_number": 297,
+      "title": "RYOBI ONE 18V Blower w/ 2ah battery NO charger",
+      "hammer_total": 28.0,
+      "hammer_per_unit": 28.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564758-ryobi-one-18v-w-2ah-battery-no-charger-tested-working",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/mvmcLcnj1RIjiBQgpbf8tvzZ.jpeg"
+     }
+    ],
+    "4****7": [
+     {
+      "lot_number": 462,
+      "title": "RYOBI 40V 4ah BATTERY",
+      "hammer_total": 27.25,
+      "hammer_per_unit": 27.25,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564597-ryobi-40v-4ah-battery-tested-good",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/-UDFwab6rslE7EcJuva6axtE.jpeg"
+     }
+    ],
+    "6****2": [
+     {
+      "lot_number": 552,
+      "title": "11 LED Rechargeable Headlamp Waterproof",
+      "hammer_total": 8.5,
+      "hammer_per_unit": 4.25,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564503-11-led-rechargeable-headlamp-waterproof-super-bright-indoor-outdoor",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/oloKYu0ONyLSfqgWB63_PpUv.png"
      }
     ]
    }
