@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-10-31T12:45:00+00:00",
+ "generated_at": "2026-11-01T13:44:34+00:00",
  "sales": [
+  {
+   "saleId": 307,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "DeWalt DCB205-2CK 20V MAX XR 5Ah Starter Kit (2x 5Ah Batteries + Charger + Bag)",
+   "soldDate": "2026-10-31",
+   "gross": 120.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5241,
+     "description": "DeWalt DCB205-2CK 20V MAX XR 5Ah starter kit (2x 5Ah batteries + charger + bag) - shelf unit",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 306,
    "platform": "facebook",
