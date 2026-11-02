@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T13:44:37+00:00",
+ "generated_at": "2026-11-02T13:44:39+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -26232,10 +26232,10 @@
        "lotNumber": "581383959",
        "description": "031-Makita cordless router - XTR01Z #1",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 74.62,
        "allInCost": 74.62,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
