@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-01T13:44:34+00:00",
+ "generated_at": "2026-11-02T13:44:35+00:00",
  "sales": [
+  {
+   "saleId": 308,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Brushless Cordless Compact Router (Tool-Only) XTR01Z",
+   "soldDate": "2026-11-01",
+   "gross": 120.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 74.62,
+   "profit": 45.38,
+   "allocations": [
+    {
+     "itemId": 3865,
+     "description": "031-Makita cordless router - XTR01Z #1",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 307,
    "platform": "facebook",
