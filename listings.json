@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T13:44:13+00:00",
+ "generated_at": "2026-11-03T04:19:09+00:00",
  "listings": [
   {
    "listingId": "facebook:1790760412145334:5544",
@@ -617,19 +617,19 @@
    "costCents": null
   },
   {
-   "listingId": "facebook:1377070381264896",
+   "listingId": "facebook:1377070381264896:4450",
    "platform": "facebook",
    "platformLabel": "Facebook Marketplace",
    "title": "SeeSii CH12W-G is a 12-line 3D green self-leveling laser level kit",
    "url": "https://www.facebook.com/marketplace/item/1377070381264896",
    "listPrice": 65.0,
-   "listedDate": "2026-08-26",
-   "daysOnSite": 68,
+   "listedDate": "2026-11-02",
+   "daysOnSite": 0,
    "quantityListed": 1,
    "location": "DRE-T3-S4",
-   "description": "The SeeSii CH12W-G is a 12-line 3D green self-leveling laser level kit designed for layout, alignment, and construction tasks\n\nKey Features:\n\n360-Degree Projections: Projects crisp green laser lines across three 360-degree planes (horizontal and dual vertical lines) to cover entire rooms.\n\nSelf-Leveling Mode: Automatically levels within a 4-degree range and beeps if the unit is out of alignment.\n\nManual Mode: Holds down a button to turn off the self-leveling alarm so you can project angled lines for stairs or sloped surfaces.\n\nRemote Control: Includes a remote to toggle lines, adjust brightness, or rotate the unit without touching it.\n\nPower Supply: Operates on rechargeable lithium batteries, with two batteries typically included in the full kit. \n\nWhat's in the Box\"\n\nSeeSii CH12W-G 3D green laser level unit\n\nTwo rechargeable lithium batteries and charger\n\nMagnetic mounting bracket\n\nLifting base / table and mini tripod\n\nRemote control\n\nHard-shell carrying case\n\nSearch tags: laser level",
-   "itemId": null,
-   "costCents": null
+   "description": "SeeSii 12-line green laser level CH12W-G (level, 2 batteries, charger, wall bracket, rotating base, manual, zip case)",
+   "itemId": 4450,
+   "costCents": 2500
   },
   {
    "listingId": "facebook:2346099372823278",
@@ -1502,21 +1502,6 @@
    "costCents": null
   },
   {
-   "listingId": "facebook:1643953203920860:4046",
-   "platform": "facebook",
-   "platformLabel": "Facebook Marketplace",
-   "title": "SeeSii 40V 16-Inch Cordless Chainsaw: Brushless Electric Chain Saws with 4.0Ah Battery & Charger",
-   "url": "https://www.facebook.com/marketplace/item/1643953203920860",
-   "listPrice": 65.0,
-   "listedDate": "2026-09-01",
-   "daysOnSite": 62,
-   "quantityListed": 1,
-   "location": null,
-   "description": "Mini Chainsaw, 6-inch Mini Chainsaw Cordless, Handheld Electric Power Chain Saw with 2 Batteries, for Tree Trimming #2",
-   "itemId": 4046,
-   "costCents": 2121
-  },
-  {
    "listingId": "facebook:1090805630175240",
    "platform": "facebook",
    "platformLabel": "Facebook Marketplace",
@@ -1862,18 +1847,18 @@
    "costCents": null
   },
   {
-   "listingId": "facebook:1748931116155407",
+   "listingId": "facebook:1748931116155407:4955",
    "platform": "facebook",
    "platformLabel": "Facebook Marketplace",
    "title": "Leviton Branch Circuit Breaker, GFCI 1-Pole 20 Amp, 120-Volt, Thermal Magnetic LB120-GFR",
    "url": "https://www.facebook.com/marketplace/item/1748931116155407",
    "listPrice": 20.0,
-   "listedDate": "2026-08-09",
-   "daysOnSite": 85,
+   "listedDate": "2026-11-02",
+   "daysOnSite": 0,
    "quantityListed": 1,
-   "location": null,
-   "description": "Leviton GFCI branch circuit breaker, 1-pole 20 amp 120V, model LB120-GFR.\nPlug-on design for Leviton load centers.\nPickup in Plano.",
-   "itemId": null,
+   "location": "DRS-T2-S4",
+   "description": "Leviton LB120-GFR 20A 1-pole GFCI circuit breaker",
+   "itemId": 4955,
    "costCents": null
   },
   {
@@ -2147,18 +2132,18 @@
    "costCents": null
   },
   {
-   "listingId": "facebook:1833275108039211",
+   "listingId": "facebook:1833275108039211:5360",
    "platform": "facebook",
    "platformLabel": "Facebook Marketplace",
    "title": "GE NEW OEM General Electric Icemaker  WR30X35285",
    "url": "https://www.facebook.com/marketplace/item/1833275108039211",
    "listPrice": 60.0,
-   "listedDate": "2026-09-01",
-   "daysOnSite": 62,
+   "listedDate": "2026-11-02",
+   "daysOnSite": 0,
    "quantityListed": 1,
-   "location": null,
-   "description": "GE NEW OEM General Electric Icemaker  WR30X35285\n\nThis part works with the following models:\nManufacturer Part Number: WR30X35285\n\nGeneral Electric CFCP1NIXASS\nRefrigerator\n\nGeneral Electric CFCP1NIXBSS Refrigerator\n\nGeneral Electric CFCP1NIXCSS\nRefrigerator\n\nGeneral Electric CFCP1NIYASS\nRefrigerator\n\nGeneral Electric CFCP1NIYCSS\nRefrigerator\n\nGeneral Electric CFCP1NIYDSS\nRefrigerator\n\nGeneral Electric CFCP1NIZASS\nRefrigerator\n\nSearch tags: icemaker, ice maker, GE icemaker, refrigerator parts, WR30X35285, freezer ice maker, GE appliance parts, fridge parts",
-   "itemId": null,
+   "location": "DRS-T2-S1",
+   "description": "GE refrigerator ice maker, genuine replacement part WR30X35285",
+   "itemId": 5360,
    "costCents": null
   },
   {
@@ -3272,21 +3257,6 @@
    "costCents": null
   },
   {
-   "listingId": "facebook:1023609326973542:3910",
-   "platform": "facebook",
-   "platformLabel": "Facebook Marketplace",
-   "title": "Black Canyon Forstner Drill Bits, 14-Piece Set",
-   "url": "https://www.facebook.com/marketplace/item/1023609326973542",
-   "listPrice": 40.0,
-   "listedDate": "2026-08-09",
-   "daysOnSite": 85,
-   "quantityListed": 1,
-   "location": null,
-   "description": "Black Canyon 14-Piece Forstner Drill Bit Set \u2013 High-Strength 40CR Alloy, Flat-Bottom Hole Performance",
-   "itemId": 3910,
-   "costCents": 4000
-  },
-  {
    "listingId": "facebook:2555174404985336",
    "platform": "facebook",
    "platformLabel": "Facebook Marketplace",
@@ -3405,21 +3375,6 @@
    "description": "Milwaukee 7 Amp Corded 1/2 in. Corded Right-Angle Drill\n\nModel: 48-06-2871\n\nPowerful 7 Amp motor: Delivers trigger speed control in two ranges 0-335/0-750 RPM plus reverse\n\nHeavy-duty keyed chuck: Provides an industrial hold during drilling and fastening\n\nHead and handle that swivel 360 degree and can be tightly locked in position\n\nSide handles for a secure grip and comfortable, controlled operation\n\nUnrestricted access: head and handle swivel 360 degree\n\nBall and roller bearings for added longevity\n\n8 ft. 3-wire, grounded rubber QUIK-LOK cord that detaches easily for storage or service replacement\n\nVersatile: handles up to a 2-9/16 selfeed bit\n5-year warranty\nTorque: offers capacity in steel\nChuck type keyed\nChuck size 1/2 in.\n\nSearch tags: right angle drill, Milwaukee, corded drill, 1/2 inch drill, 48-06-2871, 7 amp drill, Hole Hawg drill, power drill\n\nItem location: DRW-T2-S3",
    "itemId": null,
    "costCents": null
-  },
-  {
-   "listingId": "facebook:1751932759173702:3470",
-   "platform": "facebook",
-   "platformLabel": "Facebook Marketplace",
-   "title": "Makita LXT 16 in. 18V X2 (36V) Lithium-Ion Brushless Battery Chain Saw (Tool Only)",
-   "url": "https://www.facebook.com/marketplace/item/1751932759173702",
-   "listPrice": 290.0,
-   "listedDate": "2026-08-16",
-   "daysOnSite": 78,
-   "quantityListed": 1,
-   "location": null,
-   "description": "MAKITA XCU04CM LXT 16 in. 18V X2 (36V) Lithium-Ion Brushless Battery Electric Chain Saw Kit (4.0Ah) FACTORY RECON 1YR WARRANTY #4",
-   "itemId": 3470,
-   "costCents": 18393
   },
   {
    "listingId": "facebook:1394750899271619:1128",
@@ -3557,18 +3512,18 @@
    "costCents": 5421
   },
   {
-   "listingId": "facebook:27868065626164832",
+   "listingId": "facebook:27868065626164832:4620",
    "platform": "facebook",
    "platformLabel": "Facebook Marketplace",
    "title": "Porter-Cable PN350 0 Degree Mini Palm Nailer - Used",
    "url": "https://www.facebook.com/marketplace/item/27868065626164832",
    "listPrice": 40.0,
-   "listedDate": "2026-07-27",
-   "daysOnSite": 98,
+   "listedDate": "2026-11-02",
+   "daysOnSite": 0,
    "quantityListed": 1,
-   "location": null,
-   "description": "Porter-Cable PN350 0 Degree Mini Impact Palm Nailer, used\n\nWeighs only 1 lb., half the size and weight of competitive models, for a comfortable fit in tool belts\n\nMagnetic nose with recessed nail slot holds nails stable for accurate fastener placement\n\nGreat for nailing in tight places where you can't swing a hammer\n\nFront exhaust redirects cold air away from user's hands\n\nFeatures a swivel male connector that limits the twisting of your air hose, offering greater ease of use",
-   "itemId": null,
+   "location": "DRE-T2-S3",
+   "description": "Porter-Cable PN350 mini impact palm nailer",
+   "itemId": 4620,
    "costCents": null
   },
   {
@@ -5312,18 +5267,18 @@
    "costCents": null
   },
   {
-   "listingId": "facebook:1054884083645533",
+   "listingId": "facebook:1054884083645533:5193",
    "platform": "facebook",
    "platformLabel": "Facebook Marketplace",
    "title": "Protective Industrial Products 267-HPF210C Ear Plugs,Disposable, Soft Polyurethane Foam, Corded,",
    "url": "https://www.facebook.com/marketplace/item/1054884083645533",
    "listPrice": 15.0,
-   "listedDate": "2026-07-27",
-   "daysOnSite": 98,
+   "listedDate": "2026-11-02",
+   "daysOnSite": 0,
    "quantityListed": 1,
-   "location": null,
-   "description": "Protective Industrial Products 267-HPF210C Ear Plugs,Disposable, Soft Polyurethane Foam, Corded, 100 pair per box.  2 unopened Boxes\n\nSearch tags: ear plugs, disposable ear plugs, PIP, 267-HPF210C, corded ear plugs, foam ear plugs, hearing protection, safety supplies",
-   "itemId": null,
+   "location": "DRS-T1-S4",
+   "description": "PIP Mega Bullet Corded Foam Ear Plugs, 100 pair box, NRR 32 (267-HPF210C)",
+   "itemId": 5193,
    "costCents": null
   },
   {
@@ -5460,21 +5415,6 @@
    "description": "",
    "itemId": null,
    "costCents": null
-  },
-  {
-   "listingId": "ebay:178510619076:350",
-   "platform": "ebay",
-   "platformLabel": "eBay",
-   "title": "2-Pack Glacier Peak Auto Open Compact Travel Umbrella Navy",
-   "url": "https://www.ebay.com/itm/178510619076",
-   "listPrice": 16.99,
-   "listedDate": "2026-09-26",
-   "daysOnSite": 37,
-   "quantityListed": 1,
-   "location": null,
-   "description": "umbrellas 60\u00d7$0.26=$15.60",
-   "itemId": 350,
-   "costCents": 1941
   },
   {
    "listingId": "ebay:178510571263",
@@ -5800,21 +5740,6 @@
    "listPrice": 19.0,
    "listedDate": "2026-02-11",
    "daysOnSite": 264,
-   "quantityListed": 1,
-   "location": null,
-   "description": "",
-   "itemId": null,
-   "costCents": null
-  },
-  {
-   "listingId": "ebay:178036503418",
-   "platform": "ebay",
-   "platformLabel": "eBay",
-   "title": "5-Pack Glacier Peak Auto Open Compact Travel Umbrella Navy \u2014 Telescopic",
-   "url": "https://www.ebay.com/itm/178036503418",
-   "listPrice": 29.99,
-   "listedDate": "2026-04-09",
-   "daysOnSite": 207,
    "quantityListed": 1,
    "location": null,
    "description": "",
@@ -6692,21 +6617,6 @@
    "costCents": 6348
   },
   {
-   "listingId": "offerup:533160d9-72f1-3b4e-82e7-d6ba235e31dd:3865",
-   "platform": "offerup",
-   "platformLabel": "OfferUp",
-   "title": "Makita 18V LXT Brushless Cordless Compact Router (Tool-Only) XTR01Z",
-   "url": "https://offerup.com/item/detail/533160d9-72f1-3b4e-82e7-d6ba235e31dd",
-   "listPrice": 150.0,
-   "listedDate": "2026-10-07",
-   "daysOnSite": 26,
-   "quantityListed": 1,
-   "location": "DRW-T1-S3",
-   "description": "031-Makita cordless router - XTR01Z #1",
-   "itemId": 3865,
-   "costCents": 7462
-  },
-  {
    "listingId": "offerup:67384875-b0a3-3f75-a7a9-e8dd06475af6:4269",
    "platform": "offerup",
    "platformLabel": "OfferUp",
@@ -6735,21 +6645,6 @@
    "description": "DALLAS LOCATION- NEW!- RYOBI 6800-Watt Recoil Start UL Gasoline Powered Portable Generator with CO Detect Shutdown Sensor",
    "itemId": 938,
    "costCents": 44849
-  },
-  {
-   "listingId": "facebook:2257669261719962:3383",
-   "platform": "facebook",
-   "platformLabel": "Facebook Marketplace",
-   "title": "Makita LXT 18V X2 (36V) Lithium-Ion Brushless Cordless String Trimmer (Tool-Only)",
-   "url": "https://www.facebook.com/marketplace/item/2257669261719962",
-   "listPrice": 300.0,
-   "listedDate": "2026-09-01",
-   "daysOnSite": 62,
-   "quantityListed": 1,
-   "location": null,
-   "description": "043-MAKITA XWT08Z 18V LXT Lithium-Ion Brushless Cordless High Torque 1/2 in. 3-Speed Drive Impact Wrench (Tool-Only) #3",
-   "itemId": 3383,
-   "costCents": 14618
   },
   {
    "listingId": "ebay:178519158202:45",
@@ -6812,21 +6707,6 @@
    "costCents": 0
   },
   {
-   "listingId": "facebook:2023368608361644:4484",
-   "platform": "facebook",
-   "platformLabel": "Facebook Marketplace",
-   "title": "Husky 22 in. Connect Rolling Toolbox - 3-piece rolling system (cart, tool box, organizer), model 230381",
-   "url": "https://www.facebook.com/marketplace/item/2023368608361644",
-   "listPrice": null,
-   "listedDate": "2026-09-22",
-   "daysOnSite": 41,
-   "quantityListed": 1,
-   "location": null,
-   "description": "Husky 22 in. Connect Rolling Toolbox - 3-piece rolling system (cart, tool box, organizer), model 230381",
-   "itemId": 4484,
-   "costCents": 6969
-  },
-  {
    "listingId": "ebay:178519730006:4485",
    "platform": "ebay",
    "platformLabel": "eBay",
@@ -6855,51 +6735,6 @@
    "description": "Stainless steel wire scratch brush w/ scraper, wood handle - box of 12 (x10 boxes = 120 pcs)",
    "itemId": 104,
    "costCents": 1058
-  },
-  {
-   "listingId": "ebay:178530319569:350",
-   "platform": "ebay",
-   "platformLabel": "eBay",
-   "title": "5-Pack Glacier Peak Auto Open Compact Travel Umbrella Navy",
-   "url": "https://www.ebay.com/itm/178530319569",
-   "listPrice": null,
-   "listedDate": "2026-09-26",
-   "daysOnSite": 37,
-   "quantityListed": 1,
-   "location": null,
-   "description": "umbrellas 60\u00d7$0.26=$15.60",
-   "itemId": 350,
-   "costCents": 1941
-  },
-  {
-   "listingId": "ebay:178530373732:350",
-   "platform": "ebay",
-   "platformLabel": "eBay",
-   "title": "2-Pack Glacier Peak Auto Open Compact Umbrella - Black Navy Burgundy",
-   "url": "https://www.ebay.com/itm/178530373732",
-   "listPrice": 16.99,
-   "listedDate": "2026-09-26",
-   "daysOnSite": 37,
-   "quantityListed": 18,
-   "location": null,
-   "description": "umbrellas 60\u00d7$0.26=$15.60",
-   "itemId": 350,
-   "costCents": 1941
-  },
-  {
-   "listingId": "ebay:178530403061:350",
-   "platform": "ebay",
-   "platformLabel": "eBay",
-   "title": "5-Pack Glacier Peak Auto Open Compact Umbrella - Black Navy Burgundy",
-   "url": "https://www.ebay.com/itm/178530403061",
-   "listPrice": 29.99,
-   "listedDate": "2026-09-26",
-   "daysOnSite": 37,
-   "quantityListed": 9,
-   "location": null,
-   "description": "umbrellas 60\u00d7$0.26=$15.60",
-   "itemId": 350,
-   "costCents": 1941
   },
   {
    "listingId": "ebay:178530443904:4497",
@@ -6974,21 +6809,6 @@
    "location": "DRW-T1-S5",
    "description": "Smartech Products TECH-50 Power Kit (500A jump starter + power bank + air pump + flashlight)",
    "itemId": 4501,
-   "costCents": null
-  },
-  {
-   "listingId": "facebook:1607214600853070:4502",
-   "platform": "facebook",
-   "platformLabel": "Facebook Marketplace",
-   "title": "PRICED TO MOVE - Ryobi 18V ONE+ LED Spotlight 3000 Lumens (Tool Only)",
-   "url": "https://www.facebook.com/marketplace/item/1607214600853070",
-   "listPrice": 25.0,
-   "listedDate": "2026-09-27",
-   "daysOnSite": 36,
-   "quantityListed": 1,
-   "location": "DRW-T1-S4",
-   "description": "Ryobi 18V ONE+ LED Spotlight 3000 Lumens PCL661 (Tool Only)",
-   "itemId": 4502,
    "costCents": null
   },
   {
