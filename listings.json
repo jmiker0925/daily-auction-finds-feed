@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T16:57:28+00:00",
+ "generated_at": "2026-11-03T19:34:40+00:00",
  "listings": [
   {
    "listingId": "facebook:1790760412145334:5544",
@@ -596,7 +596,7 @@
    "listedDate": "2026-09-01",
    "daysOnSite": 63,
    "quantityListed": 1,
-   "location": null,
+   "location": "DRS-T1-S4",
    "description": "Goodman Liquid Propane Gas Conversion Kit LPM-08\n\nLPM-08 Furnace Natural Gas To Liquid Propane Gas Conversion Kit - for Goodman Amana Heating & Cooling Parts LPM08 - Two-Stage Combination Gas Valve \ufeffEnhance the reliability and safety of your gas systems with our precision-engineered valves designed for rigorous performance across residential and industrial applications. \n\nConstructed from high-grade alloys, these gas valves resist thermal fatigue, maintaining structural integrity in extreme environments from household water heaters to factory boilers. \n\nFeaturing advanced flow dynamics, the internal mechanism ensures precise gas regulation with minimal pressure drop, supporting efficient fuel delivery for HVAC systems, commercial stoves, and outdoor heating units. The smooth-operating brass spindle and reinforced seals reduce wear over time, preventing leaks and ensuring consistent operation even under continuous high-pressure conditions. \n\nIdeal for integration with natural gas or pro",
    "itemId": null,
    "costCents": null
@@ -776,8 +776,8 @@
    "listedDate": "2026-08-12",
    "daysOnSite": 83,
    "quantityListed": 1,
-   "location": null,
-   "description": "Titan 35 Plus 5 MFD, 440-Volt/370-Volt Dual Voltage Round Run Capacitor\n\nModel: PRCFD353A\n\nReliable-60,000-hours operational life\n\nFlexible titan hd 440/370 dual volt design reduces inventory by replacing both 440-volt and 370-volt capacitors\n\nCompliant-built to toughest international standards for ac motor run capacitors including eia-456-a and iec 60252-1: 2001\n\nReinforced-heavy-edged metalized polypropylene film is used for dielectric\n\nHigh temp-rated to 70\u00b0c\n\nSearch tags: run capacitor, motor capacitor, AC capacitor, dual capacitor, Titan, HVAC capacitor, 35/5 capacitor, air conditioner parts",
+   "location": "DRW-T3-S3",
+   "description": "Titan 35 Plus 5 MFD, 440-Volt/370-Volt Dual Voltage Round Run Capacitor\n\nModel: PRCFD353A\n\nReliable-60,000-hours operational life\n\nFlexible titan hd 440/370 dual volt design reduces inventory by replacing both 440-volt and 370-volt capacitors\n\nCompliant-built to toughest international standards for ac motor run capacitors including eia-456-a and iec 60252-1: 2001\n\nReinforced-heavy-edged metalized polypropylene film is used for dielectric\n\nHigh temp-rated to 70\u00b0c\n\nSearch tags: run capacitor, motor capacitor, AC capacitor, dual capacitor, Titan, HVAC capacitor, 35/5 capacitor, air conditioner parts\n\nItem location: DRW-T3-S3",
    "itemId": null,
    "costCents": null
   },
@@ -3317,21 +3317,6 @@
    "costCents": null
   },
   {
-   "listingId": "facebook:1039109345545522:3497",
-   "platform": "facebook",
-   "platformLabel": "Facebook Marketplace",
-   "title": "Makita 18V LXT Sub-Compact Brushless Cordless 3/8 in. Sq. Drive Impact Wrench (Tool Only)",
-   "url": "https://www.facebook.com/marketplace/item/1039109345545522",
-   "listPrice": 100.0,
-   "listedDate": "2026-08-16",
-   "daysOnSite": 79,
-   "quantityListed": 1,
-   "location": "DRW-T2-S4",
-   "description": "40 - Makita 3/8 cordless impact Brushless Sub-Compact-XWT12ZB #2",
-   "itemId": 3497,
-   "costCents": 6221
-  },
-  {
    "listingId": "facebook:2207616463144962",
    "platform": "facebook",
    "platformLabel": "Facebook Marketplace",
@@ -4410,21 +4395,6 @@
    "description": "13 - Hilti 1/2 in. x 6 in. Kwik Bolt TZ2-Carbon Steel Zinc Plated Concrete Wedge Anchor\n\nModel: 387517\n\nSeismic tested in accordance with ACI 355.2 and ICC-ES AC 193\n\nUltimate tension and shear performance for seismic relevant applications as well as cracked concrete (tension zone)\n\nPer ICC-ES, compliant for use with Hilti Adaptive Torque (AT) module for mechanical safeset\n\nSmall minimum edge distance and spacing for maximum design flexibility\n\nApplications include fastening structural steel, facades, electrical and mechanical equipment, hand rails and racks\n\nDrilling method (AS): hammer drilling, hollow drill bit drilling, diamond drilling\n\nSearch tags: wedge anchors, Hilti, concrete anchors, Kwik Bolt TZ2, 1/2 anchors, 387517, seismic anchors, masonry anchors",
    "itemId": null,
    "costCents": null
-  },
-  {
-   "listingId": "facebook:1054369110409365:4455",
-   "platform": "facebook",
-   "platformLabel": "Facebook Marketplace",
-   "title": "Ryobi ONE+ HP 18V Brushless Cordless 4-Mode 1/2 in. High Torque Impact Wrench (Tool Only)",
-   "url": "https://www.facebook.com/marketplace/item/1054369110409365",
-   "listPrice": 150.0,
-   "listedDate": "2026-09-27",
-   "daysOnSite": 37,
-   "quantityListed": 1,
-   "location": "DRW-T1-S4",
-   "description": "Ryobi 18v High Torque 1/2\" Impact",
-   "itemId": 4455,
-   "costCents": 10975
   },
   {
    "listingId": "facebook:4528656407462597",
