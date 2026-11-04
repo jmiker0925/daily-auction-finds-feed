@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T13:44:13+00:00",
+ "generated_at": "2026-11-04T13:45:24+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -172,7 +172,7 @@
       {
        "itemId": 4991,
        "lotNumber": "315",
-       "description": "315 Ryobi 40v One+ 250cfm Blower Kit 450cfm 1007573600 $54.00",
+       "description": "Ryobi 40V Blower, 450 CFM / 120 MPH, with Battery and Charger Kit (RY404012VNM)",
        "quantity": 1,
        "quantitySold": 0,
        "hammer": 54.0,
@@ -12662,10 +12662,10 @@
        "lotNumber": "1234223321",
        "description": "Ryobi 18v High Torque 1/2\" Impact",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 109.75,
        "allInCost": 109.75,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
@@ -34696,10 +34696,10 @@
        "lotNumber": "492413699",
        "description": "40 - Makita 3/8 cordless impact Brushless Sub-Compact-XWT12ZB #2",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 62.21,
        "allInCost": 62.21,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
