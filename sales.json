@@ -1,6 +1,44 @@
 {
- "generated_at": "2026-11-03T13:44:12+00:00",
+ "generated_at": "2026-11-04T13:45:20+00:00",
  "sales": [
+  {
+   "saleId": 310,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V LXT Sub-Compact Brushless Cordless 3/8 in. Sq. Drive Impact Wrench (Tool Only)",
+   "soldDate": "2026-11-03",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 62.21,
+   "profit": 37.79,
+   "allocations": [
+    {
+     "itemId": 3497,
+     "description": "40 - Makita 3/8 cordless impact Brushless Sub-Compact-XWT12ZB #2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 309,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi ONE+ HP 18V Brushless Cordless 4-Mode 1/2 in. High Torque Impact Wrench (Tool Only)",
+   "soldDate": "2026-11-03",
+   "gross": 140.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 109.75,
+   "profit": 30.25,
+   "allocations": [
+    {
+     "itemId": 4455,
+     "description": "Ryobi 18v High Torque 1/2\" Impact",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 308,
    "platform": "facebook",
