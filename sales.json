@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-04T13:45:20+00:00",
+ "generated_at": "2026-11-05T13:45:35+00:00",
  "sales": [
+  {
+   "saleId": 311,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Smartech Vehicle Jump Starter and Power Bank with Accessories + Air Compressor + Carrying Case",
+   "soldDate": "2026-11-04",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 4501,
+     "description": "Smartech Products TECH-50 Power Kit (500A jump starter + power bank + air pump + flashlight)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 310,
    "platform": "facebook",
