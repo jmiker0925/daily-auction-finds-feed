@@ -1,10 +1,1219 @@
 {
- "generated_at": "2026-11-05T13:45:38+00:00",
+ "generated_at": "2026-11-06T13:44:30+00:00",
  "sites": [
   {
    "site": "auctionhub",
    "siteLabel": "Auction HUB",
    "invoices": [
+    {
+     "invoiceId": 4136,
+     "invoiceRef": "1158-3730-1",
+     "purchaseDate": "2026-10-30",
+     "auctionName": "STATEWIDE AUCTIONEERS (Auction 1158)",
+     "seller": null,
+     "subtotal": 173.0,
+     "premium": 25.95,
+     "tax": 16.41,
+     "total": 215.36,
+     "items": [
+      {
+       "itemId": 5642,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5643,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5644,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5645,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5646,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5647,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5648,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5649,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5650,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5651,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5652,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5653,
+       "lotNumber": "51",
+       "description": "51 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5654,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5655,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5656,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5657,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5658,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5659,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5660,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5661,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5662,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5663,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5664,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5665,
+       "lotNumber": "52",
+       "description": "52 Homeworks Straight shut off valve 1/2 NOM Comp x 3/8 OD Comp $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5666,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5667,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5668,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5669,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5670,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5671,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5672,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5673,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5674,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5675,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5676,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5677,
+       "lotNumber": "53",
+       "description": "53 B & K 1/2 in. Compression Coupling $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5678,
+       "lotNumber": "111",
+       "description": "111 Eagle One PVD & Aluminum Wheel Cleaner 23 oz $0.75",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.75,
+       "allInCost": 0.93,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5679,
+       "lotNumber": "111",
+       "description": "111 Eagle One PVD & Aluminum Wheel Cleaner 23 oz $0.75",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.75,
+       "allInCost": 0.93,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5680,
+       "lotNumber": "111",
+       "description": "111 Eagle One PVD & Aluminum Wheel Cleaner 23 oz $0.75",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.75,
+       "allInCost": 0.93,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5681,
+       "lotNumber": "111",
+       "description": "111 Eagle One PVD & Aluminum Wheel Cleaner 23 oz $0.75",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.75,
+       "allInCost": 0.93,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5682,
+       "lotNumber": "111",
+       "description": "111 Eagle One PVD & Aluminum Wheel Cleaner 23 oz $0.75",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.75,
+       "allInCost": 0.93,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5683,
+       "lotNumber": "111",
+       "description": "111 Eagle One PVD & Aluminum Wheel Cleaner 23 oz $0.75",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.75,
+       "allInCost": 0.93,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5684,
+       "lotNumber": "159",
+       "description": "159 Everbilt Electric Box Screws flat head slotted (250 PC) $0.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.5,
+       "allInCost": 0.62,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5685,
+       "lotNumber": "159",
+       "description": "159 Everbilt Electric Box Screws flat head slotted (250 PC) $0.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.5,
+       "allInCost": 0.62,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5686,
+       "lotNumber": "159",
+       "description": "159 Everbilt Electric Box Screws flat head slotted (250 PC) $0.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.5,
+       "allInCost": 0.62,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5687,
+       "lotNumber": "159",
+       "description": "159 Everbilt Electric Box Screws flat head slotted (250 PC) $0.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.5,
+       "allInCost": 0.62,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5688,
+       "lotNumber": "159",
+       "description": "159 Everbilt Electric Box Screws flat head slotted (250 PC) $0.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.5,
+       "allInCost": 0.62,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5689,
+       "lotNumber": "159",
+       "description": "159 Everbilt Electric Box Screws flat head slotted (250 PC) $0.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 0.5,
+       "allInCost": 0.62,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5690,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5691,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5692,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5693,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5694,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5695,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5696,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5697,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5698,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5699,
+       "lotNumber": "195",
+       "description": "195 Winzer 8x1 Tek Screws 100 per box $1.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.5,
+       "allInCost": 1.87,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5700,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5701,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5702,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5703,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5704,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5705,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5706,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5707,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5708,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5709,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5710,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5711,
+       "lotNumber": "196",
+       "description": "196 Winzer 8x1 Tek Screws 100 per box $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5712,
+       "lotNumber": "509",
+       "description": "509 GOO GONE Graffiti Remover 24oz $5.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 5.0,
+       "allInCost": 6.22,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5713,
+       "lotNumber": "509",
+       "description": "509 GOO GONE Graffiti Remover 24oz $5.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 5.0,
+       "allInCost": 6.22,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5714,
+       "lotNumber": "509",
+       "description": "509 GOO GONE Graffiti Remover 24oz $5.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 5.0,
+       "allInCost": 6.22,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5715,
+       "lotNumber": "509",
+       "description": "509 GOO GONE Graffiti Remover 24oz $5.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 5.0,
+       "allInCost": 6.22,
+       "status": "in_stock"
+      }
+     ]
+    },
+    {
+     "invoiceId": 4137,
+     "invoiceRef": "1160-3730-1",
+     "purchaseDate": "2026-10-29",
+     "auctionName": "ASSET RECOVERY (Auction 1160)",
+     "seller": null,
+     "subtotal": 979.8,
+     "premium": 146.97,
+     "tax": 92.95,
+     "total": 1219.72,
+     "items": [
+      {
+       "itemId": 5716,
+       "lotNumber": "9",
+       "description": "9 DEWALT Fiberglass Handle Digging Shovel $9.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 9.0,
+       "allInCost": 11.2,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5717,
+       "lotNumber": "85",
+       "description": "85 Zircon StudSensor HD70 OneStep Stud Finder $8.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 8.0,
+       "allInCost": 9.96,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5718,
+       "lotNumber": "85",
+       "description": "85 Zircon StudSensor HD70 OneStep Stud Finder $8.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 8.0,
+       "allInCost": 9.96,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5719,
+       "lotNumber": "91",
+       "description": "91 Milwaukee 1-1/2-Inch Hole Dozer Bi-Metal Hole Saw w/ Arbor (49-56-9665) $5.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 5.0,
+       "allInCost": 6.22,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5720,
+       "lotNumber": "98",
+       "description": "98 Milwaukee 25 ft. Wide Blade Tape Measure $8.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 8.0,
+       "allInCost": 9.96,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5721,
+       "lotNumber": "140",
+       "description": "140 Milwaukee 25 ft. Wide Blade Magnetic Tape Measure $7.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 7.5,
+       "allInCost": 9.34,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5722,
+       "lotNumber": "201",
+       "description": "201 DeWalt ToughSystem 2.0 3-Drawer Tool Box (DWST08330) $50.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 50.0,
+       "allInCost": 62.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5723,
+       "lotNumber": "394",
+       "description": "394 ProPlus Pressure Switch 30-50 psi (522044) (50 Pack) $21.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 21.0,
+       "allInCost": 26.14,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5724,
+       "lotNumber": "395",
+       "description": "395 ProPlus Pressure Switch 30-50 psi (522044) (50 Pack) $21.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 21.0,
+       "allInCost": 26.14,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5725,
+       "lotNumber": "396",
+       "description": "396 ProPlus Pressure Switch 30-50 psi (522044) (50 Pack) $21.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 21.0,
+       "allInCost": 26.14,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5726,
+       "lotNumber": "397",
+       "description": "397 ProPlus Pressure Switch 30-50 psi (522044) (50 Pack) $21.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 21.0,
+       "allInCost": 26.14,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5727,
+       "lotNumber": "398",
+       "description": "398 ProPlus Pressure Switch 30-50 psi (522044) (50 Pack) $21.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 21.0,
+       "allInCost": 26.14,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5728,
+       "lotNumber": "475",
+       "description": "475 Milwaukee 32-7/8 in. 18 TPI Compact Bi-Metal Band Saw Blade (3-Pack) $7.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 7.0,
+       "allInCost": 8.71,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5729,
+       "lotNumber": "478",
+       "description": "478 Milwaukee 25 ft. Wide Blade Tape Measure $9.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 9.0,
+       "allInCost": 11.2,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5730,
+       "lotNumber": "508",
+       "description": "508 Milwaukee 44-7/8 in. Deep Cut Band Saw Blades (2-Pack) $5.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 5.0,
+       "allInCost": 6.22,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5731,
+       "lotNumber": "638",
+       "description": "638 Milwaukee M18 TOP-OFF 175W Power Supply & Charger (2847-20) $45.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 45.0,
+       "allInCost": 56.02,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5732,
+       "lotNumber": "921",
+       "description": "921 Rain Bird 3/4 in. Anti-Siphon Irrigation Valve w/ Flow Control (DASASVF075) $4.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 4.0,
+       "allInCost": 4.98,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5733,
+       "lotNumber": "1189",
+       "description": "1189 Forged Steel Sledge Hammer w/ Wood Handle $8.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 8.0,
+       "allInCost": 9.96,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5734,
+       "lotNumber": "1314",
+       "description": "1314 Milwaukee 25 ft. Magnetic Tape Measure $8.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 8.5,
+       "allInCost": 10.58,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5735,
+       "lotNumber": "1315",
+       "description": "1315 Milwaukee 35 ft. Wide Blade Tape Measure $8.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 8.5,
+       "allInCost": 10.58,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5736,
+       "lotNumber": "1316",
+       "description": "1316 Milwaukee SDS-Max carbide rotary hammer core bit $31.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 31.0,
+       "allInCost": 38.59,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5737,
+       "lotNumber": "1332",
+       "description": "1332 Milwaukee 1-1/8 in. One-Piece Carbide Hole Cutter $8.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 8.5,
+       "allInCost": 10.58,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5738,
+       "lotNumber": "1348",
+       "description": "1348 Milwaukee Hole Dozer Carbide Teeth hole saw kit $25.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 25.0,
+       "allInCost": 31.12,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5739,
+       "lotNumber": "1355",
+       "description": "1355 Milwaukee 25ft Tape Measure $5.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 5.0,
+       "allInCost": 6.22,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5740,
+       "lotNumber": "1355",
+       "description": "1355 Milwaukee 25ft Tape Measure $5.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 5.0,
+       "allInCost": 6.22,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5741,
+       "lotNumber": "1381",
+       "description": "1381 Makita DHP486 18V LXT Brushless Hammer Driver-Drill $31.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 31.0,
+       "allInCost": 38.59,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5742,
+       "lotNumber": "1400",
+       "description": "1400 FastenMaster LedgerLOK 5 in. Structural Wood Screws (50-Count) $7.05",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 7.05,
+       "allInCost": 8.78,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5743,
+       "lotNumber": "1403",
+       "description": "1403 RYOBI LINK 2-Drawer Tool Box $28.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 28.0,
+       "allInCost": 34.86,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5744,
+       "lotNumber": "1403",
+       "description": "1403 RYOBI LINK 2-Drawer Tool Box $28.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 28.0,
+       "allInCost": 34.86,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5745,
+       "lotNumber": "1403",
+       "description": "1403 RYOBI LINK 2-Drawer Tool Box $28.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 28.0,
+       "allInCost": 34.86,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5746,
+       "lotNumber": "1406",
+       "description": "1406 Milwaukee 35-3/8 in. Band Saw Blade 3-Pack $9.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 9.0,
+       "allInCost": 11.2,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5747,
+       "lotNumber": "1406",
+       "description": "1406 Milwaukee 35-3/8 in. Band Saw Blade 3-Pack $9.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 9.0,
+       "allInCost": 11.2,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5748,
+       "lotNumber": "1458",
+       "description": "1458 Orbit 1 in. NPT Green Jar Top Valve $2.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 2.5,
+       "allInCost": 3.11,
+       "status": "in_stock"
+      }
+     ]
+    },
+    {
+     "invoiceId": 4135,
+     "invoiceRef": "26oct2L-3730-1",
+     "purchaseDate": "2026-10-23",
+     "auctionName": "Auction HUB Texas (Auction 1156)",
+     "seller": null,
+     "subtotal": 310.47,
+     "premium": 46.58,
+     "tax": 29.44,
+     "total": 386.49,
+     "items": [
+      {
+       "itemId": 5632,
+       "lotNumber": "139",
+       "description": "139 Feit Electric 4.5W T8 Candelabra Base Led Light Bulb (4-Pack) $1.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 1.0,
+       "allInCost": 1.24,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5633,
+       "lotNumber": "316",
+       "description": "316 Rbrohant Wall Mounted Complete Shower System With Rough-In Valve (Rb0712) $31.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 31.0,
+       "allInCost": 38.59,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5634,
+       "lotNumber": "506",
+       "description": "506 Abccanopy Outdoor Pop-Up Canopy Tent (Aj13) 10X10 $26.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 26.0,
+       "allInCost": 32.36,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5635,
+       "lotNumber": "648",
+       "description": "648 3-Tier Metal Rolling Utility Cart With Lockable Wheels $14.50",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 14.5,
+       "allInCost": 18.06,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5636,
+       "lotNumber": "686",
+       "description": "686 10 Ft X 10 Ft Black Instant Pop Up Canopy Tent Central Lock-Series $29.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 29.0,
+       "allInCost": 36.1,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5637,
+       "lotNumber": "687",
+       "description": "687 10 Ft X 10 Ft Black Instant Pop Up Canopy Tent Central Lock-Series $26.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 26.0,
+       "allInCost": 32.36,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5638,
+       "lotNumber": "1007",
+       "description": "1007 Mastercanopy Pop Up Canopy Tent 10X10 Black With Roller Bag (Aj03) $55.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 55.0,
+       "allInCost": 68.47,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5639,
+       "lotNumber": "1025",
+       "description": "1025 Mastercanopy Pop Up Canopy Tent 10X10 Blue With Roller Bag (Aj03) $55.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 55.0,
+       "allInCost": 68.47,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5640,
+       "lotNumber": "1111",
+       "description": "1111 Bissell Multi-Surface Pet Formula With Febreze (8 Fl Oz) $6.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 6.0,
+       "allInCost": 7.47,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5641,
+       "lotNumber": "1112",
+       "description": "1112 Bissell Pro Oxy Spot & Stain Formula $7.00",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 7.0,
+       "allInCost": 8.72,
+       "status": "in_stock"
+      }
+     ]
+    },
     {
      "invoiceId": 3964,
      "invoiceRef": "WW-26-20-3730-1",
@@ -12040,9 +13249,9 @@
      ]
     }
    ],
-   "invoiceCount": 168,
-   "itemCount": 985,
-   "totalSpent": 53548.4
+   "invoiceCount": 171,
+   "itemCount": 1102,
+   "totalSpent": 55369.97
   },
   {
    "site": "whatnot",
