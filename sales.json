@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-06T13:44:30+00:00",
+ "generated_at": "2026-11-07T13:45:11+00:00",
  "sales": [
+  {
+   "saleId": 312,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Zircon MetalliScanner MT 7",
+   "soldDate": "2026-11-06",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5523,
+     "description": "Zircon MetalliScanner MT 7 Electronic Metal Locator (in aluminum case)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 311,
    "platform": "facebook",
