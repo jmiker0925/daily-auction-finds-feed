@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T07:43:42.881028-06:00",
+ "generatedAt": "2026-11-07T07:44:06.582442-06:00",
  "auctions": [
   {
    "id": "1130",
@@ -50331,6 +50331,369 @@
       "quantity": 2,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1158/lot/564503-11-led-rechargeable-headlamp-waterproof-super-bright-indoor-outdoor",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/oloKYu0ONyLSfqgWB63_PpUv.png"
+     }
+    ]
+   }
+  },
+  {
+   "id": "1163",
+   "site": "Auction HUB Texas",
+   "name": "Bullseye Bargains, Oak Cliff",
+   "closeDate": "2026-11-06",
+   "location": "Dallas, TX",
+   "lots": [
+    {
+     "lot_number": "1",
+     "title": "Ryobi 40V HP 21\" SP mower kit RY40HPLM01K2 (2x 6Ah + charger)",
+     "outcome": "outbid",
+     "hammer_total": 176.0,
+     "hammer_per_unit": 176.0,
+     "winning_bidder": "4****7",
+     "john_max": 150.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "104",
+     "title": "Milwaukee 25 ft wide blade magnetic tape",
+     "outcome": "outbid",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "1****5",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "105",
+     "title": "DeWalt Atomic 25 ft tape DWHT38125S",
+     "outcome": "removed",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "4****7",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "2",
+     "title": "Ryobi 40V Whisper 20\" air cannon fan RY40HF01B (bare)",
+     "outcome": "outbid",
+     "hammer_total": 60.0,
+     "hammer_per_unit": 60.0,
+     "winning_bidder": "3****5",
+     "john_max": 58.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "215",
+     "title": "Everbilt wire rope 5/16\" x 150 ft (809890)",
+     "outcome": "outbid",
+     "hammer_total": 12.25,
+     "hammer_per_unit": 12.25,
+     "winning_bidder": "5****7",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "216",
+     "title": "Everbilt wire rope 5/16\" x 150 ft (809890)",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "1****3",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "217",
+     "title": "Everbilt wire rope 5/16\" x 150 ft (809890)",
+     "outcome": "removed",
+     "hammer_total": 13.75,
+     "hammer_per_unit": 13.75,
+     "winning_bidder": "5****7",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "218",
+     "title": "Everbilt wire rope 5/16\" x 150 ft (809890)",
+     "outcome": "removed",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "1****3",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "26",
+     "title": "RIDGID 18V brushless brad nailer (bare)",
+     "outcome": "removed",
+     "hammer_total": 62.0,
+     "hammer_per_unit": 62.0,
+     "winning_bidder": "6****2",
+     "john_max": 58.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "28",
+     "title": "Milwaukee Hole Dozer 6\" hole saw 49-56-9656",
+     "outcome": "won",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "3730",
+     "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "29",
+     "title": "Milwaukee digital angle gauge 48-22-5602",
+     "outcome": "removed",
+     "hammer_total": 9.5,
+     "hammer_per_unit": 9.5,
+     "winning_bidder": "6****2",
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "3",
+     "title": "Ryobi 40V 1800W power station RYi1802BT",
+     "outcome": "won",
+     "hammer_total": 202.0,
+     "hammer_per_unit": 202.0,
+     "winning_bidder": "3730",
+     "john_max": 202.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "30",
+     "title": "Milwaukee 7\" Torque Lock pliers 48-22-3407",
+     "outcome": "removed",
+     "hammer_total": 6.5,
+     "hammer_per_unit": 6.5,
+     "winning_bidder": "1****8",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "54",
+     "title": "Black-coated heavy-duty long screws/rods, box",
+     "outcome": "removed",
+     "hammer_total": 7.5,
+     "hammer_per_unit": 7.5,
+     "winning_bidder": "1****1",
+     "john_max": 6.5,
+     "lot_url": null
+    },
+    {
+     "lot_number": "55",
+     "title": "Black-coated heavy-duty long screws/rods, box",
+     "outcome": "removed",
+     "hammer_total": 7.0,
+     "hammer_per_unit": 7.0,
+     "winning_bidder": "1****4",
+     "john_max": 6.5,
+     "lot_url": null
+    },
+    {
+     "lot_number": "56",
+     "title": "Black-coated heavy-duty long screws/rods, box",
+     "outcome": "won",
+     "hammer_total": 6.5,
+     "hammer_per_unit": 6.5,
+     "winning_bidder": "3730",
+     "john_max": 6.5,
+     "lot_url": null
+    },
+    {
+     "lot_number": "7",
+     "title": "DeWalt DCN920B framing nailer (bare)",
+     "outcome": "won",
+     "hammer_total": 172.0,
+     "hammer_per_unit": 172.0,
+     "winning_bidder": "3730",
+     "john_max": 180.0,
+     "lot_url": null
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "4****7",
+     "lotsWon": 2,
+     "hammerTotal": 184.5
+    },
+    {
+     "bidder": "6****2",
+     "lotsWon": 2,
+     "hammerTotal": 71.5
+    },
+    {
+     "bidder": "3****5",
+     "lotsWon": 1,
+     "hammerTotal": 60.0
+    },
+    {
+     "bidder": "5****7",
+     "lotsWon": 2,
+     "hammerTotal": 26.0
+    },
+    {
+     "bidder": "1****3",
+     "lotsWon": 2,
+     "hammerTotal": 21.5
+    },
+    {
+     "bidder": "1****5",
+     "lotsWon": 1,
+     "hammerTotal": 8.5
+    },
+    {
+     "bidder": "1****1",
+     "lotsWon": 1,
+     "hammerTotal": 7.5
+    },
+    {
+     "bidder": "1****4",
+     "lotsWon": 1,
+     "hammerTotal": 7.0
+    },
+    {
+     "bidder": "1****8",
+     "lotsWon": 1,
+     "hammerTotal": 6.5
+    }
+   ],
+   "bidderLots": {
+    "4****7": [
+     {
+      "lot_number": "1",
+      "title": "Ryobi 40V HP 21\" SP mower kit RY40HPLM01K2 (2x 6Ah + charger)",
+      "hammer_total": 176.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/565590-ryobi-40v-hp-brushless-21-in-cordless-battery-walk-behind-self-propelled-lawn-mower-kit-model-ry40hplm01k2-63900-at-home-depot",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/ndIuLByfFNgKzItaR1B4DIlP.jpeg"
+     },
+     {
+      "lot_number": "105",
+      "title": "DeWalt Atomic 25 ft tape DWHT38125S",
+      "hammer_total": 8.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/566017-dewalt-atomic-compact-series-25-ft-tape-measure-model-dwht38125s",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/Yf1879yJmKRLw8VWe7bNWooo.jpeg"
+     }
+    ],
+    "3****5": [
+     {
+      "lot_number": "2",
+      "title": "Ryobi 40V Whisper 20\" air cannon fan RY40HF01B (bare)",
+      "hammer_total": 60.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/565592-ryobi-40v-hp-brushless-cordless-hybrid-whisper-series-20-in-air-cannon-fan-model-ry40hf01b-24999",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/cK7NmhIXBoL3VvhjAeAN9hhP.jpeg"
+     }
+    ],
+    "6****2": [
+     {
+      "lot_number": "26",
+      "title": "RIDGID 18V brushless brad nailer (bare)",
+      "hammer_total": 62.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/566096-ridgid-18v-brushless-cordless-18-gauge-2-18-in-brad-nailer-tool-only-21900",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/HhvrW2ZIY3j2LfT1X1PUe0Zm.jpeg"
+     },
+     {
+      "lot_number": "29",
+      "title": "Milwaukee digital angle gauge 48-22-5602",
+      "hammer_total": 9.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/566093-milwaukee-digital-angle-gauge-model-48-22-5602-3999",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/rPP8dZMC0YJONoA3R2PCWfKC.jpeg"
+     }
+    ],
+    "1****8": [
+     {
+      "lot_number": "30",
+      "title": "Milwaukee 7\" Torque Lock pliers 48-22-3407",
+      "hammer_total": 6.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/566092-milwaukee-7-in-torque-lock-curved-jaw-locking-pliers-with-durable-grip-model-48-22-3407",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/Gy56ks86-LpNHEvG1aYNfOKa.jpeg"
+     }
+    ],
+    "1****1": [
+     {
+      "lot_number": "54",
+      "title": "Black-coated heavy-duty long screws/rods, box",
+      "hammer_total": 7.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/566068-black-coated-heavy-duty-long-screws-8999-a-box",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/1sOXkvSfVpqH5_nETKa5_BYA.jpeg"
+     }
+    ],
+    "1****4": [
+     {
+      "lot_number": "55",
+      "title": "Black-coated heavy-duty long screws/rods, box",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/566067-black-coated-heavy-duty-long-screws-8999-a-box",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/HITlpdpluhqfiCkbKD8IX1VA.jpeg"
+     }
+    ],
+    "1****5": [
+     {
+      "lot_number": "104",
+      "title": "Milwaukee 25 ft wide blade magnetic tape",
+      "hammer_total": 8.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/566018-milwaukee-25-ft-wide-blade-magnetic-tape-measure",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/9nxV8dTU9XA2jGLYSSCbHmEr.jpeg"
+     }
+    ],
+    "5****7": [
+     {
+      "lot_number": "215",
+      "title": "Everbilt wire rope 5/16\" x 150 ft (809890)",
+      "hammer_total": 12.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/565906-everbilt-vinyl-coated-wire-rope-516-in-x-150ft-galvanized-9900",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/rt77MjVNMywkzoLCJO2yJcIH.jpeg"
+     },
+     {
+      "lot_number": "217",
+      "title": "Everbilt wire rope 5/16\" x 150 ft (809890)",
+      "hammer_total": 13.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/565907-everbilt-vinyl-coated-wire-rope-516-in-x-150ft-galvanized-9900",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/KpFuKNqZwLczn1itSrpH3noo.jpeg"
+     }
+    ],
+    "1****3": [
+     {
+      "lot_number": "216",
+      "title": "Everbilt wire rope 5/16\" x 150 ft (809890)",
+      "hammer_total": 10.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/565905-everbilt-vinyl-coated-wire-rope-516-in-x-150ft-galvanized-9900",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/mRvc-ZVorwrngDiO5Ya5Oedv.jpeg"
+     },
+     {
+      "lot_number": "218",
+      "title": "Everbilt wire rope 5/16\" x 150 ft (809890)",
+      "hammer_total": 10.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1163/lot/565904-everbilt-vinyl-coated-wire-rope-516-in-x-150ft-galvanized-9900",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/_FJCTqRx0T1932xhUoFwCEHu.jpeg"
      }
     ]
    }
