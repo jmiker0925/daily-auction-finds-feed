@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="data:," />
+    <title>Sale Capture</title>
+    <style>
+      :root {
+        --bg: #ffffff;
+        --ink: #111111;
+        --panel: #f2f2f2;
+        --line: #444444;
+        --btn-bg: #1a5c1a;
+        --btn-ink: #ffffff;
+        --danger-bg: #8b1a1a;
+        --danger-ink: #ffffff;
+        --plain-bg: #ffffff;
+        --plain-ink: #111111;
+        --err: #8b1a1a;
+        --ok: #1a5c1a;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #161616;
+          --ink: #f5f5f5;
+          --panel: #242424;
+          --line: #999999;
+          --btn-bg: #2e7d2e;
+          --btn-ink: #ffffff;
+          --danger-bg: #a52a2a;
+          --danger-ink: #ffffff;
+          --plain-bg: #000000;
+          --plain-ink: #f5f5f5;
+          --err: #ff9a9a;
+          --ok: #9be29b;
+        }
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--ink);
+        font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+        font-size: 20px;
+        line-height: 1.4;
+      }
+      .wrap {
+        max-width: 640px;
+        margin: 0 auto;
+        padding: 16px 16px 40px 16px;
+      }
+      h1 {
+        font-size: 30px;
+        margin: 8px 0 4px 0;
+      }
+      .sub {
+        font-size: 18px;
+        margin: 0 0 20px 0;
+      }
+      label {
+        display: block;
+        font-weight: bold;
+        font-size: 20px;
+        margin: 18px 0 6px 0;
+      }
+      label .opt { font-weight: normal; font-size: 17px; }
+      input[type="text"] {
+        display: block;
+        width: 100%;
+        font-size: 26px;
+        padding: 16px 12px;
+        border: 2px solid var(--line);
+        border-radius: 4px;
+        background: var(--plain-bg);
+        color: var(--plain-ink);
+      }
+      input#tracker {
+        font-size: 32px;
+        font-weight: bold;
+      }
+      button {
+        font-family: inherit;
+        cursor: pointer;
+        border-radius: 4px;
+      }
+      #addBtn {
+        display: block;
+        width: 100%;
+        margin-top: 24px;
+        padding: 20px 12px;
+        font-size: 26px;
+        font-weight: bold;
+        background: var(--btn-bg);
+        color: var(--btn-ink);
+        border: 2px solid var(--btn-bg);
+      }
+      #msg {
+        min-height: 28px;
+        margin-top: 12px;
+        font-size: 19px;
+        font-weight: bold;
+      }
+      #msg.err { color: var(--err); }
+      #msg.ok { color: var(--ok); }
+      .totals {
+        margin-top: 28px;
+        padding: 14px 16px;
+        background: var(--panel);
+        border: 2px solid var(--line);
+        border-radius: 4px;
+        font-size: 24px;
+        font-weight: bold;
+      }
+      h2 {
+        font-size: 24px;
+        margin: 28px 0 10px 0;
+      }
+      ul#salesList {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      ul#salesList li {
+        border: 1px solid var(--line);
+        border-radius: 4px;
+        padding: 12px;
+        margin-bottom: 10px;
+        overflow: hidden;
+      }
+      ul#salesList li .line {
+        font-size: 22px;
+        font-weight: bold;
+        word-wrap: break-word;
+      }
+      ul#salesList li .buyer {
+        font-size: 19px;
+        font-weight: normal;
+      }
+      .removeBtn {
+        float: right;
+        font-size: 18px;
+        padding: 12px 16px;
+        margin-left: 10px;
+        background: var(--bg);
+        color: var(--err);
+        border: 2px solid var(--err);
+        font-weight: bold;
+      }
+      #emptyNote {
+        font-size: 20px;
+        padding: 12px 0;
+      }
+      .actions button {
+        display: block;
+        width: 100%;
+        padding: 18px 12px;
+        font-size: 22px;
+        font-weight: bold;
+        margin-top: 14px;
+      }
+      #copyBtn {
+        background: var(--btn-bg);
+        color: var(--btn-ink);
+        border: 2px solid var(--btn-bg);
+      }
+      #clearBtn {
+        background: var(--bg);
+        color: var(--err);
+        border: 2px solid var(--err);
+      }
+      #clearBtn.confirming {
+        background: var(--danger-bg);
+        color: var(--danger-ink);
+        border-color: var(--danger-bg);
+      }
+      textarea#plainText {
+        display: block;
+        width: 100%;
+        margin-top: 14px;
+        font-family: Menlo, Consolas, monospace;
+        font-size: 19px;
+        line-height: 1.5;
+        padding: 12px;
+        border: 2px solid var(--line);
+        border-radius: 4px;
+        background: var(--plain-bg);
+        color: var(--plain-ink);
+      }
+      .hint {
+        font-size: 17px;
+        margin-top: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <h1>Sale Capture</h1>
+      <p class="sub">Scan the item's barcode label, type the price, and tap Add sale.</p>
+
+      <label for="tracker">Tracker number</label>
+      <input type="text" id="tracker" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />
+
+      <label for="price">Price (dollars)</label>
+      <input type="text" id="price" inputmode="decimal" autocomplete="off" />
+
+      <label for="buyer">Buyer name <span class="opt">(optional)</span></label>
+      <input type="text" id="buyer" autocomplete="off" autocorrect="off" />
+
+      <button type="button" id="addBtn">Add sale</button>
+      <div id="msg" aria-live="polite"></div>
+
+      <div class="totals" id="totals">0 items — $0</div>
+
+      <h2>Sales</h2>
+      <p id="emptyNote">No sales yet.</p>
+      <ul id="salesList"></ul>
+
+      <div class="actions">
+        <button type="button" id="copyBtn">Copy the list</button>
+      </div>
+
+      <h2>List as plain text</h2>
+      <p class="hint">If Copy doesn't work, tap and hold in this box to select and copy it yourself.</p>
+      <textarea id="plainText" rows="8" readonly></textarea>
+
+      <div class="actions">
+        <button type="button" id="clearBtn">Clear all sales</button>
+      </div>
+    </div>
+
+    <script>
+      var STORAGE_KEY = "saleCaptureListV1";
+
+      var trackerEl = document.getElementById("tracker");
+      var priceEl = document.getElementById("price");
+      var buyerEl = document.getElementById("buyer");
+      var addBtn = document.getElementById("addBtn");
+      var msgEl = document.getElementById("msg");
+      var totalsEl = document.getElementById("totals");
+      var listEl = document.getElementById("salesList");
+      var emptyNoteEl = document.getElementById("emptyNote");
+      var copyBtn = document.getElementById("copyBtn");
+      var clearBtn = document.getElementById("clearBtn");
+      var plainTextEl = document.getElementById("plainText");
+
+      var sales = [];
+      var clearArmed = false;
+      var clearTimer = null;
+
+      function loadSales() {
+        try {
+          var raw = window.localStorage.getItem(STORAGE_KEY);
+          if (raw) {
+            var parsed = JSON.parse(raw);
+            if (parsed && typeof parsed.length === "number") {
+              sales = parsed;
+            }
+          }
+        } catch (e) {
+          sales = [];
+        }
+      }
+
+      function saveSales() {
+        try {
+          window.localStorage.setItem(STORAGE_KEY, JSON.stringify(sales));
+        } catch (e) {
+          showMsg("Could not save on this device — keep this page open.", true);
+        }
+      }
+
+      function formatMoney(n) {
+        var rounded = Math.round(n * 100) / 100;
+        if (rounded === Math.floor(rounded)) {
+          return "$" + rounded;
+        }
+        return "$" + rounded.toFixed(2);
+      }
+
+      function totalDollars() {
+        var t = 0;
+        for (var i = 0; i < sales.length; i++) {
+          t += sales[i].price;
+        }
+        return Math.round(t * 100) / 100;
+      }
+
+      function saleLine(s) {
+        var line = "#" + s.tracker + " \u2014 " + formatMoney(s.price);
+        if (s.buyer) {
+          line += " \u2014 " + s.buyer;
+        }
+        return line;
+      }
+
+      function buildPlainText() {
+        var lines = [];
+        for (var i = 0; i < sales.length; i++) {
+          lines.push(saleLine(sales[i]));
+        }
+        lines.push("Total: " + sales.length + (sales.length === 1 ? " item" : " items") + " \u2014 " + formatMoney(totalDollars()));
+        return lines.join("\n");
+      }
+
+      function render() {
+        // Clear the list
+        while (listEl.firstChild) {
+          listEl.removeChild(listEl.firstChild);
+        }
+        for (var i = 0; i < sales.length; i++) {
+          (function (index) {
+            var s = sales[index];
+            var li = document.createElement("li");
+
+            var btn = document.createElement("button");
+            btn.type = "button";
+            btn.className = "removeBtn";
+            btn.appendChild(document.createTextNode("Remove"));
+            btn.onclick = function () {
+              removeSale(index);
+            };
+            li.appendChild(btn);
+
+            var lineDiv = document.createElement("div");
+            lineDiv.className = "line";
+            lineDiv.appendChild(document.createTextNode("#" + s.tracker + " \u2014 " + formatMoney(s.price)));
+            if (s.buyer) {
+              var buyerSpan = document.createElement("span");
+              buyerSpan.className = "buyer";
+              buyerSpan.appendChild(document.createTextNode(" \u2014 " + s.buyer));
+              lineDiv.appendChild(buyerSpan);
+            }
+            li.appendChild(lineDiv);
+            listEl.appendChild(li);
+          })(i);
+        }
+        emptyNoteEl.style.display = sales.length === 0 ? "block" : "none";
+        totalsEl.innerHTML = "";
+        totalsEl.appendChild(document.createTextNode(
+          sales.length + (sales.length === 1 ? " item" : " items") + " \u2014 " + formatMoney(totalDollars()) + " total"
+        ));
+        plainTextEl.value = sales.length === 0 ? "" : buildPlainText();
+        disarmClear();
+      }
+
+      function showMsg(text, isErr) {
+        msgEl.innerHTML = "";
+        msgEl.appendChild(document.createTextNode(text));
+        msgEl.className = isErr ? "err" : "ok";
+      }
+
+      function addSale() {
+        var tracker = trackerEl.value.replace(/^\s+|\s+$/g, "");
+        var priceText = priceEl.value.replace(/^\s+|\s+$/g, "").replace(/^\$/, "");
+        var buyer = buyerEl.value.replace(/^\s+|\s+$/g, "");
+
+        if (!tracker) {
+          showMsg("Enter or scan a tracker number first.", true);
+          trackerEl.focus();
+          return;
+        }
+        var price = parseFloat(priceText);
+        if (priceText === "" || isNaN(price) || price < 0) {
+          showMsg("Enter the price in dollars, like 35 or 35.50.", true);
+          priceEl.focus();
+          return;
+        }
+        price = Math.round(price * 100) / 100;
+
+        sales.push({ tracker: tracker, price: price, buyer: buyer });
+        saveSales();
+        render();
+        showMsg("Added #" + tracker + " \u2014 " + formatMoney(price), false);
+
+        trackerEl.value = "";
+        priceEl.value = "";
+        buyerEl.value = "";
+        trackerEl.focus();
+      }
+
+      function removeSale(index) {
+        var removed = sales[index];
+        sales.splice(index, 1);
+        saveSales();
+        render();
+        showMsg("Removed #" + removed.tracker + ".", false);
+        trackerEl.focus();
+      }
+
+      function disarmClear() {
+        clearArmed = false;
+        if (clearTimer) {
+          clearTimeout(clearTimer);
+          clearTimer = null;
+        }
+        clearBtn.className = "";
+        clearBtn.innerHTML = "";
+        clearBtn.appendChild(document.createTextNode("Clear all sales"));
+      }
+
+      function onClearClick() {
+        if (sales.length === 0) {
+          showMsg("There are no sales to clear.", true);
+          return;
+        }
+        if (!clearArmed) {
+          clearArmed = true;
+          clearBtn.className = "confirming";
+          clearBtn.innerHTML = "";
+          clearBtn.appendChild(document.createTextNode("Tap again to clear ALL " + sales.length + " sales"));
+          showMsg("Tap the red button again to clear everything, or wait to cancel.", true);
+          clearTimer = setTimeout(disarmClear, 6000);
+          return;
+        }
+        sales = [];
+        saveSales();
+        render();
+        showMsg("All sales cleared.", false);
+        trackerEl.focus();
+      }
+
+      function onCopyClick() {
+        if (sales.length === 0) {
+          showMsg("There are no sales to copy yet.", true);
+          return;
+        }
+        var text = buildPlainText();
+        plainTextEl.value = text;
+
+        function done(ok) {
+          showMsg(ok ? "List copied — paste it into a chat message." : "Copy didn't work here — select the text in the box below and copy it.", !ok);
+        }
+
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(function () {
+            done(true);
+          }, function () {
+            fallbackCopy(done);
+          });
+        } else {
+          fallbackCopy(done);
+        }
+      }
+
+      function fallbackCopy(done) {
+        try {
+          plainTextEl.removeAttribute("readonly");
+          plainTextEl.select();
+          plainTextEl.setSelectionRange(0, plainTextEl.value.length);
+          var ok = document.execCommand("copy");
+          plainTextEl.setAttribute("readonly", "readonly");
+          done(!!ok);
+        } catch (e) {
+          try { plainTextEl.setAttribute("readonly", "readonly"); } catch (e2) {}
+          done(false);
+        }
+      }
+
+      function isEnter(e) {
+        return e.key === "Enter" || e.keyCode === 13 || e.which === 13;
+      }
+
+      trackerEl.addEventListener("keydown", function (e) {
+        if (isEnter(e)) {
+          e.preventDefault();
+          priceEl.focus();
+        }
+      });
+      priceEl.addEventListener("keydown", function (e) {
+        if (isEnter(e)) {
+          e.preventDefault();
+          buyerEl.focus();
+        }
+      });
+      buyerEl.addEventListener("keydown", function (e) {
+        if (isEnter(e)) {
+          e.preventDefault();
+          addSale();
+        }
+      });
+
+      addBtn.addEventListener("click", addSale);
+      copyBtn.addEventListener("click", onCopyClick);
+      clearBtn.addEventListener("click", onClearClick);
+
+      loadSales();
+      render();
+      trackerEl.focus();
+    </script>
+  </body>
+</html>
