@@ -192,6 +192,60 @@
         font-size: 17px;
         margin-top: 8px;
       }
+      input.active-field {
+        outline: 4px solid var(--btn-bg);
+        outline-offset: 1px;
+      }
+      .padLabel {
+        font-weight: bold;
+        font-size: 20px;
+        margin: 22px 0 8px 0;
+      }
+      .quick {
+        overflow: hidden;
+      }
+      .quick button {
+        float: left;
+        width: 32%;
+        margin: 0 2% 10px 0;
+        padding: 16px 0;
+        font-size: 24px;
+        font-weight: bold;
+        background: var(--panel);
+        color: var(--ink);
+        border: 2px solid var(--line);
+      }
+      .quick button.q3 {
+        margin-right: 0;
+      }
+      .pad {
+        overflow: hidden;
+      }
+      .pad button {
+        float: left;
+        width: 32%;
+        margin: 0 2% 10px 0;
+        padding: 16px 0;
+        min-height: 72px;
+        font-size: 34px;
+        font-weight: bold;
+        background: var(--plain-bg);
+        color: var(--plain-ink);
+        border: 2px solid var(--line);
+      }
+      .pad button.p3 {
+        margin-right: 0;
+      }
+      #clearFieldBtn {
+        display: block;
+        width: 100%;
+        padding: 14px 12px;
+        font-size: 20px;
+        font-weight: bold;
+        background: var(--bg);
+        color: var(--err);
+        border: 2px solid var(--err);
+      }
     </style>
   </head>
   <body>
@@ -207,6 +261,34 @@
 
       <label for="buyer">Buyer name <span class="opt">(optional)</span></label>
       <input type="text" id="buyer" autocomplete="off" autocorrect="off" />
+      <p class="hint">Buyer name is optional — you can skip it. To type a name, tap the small keyboard icon at the bottom of the iPad screen to bring up the typing keyboard.</p>
+
+      <p class="padLabel">Quick price — tap one:</p>
+      <div class="quick">
+        <button type="button" data-price="5">$5</button>
+        <button type="button" data-price="10">$10</button>
+        <button type="button" class="q3" data-price="20">$20</button>
+        <button type="button" data-price="25">$25</button>
+        <button type="button" data-price="50">$50</button>
+        <button type="button" class="q3" data-price="100">$100</button>
+      </div>
+
+      <p class="padLabel">Number keypad — tap the price (or tracker number) box above, then tap the numbers:</p>
+      <div class="pad" id="pad">
+        <button type="button" data-key="1">1</button>
+        <button type="button" data-key="2">2</button>
+        <button type="button" class="p3" data-key="3">3</button>
+        <button type="button" data-key="4">4</button>
+        <button type="button" data-key="5">5</button>
+        <button type="button" class="p3" data-key="6">6</button>
+        <button type="button" data-key="7">7</button>
+        <button type="button" data-key="8">8</button>
+        <button type="button" class="p3" data-key="9">9</button>
+        <button type="button" data-key=".">.</button>
+        <button type="button" data-key="0">0</button>
+        <button type="button" class="p3" data-key="back" aria-label="Delete last number">&#9003;</button>
+      </div>
+      <button type="button" id="clearFieldBtn">Clear the number</button>
 
       <button type="button" id="addBtn">Add sale</button>
       <div id="msg" aria-live="polite"></div>
@@ -244,8 +326,11 @@
       var copyBtn = document.getElementById("copyBtn");
       var clearBtn = document.getElementById("clearBtn");
       var plainTextEl = document.getElementById("plainText");
+      var padEl = document.getElementById("pad");
+      var clearFieldBtn = document.getElementById("clearFieldBtn");
 
       var sales = [];
+      var activeField = trackerEl;
       var clearArmed = false;
       var clearTimer = null;
 
@@ -377,6 +462,7 @@
         trackerEl.value = "";
         priceEl.value = "";
         buyerEl.value = "";
+        setActiveField(trackerEl);
         trackerEl.focus();
       }
 
@@ -386,6 +472,7 @@
         saveSales();
         render();
         showMsg("Removed #" + removed.tracker + ".", false);
+        setActiveField(trackerEl);
         trackerEl.focus();
       }
 
@@ -462,9 +549,65 @@
         return e.key === "Enter" || e.keyCode === 13 || e.which === 13;
       }
 
+      function setActiveField(el) {
+        activeField = el;
+        trackerEl.className = el === trackerEl ? "active-field" : "";
+        priceEl.className = el === priceEl ? "active-field" : "";
+      }
+
+      trackerEl.addEventListener("focus", function () { setActiveField(trackerEl); });
+      trackerEl.addEventListener("click", function () { setActiveField(trackerEl); });
+      priceEl.addEventListener("focus", function () { setActiveField(priceEl); });
+      priceEl.addEventListener("click", function () { setActiveField(priceEl); });
+
+      function pressKey(key) {
+        if (key === "back") {
+          activeField.value = activeField.value.slice(0, -1);
+          return;
+        }
+        if (key === ".") {
+          if (activeField === trackerEl) {
+            return;
+          }
+          if (activeField.value.indexOf(".") !== -1) {
+            return;
+          }
+          activeField.value += activeField.value === "" ? "0." : ".";
+          return;
+        }
+        activeField.value += key;
+      }
+
+      padEl.addEventListener("click", function (e) {
+        var t = e.target;
+        if (!t || !t.getAttribute) {
+          return;
+        }
+        var key = t.getAttribute("data-key");
+        if (key) {
+          pressKey(key);
+        }
+      });
+
+      clearFieldBtn.addEventListener("click", function () {
+        activeField.value = "";
+        activeField.focus();
+      });
+
+      var quickBtns = document.querySelectorAll(".quick button");
+      for (var q = 0; q < quickBtns.length; q++) {
+        (function (btn) {
+          btn.addEventListener("click", function () {
+            priceEl.value = btn.getAttribute("data-price");
+            setActiveField(priceEl);
+          });
+        })(quickBtns[q]);
+      }
+
       trackerEl.addEventListener("keydown", function (e) {
         if (isEnter(e)) {
           e.preventDefault();
+          setActiveField(priceEl);
           priceEl.focus();
         }
       });
@@ -487,6 +630,7 @@
 
       loadSales();
       render();
+      setActiveField(trackerEl);
       trackerEl.focus();
     </script>
   </body>
