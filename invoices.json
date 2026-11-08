@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T13:45:11+00:00",
+ "generated_at": "2026-11-08T13:44:59+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -1097,6 +1097,56 @@
        "quantitySold": 0,
        "hammer": 2.5,
        "allInCost": 3.11,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5827,
+       "lotNumber": "805",
+       "description": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in x 1-1/2 in, box of 100 (GFF-1001)",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 27.0,
+       "allInCost": 33.61,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5828,
+       "lotNumber": "806",
+       "description": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in x 1-1/2 in, box of 100 (GFF-1001)",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 18.0,
+       "allInCost": 22.41,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5829,
+       "lotNumber": "807",
+       "description": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in x 1-1/2 in, box of 100 (GFF-1001)",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 16.0,
+       "allInCost": 19.92,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5830,
+       "lotNumber": "808",
+       "description": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in x 1-1/2 in, box of 100 (GFF-1001)",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 16.0,
+       "allInCost": 19.92,
+       "status": "in_stock"
+      },
+      {
+       "itemId": 5831,
+       "lotNumber": "809",
+       "description": "Maintenance Warehouse Flexible No-Hub Pipe Coupling 1-1/2 in x 1-1/2 in, box of 100 (GFF-1001)",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 16.0,
+       "allInCost": 19.91,
        "status": "in_stock"
       }
      ]
@@ -13250,13 +13300,36 @@
     }
    ],
    "invoiceCount": 171,
-   "itemCount": 1102,
+   "itemCount": 1107,
    "totalSpent": 55369.97
   },
   {
    "site": "whatnot",
    "siteLabel": "Whatnot",
    "invoices": [
+    {
+     "invoiceId": 4138,
+     "invoiceRef": "toolblitz 2026-11-03",
+     "purchaseDate": "2026-11-03",
+     "auctionName": "toolblitz",
+     "seller": null,
+     "subtotal": 125.0,
+     "premium": 13.4,
+     "tax": 0.0,
+     "total": 138.4,
+     "items": [
+      {
+       "itemId": 5767,
+       "lotNumber": "",
+       "description": "Makita XWT04Z 18V LXT Lithium-Ion Cordless 1/2 in. High Torque Impact Wrench (Tool Only)",
+       "quantity": 1,
+       "quantitySold": 0,
+       "hammer": 125.0,
+       "allInCost": 138.4,
+       "status": "in_stock"
+      }
+     ]
+    },
     {
      "invoiceId": 3908,
      "invoiceRef": "toolblitz 2026-10-09",
@@ -16100,7 +16173,7 @@
       {
        "itemId": 4358,
        "lotNumber": "964990381",
-       "description": "142- KIT 7Pc Ratchet Wrench Set SAE 80178 #1",
+       "description": "142- KIT 7Pc Ratchet Wrench Set SAE 80178 #1 [SAE - assigned 2026-11-07]",
        "quantity": 1,
        "quantitySold": 0,
        "hammer": 26.21,
@@ -16192,7 +16265,7 @@
       {
        "itemId": 4354,
        "lotNumber": "962882807",
-       "description": "142- KIT 7Pc Ratchet Wrench Set SAE 80178 #2",
+       "description": "142- KIT 7Pc Ratchet Wrench Set SAE 80178 #2 [SAE - assigned 2026-11-07]",
        "quantity": 1,
        "quantitySold": 0,
        "hammer": 9.21,
@@ -16583,7 +16656,7 @@
       {
        "itemId": 4337,
        "lotNumber": "950883385",
-       "description": "142- KIT 7Pc Ratchet Wrench Set SAE 80178 #2",
+       "description": "142- KIT 7Pc Ratchet Wrench Set SAE 80178 #2 [METRIC - assigned 2026-11-07]",
        "quantity": 1,
        "quantitySold": 0,
        "hammer": 19.06,
@@ -16675,7 +16748,7 @@
       {
        "itemId": 4333,
        "lotNumber": "948741651",
-       "description": "142- KIT 7Pc Ratchet Wrench Set SAE 80178 #2",
+       "description": "142- KIT 7Pc Ratchet Wrench Set SAE 80178 #2 [METRIC - assigned 2026-11-07]",
        "quantity": 1,
        "quantitySold": 0,
        "hammer": 21.0,
@@ -89503,9 +89576,9 @@
      ]
     }
    ],
-   "invoiceCount": 3315,
-   "itemCount": 3315,
-   "totalSpent": 113842.25
+   "invoiceCount": 3316,
+   "itemCount": 3316,
+   "totalSpent": 113980.65
   },
   {
    "site": "nellis",
