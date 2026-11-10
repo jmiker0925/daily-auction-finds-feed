@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-09T13:45:27+00:00",
+ "generated_at": "2026-11-10T13:45:24+00:00",
  "sales": [
+  {
+   "saleId": 313,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Makita 18V Lithium-Ion Dual Port Rapid Optimum Charger",
+   "soldDate": "2026-11-09",
+   "gross": 70.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 32.37,
+   "profit": 37.63,
+   "allocations": [
+    {
+     "itemId": 5508,
+     "description": "Makita DC18RD dual-port rapid charger",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 312,
    "platform": "facebook",
