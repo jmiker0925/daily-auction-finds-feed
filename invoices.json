@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T13:45:28+00:00",
+ "generated_at": "2026-11-10T13:45:24+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -2477,10 +2477,10 @@
        "lotNumber": "153",
        "description": "Makita DC18RD dual-port rapid charger",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 26.0,
        "allInCost": 32.37,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
