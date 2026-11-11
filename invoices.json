@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:45:24+00:00",
+ "generated_at": "2026-11-11T14:45:37+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -3939,10 +3939,10 @@
        "lotNumber": "572",
        "description": "RIDGID R2611 6 in. dual-action random orbit sander \u2014 4.4A, 4000-10000 OPM, dual-orbit (boxed)",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 33.0,
        "allInCost": 41.08,
-       "status": "in_stock"
+       "status": "sold"
       },
       {
        "itemId": 170,
