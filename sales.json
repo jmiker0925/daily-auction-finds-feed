@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-10T13:45:24+00:00",
+ "generated_at": "2026-11-11T14:45:24+00:00",
  "sales": [
+  {
+   "saleId": 314,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "RIDGID 6 in. Dual Action Random Orbit Sander",
+   "soldDate": "2026-11-10",
+   "gross": 50.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 41.08,
+   "profit": 8.92,
+   "allocations": [
+    {
+     "itemId": 169,
+     "description": "RIDGID R2611 6 in. dual-action random orbit sander \u2014 4.4A, 4000-10000 OPM, dual-orbit (boxed)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 313,
    "platform": "facebook",
