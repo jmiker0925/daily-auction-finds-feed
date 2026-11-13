@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T14:46:59+00:00",
+ "generated_at": "2026-11-13T14:29:07+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -3806,7 +3806,7 @@
        "quantitySold": 0,
        "hammer": 3.5,
        "allInCost": 4.36,
-       "status": "in_stock"
+       "status": "sold"
       },
       {
        "itemId": 159,
