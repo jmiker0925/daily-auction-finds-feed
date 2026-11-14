@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T07:44:15.507435-06:00",
+ "generatedAt": "2026-11-14T07:44:50.824914-06:00",
  "auctions": [
   {
    "id": "1130",
@@ -65190,6 +65190,2881 @@
       "quantity": 4,
       "lot_url": null,
       "photo_url": null
+     }
+    ]
+   }
+  },
+  {
+   "id": "1167",
+   "site": "Auction HUB Texas",
+   "name": "Asset Recovery, Garland",
+   "closeDate": "2026-11-12",
+   "location": "2905 Miller Park North, Garland, TX",
+   "lots": [
+    {
+     "lot_number": "1000",
+     "title": "Husky 2-Shelf Heavy-Duty Utility Cart (Model 1000 005 206)",
+     "outcome": "outbid",
+     "hammer_total": 32.0,
+     "hammer_per_unit": 32.0,
+     "winning_bidder": "4****0",
+     "john_max": 31.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "104",
+     "title": "Milwaukee PACKOUT Modular 2-Drawer or 3-Drawer Tool Box",
+     "outcome": "removed",
+     "hammer_total": 67.0,
+     "hammer_per_unit": 67.0,
+     "winning_bidder": "1****5",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1081",
+     "title": "Milwaukee PACKOUT 3-Drawer Tool Box",
+     "outcome": "removed",
+     "hammer_total": 82.0,
+     "hammer_per_unit": 82.0,
+     "winning_bidder": "1****5",
+     "john_max": 54.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1120",
+     "title": "Milwaukee Shockwave Impact Duty 1/2 in. Drive Deep 6-Point Socket Set (7-Piece)",
+     "outcome": "removed",
+     "hammer_total": 13.74,
+     "hammer_per_unit": 13.74,
+     "winning_bidder": "1****5",
+     "john_max": 12.99,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1123",
+     "title": "Simpson Strong-Tie 1/2-in x 8-in Hot-Dip Galvanized Retrofit Bolt",
+     "outcome": "won",
+     "hammer_total": 9.5,
+     "hammer_per_unit": 9.5,
+     "winning_bidder": "3730",
+     "john_max": 9.99,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1127",
+     "title": "B-Air VP-25 1/4 HP Air Mover",
+     "outcome": "outbid",
+     "hammer_total": 31.5,
+     "hammer_per_unit": 31.5,
+     "winning_bidder": "6****2",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1128",
+     "title": "B-Air VP-25 1/4 HP Air Mover Professional Carpet Dryer",
+     "outcome": "outbid",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "4****8",
+     "john_max": 9.99,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1129",
+     "title": "B-Air VP-25 1/4 HP Air Mover",
+     "outcome": "outbid",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "6****2",
+     "john_max": 9.99,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1130",
+     "title": "B-Air VP-25 1/4 HP Professional Air Mover",
+     "outcome": "outbid",
+     "hammer_total": 29.0,
+     "hammer_per_unit": 29.0,
+     "winning_bidder": "1****5",
+     "john_max": 9.97,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1131",
+     "title": "B-Air VP-25 1/4 HP Air Mover High Velocity Fan",
+     "outcome": "outbid",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "1****5",
+     "john_max": 9.96,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1132",
+     "title": "B-Air VP-25 1/4 HP Air Mover High Velocity Fan",
+     "outcome": "outbid",
+     "hammer_total": 27.0,
+     "hammer_per_unit": 27.0,
+     "winning_bidder": "1****5",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1133",
+     "title": "B-Air VP-25 1/4 HP Air Mover High Velocity Fan",
+     "outcome": "outbid",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "4****8",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1134",
+     "title": "B-Air Vent VP-25 1/4 HP Air Mover High Velocity Fan",
+     "outcome": "outbid",
+     "hammer_total": 26.25,
+     "hammer_per_unit": 26.25,
+     "winning_bidder": "5****7",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1135",
+     "title": "B-Air Vent VP-25 1/4 HP Air Mover High Velocity Fan",
+     "outcome": "outbid",
+     "hammer_total": 26.25,
+     "hammer_per_unit": 26.25,
+     "winning_bidder": "5****7",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1136",
+     "title": "B-Air Vent VP-25 1/4 HP Air Mover High Velocity Fan",
+     "outcome": "outbid",
+     "hammer_total": 26.25,
+     "hammer_per_unit": 26.25,
+     "winning_bidder": "5****7",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1138",
+     "title": "Milwaukee PACKOUT Compact Tool Box (Model 48-22-8422)",
+     "outcome": "removed",
+     "hammer_total": 22.0,
+     "hammer_per_unit": 22.0,
+     "winning_bidder": "4****0",
+     "john_max": 19.99,
+     "lot_url": null
+    },
+    {
+     "lot_number": "115",
+     "title": "Up & Up Letter Printer Paper",
+     "outcome": "removed",
+     "hammer_total": 18.06,
+     "hammer_per_unit": 3.01,
+     "winning_bidder": "1****3",
+     "john_max": 9.06,
+     "lot_url": null
+    },
+    {
+     "lot_number": "116",
+     "title": "Up & Up Letter Printer Paper",
+     "outcome": "removed",
+     "hammer_total": 18.06,
+     "hammer_per_unit": 3.01,
+     "winning_bidder": "1****7",
+     "john_max": 9.06,
+     "lot_url": null
+    },
+    {
+     "lot_number": "117",
+     "title": "Up & Up Letter Printer Paper",
+     "outcome": "removed",
+     "hammer_total": 18.06,
+     "hammer_per_unit": 3.01,
+     "winning_bidder": "1****7",
+     "john_max": 9.06,
+     "lot_url": null
+    },
+    {
+     "lot_number": "119",
+     "title": "SDS-max carbide-tipped",
+     "outcome": "removed",
+     "hammer_total": 20.0,
+     "hammer_per_unit": 20.0,
+     "winning_bidder": "4****0",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1246",
+     "title": "DEWALT DW088CG Green Self-Leveling Cross-Line Laser Level",
+     "outcome": "removed",
+     "hammer_total": 55.5,
+     "hammer_per_unit": 55.5,
+     "winning_bidder": "6****8",
+     "john_max": 38.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "125",
+     "title": "Milwaukee PACKOUT Compact Organizer (Model 48-22-8435)",
+     "outcome": "removed",
+     "hammer_total": 24.0,
+     "hammer_per_unit": 24.0,
+     "winning_bidder": "4****7",
+     "john_max": 13.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "127",
+     "title": "Diablo Reciprocating Saw Blade Set",
+     "outcome": "removed",
+     "hammer_total": 9.99,
+     "hammer_per_unit": 9.99,
+     "winning_bidder": "4****7",
+     "john_max": 5.99,
+     "lot_url": null
+    },
+    {
+     "lot_number": "129",
+     "title": "Diablo T-Shank Wood & Metal Jig Saw Blade Set (20-Piece, Model # DJT20S)",
+     "outcome": "outbid",
+     "hammer_total": 5.0,
+     "hammer_per_unit": 5.0,
+     "winning_bidder": "6****2",
+     "john_max": 4.99,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1291",
+     "title": "B-Air Vent VP-25 1/4 HP high-velocity air mover",
+     "outcome": "removed",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "4****3",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1292",
+     "title": "B-Air Vent VP-25 1/4 HP high-velocity air mover",
+     "outcome": "outbid",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "4****3",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1293",
+     "title": "B-Air Vent VP-25 1/4 HP high-velocity air mover",
+     "outcome": "outbid",
+     "hammer_total": 25.0,
+     "hammer_per_unit": 25.0,
+     "winning_bidder": "5****7",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1294",
+     "title": "B-Air Vent VP-25 1/4 HP high-velocity air mover",
+     "outcome": "outbid",
+     "hammer_total": 25.0,
+     "hammer_per_unit": 25.0,
+     "winning_bidder": "5****7",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1298",
+     "title": "RIDGID Diamond Hole Saw",
+     "outcome": "removed",
+     "hammer_total": 12.25,
+     "hammer_per_unit": 12.25,
+     "winning_bidder": "1****0",
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1300",
+     "title": "orange-handled Klein Screw Driver",
+     "outcome": "removed",
+     "hammer_total": 3.0,
+     "hammer_per_unit": 3.0,
+     "winning_bidder": "2****2",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1320",
+     "title": "Husky 2-Ton Hydraulic Trolley Jack (Model HPL4136-VT)",
+     "outcome": "won",
+     "hammer_total": 20.25,
+     "hammer_per_unit": 20.25,
+     "winning_bidder": "3730",
+     "john_max": 20.25,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1365",
+     "title": "B-Air Vent VP-25 1/4 HP High-Velocity Air Mover Fan",
+     "outcome": "outbid",
+     "hammer_total": 27.0,
+     "hammer_per_unit": 27.0,
+     "winning_bidder": "5****7",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1366",
+     "title": "B-Air Vent VP-25 1/4 HP High-Velocity Air Mover Fan",
+     "outcome": "outbid",
+     "hammer_total": 27.0,
+     "hammer_per_unit": 27.0,
+     "winning_bidder": "5****7",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1370",
+     "title": "B-Air VP-15 1/8 HP Air Mover",
+     "outcome": "outbid",
+     "hammer_total": 20.7,
+     "hammer_per_unit": 20.7,
+     "winning_bidder": "5****7",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1371",
+     "title": "B-Air VP-15 1/8 HP Air Mover",
+     "outcome": "outbid",
+     "hammer_total": 21.51,
+     "hammer_per_unit": 21.51,
+     "winning_bidder": "5****7",
+     "john_max": 9.95,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1408",
+     "title": "RIDGID 6 Gal. 3.5 Peak HP NXT Wet/Dry Shop Vacuum",
+     "outcome": "outbid",
+     "hammer_total": 27.0,
+     "hammer_per_unit": 27.0,
+     "winning_bidder": "5****7",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "146",
+     "title": "B Air Vent VP-25 Air Mover",
+     "outcome": "removed",
+     "hammer_total": 25.25,
+     "hammer_per_unit": 25.25,
+     "winning_bidder": "5****7",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "147",
+     "title": "B Air Vent VP-25 Air Mover",
+     "outcome": "outbid",
+     "hammer_total": 25.0,
+     "hammer_per_unit": 25.0,
+     "winning_bidder": "5****7",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "151",
+     "title": "Makita 4-1/2\" SJS High Power Angle Grinder 9564CV",
+     "outcome": "removed",
+     "hammer_total": 50.0,
+     "hammer_per_unit": 50.0,
+     "winning_bidder": "5****7",
+     "john_max": 36.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "173",
+     "title": "Milwaukee 25ft Tape Measure",
+     "outcome": "removed",
+     "hammer_total": 6.5,
+     "hammer_per_unit": 6.5,
+     "winning_bidder": "6****2",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "179",
+     "title": "Milwaukee Impact right Hand Angle Adapter",
+     "outcome": "removed",
+     "hammer_total": 7.0,
+     "hammer_per_unit": 7.0,
+     "winning_bidder": "1****5",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "201",
+     "title": "Ryobi 13gal Circular Saw",
+     "outcome": "removed",
+     "hammer_total": 22.25,
+     "hammer_per_unit": 22.25,
+     "winning_bidder": "6****7",
+     "john_max": 13.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "258",
+     "title": "Weiler Abrasives Tiger 4.5-inch 60 Grit Zirconia Alumina Flap Disc (Part #30750)",
+     "outcome": "removed",
+     "hammer_total": 2.5,
+     "hammer_per_unit": 2.5,
+     "winning_bidder": "2****4",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "259",
+     "title": "Weiler Tiger 4.5\" Zirconia Alumina Abrasive Flap Disc, 80 Grit, Part #51125",
+     "outcome": "removed",
+     "hammer_total": 2.5,
+     "hammer_per_unit": 2.5,
+     "winning_bidder": "1****1",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "260",
+     "title": "Weiler Tiger 4.5 inch Zirconia Alumina Flap Disc, 60 Grit (Part #4F750)",
+     "outcome": "removed",
+     "hammer_total": 2.5,
+     "hammer_per_unit": 2.5,
+     "winning_bidder": "4****8",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "262",
+     "title": "Weiler Tiger 4.5-inch Zirconia Alumina Flap Disc, 80 Grit (Part #51750)",
+     "outcome": "removed",
+     "hammer_total": 2.75,
+     "hammer_per_unit": 2.75,
+     "winning_bidder": "1****5",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "263",
+     "title": "Weiler Tiger 4.5\" Zirconia Alumina Flap Disc, 60 Grit (Part #50750)",
+     "outcome": "removed",
+     "hammer_total": 2.5,
+     "hammer_per_unit": 2.5,
+     "winning_bidder": "4****3",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "264",
+     "title": "Weiler Tiger 4.5-inch Zirconia Alumina Flap Disc, 60 Grit (Part #50514)",
+     "outcome": "removed",
+     "hammer_total": 3.01,
+     "hammer_per_unit": 3.01,
+     "winning_bidder": "1****5",
+     "john_max": 1.01,
+     "lot_url": null
+    },
+    {
+     "lot_number": "265",
+     "title": "Weiler Tiger 4.5-inch Zirconia Alumina Flap Disc (Part 30750)",
+     "outcome": "removed",
+     "hammer_total": 2.51,
+     "hammer_per_unit": 2.51,
+     "winning_bidder": "4****7",
+     "john_max": 1.01,
+     "lot_url": null
+    },
+    {
+     "lot_number": "266",
+     "title": "Weiler Tiger 4.5 in. x 7/8 in. 60-Grit Zirconia Alumina Flap Disc (Part #50514)",
+     "outcome": "removed",
+     "hammer_total": 2.51,
+     "hammer_per_unit": 2.51,
+     "winning_bidder": "1****1",
+     "john_max": 1.51,
+     "lot_url": null
+    },
+    {
+     "lot_number": "267",
+     "title": "Weiler Tiger 4.5 in. x 7/8 in. 60 Grit Zirconia Alumina Flap Disc (Part #4750)",
+     "outcome": "removed",
+     "hammer_total": 2.51,
+     "hammer_per_unit": 2.51,
+     "winning_bidder": "4****8",
+     "john_max": 1.01,
+     "lot_url": null
+    },
+    {
+     "lot_number": "277",
+     "title": "DeWalt DWHT42160 24-inch Magnetic I-Beam Level",
+     "outcome": "removed",
+     "hammer_total": 10.0,
+     "hammer_per_unit": 10.0,
+     "winning_bidder": "1****5",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "348",
+     "title": "RIDGID 9-Gallon 4.25 Peak HP Wet/Dry Shop Vacuum",
+     "outcome": "removed",
+     "hammer_total": 22.0,
+     "hammer_per_unit": 22.0,
+     "winning_bidder": "6****0",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "349",
+     "title": "RIDGID 9-Gallon 4.25 Peak Horsepower Wet/Dry Shop Vacuum",
+     "outcome": "removed",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "4****6",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "350",
+     "title": "RIDGID 9 Gallon 4.25 Peak HP Wet/Dry Shop Vacuum",
+     "outcome": "removed",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "1****5",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "371",
+     "title": "HDX 27 Gallon Tough Tote in Black with Red Lid",
+     "outcome": "removed",
+     "hammer_total": 72.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "6****4",
+     "john_max": 27.9,
+     "lot_url": null
+    },
+    {
+     "lot_number": "372",
+     "title": "HDX 27 Gallon Tough Storage Tote in Black",
+     "outcome": "watch_only",
+     "hammer_total": 30.36,
+     "hammer_per_unit": 2.76,
+     "winning_bidder": "1****0",
+     "john_max": 35.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "373",
+     "title": "HDX 27 Gallon Tough Tote Storage Bin (Black)",
+     "outcome": "watch_only",
+     "hammer_total": 30.36,
+     "hammer_per_unit": 2.76,
+     "winning_bidder": "1****6",
+     "john_max": 35.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "375",
+     "title": "HDX 27-Gallon Tough Tote Black Base with Red Lid",
+     "outcome": "removed",
+     "hammer_total": 60.0,
+     "hammer_per_unit": 7.5,
+     "winning_bidder": "6****2",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "376",
+     "title": "HDX 27 Gallon Tough Tote Storage Bin",
+     "outcome": "won",
+     "hammer_total": 34.0,
+     "hammer_per_unit": 4.25,
+     "winning_bidder": "3730",
+     "john_max": 34.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "377",
+     "title": "HDX 27 Gallon Black Tough Tote Storage Bin",
+     "outcome": "watch_only",
+     "hammer_total": 24.0,
+     "hammer_per_unit": 3.0,
+     "winning_bidder": "4****7",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "487",
+     "title": "Zircon StudSensor HD70 stud finder",
+     "outcome": "outbid",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "6****7",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "548",
+     "title": "B-Air VP-15 (Model BA-VP-15-BL) Air Mover",
+     "outcome": "removed",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "3****0",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "584",
+     "title": "Milwaukee Thick Metal bandsaw blades (3-pack)",
+     "outcome": "outbid",
+     "hammer_total": 2.25,
+     "hammer_per_unit": 2.25,
+     "winning_bidder": "1****9",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "585",
+     "title": "Milwaukee Thin Metal bandsaw blades (3-pack)",
+     "outcome": "outbid",
+     "hammer_total": 2.25,
+     "hammer_per_unit": 2.25,
+     "winning_bidder": "1****9",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "617",
+     "title": "Vp-15 LASKO air mover",
+     "outcome": "removed",
+     "hammer_total": 19.25,
+     "hammer_per_unit": 19.25,
+     "winning_bidder": "5****7",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "630",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "outbid",
+     "hammer_total": 12.12,
+     "hammer_per_unit": 1.01,
+     "winning_bidder": "4****3",
+     "john_max": 9.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "631",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "won",
+     "hammer_total": 12.12,
+     "hammer_per_unit": 1.01,
+     "winning_bidder": "3730",
+     "john_max": 12.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "632",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "outbid",
+     "hammer_total": 9.12,
+     "hammer_per_unit": 0.76,
+     "winning_bidder": "4****9",
+     "john_max": 3.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "633",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "won",
+     "hammer_total": 12.12,
+     "hammer_per_unit": 1.01,
+     "winning_bidder": "3730",
+     "john_max": 12.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "634",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "outbid",
+     "hammer_total": 6.12,
+     "hammer_per_unit": 0.51,
+     "winning_bidder": "1****7",
+     "john_max": 3.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "635",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "outbid",
+     "hammer_total": 9.6,
+     "hammer_per_unit": 0.8,
+     "winning_bidder": "2****4",
+     "john_max": 3.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "636",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "outbid",
+     "hammer_total": 9.12,
+     "hammer_per_unit": 0.76,
+     "winning_bidder": "6****2",
+     "john_max": 6.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "637",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "outbid",
+     "hammer_total": 9.12,
+     "hammer_per_unit": 0.76,
+     "winning_bidder": "1****1",
+     "john_max": 6.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "638",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "outbid",
+     "hammer_total": 9.12,
+     "hammer_per_unit": 0.76,
+     "winning_bidder": "4****0",
+     "john_max": 6.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "639",
+     "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+     "outcome": "won",
+     "hammer_total": 6.12,
+     "hammer_per_unit": 0.51,
+     "winning_bidder": "3730",
+     "john_max": 6.12,
+     "lot_url": null
+    },
+    {
+     "lot_number": "69",
+     "title": "Milwaukee metal Deep Cut Portable Band Saw Blades 2pk",
+     "outcome": "outbid",
+     "hammer_total": 11.0,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "1****9",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "732",
+     "title": "Ridgid 6 gallon wet/dry vac",
+     "outcome": "removed",
+     "hammer_total": 20.85,
+     "hammer_per_unit": 20.85,
+     "winning_bidder": "5****2",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "757",
+     "title": "HD Supply Facilities Maintenance Generic Bulk Industrial Inventory",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "1****5",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "758",
+     "title": "HD Supply Flexible No-Hub Pipe Coupling 1-1/2 inch x 1-1/2 inch (Part #799294)",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "4****0",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "759",
+     "title": "HD Supply Flexible No-Hub Pipe Coupling 1-1/2 inch x 1-1/2 inch (Part #799294)",
+     "outcome": "outbid",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "4****0",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "760",
+     "title": "HD Supply 1-1/2 inch x 1-1/2 inch Flexible No-Hub Pipe Coupling (Part #799294 / GFF-1001)",
+     "outcome": "won",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "761",
+     "title": "HD Supply Global Part # GFF-1001 Flexible No-Hub Pipe Coupling 1-1/2 inch",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "4****0",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "812",
+     "title": "RIDGID 14 Gal. 6.0 Peak HP NXT Wet/Dry Shop Vacuum (Model HD1400)",
+     "outcome": "removed",
+     "hammer_total": 40.0,
+     "hammer_per_unit": 40.0,
+     "winning_bidder": "1****2",
+     "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "813",
+     "title": "RIDGID NXT Wet/Dry Shop Vacuum 6gal",
+     "outcome": "removed",
+     "hammer_total": 30.0,
+     "hammer_per_unit": 30.0,
+     "winning_bidder": "1****2",
+     "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "822",
+     "title": "Milwaukee PACKOUT 4-Drawer Tool Box (Model 48-22-8444)",
+     "outcome": "removed",
+     "hammer_total": 72.0,
+     "hammer_per_unit": 72.0,
+     "winning_bidder": "6****8",
+     "john_max": 54.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "867",
+     "title": "Husky Air Accessory Kit with Case",
+     "outcome": "removed",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "4****7",
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "87",
+     "title": "Milwaukee Selfeed Bit 2\"",
+     "outcome": "won",
+     "hammer_total": 11.5,
+     "hammer_per_unit": 11.5,
+     "winning_bidder": "3730",
+     "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "88",
+     "title": "Dewalt 40' Self Leveling Cross Line Laser",
+     "outcome": "removed",
+     "hammer_total": 53.5,
+     "hammer_per_unit": 53.5,
+     "winning_bidder": "6****8",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "89",
+     "title": "Milwaukee 10pc Jam Free Step & Drill Bit Set",
+     "outcome": "outbid",
+     "hammer_total": 20.0,
+     "hammer_per_unit": 20.0,
+     "winning_bidder": "2****9",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "892",
+     "title": "RYOBI 6.1 Amp Corded Variable Speed Orbital Jig Saw with SPEEDMATCH Technology untested",
+     "outcome": "watch_only",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "2****4",
+     "john_max": 11.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "896",
+     "title": "RIDGID 3 Amp Corded 5 in. Random Orbital Sander with AIRGUARD Technology untested",
+     "outcome": "watch_only",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "1****3",
+     "john_max": 13.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "898",
+     "title": "Makita 5377MG 15 Amp 7-1/4 in. Corded Lightweight Magnesium Hypoid Circular Saw untested",
+     "outcome": "watch_only",
+     "hammer_total": 22.0,
+     "hammer_per_unit": 22.0,
+     "winning_bidder": "6****7",
+     "john_max": 38.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "900",
+     "title": "RIDGID 5.5 Amp Compact Fixed-Base Corded Router untested",
+     "outcome": "watch_only",
+     "hammer_total": 17.25,
+     "hammer_per_unit": 17.25,
+     "winning_bidder": "2****4",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "904",
+     "title": "a Bosch 5-inch corded random orbital sander untested",
+     "outcome": "removed",
+     "hammer_total": 14.0,
+     "hammer_per_unit": 14.0,
+     "winning_bidder": "1****5",
+     "john_max": 11.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "908",
+     "title": "Makita 1-1/4 HP Compact Router untested",
+     "outcome": "watch_only",
+     "hammer_total": 12.5,
+     "hammer_per_unit": 12.5,
+     "winning_bidder": "2****9",
+     "john_max": 22.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "910",
+     "title": "Makita 7-1/4 in. Hypoid Circular Saw untested",
+     "outcome": "watch_only",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "1****5",
+     "john_max": 36.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "912",
+     "title": "Makita 6 Amp Corded Plate Joiner (Model PJ7000) untested",
+     "outcome": "watch_only",
+     "hammer_total": 21.25,
+     "hammer_per_unit": 21.25,
+     "winning_bidder": "6****2",
+     "john_max": 50.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "915",
+     "title": "Box of random power tools untested",
+     "outcome": "removed",
+     "hammer_total": 72.0,
+     "hammer_per_unit": 72.0,
+     "winning_bidder": "4****0",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "916",
+     "title": "Box of random power tools untested",
+     "outcome": "removed",
+     "hammer_total": 40.0,
+     "hammer_per_unit": 40.0,
+     "winning_bidder": "1****3",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "92",
+     "title": "Milwaukee Packout 2 shelf Racking Kit",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "4****0",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "94",
+     "title": "B Air VP-15 Ventilator Air Mover",
+     "outcome": "removed",
+     "hammer_total": 20.0,
+     "hammer_per_unit": 20.0,
+     "winning_bidder": "5****7",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "95",
+     "title": "B Air VP-25 Air Mover",
+     "outcome": "removed",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "6****7",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "961",
+     "title": "RIDGID 5-Inch Corded Random Orbit Sander R26011",
+     "outcome": "watch_only",
+     "hammer_total": 7.01,
+     "hammer_per_unit": 7.01,
+     "winning_bidder": "6****2",
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "962",
+     "title": "Ridgid R22002 2.0 Peak HP Fixed Base Router",
+     "outcome": "watch_only",
+     "hammer_total": 23.26,
+     "hammer_per_unit": 23.26,
+     "winning_bidder": "1****5",
+     "john_max": 31.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "964",
+     "title": "Milwaukee M12 FUEL Impact Driver and M12 Compact Drill/Driver Combo (Tool Only)",
+     "outcome": "watch_only",
+     "hammer_total": 72.52,
+     "hammer_per_unit": 36.26,
+     "winning_bidder": "5****5",
+     "john_max": 109.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "965",
+     "title": "Ridgid 18V SubCompact Brushless Drill/Driver and Impact Driver Combo Set (Lot 966)",
+     "outcome": "watch_only",
+     "hammer_total": 120.0,
+     "hammer_per_unit": 30.0,
+     "winning_bidder": "5****7",
+     "john_max": 163.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "966",
+     "title": "Makita 18V LXT Brushless Cordless Angle Grinder (XAG04) and Multi-Tool (XMT03)",
+     "outcome": "watch_only",
+     "hammer_total": 58.0,
+     "hammer_per_unit": 29.0,
+     "winning_bidder": "6****8",
+     "john_max": 127.0,
+     "lot_url": null
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "5****7",
+     "lotsWon": 16,
+     "hammerTotal": 511.46
+    },
+    {
+     "bidder": "1****5",
+     "lotsWon": 15,
+     "hammerTotal": 362.51
+    },
+    {
+     "bidder": "6****8",
+     "lotsWon": 4,
+     "hammerTotal": 239.0
+    },
+    {
+     "bidder": "4****0",
+     "lotsWon": 9,
+     "hammerTotal": 196.37
+    },
+    {
+     "bidder": "6****2",
+     "lotsWon": 8,
+     "hammerTotal": 166.38
+    },
+    {
+     "bidder": "6****7",
+     "lotsWon": 4,
+     "hammerTotal": 75.75
+    },
+    {
+     "bidder": "5****5",
+     "lotsWon": 1,
+     "hammerTotal": 72.52
+    },
+    {
+     "bidder": "6****4",
+     "lotsWon": 1,
+     "hammerTotal": 72.0
+    },
+    {
+     "bidder": "1****2",
+     "lotsWon": 2,
+     "hammerTotal": 70.0
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 5,
+     "hammerTotal": 69.0
+    },
+    {
+     "bidder": "4****3",
+     "lotsWon": 4,
+     "hammerTotal": 66.62
+    },
+    {
+     "bidder": "1****3",
+     "lotsWon": 3,
+     "hammerTotal": 63.56
+    },
+    {
+     "bidder": "4****8",
+     "lotsWon": 4,
+     "hammerTotal": 57.01
+    },
+    {
+     "bidder": "1****0",
+     "lotsWon": 2,
+     "hammerTotal": 42.61
+    },
+    {
+     "bidder": "1****7",
+     "lotsWon": 3,
+     "hammerTotal": 42.24
+    },
+    {
+     "bidder": "2****4",
+     "lotsWon": 4,
+     "hammerTotal": 38.35
+    },
+    {
+     "bidder": "2****9",
+     "lotsWon": 2,
+     "hammerTotal": 32.5
+    },
+    {
+     "bidder": "1****6",
+     "lotsWon": 1,
+     "hammerTotal": 30.36
+    },
+    {
+     "bidder": "6****0",
+     "lotsWon": 1,
+     "hammerTotal": 22.0
+    },
+    {
+     "bidder": "4****6",
+     "lotsWon": 1,
+     "hammerTotal": 21.0
+    },
+    {
+     "bidder": "3****0",
+     "lotsWon": 1,
+     "hammerTotal": 21.0
+    },
+    {
+     "bidder": "5****2",
+     "lotsWon": 1,
+     "hammerTotal": 20.85
+    },
+    {
+     "bidder": "1****9",
+     "lotsWon": 3,
+     "hammerTotal": 15.5
+    },
+    {
+     "bidder": "1****1",
+     "lotsWon": 3,
+     "hammerTotal": 14.13
+    },
+    {
+     "bidder": "4****9",
+     "lotsWon": 1,
+     "hammerTotal": 9.12
+    },
+    {
+     "bidder": "2****2",
+     "lotsWon": 1,
+     "hammerTotal": 3.0
+    }
+   ],
+   "bidderLots": {
+    "1****9": [
+     {
+      "lot_number": "584",
+      "title": "Milwaukee Thick Metal bandsaw blades (3-pack)",
+      "hammer_total": 2.25,
+      "hammer_per_unit": 2.25,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568131-milwaukee-thick-metal-bandsaw-blades-3-pack",
+      "photo_url": null
+     },
+     {
+      "lot_number": "585",
+      "title": "Milwaukee Thin Metal bandsaw blades (3-pack)",
+      "hammer_total": 2.25,
+      "hammer_per_unit": 2.25,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "69",
+      "title": "Milwaukee metal Deep Cut Portable Band Saw Blades 2pk",
+      "hammer_total": 11.0,
+      "hammer_per_unit": 5.5,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568642-milwaukee-metal-deep-cut-portable-band-saw-blades-2pk",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/FcniI31MVvTDURgF4foPL_Nx.jpeg"
+     }
+    ],
+    "6****8": [
+     {
+      "lot_number": "1246",
+      "title": "DEWALT DW088CG Green Self-Leveling Cross-Line Laser Level",
+      "hammer_total": 55.5,
+      "hammer_per_unit": 55.5,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567471-dewalt-dw088cg-green-self-leveling-cross-line-laser-level",
+      "photo_url": null
+     },
+     {
+      "lot_number": "822",
+      "title": "Milwaukee PACKOUT 4-Drawer Tool Box (Model 48-22-8444)",
+      "hammer_total": 72.0,
+      "hammer_per_unit": 72.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567895-milwaukee-packout-4-drawer-tool-box-model-48-22-8444",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/fIV4NSoOx8ezZlHcd2ssWw9u.jpeg"
+     },
+     {
+      "lot_number": "88",
+      "title": "Dewalt 40' Self Leveling Cross Line Laser",
+      "hammer_total": 53.5,
+      "hammer_per_unit": 53.5,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568624-dewalt-40-self-leveling-cross-line-laser",
+      "photo_url": null
+     },
+     {
+      "lot_number": "966",
+      "title": "Makita 18V LXT Brushless Cordless Angle Grinder (XAG04) and Multi-Tool (XMT03)",
+      "hammer_total": 58.0,
+      "hammer_per_unit": 29.0,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "2****9": [
+     {
+      "lot_number": "89",
+      "title": "Milwaukee 10pc Jam Free Step & Drill Bit Set",
+      "hammer_total": 20.0,
+      "hammer_per_unit": 20.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568623-milwaukee-10pc-jam-free-step-and-drill-bit-set",
+      "photo_url": null
+     },
+     {
+      "lot_number": "908",
+      "title": "Makita 1-1/4 HP Compact Router untested",
+      "hammer_total": 12.5,
+      "hammer_per_unit": 12.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****0": [
+     {
+      "lot_number": "1000",
+      "title": "Husky 2-Shelf Heavy-Duty Utility Cart (Model 1000 005 206)",
+      "hammer_total": 32.0,
+      "hammer_per_unit": 32.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1138",
+      "title": "Milwaukee PACKOUT Compact Tool Box (Model 48-22-8422)",
+      "hammer_total": 22.0,
+      "hammer_per_unit": 22.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "119",
+      "title": "SDS-max carbide-tipped",
+      "hammer_total": 20.0,
+      "hammer_per_unit": 20.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "638",
+      "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+      "hammer_total": 9.12,
+      "hammer_per_unit": 0.76,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568076-loctite-polyseamseal-tub-and-tile-adhesive-caulk",
+      "photo_url": null
+     },
+     {
+      "lot_number": "758",
+      "title": "HD Supply Flexible No-Hub Pipe Coupling 1-1/2 inch x 1-1/2 inch (Part #799294)",
+      "hammer_total": 10.75,
+      "hammer_per_unit": 10.75,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567957-hd-supply-flexible-no-hub-pipe-coupling-1-1-2-inch-x-1-1-2-inch-part-799294",
+      "photo_url": null
+     },
+     {
+      "lot_number": "759",
+      "title": "HD Supply Flexible No-Hub Pipe Coupling 1-1/2 inch x 1-1/2 inch (Part #799294)",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 9.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567956-hd-supply-flexible-no-hub-pipe-coupling-1-1-2-inch-x-1-1-2-inch-part-799294",
+      "photo_url": null
+     },
+     {
+      "lot_number": "761",
+      "title": "HD Supply Global Part # GFF-1001 Flexible No-Hub Pipe Coupling 1-1/2 inch",
+      "hammer_total": 10.75,
+      "hammer_per_unit": 10.75,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567954-hd-supply-global-part-gff-1001-flexible-no-hub-pipe-coupling-1-1-2-inch",
+      "photo_url": null
+     },
+     {
+      "lot_number": "915",
+      "title": "Box of random power tools untested",
+      "hammer_total": 72.0,
+      "hammer_per_unit": 72.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "92",
+      "title": "Milwaukee Packout 2 shelf Racking Kit",
+      "hammer_total": 10.75,
+      "hammer_per_unit": 10.75,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568620-milwaukee-packout-2-shelf-racking-kit",
+      "photo_url": null
+     }
+    ],
+    "5****7": [
+     {
+      "lot_number": "1134",
+      "title": "B-Air Vent VP-25 1/4 HP Air Mover High Velocity Fan",
+      "hammer_total": 26.25,
+      "hammer_per_unit": 26.25,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1135",
+      "title": "B-Air Vent VP-25 1/4 HP Air Mover High Velocity Fan",
+      "hammer_total": 26.25,
+      "hammer_per_unit": 26.25,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1136",
+      "title": "B-Air Vent VP-25 1/4 HP Air Mover High Velocity Fan",
+      "hammer_total": 26.25,
+      "hammer_per_unit": 26.25,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1293",
+      "title": "B-Air Vent VP-25 1/4 HP high-velocity air mover",
+      "hammer_total": 25.0,
+      "hammer_per_unit": 25.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1294",
+      "title": "B-Air Vent VP-25 1/4 HP high-velocity air mover",
+      "hammer_total": 25.0,
+      "hammer_per_unit": 25.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1365",
+      "title": "B-Air Vent VP-25 1/4 HP High-Velocity Air Mover Fan",
+      "hammer_total": 27.0,
+      "hammer_per_unit": 27.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1366",
+      "title": "B-Air Vent VP-25 1/4 HP High-Velocity Air Mover Fan",
+      "hammer_total": 27.0,
+      "hammer_per_unit": 27.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1370",
+      "title": "B-Air VP-15 1/8 HP Air Mover",
+      "hammer_total": 20.7,
+      "hammer_per_unit": 20.7,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1371",
+      "title": "B-Air VP-15 1/8 HP Air Mover",
+      "hammer_total": 21.51,
+      "hammer_per_unit": 21.51,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1408",
+      "title": "RIDGID 6 Gal. 3.5 Peak HP NXT Wet/Dry Shop Vacuum",
+      "hammer_total": 27.0,
+      "hammer_per_unit": 27.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "146",
+      "title": "B Air Vent VP-25 Air Mover",
+      "hammer_total": 25.25,
+      "hammer_per_unit": 25.25,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "147",
+      "title": "B Air Vent VP-25 Air Mover",
+      "hammer_total": 25.0,
+      "hammer_per_unit": 25.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "151",
+      "title": "Makita 4-1/2\" SJS High Power Angle Grinder 9564CV",
+      "hammer_total": 50.0,
+      "hammer_per_unit": 50.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568561-makita-4-1-2-sjs-high-power-angle-grinder-9564cv",
+      "photo_url": null
+     },
+     {
+      "lot_number": "617",
+      "title": "Vp-15 LASKO air mover",
+      "hammer_total": 19.25,
+      "hammer_per_unit": 19.25,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "94",
+      "title": "B Air VP-15 Ventilator Air Mover",
+      "hammer_total": 20.0,
+      "hammer_per_unit": 20.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568618-b-air-vp-15-ventilator-air-mover",
+      "photo_url": null
+     },
+     {
+      "lot_number": "965",
+      "title": "Ridgid 18V SubCompact Brushless Drill/Driver and Impact Driver Combo Set (Lot 966)",
+      "hammer_total": 120.0,
+      "hammer_per_unit": 30.0,
+      "quantity": 4,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****7": [
+     {
+      "lot_number": "201",
+      "title": "Ryobi 13gal Circular Saw",
+      "hammer_total": 22.25,
+      "hammer_per_unit": 22.25,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "487",
+      "title": "Zircon StudSensor HD70 stud finder",
+      "hammer_total": 5.5,
+      "hammer_per_unit": 5.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "898",
+      "title": "Makita 5377MG 15 Amp 7-1/4 in. Corded Lightweight Magnesium Hypoid Circular Saw untested",
+      "hammer_total": 22.0,
+      "hammer_per_unit": 22.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "95",
+      "title": "B Air VP-25 Air Mover",
+      "hammer_total": 26.0,
+      "hammer_per_unit": 26.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568617-b-air-vp-25-air-mover",
+      "photo_url": null
+     }
+    ],
+    "1****5": [
+     {
+      "lot_number": "104",
+      "title": "Milwaukee PACKOUT Modular 2-Drawer or 3-Drawer Tool Box",
+      "hammer_total": 67.0,
+      "hammer_per_unit": 67.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568608-milwaukee-packout-modular-2-drawer-or-3-drawer-tool-box-17900",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/uPxzevLbg0OMBSdsx97hCcxT.jpeg"
+     },
+     {
+      "lot_number": "1081",
+      "title": "Milwaukee PACKOUT 3-Drawer Tool Box",
+      "hammer_total": 82.0,
+      "hammer_per_unit": 82.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567636-milwaukee-packout-3-drawer-tool-box",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/atJex6U8C83PJ0Z_CEv_iSSe.jpeg"
+     },
+     {
+      "lot_number": "1120",
+      "title": "Milwaukee Shockwave Impact Duty 1/2 in. Drive Deep 6-Point Socket Set (7-Piece)",
+      "hammer_total": 13.74,
+      "hammer_per_unit": 13.74,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567597-milwaukee-shockwave-impact-duty-1-2-in-drive-deep-6-point-socket-set-7-piece",
+      "photo_url": null
+     },
+     {
+      "lot_number": "1130",
+      "title": "B-Air VP-25 1/4 HP Professional Air Mover",
+      "hammer_total": 29.0,
+      "hammer_per_unit": 29.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1131",
+      "title": "B-Air VP-25 1/4 HP Air Mover High Velocity Fan",
+      "hammer_total": 26.0,
+      "hammer_per_unit": 26.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1132",
+      "title": "B-Air VP-25 1/4 HP Air Mover High Velocity Fan",
+      "hammer_total": 27.0,
+      "hammer_per_unit": 27.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "179",
+      "title": "Milwaukee Impact right Hand Angle Adapter",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 7.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "262",
+      "title": "Weiler Tiger 4.5-inch Zirconia Alumina Flap Disc, 80 Grit (Part #51750)",
+      "hammer_total": 2.75,
+      "hammer_per_unit": 2.75,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "264",
+      "title": "Weiler Tiger 4.5-inch Zirconia Alumina Flap Disc, 60 Grit (Part #50514)",
+      "hammer_total": 3.01,
+      "hammer_per_unit": 3.01,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "277",
+      "title": "DeWalt DWHT42160 24-inch Magnetic I-Beam Level",
+      "hammer_total": 10.0,
+      "hammer_per_unit": 10.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "350",
+      "title": "RIDGID 9 Gallon 4.25 Peak HP Wet/Dry Shop Vacuum",
+      "hammer_total": 26.0,
+      "hammer_per_unit": 26.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "757",
+      "title": "HD Supply Facilities Maintenance Generic Bulk Industrial Inventory",
+      "hammer_total": 10.75,
+      "hammer_per_unit": 10.75,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567958-hd-supply-facilities-maintenance-generic-bulk-industrial-inventory",
+      "photo_url": null
+     },
+     {
+      "lot_number": "904",
+      "title": "a Bosch 5-inch corded random orbital sander untested",
+      "hammer_total": 14.0,
+      "hammer_per_unit": 14.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "910",
+      "title": "Makita 7-1/4 in. Hypoid Circular Saw untested",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 21.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "962",
+      "title": "Ridgid R22002 2.0 Peak HP Fixed Base Router",
+      "hammer_total": 23.26,
+      "hammer_per_unit": 23.26,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****3": [
+     {
+      "lot_number": "115",
+      "title": "Up & Up Letter Printer Paper",
+      "hammer_total": 18.06,
+      "hammer_per_unit": 3.01,
+      "quantity": 6,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "896",
+      "title": "RIDGID 3 Amp Corded 5 in. Random Orbital Sander with AIRGUARD Technology untested",
+      "hammer_total": 5.5,
+      "hammer_per_unit": 5.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "916",
+      "title": "Box of random power tools untested",
+      "hammer_total": 40.0,
+      "hammer_per_unit": 40.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****7": [
+     {
+      "lot_number": "116",
+      "title": "Up & Up Letter Printer Paper",
+      "hammer_total": 18.06,
+      "hammer_per_unit": 3.01,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568595-up-and-up-letter-printer-paper",
+      "photo_url": null
+     },
+     {
+      "lot_number": "117",
+      "title": "Up & Up Letter Printer Paper",
+      "hammer_total": 18.06,
+      "hammer_per_unit": 3.01,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568596-up-and-up-letter-printer-paper",
+      "photo_url": null
+     },
+     {
+      "lot_number": "634",
+      "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+      "hammer_total": 6.12,
+      "hammer_per_unit": 0.51,
+      "quantity": 12,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****7": [
+     {
+      "lot_number": "125",
+      "title": "Milwaukee PACKOUT Compact Organizer (Model 48-22-8435)",
+      "hammer_total": 24.0,
+      "hammer_per_unit": 24.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "127",
+      "title": "Diablo Reciprocating Saw Blade Set",
+      "hammer_total": 9.99,
+      "hammer_per_unit": 9.99,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "265",
+      "title": "Weiler Tiger 4.5-inch Zirconia Alumina Flap Disc (Part 30750)",
+      "hammer_total": 2.51,
+      "hammer_per_unit": 2.51,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "377",
+      "title": "HDX 27 Gallon Black Tough Tote Storage Bin",
+      "hammer_total": 24.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 8,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "867",
+      "title": "Husky Air Accessory Kit with Case",
+      "hammer_total": 8.5,
+      "hammer_per_unit": 8.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****2": [
+     {
+      "lot_number": "1127",
+      "title": "B-Air VP-25 1/4 HP Air Mover",
+      "hammer_total": 31.5,
+      "hammer_per_unit": 31.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1129",
+      "title": "B-Air VP-25 1/4 HP Air Mover",
+      "hammer_total": 26.0,
+      "hammer_per_unit": 26.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "129",
+      "title": "Diablo T-Shank Wood & Metal Jig Saw Blade Set (20-Piece, Model # DJT20S)",
+      "hammer_total": 5.0,
+      "hammer_per_unit": 5.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "173",
+      "title": "Milwaukee 25ft Tape Measure",
+      "hammer_total": 6.5,
+      "hammer_per_unit": 6.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "375",
+      "title": "HDX 27-Gallon Tough Tote Black Base with Red Lid",
+      "hammer_total": 60.0,
+      "hammer_per_unit": 7.5,
+      "quantity": 8,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "636",
+      "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+      "hammer_total": 9.12,
+      "hammer_per_unit": 0.76,
+      "quantity": 12,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "912",
+      "title": "Makita 6 Amp Corded Plate Joiner (Model PJ7000) untested",
+      "hammer_total": 21.25,
+      "hammer_per_unit": 21.25,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "961",
+      "title": "RIDGID 5-Inch Corded Random Orbit Sander R26011",
+      "hammer_total": 7.01,
+      "hammer_per_unit": 7.01,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "2****4": [
+     {
+      "lot_number": "258",
+      "title": "Weiler Abrasives Tiger 4.5-inch 60 Grit Zirconia Alumina Flap Disc (Part #30750)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 2.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "635",
+      "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+      "hammer_total": 9.6,
+      "hammer_per_unit": 0.8,
+      "quantity": 12,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "892",
+      "title": "RYOBI 6.1 Amp Corded Variable Speed Orbital Jig Saw with SPEEDMATCH Technology untested",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 9.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "900",
+      "title": "RIDGID 5.5 Amp Compact Fixed-Base Corded Router untested",
+      "hammer_total": 17.25,
+      "hammer_per_unit": 17.25,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****1": [
+     {
+      "lot_number": "259",
+      "title": "Weiler Tiger 4.5\" Zirconia Alumina Abrasive Flap Disc, 80 Grit, Part #51125",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 2.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "266",
+      "title": "Weiler Tiger 4.5 in. x 7/8 in. 60-Grit Zirconia Alumina Flap Disc (Part #50514)",
+      "hammer_total": 2.51,
+      "hammer_per_unit": 2.51,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568449-weiler-tiger-45-in-x-7-8-in-60-grit-zirconia-alumina-flap-disc-part-50514",
+      "photo_url": null
+     },
+     {
+      "lot_number": "637",
+      "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+      "hammer_total": 9.12,
+      "hammer_per_unit": 0.76,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568078-loctite-polyseamseal-tub-and-tile-adhesive-caulk",
+      "photo_url": null
+     }
+    ],
+    "4****8": [
+     {
+      "lot_number": "1128",
+      "title": "B-Air VP-25 1/4 HP Air Mover Professional Carpet Dryer",
+      "hammer_total": 26.0,
+      "hammer_per_unit": 26.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1133",
+      "title": "B-Air VP-25 1/4 HP Air Mover High Velocity Fan",
+      "hammer_total": 26.0,
+      "hammer_per_unit": 26.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "260",
+      "title": "Weiler Tiger 4.5 inch Zirconia Alumina Flap Disc, 60 Grit (Part #4F750)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 2.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "267",
+      "title": "Weiler Tiger 4.5 in. x 7/8 in. 60 Grit Zirconia Alumina Flap Disc (Part #4750)",
+      "hammer_total": 2.51,
+      "hammer_per_unit": 2.51,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****3": [
+     {
+      "lot_number": "1291",
+      "title": "B-Air Vent VP-25 1/4 HP high-velocity air mover",
+      "hammer_total": 26.0,
+      "hammer_per_unit": 26.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "1292",
+      "title": "B-Air Vent VP-25 1/4 HP high-velocity air mover",
+      "hammer_total": 26.0,
+      "hammer_per_unit": 26.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "263",
+      "title": "Weiler Tiger 4.5\" Zirconia Alumina Flap Disc, 60 Grit (Part #50750)",
+      "hammer_total": 2.5,
+      "hammer_per_unit": 2.5,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "630",
+      "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+      "hammer_total": 12.12,
+      "hammer_per_unit": 1.01,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568084-loctite-polyseamseal-tub-and-tile-adhesive-caulk",
+      "photo_url": null
+     }
+    ],
+    "6****0": [
+     {
+      "lot_number": "348",
+      "title": "RIDGID 9-Gallon 4.25 Peak HP Wet/Dry Shop Vacuum",
+      "hammer_total": 22.0,
+      "hammer_per_unit": 22.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568367-ridgid-9-gallon-425-peak-hp-wet-dry-shop-vacuum",
+      "photo_url": null
+     }
+    ],
+    "4****6": [
+     {
+      "lot_number": "349",
+      "title": "RIDGID 9-Gallon 4.25 Peak Horsepower Wet/Dry Shop Vacuum",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 21.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****4": [
+     {
+      "lot_number": "371",
+      "title": "HDX 27 Gallon Tough Tote in Black with Red Lid",
+      "hammer_total": 72.0,
+      "hammer_per_unit": 8.0,
+      "quantity": 9,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568344-hdx-27-gallon-tough-tote-in-black-with-red-lid",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/q_u0DTR_3DbDVWv72bHL4K-Z.jpeg"
+     }
+    ],
+    "1****0": [
+     {
+      "lot_number": "1298",
+      "title": "RIDGID Diamond Hole Saw",
+      "hammer_total": 12.25,
+      "hammer_per_unit": 12.25,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567419-ridgid-diamond-hole-saw",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/yJe23BiYLp4NzTOT5DYYd29U.jpeg"
+     },
+     {
+      "lot_number": "372",
+      "title": "HDX 27 Gallon Tough Storage Tote in Black",
+      "hammer_total": 30.36,
+      "hammer_per_unit": 2.76,
+      "quantity": 11,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568343-hdx-27-gallon-tough-storage-tote-in-black",
+      "photo_url": null
+     }
+    ],
+    "1****6": [
+     {
+      "lot_number": "373",
+      "title": "HDX 27 Gallon Tough Tote Storage Bin (Black)",
+      "hammer_total": 30.36,
+      "hammer_per_unit": 2.76,
+      "quantity": 11,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "3****0": [
+     {
+      "lot_number": "548",
+      "title": "B-Air VP-15 (Model BA-VP-15-BL) Air Mover",
+      "hammer_total": 21.0,
+      "hammer_per_unit": 21.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/568168-b-air-vp-15-model-ba-vp-15-bl-air-mover",
+      "photo_url": null
+     }
+    ],
+    "4****9": [
+     {
+      "lot_number": "632",
+      "title": "Loctite Polyseamseal Tub & Tile Adhesive Caulk",
+      "hammer_total": 9.12,
+      "hammer_per_unit": 0.76,
+      "quantity": 12,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "5****2": [
+     {
+      "lot_number": "732",
+      "title": "Ridgid 6 gallon wet/dry vac",
+      "hammer_total": 20.85,
+      "hammer_per_unit": 20.85,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****2": [
+     {
+      "lot_number": "812",
+      "title": "RIDGID 14 Gal. 6.0 Peak HP NXT Wet/Dry Shop Vacuum (Model HD1400)",
+      "hammer_total": 40.0,
+      "hammer_per_unit": 40.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": "813",
+      "title": "RIDGID NXT Wet/Dry Shop Vacuum 6gal",
+      "hammer_total": 30.0,
+      "hammer_per_unit": 30.0,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "5****5": [
+     {
+      "lot_number": "964",
+      "title": "Milwaukee M12 FUEL Impact Driver and M12 Compact Drill/Driver Combo (Tool Only)",
+      "hammer_total": 72.52,
+      "hammer_per_unit": 36.26,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "2****2": [
+     {
+      "lot_number": "1300",
+      "title": "orange-handled Klein Screw Driver",
+      "hammer_total": 3.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1167/lot/567417-orange-handled-klein-screw-driver",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/rFIV8AFJ5G-OFEeR6nCRF9-h.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "1166",
+   "site": "Auction HUB Texas",
+   "name": "Statewide Auctioneers, Seagoville",
+   "closeDate": "2026-11-13",
+   "location": "1612 Bruce Way, Seagoville, TX",
+   "lots": [
+    {
+     "lot_number": "114",
+     "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+     "outcome": "outbid",
+     "hammer_total": 2.0,
+     "hammer_per_unit": 2.0,
+     "winning_bidder": "4****8",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566996-emt-set-screw-connectors-34-contractor-25-pk-62707b"
+    },
+    {
+     "lot_number": "115",
+     "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+     "outcome": "outbid",
+     "hammer_total": 2.0,
+     "hammer_per_unit": 2.0,
+     "winning_bidder": "4****8",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566995-emt-set-screw-connectors-34-contractor-25-pk-62707b"
+    },
+    {
+     "lot_number": "116",
+     "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+     "outcome": "outbid",
+     "hammer_total": 2.0,
+     "hammer_per_unit": 2.0,
+     "winning_bidder": "4****8",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566994-emt-set-screw-connectors-34-contractor-25-pk-62707b"
+    },
+    {
+     "lot_number": "117",
+     "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+     "outcome": "outbid",
+     "hammer_total": 1.75,
+     "hammer_per_unit": 1.75,
+     "winning_bidder": "3****8",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566993-emt-set-screw-connectors-34-contractor-25-pk-62707b"
+    },
+    {
+     "lot_number": "118",
+     "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+     "outcome": "outbid",
+     "hammer_total": 1.75,
+     "hammer_per_unit": 1.75,
+     "winning_bidder": "3****8",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566992-emt-set-screw-connectors-34-contractor-25-pk-62707b"
+    },
+    {
+     "lot_number": "119",
+     "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+     "outcome": "outbid",
+     "hammer_total": 1.75,
+     "hammer_per_unit": 1.75,
+     "winning_bidder": "3****8",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566991-emt-set-screw-connectors-34-contractor-25-pk-62707b"
+    },
+    {
+     "lot_number": "120",
+     "title": "EMT Set Screw Connectors 1/2\" Contractor 50 Pk #62707B",
+     "outcome": "outbid",
+     "hammer_total": 1.75,
+     "hammer_per_unit": 1.75,
+     "winning_bidder": "3****8",
+     "john_max": 3.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566989-emt-set-screw-connectors-1-2-contractor-50-pk-62707b"
+    },
+    {
+     "lot_number": "149",
+     "title": "Winzer #8x1\" Milled Point Self Tapping Tek Screws - Box of 100",
+     "outcome": "watch_only",
+     "hammer_total": 12.0,
+     "hammer_per_unit": 1.5,
+     "winning_bidder": "4****8",
+     "john_max": 20.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566961-winzer-8x1-milled-point-self-tapping-tek-screws-box-of-100-screws"
+    },
+    {
+     "lot_number": "181",
+     "title": "10 Pack Bag #600739 - 1\" Gas Fitting (MSRP $11.04 each pack)",
+     "outcome": "won",
+     "hammer_total": 3.0,
+     "hammer_per_unit": 3.0,
+     "winning_bidder": "3730",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566932-10-pack-bag-600739-i-gas-fitting-msrp-1104-each-pack"
+    },
+    {
+     "lot_number": "182",
+     "title": "10 Pack Bag #600739 - 1\" Gas Fitting (MSRP $11.04 each pack)",
+     "outcome": "won",
+     "hammer_total": 3.0,
+     "hammer_per_unit": 3.0,
+     "winning_bidder": "3730",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566928-10-pack-bag-600739-i-gas-fitting-msrp-1104-each-pack"
+    },
+    {
+     "lot_number": "183",
+     "title": "10 Pack Bag #600739 - 1\" Gas Fitting (MSRP $11.04 each pack)",
+     "outcome": "won",
+     "hammer_total": 3.0,
+     "hammer_per_unit": 3.0,
+     "winning_bidder": "3730",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566927-10-pack-bag-600739-i-gas-fitting-msrp-1104-each-pack"
+    },
+    {
+     "lot_number": "184",
+     "title": "10 Pack Bag #600739 - 1\" Gas Fitting (MSRP $11.04 each pack)",
+     "outcome": "won",
+     "hammer_total": 3.0,
+     "hammer_per_unit": 3.0,
+     "winning_bidder": "3730",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566926-10-pack-bag-600739-i-gas-fitting-msrp-1104-each-pack"
+    },
+    {
+     "lot_number": "185",
+     "title": "10 Pack Bag #600739 - 1\" Gas Fitting (MSRP $11.04 each pack)",
+     "outcome": "won",
+     "hammer_total": 3.0,
+     "hammer_per_unit": 3.0,
+     "winning_bidder": "3730",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566924-10-pack-bag-600739-i-gas-fitting-msrp-1104-each-pack"
+    },
+    {
+     "lot_number": "186",
+     "title": "10 Pack Bag #600739 - 1\" Gas Fitting (MSRP $11.04 each pack)",
+     "outcome": "won",
+     "hammer_total": 3.0,
+     "hammer_per_unit": 3.0,
+     "winning_bidder": "3730",
+     "john_max": 2.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566925-10-pack-bag-600739-i-gas-fitting-msrp-1104-each-pack"
+    },
+    {
+     "lot_number": "388",
+     "title": "Liquid Wrench 8 oz",
+     "outcome": "removed",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 3.0,
+     "winning_bidder": "1****5",
+     "john_max": 3.75,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566723-liquid-wrench-8-oz"
+    },
+    {
+     "lot_number": "397",
+     "title": "Ryobi 12\" 40V Chainsaw - Saw Only - Tested Works",
+     "outcome": "removed",
+     "hammer_total": 40.0,
+     "hammer_per_unit": 40.0,
+     "winning_bidder": "4****7",
+     "john_max": 39.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566713-ryobi-12-40v-chainsaw-saw-only-tested-works"
+    },
+    {
+     "lot_number": "398",
+     "title": "Ryobi One+ 18V Blower - Tool Only - Tested Works",
+     "outcome": "removed",
+     "hammer_total": 18.0,
+     "hammer_per_unit": 18.0,
+     "winning_bidder": "5****6",
+     "john_max": 15.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566714-ryobi-one-18v-blower-tool-only-no-batt-or-charger-tested-works"
+    },
+    {
+     "lot_number": "399",
+     "title": "Ryobi 18V Blower With 2ah Battery And Charger - Tested Works",
+     "outcome": "removed",
+     "hammer_total": 28.0,
+     "hammer_per_unit": 28.0,
+     "winning_bidder": "4****0",
+     "john_max": 27.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566712-ryobi-18v-blower-with-2ah-battery-and-charger-tested-works"
+    },
+    {
+     "lot_number": "400",
+     "title": "Ryobi 18V Blower With 2ah Battery And Charger - Tested Works",
+     "outcome": "removed",
+     "hammer_total": 28.0,
+     "hammer_per_unit": 28.0,
+     "winning_bidder": "4****0",
+     "john_max": 27.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566711-ryobi-18v-blower-with-2ah-battery-and-charger-tested-works"
+    },
+    {
+     "lot_number": "401",
+     "title": "Ryobi 18V Blower With 2ah Battery And Charger - Tested Works",
+     "outcome": "removed",
+     "hammer_total": 27.25,
+     "hammer_per_unit": 27.25,
+     "winning_bidder": "4****0",
+     "john_max": 27.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566710-ryobi-18v-blower-with-2ah-battery-and-charger-tested-works"
+    },
+    {
+     "lot_number": "434",
+     "title": "11 LED Rechargeable Headlamp",
+     "outcome": "removed",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 4.5,
+     "winning_bidder": "1****5",
+     "john_max": 5.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566676-11-led-rechargeable-headlamp-waterproof-super-bright-indoor-outdoor"
+    },
+    {
+     "lot_number": "435",
+     "title": "11 LED Rechargeable Headlamp",
+     "outcome": "removed",
+     "hammer_total": 9.5,
+     "hammer_per_unit": 4.75,
+     "winning_bidder": "1****5",
+     "john_max": 5.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566679-11-led-rechargeable-headlamp-waterproof-super-bright-indoor-outdoor"
+    },
+    {
+     "lot_number": "59",
+     "title": "Rubbermaid 16\" x 16\" Commercial Microfiber Cloths 24 Pack (MSRP $28.60)",
+     "outcome": "won",
+     "hammer_total": 4.26,
+     "hammer_per_unit": 4.26,
+     "winning_bidder": "3730",
+     "john_max": 6.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567051-rubbermaid-16-x-16-commercial-microfiber-cloths-24-pack-msrp-2860"
+    },
+    {
+     "lot_number": "60",
+     "title": "Rubbermaid 16\" x 16\" Commercial Microfiber Cloths 24 Pack (MSRP $28.60)",
+     "outcome": "outbid",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "3****1",
+     "john_max": 6.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567048-rubbermaid-16-x-16-commercial-microfiber-cloths-24-pack-msrp-2860"
+    },
+    {
+     "lot_number": "61",
+     "title": "Iron Pipe 2\" Tee #70408 (MSRP $14.95 each)",
+     "outcome": "won",
+     "hammer_total": 10.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "3730",
+     "john_max": 30.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567050-iron-pipe-2-tee-70408-msrp-1495-each"
+    },
+    {
+     "lot_number": "62",
+     "title": "Iron Pipe 2\" Tee #70408 (MSRP $14.95 each)",
+     "outcome": "won",
+     "hammer_total": 10.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "3730",
+     "john_max": 30.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567049-iron-pipe-2-tee-70408-msrp-1495-each"
+    },
+    {
+     "lot_number": "63",
+     "title": "Iron Pipe 2\" Tee #70408 (MSRP $14.95 each)",
+     "outcome": "won",
+     "hammer_total": 10.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "3730",
+     "john_max": 30.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567047-iron-pipe-2-tee-70408-msrp-1495-each"
+    },
+    {
+     "lot_number": "636",
+     "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+     "outcome": "removed",
+     "hammer_total": 8.51,
+     "hammer_per_unit": 8.51,
+     "winning_bidder": "1****5",
+     "john_max": 3.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566474-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags"
+    },
+    {
+     "lot_number": "637",
+     "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+     "outcome": "removed",
+     "hammer_total": 9.01,
+     "hammer_per_unit": 9.01,
+     "winning_bidder": "1****5",
+     "john_max": 3.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566476-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags"
+    },
+    {
+     "lot_number": "638",
+     "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+     "outcome": "removed",
+     "hammer_total": 8.51,
+     "hammer_per_unit": 8.51,
+     "winning_bidder": "1****5",
+     "john_max": 3.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566473-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags"
+    },
+    {
+     "lot_number": "639",
+     "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+     "outcome": "removed",
+     "hammer_total": 8.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "1****7",
+     "john_max": 3.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566472-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags"
+    },
+    {
+     "lot_number": "64",
+     "title": "Iron Pipe 2\" Tee #70408 (MSRP $14.95 each)",
+     "outcome": "won",
+     "hammer_total": 8.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "3730",
+     "john_max": 24.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567046-iron-pipe-2-tee-70408-msrp-1495-each"
+    },
+    {
+     "lot_number": "640",
+     "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+     "outcome": "removed",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "1****7",
+     "john_max": 3.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566471-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags"
+    },
+    {
+     "lot_number": "641",
+     "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+     "outcome": "removed",
+     "hammer_total": 8.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "1****7",
+     "john_max": 3.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566470-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags"
+    },
+    {
+     "lot_number": "642",
+     "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+     "outcome": "removed",
+     "hammer_total": 8.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "1****7",
+     "john_max": 3.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566469-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags"
+    },
+    {
+     "lot_number": "643",
+     "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+     "outcome": "removed",
+     "hammer_total": 8.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "1****7",
+     "john_max": 3.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566468-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags"
+    },
+    {
+     "lot_number": "84",
+     "title": "Bucket of Threaded Studs 2 1/8\" - New - Over 100 pcs",
+     "outcome": "won",
+     "hammer_total": 1.5,
+     "hammer_per_unit": 1.5,
+     "winning_bidder": "3730",
+     "john_max": 13.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567026-bucket-of-threaded-studs-2-1-8-new-over-100-pcs"
+    },
+    {
+     "lot_number": "85",
+     "title": "Bucket of Threaded Studs 2 1/8\" - New - Over 100 pcs",
+     "outcome": "won",
+     "hammer_total": 1.0,
+     "hammer_per_unit": 1.0,
+     "winning_bidder": "3730",
+     "john_max": 13.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567025-bucket-of-threaded-studs-2-1-8-new-over-100-pcs"
+    },
+    {
+     "lot_number": "91",
+     "title": "Shield Security Passage Lockset",
+     "outcome": "watch_only",
+     "hammer_total": 7.0,
+     "hammer_per_unit": 0.5,
+     "winning_bidder": "1****4",
+     "john_max": 28.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567019-shield-security-passage-lockset"
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "4****0",
+     "lotsWon": 3,
+     "hammerTotal": 83.25
+    },
+    {
+     "bidder": "1****5",
+     "lotsWon": 6,
+     "hammerTotal": 53.53
+    },
+    {
+     "bidder": "1****7",
+     "lotsWon": 5,
+     "hammerTotal": 40.5
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 1,
+     "hammerTotal": 40.0
+    },
+    {
+     "bidder": "4****8",
+     "lotsWon": 4,
+     "hammerTotal": 18.0
+    },
+    {
+     "bidder": "5****6",
+     "lotsWon": 1,
+     "hammerTotal": 18.0
+    },
+    {
+     "bidder": "1****4",
+     "lotsWon": 1,
+     "hammerTotal": 7.0
+    },
+    {
+     "bidder": "3****8",
+     "lotsWon": 4,
+     "hammerTotal": 7.0
+    },
+    {
+     "bidder": "3****1",
+     "lotsWon": 1,
+     "hammerTotal": 5.5
+    }
+   ],
+   "bidderLots": {
+    "3****1": [
+     {
+      "lot_number": "60",
+      "title": "Rubbermaid 16\" x 16\" Commercial Microfiber Cloths 24 Pack (MSRP $28.60)",
+      "hammer_total": 5.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567048-rubbermaid-16-x-16-commercial-microfiber-cloths-24-pack-msrp-2860",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/ZIuII7qM82ogID8xnPG0UMzD.jpeg"
+     }
+    ],
+    "1****4": [
+     {
+      "lot_number": "91",
+      "title": "Shield Security Passage Lockset",
+      "hammer_total": 7.0,
+      "hammer_per_unit": 0.5,
+      "quantity": 14,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/567019-shield-security-passage-lockset",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/yFhUDnFWFmhjalWErohaqE7q.jpeg"
+     }
+    ],
+    "4****8": [
+     {
+      "lot_number": "114",
+      "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566996-emt-set-screw-connectors-34-contractor-25-pk-62707b",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/N8p5Xiz8aHYc_ii0Q-4TokzR.jpeg"
+     },
+     {
+      "lot_number": "115",
+      "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566995-emt-set-screw-connectors-34-contractor-25-pk-62707b",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/8WZi0JyY8C5Pj3Sm3f_OKc6R.jpeg"
+     },
+     {
+      "lot_number": "116",
+      "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566994-emt-set-screw-connectors-34-contractor-25-pk-62707b",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/F1q6ZYzn6ycGo8dLWkqQR9a-.jpeg"
+     },
+     {
+      "lot_number": "149",
+      "title": "Winzer #8x1\" Milled Point Self Tapping Tek Screws - Box of 100",
+      "hammer_total": 12.0,
+      "hammer_per_unit": 1.5,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566961-winzer-8x1-milled-point-self-tapping-tek-screws-box-of-100-screws",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/HeXOR6tpBNZRkgWPyhJ5ZEl_.jpeg"
+     }
+    ],
+    "3****8": [
+     {
+      "lot_number": "117",
+      "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+      "hammer_total": 1.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566993-emt-set-screw-connectors-34-contractor-25-pk-62707b",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/6sptURAKqqUjpWHOvyr7T0Go.jpeg"
+     },
+     {
+      "lot_number": "118",
+      "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+      "hammer_total": 1.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566992-emt-set-screw-connectors-34-contractor-25-pk-62707b",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/-yjdp2qsLPChS4284xsfdCkR.jpeg"
+     },
+     {
+      "lot_number": "119",
+      "title": "EMT Set Screw Connectors 3/4\" Contractor 25 Pk #62707B",
+      "hammer_total": 1.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566991-emt-set-screw-connectors-34-contractor-25-pk-62707b",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/wEgI0L14noHgdAFUsHTvCZJM.jpeg"
+     },
+     {
+      "lot_number": "120",
+      "title": "EMT Set Screw Connectors 1/2\" Contractor 50 Pk #62707B",
+      "hammer_total": 1.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566989-emt-set-screw-connectors-1-2-contractor-50-pk-62707b",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/3AcGEfv29E69Gr66_SwsJEAR.jpeg"
+     }
+    ],
+    "1****5": [
+     {
+      "lot_number": "388",
+      "title": "Liquid Wrench 8 oz",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 3.0,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566723-liquid-wrench-8-oz",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/hYyi2-jN5SU0J0wrcVN5_6GF.jpeg"
+     },
+     {
+      "lot_number": "434",
+      "title": "11 LED Rechargeable Headlamp",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 4.5,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566676-11-led-rechargeable-headlamp-waterproof-super-bright-indoor-outdoor",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/3NS2t8wbXjU15w0D9MRPTWa2.png"
+     },
+     {
+      "lot_number": "435",
+      "title": "11 LED Rechargeable Headlamp",
+      "hammer_total": 9.5,
+      "hammer_per_unit": 4.75,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566679-11-led-rechargeable-headlamp-waterproof-super-bright-indoor-outdoor",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/kTbQPmCMElLpjwu4WVBlhOPS.png"
+     },
+     {
+      "lot_number": "636",
+      "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+      "hammer_total": 8.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566474-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/LWXUAmojy-y9bZsHqOHj9kHb.jpeg"
+     },
+     {
+      "lot_number": "637",
+      "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+      "hammer_total": 9.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566476-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/-g1fMwWK93fOuSAHc8U6hwew.jpeg"
+     },
+     {
+      "lot_number": "638",
+      "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+      "hammer_total": 8.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566473-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/X55__73S5R4887BncqQonJbF.jpeg"
+     }
+    ],
+    "4****7": [
+     {
+      "lot_number": "397",
+      "title": "Ryobi 12\" 40V Chainsaw - Saw Only - Tested Works",
+      "hammer_total": 40.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566713-ryobi-12-40v-chainsaw-saw-only-tested-works",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/34nM4r3dfvBqbIPIQPqBw5Ri.jpeg"
+     }
+    ],
+    "5****6": [
+     {
+      "lot_number": "398",
+      "title": "Ryobi One+ 18V Blower - Tool Only - Tested Works",
+      "hammer_total": 18.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566714-ryobi-one-18v-blower-tool-only-no-batt-or-charger-tested-works",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/MAkzrsplSASpLyGT0rsC6p8t.jpeg"
+     }
+    ],
+    "4****0": [
+     {
+      "lot_number": "399",
+      "title": "Ryobi 18V Blower With 2ah Battery And Charger - Tested Works",
+      "hammer_total": 28.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566712-ryobi-18v-blower-with-2ah-battery-and-charger-tested-works",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/-qXyW6CbL5ylLpMccxDqXVvv.jpeg"
+     },
+     {
+      "lot_number": "400",
+      "title": "Ryobi 18V Blower With 2ah Battery And Charger - Tested Works",
+      "hammer_total": 28.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566711-ryobi-18v-blower-with-2ah-battery-and-charger-tested-works",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/D9jpcqAv-rwetm9mWj6yxtiQ.jpeg"
+     },
+     {
+      "lot_number": "401",
+      "title": "Ryobi 18V Blower With 2ah Battery And Charger - Tested Works",
+      "hammer_total": 27.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566710-ryobi-18v-blower-with-2ah-battery-and-charger-tested-works",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/Vt-n1R1jSzAXrDoNrNn8ClPE.jpeg"
+     }
+    ],
+    "1****7": [
+     {
+      "lot_number": "639",
+      "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566472-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/pdIzkDT2bi6kyAINFxNt_bK5.jpeg"
+     },
+     {
+      "lot_number": "640",
+      "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+      "hammer_total": 8.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566471-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/gSLVE6QxCU6m9Dat6RQUr0qJ.jpeg"
+     },
+     {
+      "lot_number": "641",
+      "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566470-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/jgc0xqNpru8jbBMTYiTU39aJ.jpeg"
+     },
+     {
+      "lot_number": "642",
+      "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566469-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/XdRCZ_5JUWCjuyV1BYJcjF5Q.jpeg"
+     },
+     {
+      "lot_number": "643",
+      "title": "1 Gallon Bags - Freezer - Food Grade - Press To Close Seal Top - 100 Bags",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566468-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/oRHAjh1piNEkmaPY4vEQW6bM.jpeg"
      }
     ]
    }
