@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-14T14:45:31+00:00",
+ "generated_at": "2026-11-15T14:45:29+00:00",
  "sales": [
+  {
+   "saleId": 315,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "",
+   "soldDate": "2026-11-14",
+   "gross": 60.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5842,
+     "description": "Ridgid OF60150HB 6-gal pancake air compressor",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 314,
    "platform": "facebook",
