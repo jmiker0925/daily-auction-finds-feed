@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T07:43:22.749305-06:00",
+ "generatedAt": "2026-11-16T07:43:18.316818-06:00",
  "auctions": [
   {
    "id": "HiBid-ElmMott",
@@ -233,7 +233,7 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "3 bids at pull. Resale est $10 (5-gal Pro Duty, ~$15\u2013$20 new). Pulled 11/12/2026 ~9:17 AM CST from John's watchlist (bidder 3730). Max from our own comps (50% ROI ceiling)."
+     "notes": "3 bids at pull. Resale est $10 (5-gal Pro Duty, ~$15\u2013$20 new). Pulled 11/12/2026 ~9:17 AM CST from John's watchlist (bidder 3730). Max from our own comps (50% ROI ceiling). REMOVED 2026-11-15 ~9:35 AM CST: current bid $4.25 (12 bids, leader 2****3) exceeded sheet max $4 and John's site max $4 \u2014 removed from watch per standing over-max rule; removed from John's site watchlist (verified signed-in)."
     },
     {
      "lotNumber": 275,
@@ -251,7 +251,7 @@
      "priority": "High",
      "authorization": "Awaiting Approval",
      "miles": 20,
-     "notes": "2 bids at pull. Same item as lot 274. Pulled 11/12/2026 ~9:17 AM CST from John's watchlist (bidder 3730). Max from our own comps (50% ROI ceiling)."
+     "notes": "2 bids at pull. Same item as lot 274. Pulled 11/12/2026 ~9:17 AM CST from John's watchlist (bidder 3730). Max from our own comps (50% ROI ceiling). REMOVED 2026-11-15 ~9:35 AM CST: current bid $4.25 (7 bids, leader 2****3) exceeded sheet max $4 and John's site max $4 \u2014 removed from watch per standing over-max rule; removed from John's site watchlist (verified signed-in)."
     },
     {
      "lotNumber": 276,
