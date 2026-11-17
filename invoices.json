@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T14:46:18+00:00",
+ "generated_at": "2026-11-17T14:46:55+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -2264,10 +2264,10 @@
        "lotNumber": "559",
        "description": "Ramset Cobra+ 0.27 cal semi-auto powder actuated tool, new in case (unit of 3)",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 26.99,
        "allInCost": 33.6,
-       "status": "in_stock"
+       "status": "sold"
       },
       {
        "itemId": 35,
@@ -2387,10 +2387,10 @@
        "lotNumber": "540",
        "description": "Ridgid 6-gal air compressor $52.99",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 52.99,
        "allInCost": 84.38,
-       "status": "in_stock"
+       "status": "sold"
       },
       {
        "itemId": 47,
@@ -8796,10 +8796,10 @@
        "lotNumber": "1091",
        "description": "Delta bench grinder $95.00",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 95.0,
        "allInCost": 118.27,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
@@ -9628,10 +9628,10 @@
        "lotNumber": "533",
        "description": "Metabo impact driver $19.00",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 19.0,
        "allInCost": 23.66,
-       "status": "in_stock"
+       "status": "sold"
       },
       {
        "itemId": 631,
