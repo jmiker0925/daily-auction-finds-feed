@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T07:44:00.878507-06:00",
+ "generatedAt": "2026-11-17T07:44:08.731291-06:00",
  "auctions": [
   {
    "id": "1130",
@@ -68065,6 +68065,259 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1166/lot/566468-1-gallon-bags-freezer-food-grade-press-to-close-seal-top-100-bags",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/oRHAjh1piNEkmaPY4vEQW6bM.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "1170",
+   "site": "Auction HUB Texas",
+   "name": "Auction House \u2014 Mockingbird Lane, Dallas",
+   "closeDate": "2026-11-16",
+   "location": "634 W Mockingbird Ln, Dallas, TX 75247",
+   "lots": [
+    {
+     "lot_number": "137",
+     "title": "Milwaukee M18 18-Volt Lithium-Ion Cordless 6-1/2 in. Circular Saw (Tool Only) - Model 2630-20",
+     "outcome": "removed",
+     "hammer_total": 52.0,
+     "hammer_per_unit": 52.0,
+     "winning_bidder": "1****8",
+     "john_max": 50.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570069-milwaukee-m18-18-volt-lithium-ion-cordless-6-1-2-in-circular-saw-tool-only-model-2630-20"
+    },
+    {
+     "lot_number": "139",
+     "title": "DeWalt 10-inch Single-Bevel Compound Miter Saw (Model DW713)",
+     "outcome": "outbid",
+     "hammer_total": 47.0,
+     "hammer_per_unit": 47.0,
+     "winning_bidder": "1****8",
+     "john_max": 45.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570065-dewalt-10-inch-single-bevel-compound-miter-saw-model-dw713"
+    },
+    {
+     "lot_number": "143",
+     "title": "Milwaukee M18 FUEL Compact Router (Tool Only - 2723-20)",
+     "outcome": "removed",
+     "hammer_total": 52.0,
+     "hammer_per_unit": 52.0,
+     "winning_bidder": "6****2",
+     "john_max": 50.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570063-milwaukee-m18-fuel-compact-router-tool-only-2723-20"
+    },
+    {
+     "lot_number": "157",
+     "title": "Ryobi 8-Piece Forstner Bit Set (Model A9F8BR1)",
+     "outcome": "removed",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "1****8",
+     "john_max": 6.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570051-ryobi-8-piece-forstner-bit-set-model-a9f8br1"
+    },
+    {
+     "lot_number": "160",
+     "title": "Milwaukee 4-Piece Hand Tool Assortment (Multi-Bit Screwdriver, Precision Drivers, and Pliers)",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "1****8",
+     "john_max": 10.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570046-milwaukee-4-piece-hand-tool-assortment-multi-bit-screwdriver-precision-drivers-and-pliers"
+    },
+    {
+     "lot_number": "161",
+     "title": "Bostitch DA1564-E 15-Gauge Angled Finish Nailer",
+     "outcome": "removed",
+     "hammer_total": 20.0,
+     "hammer_per_unit": 20.0,
+     "winning_bidder": "6****6",
+     "john_max": 19.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570045-bostitch-da1564-e-15-gauge-angled-finish-nailer"
+    },
+    {
+     "lot_number": "176",
+     "title": "Steel Corner Braces, L-Shaped Mending Plates",
+     "outcome": "won",
+     "hammer_total": 4.0,
+     "hammer_per_unit": 4.0,
+     "winning_bidder": "3730",
+     "john_max": 4.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570028-steel-corner-braces-l-shaped-mending-plates"
+    },
+    {
+     "lot_number": "188",
+     "title": "Husky Precision Pick and Hook Set (5-Piece)",
+     "outcome": "won",
+     "hammer_total": 3.25,
+     "hammer_per_unit": 3.25,
+     "winning_bidder": "3730",
+     "john_max": 3.25,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570018-husky-precision-pick-and-hook-set-5-piece"
+    },
+    {
+     "lot_number": "272",
+     "title": "Husky Connect Rolling Tool Box",
+     "outcome": "won",
+     "hammer_total": 19.0,
+     "hammer_per_unit": 19.0,
+     "winning_bidder": "3730",
+     "john_max": 19.99,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/569934-husky-connect-rolling-tool-box"
+    },
+    {
+     "lot_number": "273",
+     "title": "Husky 20 Gallon Professional-Duty Storage Container (Model 1004 784 796)",
+     "outcome": "won",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 9.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/569933-husky-20-gallon-professional-duty-storage-container-model-1004-784-796"
+    },
+    {
+     "lot_number": "274",
+     "title": "Husky 5-Gallon Professional-Duty Water and Dust Proof Storage Container",
+     "outcome": "removed",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "6****2",
+     "john_max": 4.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/569932-husky-5-gallon-professional-duty-water-and-dust-proof-storage-container"
+    },
+    {
+     "lot_number": "275",
+     "title": "Husky 5-Gallon Professional-Duty Water and Dust-Proof Storage Container",
+     "outcome": "won",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "3730",
+     "john_max": 5.5,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/569931-husky-5-gallon-professional-duty-water-and-dust-proof-storage-container"
+    },
+    {
+     "lot_number": "276",
+     "title": "Husky 18-Inch Technician Tool Backpack",
+     "outcome": "won",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "3730",
+     "john_max": 9.99,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/569929-husky-18-inch-technician-tool-backpack"
+    },
+    {
+     "lot_number": "286",
+     "title": "Milwaukee M18 FUEL 9-inch Cut-Off Saw (2786-20)",
+     "outcome": "removed",
+     "hammer_total": 230.0,
+     "hammer_per_unit": 230.0,
+     "winning_bidder": "6****8",
+     "john_max": 150.0,
+     "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/569920-milwaukee-m18-fuel-9-inch-cut-off-saw-2786-20"
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "6****8",
+     "lotsWon": 1,
+     "hammerTotal": 230.0
+    },
+    {
+     "bidder": "1****8",
+     "lotsWon": 4,
+     "hammerTotal": 118.75
+    },
+    {
+     "bidder": "6****2",
+     "lotsWon": 2,
+     "hammerTotal": 57.5
+    },
+    {
+     "bidder": "6****6",
+     "lotsWon": 1,
+     "hammerTotal": 20.0
+    }
+   ],
+   "bidderLots": {
+    "1****8": [
+     {
+      "lot_number": "137",
+      "title": "Milwaukee M18 18-Volt Lithium-Ion Cordless 6-1/2 in. Circular Saw (Tool Only) - Model 2630-20",
+      "hammer_total": 52.0,
+      "hammer_per_unit": 52.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570069-milwaukee-m18-18-volt-lithium-ion-cordless-6-1-2-in-circular-saw-tool-only-model-2630-20",
+      "photo_url": null
+     },
+     {
+      "lot_number": "139",
+      "title": "DeWalt 10-inch Single-Bevel Compound Miter Saw (Model DW713)",
+      "hammer_total": 47.0,
+      "hammer_per_unit": 47.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570065-dewalt-10-inch-single-bevel-compound-miter-saw-model-dw713",
+      "photo_url": null
+     },
+     {
+      "lot_number": "157",
+      "title": "Ryobi 8-Piece Forstner Bit Set (Model A9F8BR1)",
+      "hammer_total": 9.0,
+      "hammer_per_unit": 9.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570051-ryobi-8-piece-forstner-bit-set-model-a9f8br1",
+      "photo_url": null
+     },
+     {
+      "lot_number": "160",
+      "title": "Milwaukee 4-Piece Hand Tool Assortment (Multi-Bit Screwdriver, Precision Drivers, and Pliers)",
+      "hammer_total": 10.75,
+      "hammer_per_unit": 10.75,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570046-milwaukee-4-piece-hand-tool-assortment-multi-bit-screwdriver-precision-drivers-and-pliers",
+      "photo_url": null
+     }
+    ],
+    "6****2": [
+     {
+      "lot_number": "143",
+      "title": "Milwaukee M18 FUEL Compact Router (Tool Only - 2723-20)",
+      "hammer_total": 52.0,
+      "hammer_per_unit": 52.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570063-milwaukee-m18-fuel-compact-router-tool-only-2723-20",
+      "photo_url": null
+     },
+     {
+      "lot_number": "274",
+      "title": "Husky 5-Gallon Professional-Duty Water and Dust Proof Storage Container",
+      "hammer_total": 5.5,
+      "hammer_per_unit": 5.5,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/569932-husky-5-gallon-professional-duty-water-and-dust-proof-storage-container",
+      "photo_url": null
+     }
+    ],
+    "6****6": [
+     {
+      "lot_number": "161",
+      "title": "Bostitch DA1564-E 15-Gauge Angled Finish Nailer",
+      "hammer_total": 20.0,
+      "hammer_per_unit": 20.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/570045-bostitch-da1564-e-15-gauge-angled-finish-nailer",
+      "photo_url": null
+     }
+    ],
+    "6****8": [
+     {
+      "lot_number": "286",
+      "title": "Milwaukee M18 FUEL 9-inch Cut-Off Saw (2786-20)",
+      "hammer_total": 230.0,
+      "hammer_per_unit": 230.0,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/569920-milwaukee-m18-fuel-9-inch-cut-off-saw-2786-20",
+      "photo_url": null
      }
     ]
    }
