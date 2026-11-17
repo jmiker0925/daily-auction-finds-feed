@@ -1,6 +1,101 @@
 {
- "generated_at": "2026-11-16T14:46:01+00:00",
+ "generated_at": "2026-11-17T14:46:38+00:00",
  "sales": [
+  {
+   "saleId": 320,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "",
+   "soldDate": "2026-11-16",
+   "gross": 140.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 33.6,
+   "profit": 106.4,
+   "allocations": [
+    {
+     "itemId": 34,
+     "description": "Ramset Cobra+ 0.27 cal semi-auto powder actuated tool, new in case (unit of 3)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 319,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "",
+   "soldDate": "2026-11-16",
+   "gross": 80.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 84.38,
+   "profit": -4.38,
+   "allocations": [
+    {
+     "itemId": 46,
+     "description": "Ridgid 6-gal air compressor $52.99",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 318,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Metabo 18V Sub-Compact Impact Driver (Tool Only)",
+   "soldDate": "2026-11-16",
+   "gross": 55.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 23.66,
+   "profit": 31.34,
+   "allocations": [
+    {
+     "itemId": 630,
+     "description": "Metabo impact driver $19.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 317,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "",
+   "soldDate": "2026-11-16",
+   "gross": 85.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 118.27,
+   "profit": -33.27,
+   "allocations": [
+    {
+     "itemId": 565,
+     "description": "Delta bench grinder $95.00",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 316,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Toilettree Stainless Steel Toilet Plunger and Bowl Brush Combo for Bathroom Cleaning with Holder",
+   "soldDate": "2026-11-16",
+   "gross": 10.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5846,
+     "description": "Toilettree Stainless Steel Toilet Plunger and Bowl Brush Combo with Holder",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 315,
    "platform": "facebook",
