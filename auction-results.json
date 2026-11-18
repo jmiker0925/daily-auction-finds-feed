@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T07:44:00.344230-06:00",
+ "generatedAt": "2026-11-18T09:49:32.753897-06:00",
  "auctions": [
   {
    "id": "1130",
@@ -47465,12 +47465,477 @@
    "rivals": [
     {
      "bidder": "5****7",
+     "lotsWon": 57,
+     "hammerTotal": 2184.11
+    },
+    {
+     "bidder": "4****3",
+     "lotsWon": 86,
+     "hammerTotal": 746.55
+    },
+    {
+     "bidder": "1****2",
+     "lotsWon": 27,
+     "hammerTotal": 726.02
+    },
+    {
+     "bidder": "2****0",
+     "lotsWon": 24,
+     "hammerTotal": 684.62
+    },
+    {
+     "bidder": "2****2",
+     "lotsWon": 47,
+     "hammerTotal": 666.42
+    },
+    {
+     "bidder": "2****7",
+     "lotsWon": 6,
+     "hammerTotal": 512.0
+    },
+    {
+     "bidder": "1****6",
+     "lotsWon": 37,
+     "hammerTotal": 454.55
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 19,
+     "hammerTotal": 432.0
+    },
+    {
+     "bidder": "6****8",
+     "lotsWon": 22,
+     "hammerTotal": 385.62
+    },
+    {
+     "bidder": "1****7",
+     "lotsWon": 5,
+     "hammerTotal": 343.0
+    },
+    {
+     "bidder": "1****4",
+     "lotsWon": 12,
+     "hammerTotal": 256.51
+    },
+    {
+     "bidder": "1****0",
+     "lotsWon": 14,
+     "hammerTotal": 221.11
+    },
+    {
+     "bidder": "6****5",
+     "lotsWon": 21,
+     "hammerTotal": 203.01
+    },
+    {
+     "bidder": "5****5",
+     "lotsWon": 8,
+     "hammerTotal": 165.0
+    },
+    {
+     "bidder": "2****9",
+     "lotsWon": 9,
+     "hammerTotal": 143.55
+    },
+    {
+     "bidder": "2****1",
+     "lotsWon": 9,
+     "hammerTotal": 100.0
+    },
+    {
+     "bidder": "1****1",
+     "lotsWon": 11,
+     "hammerTotal": 87.01
+    },
+    {
+     "bidder": "6****2",
+     "lotsWon": 2,
+     "hammerTotal": 80.0
+    },
+    {
+     "bidder": "4****2",
+     "lotsWon": 5,
+     "hammerTotal": 79.0
+    },
+    {
+     "bidder": "1****8",
+     "lotsWon": 2,
+     "hammerTotal": 70.25
+    },
+    {
+     "bidder": "4****8",
+     "lotsWon": 2,
+     "hammerTotal": 58.0
+    },
+    {
+     "bidder": "6****7",
      "lotsWon": 1,
-     "hammerTotal": 73.0
+     "hammerTotal": 56.11
+    },
+    {
+     "bidder": "2****6",
+     "lotsWon": 5,
+     "hammerTotal": 47.0
+    },
+    {
+     "bidder": "3****1",
+     "lotsWon": 5,
+     "hammerTotal": 41.0
+    },
+    {
+     "bidder": "5****3",
+     "lotsWon": 3,
+     "hammerTotal": 21.51
+    },
+    {
+     "bidder": "5****9",
+     "lotsWon": 3,
+     "hammerTotal": 15.0
+    },
+    {
+     "bidder": "6****4",
+     "lotsWon": 2,
+     "hammerTotal": 14.0
+    },
+    {
+     "bidder": "3****5",
+     "lotsWon": 3,
+     "hammerTotal": 10.02
+    },
+    {
+     "bidder": "1****5",
+     "lotsWon": 1,
+     "hammerTotal": 8.01
+    },
+    {
+     "bidder": "4****5",
+     "lotsWon": 4,
+     "hammerTotal": 6.0
+    },
+    {
+     "bidder": "4****0",
+     "lotsWon": 1,
+     "hammerTotal": 4.0
+    },
+    {
+     "bidder": "2****8",
+     "lotsWon": 1,
+     "hammerTotal": 3.0
     }
    ],
    "bidderLots": {
+    "5****5": [
+     {
+      "lot_number": 1,
+      "title": "HP EliteDesk 800 G1 | i5-4590 @ 3.3 GHz | 16gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558863-hp-elitedesk-800-g1-i5-4590-33-ghz-16gb-ram-250gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 175,
+      "title": "Misc Tool Bags | Stanley | McGuire-Nicholas | Voyager -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559092-misc-tool-bags-stanley-mcguire-nicholas-voyager-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 237,
+      "title": "Toshiba Tecra Z-50-D | i5-6300U @ 2.4GHz | 8gb RAM | 256gb SSD | Windows 11 Pro Installed -|- [DFWSH009]",
+      "hammer_total": 62.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559031-toshiba-tecra-z-50-d-i5-6300u-24ghz-8gb-ram-256gb-ssd-windows-11-pro-installed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 310,
+      "title": "Apple iMac 21.5\" | 2.7 GHz i5 Quad-Core | 8gb RAM | 1tb HDD | Fresh OS Installed -|- [DFWSH001]",
+      "hammer_total": 51.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558959-apple-imac-215-27-ghz-i5-quad-core-8gb-ram-1tb-hdd-fresh-os-installed-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 311,
+      "title": "Apple iMac 27\" | 3.06 GHz Intel Core 2 Duo | 4gb RAM | 1th HDD | ATI Radeon HD 4670 | iMac10,1 | w/Wireless Keyboard & Mouse -|- [DFWSH008]",
+      "hammer_total": 24.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558957-apple-imac-27-306-ghz-intel-core-2-duo-4gb-ram-1th-hdd-ati-radeon-hd-4670-imac10-1-w-wireless-keyboard-and-mouse-dfwsh008",
+      "photo_url": null
+     },
+     {
+      "lot_number": 365,
+      "title": "Thermal Printer Lables | 2 1/4in X 4in Dymo\u00ae Compatible 30857 Name Badge Labels | 250 Per Roll | DL2.2X4NAMELABEL -|- [DFWSH002]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558903-thermal-printer-lables-2-1-4in-x-4in-dymo-compatible-30857-name-badge-labels-250-per-roll-dl22x4namelabel-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 387,
+      "title": "BlueParrott B350-XT \\ BlueTooth Headset | USB Charge | Used -|- [DFWSH001]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558881-blueparrott-b350-xt-bluetooth-headset-usb-charge-used-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 390,
+      "title": "NextGadget USB Wall Charger | 8-port | LCD Display | Model: YC-CDA19 -|- [DFWSH001]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558878-nextgadget-usb-wall-charger-8-port-lcd-display-model-yc-cda19-dfwsh001",
+      "photo_url": null
+     }
+    ],
+    "6****5": [
+     {
+      "lot_number": 2,
+      "title": "Dell OptiPlex 3050 | i5-7500 @ 3.4 GHz | Service Tag: HYK0Q52 | Bare Bones System | No Storage & RAM | UnTested -|- [DFWSH009]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558864-dell-optiplex-3050-i5-7500-34-ghz-service-tag-hyk0q52-bare-bones-system-no-storage-and-ram-untested-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 5,
+      "title": "HP ProDesk 600 G1 | No Storage & RAM | UnTested -|- [DFWSH009]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558867-hp-prodesk-600-g1-no-storage-and-ram-untested-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 17,
+      "title": "HP ProDesk 600 G1 | No RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559262-hp-prodesk-600-g1-no-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 18,
+      "title": "HP ProDesk 600 G1 | 8gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559250-hp-prodesk-600-g1-8gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 19,
+      "title": "HP EliteDesk 800 G1 | No RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559247-hp-elitedesk-800-g1-no-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 20,
+      "title": "HP EliteDesk 800 G1 | No RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559246-hp-elitedesk-800-g1-no-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 22,
+      "title": "HP ProDesk 600 G1 | No RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559249-hp-prodesk-600-g1-no-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 78,
+      "title": "NIB - HP Halley Wired USB 302K Keyboard | L96909-001 | Black -|- [DFWSH001]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559191-nib-hp-halley-wired-usb-302k-keyboard-l96909-001-black-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 84,
+      "title": "NIB - HP Halley Wired USB 302K Keyboard | L96909-001 | Black -|- [DFWSH001]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559184-nib-hp-halley-wired-usb-302k-keyboard-l96909-001-black-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 85,
+      "title": "NIB - Misc Branded Slim Line Keyboards | Black -|- [DFWSH001]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559183-nib-misc-branded-slim-line-keyboards-black-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 207,
+      "title": "NIB - Mice | Dell & HP -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559061-nib-mice-dell-and-hp-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 238,
+      "title": "HP ProBook 650 G2 | i5-6200U @ 2.3GHz | 8gb RAM | 256gb SSD | Windows 11 Pro Installed -|- [DFWSH009]",
+      "hammer_total": 44.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559030-hp-probook-650-g2-i5-6200u-23ghz-8gb-ram-256gb-ssd-windows-11-pro-installed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 302,
+      "title": "HP 280 G2 SFF Business PC | 4gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558968-hp-280-g2-sff-business-pc-4gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 305,
+      "title": "iPhone 12 | 128gb | Blue | Carrier UNLOCKED | iCloud Unlocked | Bettery Health 77% -|- [DFWSH001]",
+      "hammer_total": 96.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558964-iphone-12-128gb-blue-carrier-unlocked-icloud-unlocked-bettery-health-77-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 323,
+      "title": "HP ProDesk 600 G1 | No Ram | No Storage -|- [DFWSH015]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558945-hp-prodesk-600-g1-no-ram-no-storage-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 326,
+      "title": "CCTV Power Supply Box | HT1216 | 10A | 16 Channel -|- [DFWSH015]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558941-cctv-power-supply-box-ht1216-10a-16-channel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 384,
+      "title": "Heil HAM Radio Mic | HC-5 | HM-10 | Narrow/Wide Selector | Integrated PTT Button -|- [DFWSH002]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558884-heil-ham-radio-mic-hc-5-hm-10-narrow-wide-selector-integrated-ptt-button-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 409,
+      "title": "Maroon Colored Church/Conference Chairs -|- [DFWSH002]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560852-maroon-colored-church-conference-chairs-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 410,
+      "title": "PBX ESI-50 | 5000-0495 | CF and PHMG Media Hub Part 60936 | w/Proprietary USB Drive Included -|- [DFWSH009]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560853-pbx-esi-50-5000-0495-cf-and-phmg-media-hub-part-60936-w-proprietary-usb-drive-included-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 437,
+      "title": "Google Hangouts Meet Speakermic -|- [DFWSH003]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560880-google-hangouts-meet-speakermic-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 483,
+      "title": "Hisense Refrigerator Beverage Cooler | For Parts or Repair -|- [DFWSH002]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560926-hisense-refrigerator-beverage-cooler-for-parts-or-repair-dfwsh002",
+      "photo_url": null
+     }
+    ],
     "5****7": [
+     {
+      "lot_number": 3,
+      "title": "Dell OptiPlex 3050 | i5-7500 @ 3.4 GHz | 8gb RAM | 250gb SSD | Windows 10 PRO | DVD-RW -|- [DFWSH009]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558866-dell-optiplex-3050-i5-7500-34-ghz-8gb-ram-250gb-ssd-windows-10-pro-dvd-rw-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 8,
+      "title": "HP Omen Obelisk GAMING Desktop i7-9700 @ 3.0 GHz | 16gb RAM | 250gb SSD | Windows 10 Pro | NVIDA GeForce GTX1660 Ti -|- [DFWSH009]",
+      "hammer_total": 190.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559259-hp-omen-obelisk-gaming-desktop-i7-9700-30-ghz-16gb-ram-250gb-ssd-windows-10-pro-nvida-geforce-gtx1660-ti-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 29,
+      "title": "HP OfficeJet Pro X576dw Inkjet Printer | Scanner | Fax | Copier | USB | WiFi | Network - Powers ON - No addational testing performed -|- [DFWSH016]",
+      "hammer_total": 20.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559238-hp-officejet-pro-x576dw-inkjet-printer-scanner-fax-copier-usb-wifi-network-powers-on-no-addational-testing-performed-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 30,
+      "title": "HP Color LaserJet Pro M277dw Inkjet Printer | Scanner | Fax | Copier | USB | WiFi | Network - Powers ON - No addational testing performed -|- [DFWSH016]",
+      "hammer_total": 86.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559237-hp-color-laserjet-pro-m277dw-inkjet-printer-scanner-fax-copier-usb-wifi-network-powers-on-no-addational-testing-performed-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 31,
+      "title": "UPS - CyberPower PR1500LCD - Uninterruptible Battery Backup -|- [DFWSH016]",
+      "hammer_total": 39.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559235-ups-cyberpower-pr1500lcd-uninterruptible-battery-backup-dfwsh016",
+      "photo_url": null
+     },
      {
       "lot_number": 44,
       "title": "NIB - Makita Cordless Plate Joiner | XJP03Z | 18v Lithiun-ion -|- [DFWSH001]",
@@ -47479,6 +47944,3835 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559268-nib-makita-cordless-plate-joiner-xjp03z-18v-lithiun-ion-dfwsh001",
       "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/10/medium/jOAVeZ7ZXdPISAUHryymDf9-.jpeg"
+     },
+     {
+      "lot_number": 74,
+      "title": "Ryobi ONE+ 18V Cordless 7-1/4 in. Compound Miter Saw | Diablo Blade 36 teeth, Wood & Metal | Used | New Battery & Charger Not Included | Home Depot Pricing: $129 -|- [DFWSH001]",
+      "hammer_total": 50.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559194-ryobi-one-18v-cordless-7-14-in-compound-miter-saw-diablo-blade-36-teeth-wood-and-metal-used-new-battery-and-charger-not-included-home-depot-pricing-129-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 101,
+      "title": "Dell OptiPlex 3020 | i5-4590 @ 3.3GHz | 8gb RAM | 500gb HHD | Windows 11 PRO -|- [DFWSH009]",
+      "hammer_total": 13.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559167-dell-optiplex-3020-i5-4590-33ghz-8gb-ram-500gb-hhd-windows-11-pro-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 103,
+      "title": "Dell OptiPlex 3040 | i5-6500 | No RAM | No Storage | Service Tag: 2WK37J2 -|- [DFWSH009]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559165-dell-optiplex-3040-i5-6500-no-ram-no-storage-service-tag-2wk37j2-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 112,
+      "title": "Rode VideoMic Pro+ | Professional HotShot DSLR Mic -|- [DFWSH002]",
+      "hammer_total": 31.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559156-rode-videomic-pro-professional-hotshot-dslr-mic-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 165,
+      "title": "NIB - Etekcity WiFi Smart 3-Way Light Switch 2-pack | ESWL03 | A19 LED Lightbulb -|- [DFWSH001]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559103-nib-etekcity-wifi-smart-3-way-light-switch-2-pack-eswl03-a19-led-lightbulb-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 166,
+      "title": "NIB - Etekcity WiFi Smart 3-Way Light Switch 2-pack | ESWL03 | A19 LED Lightbulb -|- [DFWSH001]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559102-nib-etekcity-wifi-smart-3-way-light-switch-2-pack-eswl03-a19-led-lightbulb-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 171,
+      "title": "25' Copper Ice Maker Installation Kit | 1/4 in OD | w/ Valve | Copper -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559097-25-copper-ice-maker-installation-kit-14-in-od-w-valve-copper-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 214,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 38.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559056-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 215,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559055-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 216,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559052-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 217,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559051-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 218,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559050-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 220,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559048-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 224,
+      "title": "NIB - Retevis RT29 | UHF DMR Two Way Radio | 10W | 3200mAh | USB-C Charging | Long Range Walkie Talkie -|- [DFWSH009]",
+      "hammer_total": 13.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559045-nib-retevis-rt29-uhf-dmr-two-way-radio-10w-3200mah-usb-c-charging-long-range-walkie-talkie-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 225,
+      "title": "Retevis RT29 | UHF DMR Two Way Radio | 10W | 3200mAh | USB-C Charging | Long Range Walkie Talkie -|- [DFWSH009]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559043-retevis-rt29-uhf-dmr-two-way-radio-10w-3200mah-usb-c-charging-long-range-walkie-talkie-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 231,
+      "title": "Toshiba Tecra A50-D | i5-7200U @ 2.5GHz | 16gb RAM | 256gb SSD | Windows 11 Pro Installed -|- [DFWSH009]",
+      "hammer_total": 52.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559037-toshiba-tecra-a50-d-i5-7200u-25ghz-16gb-ram-256gb-ssd-windows-11-pro-installed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 232,
+      "title": "Toshiba Tecra A50-D | i5-7200U @ 2.5GHz | 8gb RAM | 256gb SSD | Windows 11 Pro Installed -|- [DFWSH009]",
+      "hammer_total": 51.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559036-toshiba-tecra-a50-d-i5-7200u-25ghz-8gb-ram-256gb-ssd-windows-11-pro-installed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 233,
+      "title": "Toshiba Tecra A50-C1543 | i5-6300U @ 2.4GHz | 8gb RAM | 256gb SSD | Windows 11 Pro Installed -|- [DFWSH009]",
+      "hammer_total": 50.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559035-toshiba-tecra-a50-c1543-i5-6300u-24ghz-8gb-ram-256gb-ssd-windows-11-pro-installed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 236,
+      "title": "Toshiba Tecra Z-50-A1510 | i5-4210U @ 1.7GHz | 8gb RAM | 256gb SSD | Windows 11 Pro Installed -|- [DFWSH009]",
+      "hammer_total": 49.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559032-toshiba-tecra-z-50-a1510-i5-4210u-17ghz-8gb-ram-256gb-ssd-windows-11-pro-installed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 241,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559027-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 246,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 38.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559022-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 247,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 40.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559021-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 248,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 41.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559020-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 249,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559019-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 263,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 42.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559004-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 264,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 39.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559006-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 266,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 38.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559002-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 267,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 41.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559001-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 268,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 40.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558998-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 270,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 39.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558997-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 271,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 39.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559000-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 272,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558995-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 280,
+      "title": "NIB - pepWave Max BR1 Mini | Max BR1 Mini LTE US-T | Cellular -|- [DFWSH003]",
+      "hammer_total": 13.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558988-nib-pepwave-max-br1-mini-max-br1-mini-lte-us-t-cellular-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 290,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 32.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558978-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 291,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 38.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558976-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 292,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 36.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558977-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 293,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 36.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558975-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 294,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 36.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558972-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 295,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 36.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558971-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 296,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 32.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558974-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 297,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 36.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558970-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 298,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 36.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558973-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 299,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 36.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558967-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 300,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 36.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558966-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 303,
+      "title": "Bose SoundLink Revolve + | Lux Gray | Lux Silver | BlueTooth Portable Speaker w/Charging Base -|- [DFWSH009]",
+      "hammer_total": 64.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558965-bose-soundlink-revolve-lux-gray-lux-silver-bluetooth-portable-speaker-w-charging-base-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 314,
+      "title": "Apple MacBook Pro | 2.3 GHz Quad-Core Intel i7 | 16gb RAM | 1tb SSD | Iris Pro 1536MB | Great Condition - This was my daily driver for years -|- [DFWSH001]",
+      "hammer_total": 106.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558953-apple-macbook-pro-23-ghz-quad-core-intel-i7-16gb-ram-1tb-ssd-iris-pro-1536mb-great-condition-this-was-my-daily-driver-for-years-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 321,
+      "title": "Access Control Cable | 18-4C -|- [DFWSH015]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558947-access-control-cable-18-4c-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 336,
+      "title": "20x8 Aluminum Alloy Wheel Rim | Compatible With Lexus RX300/RX450h 2019-2023 | Gray Gloss | 5x114.3 | +30 Offset | 60.1mm Hub Bore | Direct Fit -|- [DFWSH008]",
+      "hammer_total": 34.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558931-20x8-aluminum-alloy-wheel-rim-compatible-with-lexus-rx300-rx450h-2019-2023-gray-gloss-5x1143-30-offset-601mm-hub-bore-direct-fit-dfwsh008",
+      "photo_url": null
+     },
+     {
+      "lot_number": 366,
+      "title": "Canon PZ-E1 Power Zoom Adapter | MFR #1285C002 | Compatible with EF-S 18-135mm IS USM -|- [DFWSH002]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558902-canon-pz-e1-power-zoom-adapter-mfr-1285c002-compatible-with-ef-s-18-135mm-is-usm-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 376,
+      "title": "Direct Box | JDI Duplex | Radial Engineering | XLR | 1/4\" TRS | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 68.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558892-direct-box-jdi-duplex-radial-engineering-xlr-1-4-trs-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 446,
+      "title": "KitchenAid Dishwasher -|- [DFWSH002]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560889-kitchenaid-dishwasher-dfwsh002",
+      "photo_url": null
+     }
+    ],
+    "4****3": [
+     {
+      "lot_number": 4,
+      "title": "HP ProDesk 600 G2 | i5-6500 @ 3.2 GHz | 16gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 11.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558865-hp-prodesk-600-g2-i5-6500-32-ghz-16gb-ram-250gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 6,
+      "title": "Dell OptiPlex 3020 | i5-4570 CPU @3.20GHz | 8gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH009]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559261-dell-optiplex-3020-i5-4570-cpu-320ghz-8gb-ram-250gb-ssd-windows-10-pro-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 7,
+      "title": "HP ProDesk 600 G2 | i5-6500 @ 3.2 GHz | 16 GB RAM | 250 GB SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559260-hp-prodesk-600-g2-i5-6500-32-ghz-16-gb-ram-250-gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 9,
+      "title": "HP ProDesk 600 G1 | i3-4160 @ 3.6 GHz | 8gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559258-hp-prodesk-600-g1-i3-4160-36-ghz-8gb-ram-250gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 10,
+      "title": "HP EliteDesk 800 G1 | i5-5490 @ 3.3 GHz | 16gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559257-hp-elitedesk-800-g1-i5-5490-33-ghz-16gb-ram-250gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 11,
+      "title": "HP EliteDesk 800 G1 | i5-4570 @ 3.2 GHz | 8gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559256-hp-elitedesk-800-g1-i5-4570-32-ghz-8gb-ram-250gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 12,
+      "title": "HP EliteDesk 800 G1 | i5-4590 @ 3.3 GHz | 16gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559255-hp-elitedesk-800-g1-i5-4590-33-ghz-16gb-ram-250gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 13,
+      "title": "HP EliteDesk 800 G1 | i5-4590 @ 3.3 GHz | 16gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559254-hp-elitedesk-800-g1-i5-4590-33-ghz-16gb-ram-250gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 14,
+      "title": "HP ProDesk 600 G1 | i3-4160 @ 3.6 GHz | 8gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559253-hp-prodesk-600-g1-i3-4160-36-ghz-8gb-ram-250gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 15,
+      "title": "HP ProDesk 600 G1 | 8gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559252-hp-prodesk-600-g1-8gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 16,
+      "title": "HP EliteDesk 800 G1 | i5-4590 @ 3.3 GHz | 16gb RAM | 250gb SSD | Windows 10 PRO -|- [DFWSH015]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559251-hp-elitedesk-800-g1-i5-4590-33-ghz-16gb-ram-250gb-ssd-windows-10-pro-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 21,
+      "title": "HP EliteDesk 800 G1 | 8gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559248-hp-elitedesk-800-g1-8gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 32,
+      "title": "Xerox Phaser 6022 Coloe Laser Printer -|- [DFWSH009]",
+      "hammer_total": 14.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559236-xerox-phaser-6022-coloe-laser-printer-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 38,
+      "title": "Dorind Single-Handle 3-Hole Roman Tub Faucet | Brushed Nickel | Widespread 2-Handle Bathtub Faucet with Hand Shower | New -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559231-dorind-single-handle-3-hole-roman-tub-faucet-brushed-nickel-widespread-2-handle-bathtub-faucet-with-hand-shower-new-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 48,
+      "title": "Panasonic Cordless Phones | 6 handsets | 2 Charging Bases | 3 Power Cords -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559220-panasonic-cordless-phones-6-handsets-2-charging-bases-3-power-cords-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 67,
+      "title": "AcBel 80 Plus Bronze PC Power Supply | Lenovo PN: SP50H29596 -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559201-acbel-80-plus-bronze-pc-power-supply-lenovo-pn-sp50h29596-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 68,
+      "title": "AcBel 80 Plus Bronze PC Power Supply | Lenovo PN: SP50H29604 -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559200-acbel-80-plus-bronze-pc-power-supply-lenovo-pn-sp50h29604-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 75,
+      "title": "Yealink SIP-T42S IP Phone - VoIP | Business | 2.7\" Color Display | 8 Line | Dual LAN | PoE | Desktop | Model: T42S | Used | Untested -|- [DFWSH001]",
+      "hammer_total": 14.0,
+      "hammer_per_unit": null,
+      "quantity": 14,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559192-yealink-sip-t42s-ip-phone-voip-business-27-color-display-8-line-dual-lan-poe-desktop-model-t42s-used-untested-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 77,
+      "title": "Yealink SIP-T42S IP Phone - VoIP | Business | 2.7\" Color Display | 8 Line | Dual LAN | PoE | Desktop | Model: T42S | Used | Untested -|- [DFWSH001]",
+      "hammer_total": 11.0,
+      "hammer_per_unit": null,
+      "quantity": 11,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559193-yealink-sip-t42s-ip-phone-voip-business-27-color-display-8-line-dual-lan-poe-desktop-model-t42s-used-untested-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 79,
+      "title": "Yealink SIP-T42S IP Phone - VoIP | Business | 2.7\" Color Display | 8 Line | Dual LAN | PoE | Desktop | Model: T42S | Used | Untested -|- [DFWSH001]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559186-yealink-sip-t42s-ip-phone-voip-business-27-color-display-8-line-dual-lan-poe-desktop-model-t42s-used-untested-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 81,
+      "title": "Yealink SIP-T42S IP Phone - VoIP | Business | 2.7\" Color Display | 8 Line | Dual LAN | PoE | Desktop | Model: T42S | Used | Untested -|- [DFWSH001]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 8,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559185-yealink-sip-t42s-ip-phone-voip-business-27-color-display-8-line-dual-lan-poe-desktop-model-t42s-used-untested-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 83,
+      "title": "Yealink SIP-T42S IP Phone - VoIP | Business | 2.7\" Color Display | 8 Line | Dual LAN | PoE | Desktop | Model: T42S | Used | Untested -|- [DFWSH001]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559189-yealink-sip-t42s-ip-phone-voip-business-27-color-display-8-line-dual-lan-poe-desktop-model-t42s-used-untested-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 93,
+      "title": "BlueParrott VXI Reveal Pro | BlueTooth Headset | HD Voice | UPC: 607972038354 -|- [DFWSH002]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559175-blueparrott-vxi-reveal-pro-bluetooth-headset-hd-voice-upc-607972038354-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 121,
+      "title": "Brown Peoria Pottery Jug | Home Decore -|- [DFWSH012]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559148-brown-peoria-pottery-jug-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 129,
+      "title": "Jug Pottery | Home Decore -|- [DFWSH012]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559139-jug-pottery-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 130,
+      "title": "Moonshine Looking Jug | Home Decore -|- [DFWSH012]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559138-moonshine-looking-jug-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 143,
+      "title": "Vintage Metal Silhouette Bugs Bunny & Daffy Duck | Tex Welch | Cira: 1990'ies | Warner Bros | #1019 -|- [DFWSH001]",
+      "hammer_total": 7.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559125-vintage-metal-silhouette-bugs-bunny-and-daffy-duck-tex-welch-cira-1990ies-warner-bros-1019-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 177,
+      "title": "Yealink SIP-T42S IP Phone - VoIP | Business | 2.7\" Color Display | 8 Line | Dual LAN | PoE | Desktop | Model: T42S | Used | Untested -|- [DFWSH015]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 16,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559091-yealink-sip-t42s-ip-phone-voip-business-27-color-display-8-line-dual-lan-poe-desktop-model-t42s-used-untested-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 178,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559090-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 179,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559088-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 180,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559089-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 181,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559087-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 182,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559086-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 183,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559085-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 184,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559084-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 185,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559083-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 186,
+      "title": "Yealink SIP-T42S IP Phone - VoIP | Business | 2.7\" Color Display | 8 Line | Dual LAN | PoE | Desktop | Model: T42S | Used | Untested -|- [DFWSH015]",
+      "hammer_total": 14.0,
+      "hammer_per_unit": null,
+      "quantity": 14,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559082-yealink-sip-t42s-ip-phone-voip-business-27-color-display-8-line-dual-lan-poe-desktop-model-t42s-used-untested-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 187,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559081-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 188,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559080-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 189,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559079-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 190,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559078-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 192,
+      "title": "Yealink SIP-T42S IP Phone - VoIP | Business | 2.7\" Color Display | 8 Line | Dual LAN | PoE | Desktop | Model: T42S | Used | Untested -|- [DFWSH015]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559076-yealink-sip-t42s-ip-phone-voip-business-27-color-display-8-line-dual-lan-poe-desktop-model-t42s-used-untested-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 193,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559075-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 197,
+      "title": "Yealink SIP-T42S IP Phone - VoIP | Business | 2.7\" Color Display | 8 Line | Dual LAN | PoE | Desktop | Model: T42S | 10 phones -|- [DFWSH015]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559072-yealink-sip-t42s-ip-phone-voip-business-27-color-display-8-line-dual-lan-poe-desktop-model-t42s-10-phones-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 203,
+      "title": "Yealink SIP-T42S | Black | Gigabit IP Phone | T42S -|- [DFWSH001]",
+      "hammer_total": 11.0,
+      "hammer_per_unit": null,
+      "quantity": 11,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559066-yealink-sip-t42s-black-gigabit-ip-phone-t42s-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 204,
+      "title": "Panasonic KX-TGP600 | Smart IP Phone | 8 SIP Accounts | Ethernet -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559064-panasonic-kx-tgp600-smart-ip-phone-8-sip-accounts-ethernet-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 205,
+      "title": "Logitech USB Headset R41126 | Black | Model: H570e | Tested | Working -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559063-logitech-usb-headset-r41126-black-model-h570e-tested-working-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 206,
+      "title": "Misc Wired Keyboards | Logitech | Case Logic | AS-IS -|- [DFWSH016]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559062-misc-wired-keyboards-logitech-case-logic-as-is-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 221,
+      "title": "NIB - Baofeng UV-5R Six-Way Gang Charger | 6-Pack Rapid Charger | AC adapter -|- [DFWSH009]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559047-nib-baofeng-uv-5r-six-way-gang-charger-6-pack-rapid-charger-ac-adapter-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 222,
+      "title": "NIB - Baofeng UV-5R Six-Way Gang Charger | 6-Pack Rapid Charger | AC adapter -|- [DFWSH009]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559046-nib-baofeng-uv-5r-six-way-gang-charger-6-pack-rapid-charger-ac-adapter-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 226,
+      "title": "Retevis RTC29 Gang Charger | Model: RT29 | Used -|- [DFWSH009]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559042-retevis-rtc29-gang-charger-model-rt29-used-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 228,
+      "title": "Radioddity GD-55 Plus | Dual Band DMR | 5W | 2200mAh | Amateur Two-Way Radio | GMRS -|- [DFWSH009]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559040-radioddity-gd-55-plus-dual-band-dmr-5w-2200mah-amateur-two-way-radio-gmrs-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 229,
+      "title": "Radioddity GD-55 Plus | Dual Band DMR | 5W | 2200mAh | Amateur Two-Way Radio | GMRS -|- [DFWSH009]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559039-radioddity-gd-55-plus-dual-band-dmr-5w-2200mah-amateur-two-way-radio-gmrs-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 253,
+      "title": "Plastic Ammo Box / Can | Shotgun Shell | Ammunition | Fishing Gear | Storage Box -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559016-plastic-ammo-box-can-shotgun-shell-ammunition-fishing-gear-storage-box-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 273,
+      "title": "Retevis RB38V | MURS Radio -|- [DFWSH001]",
+      "hammer_total": 3.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558996-retevis-rb38v-murs-radio-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 275,
+      "title": "Baofeng BF-F8HP | HAM & GMRS Radio | 8w | UFH & VHF | Walkie Talkies -|- [DFWSH001]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558993-baofeng-bf-f8hp-ham-and-gmrs-radio-8w-ufh-and-vhf-walkie-talkies-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 301,
+      "title": "Toshiba Model: PA5116U-2PRP | Hi-Speed Port Replicator III | 120W -|- [DFWSH009]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558969-toshiba-model-pa5116u-2prp-hi-speed-port-replicator-iii-120w-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 344,
+      "title": "Patch Cables | CO166S2-0ZF001 - MiNo Series | Cat 6 Patch Cord | Copper Alloy/Polycarbonate | RJ-45 | Non-Plenum | 1 ft. Blue | 10-Bundles of 10-Units for a TOTAL of 100 cables. -|- [DFWSH003]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558924-patch-cables-co166s2-0zf001-mino-series-cat-6-patch-cord-copper-alloy-polycarbonate-rj-45-non-plenum-1-ft-blue-10-bundles-of-10-units-for-a-total-of-100-cables-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 345,
+      "title": "Patch Cables | CO166S2-0ZF001 - MiNo Series | Cat 6 Patch Cord | Copper Alloy/Polycarbonate | RJ-45 | Non-Plenum | 1 ft. Blue | 10-Bundles of 10-Units for a TOTAL of 100 cables. -|- [DFWSH003]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558923-patch-cables-co166s2-0zf001-mino-series-cat-6-patch-cord-copper-alloy-polycarbonate-rj-45-non-plenum-1-ft-blue-10-bundles-of-10-units-for-a-total-of-100-cables-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 346,
+      "title": "Patch Cables | CO166S2-0ZF001 - MiNo Series | Cat 6 Patch Cord | Copper Alloy/Polycarbonate | RJ-45 | Non-Plenum | 1 ft. Blue | 10-Bundles of 10-Units for a TOTAL of 100 cables. -|- [DFWSH003]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558922-patch-cables-co166s2-0zf001-mino-series-cat-6-patch-cord-copper-alloy-polycarbonate-rj-45-non-plenum-1-ft-blue-10-bundles-of-10-units-for-a-total-of-100-cables-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 347,
+      "title": "Patch Cables | CO166S2-0ZF001 - MiNo Series | Cat 6 Patch Cord | Copper Alloy/Polycarbonate | RJ-45 | Non-Plenum | 1 ft. Blue | 10-Bundles of 10-Units for a TOTAL of 100 cables. -|- [DFWSH003]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558921-patch-cables-co166s2-0zf001-mino-series-cat-6-patch-cord-copper-alloy-polycarbonate-rj-45-non-plenum-1-ft-blue-10-bundles-of-10-units-for-a-total-of-100-cables-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 361,
+      "title": "Brother Thermal Printer | Replacement Rechargeable Batteries | PA-BT-003 | Fire Printer Model: RJ-2150 | UPC: 012502645382 -|- [DFWSH002]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558907-brother-thermal-printer-replacement-rechargeable-batteries-pa-bt-003-fire-printer-model-rj-2150-upc-012502645382-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 367,
+      "title": "AA Battery Buddy Dispenser -|- [DFWSH002]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558901-aa-battery-buddy-dispenser-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 379,
+      "title": "Shure Beta 87A Supercardioid Condenser Handheld Microphone | Retail $289 | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 60.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558889-shure-beta-87a-supercardioid-condenser-handheld-microphone-retail-289-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 388,
+      "title": "3 Foot Extension Cord |16/3 | SPT-3 | 2-pack -|- [DFWSH002]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558880-3-foot-extension-cord-16-3-spt-3-2-pack-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 397,
+      "title": "Brother Shoulder Strap Accessory For Thermal Printer RJ-2150 | PA-AA-4000 | UPC: 012502631491 | RJ-40** | New In Retail Box -|- [DFWSH002]",
+      "hammer_total": 11.0,
+      "hammer_per_unit": null,
+      "quantity": 11,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558871-brother-shoulder-strap-accessory-for-thermal-printer-rj-2150-pa-aa-4000-upc-012502631491-rj-40-new-in-retail-box-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 398,
+      "title": "Brother Shoulder Strap Accessory For Thermal Printer RJ-2150 | PA-AA-4000 | UPC: 012502631491 | RJ-40** | New In Retail Box -|- [DFWSH002]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 9,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558869-brother-shoulder-strap-accessory-for-thermal-printer-rj-2150-pa-aa-4000-upc-012502631491-rj-40-new-in-retail-box-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 399,
+      "title": "Cisco Meraki MA-PWR-90WAC Power Adapter 90W -|- [DFWSH001]",
+      "hammer_total": 14.0,
+      "hammer_per_unit": null,
+      "quantity": 7,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558872-cisco-meraki-ma-pwr-90wac-power-adapter-90w-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 422,
+      "title": "Bin of Cables | Power Cables | Unknown Quantity -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560865-bin-of-cables-power-cables-unknown-quantity-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 448,
+      "title": "Video Card | HD 5450 | 1gb D3 HDV -|- [DFWSH015]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560891-video-card-hd-5450-1gb-d3-hdv-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 455,
+      "title": "Poly | 2201-48820-121 | VVX 250 | VOIP Business Telephone -|- [DFWSH015]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560898-poly-2201-48820-121-vvx-250-voip-business-telephone-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 462,
+      "title": "NIB - 22\" Widescreen Monitor -|- [DFWSH015]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560905-nib-22-widescreen-monitor-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 465,
+      "title": "Barracuda Email Security Gateway 300 -|- [DFWSH015]",
+      "hammer_total": 12.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560908-barracuda-email-security-gateway-300-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 466,
+      "title": "Barracuda F380 Firewall -|- [DFWSH015]",
+      "hammer_total": 12.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560909-barracuda-f380-firewall-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 468,
+      "title": "Intellinet 16-Port POW Switch | Model: 560849 -|- [DFWSH001]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560911-intellinet-16-port-pow-switch-model-560849-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 470,
+      "title": "Netgear ProSafe GS728TPP | 28-Port Gigabit PoE+ Smart Switch w/4 SFP Ports -|- [DFWSH009]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560913-netgear-prosafe-gs728tpp-28-port-gigabit-poe-smart-switch-w-4-sfp-ports-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 471,
+      "title": "Davuaz 48-port POE Switch | Model: DA-G504802GP -|- [DFWSH015]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560914-davuaz-48-port-poe-switch-model-da-g504802gp-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 472,
+      "title": "Davuaz 48-port POE Switch | Model: DA-G504802GP -|- [DFWSH015]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560915-davuaz-48-port-poe-switch-model-da-g504802gp-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 477,
+      "title": "21.5\" Onn Monitor | Model: ONA18HO015 | 1920x1080 | HDMI | VGA -|- [DFWSH016]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560920-215-onn-monitor-model-ona18ho015-1920x1080-hdmi-vga-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 481,
+      "title": "ZTE | AT&T WiFi Hotspot | MF923 -|- [DFWSH003]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560924-zte-at-and-t-wifi-hotspot-mf923-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 484,
+      "title": "SonicWall TZ350 Firewall | w/Power Supply | Powers-On No addational testing performed -|- [DFWSH009]",
+      "hammer_total": 5.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560927-sonicwall-tz350-firewall-w-power-supply-powers-on-no-addational-testing-performed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 485,
+      "title": "Dell SonicWall TZ400 Firewall | w/Power Supply | Powers-On No addational testing performed -|- [DFWSH009]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560928-dell-sonicwall-tz400-firewall-w-power-supply-powers-on-no-addational-testing-performed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 488,
+      "title": "CradlePoint AER1650 | w/Power Supply | No Power Cord -|- [DFWSH003]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560931-cradlepoint-aer1650-w-power-supply-no-power-cord-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 489,
+      "title": "Toshiba 500gb Portable External HDD (Hard Drive) | Model: HDTC605CK3A1 -|- [DFWSH012]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560932-toshiba-500gb-portable-external-hdd-hard-drive-model-hdtc605ck3a1-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 490,
+      "title": "Toshiba 500gb Portable External HDD (Hard Drive) | Model: HDTC605CK3A1 -|- [DFWSH012]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560933-toshiba-500gb-portable-external-hdd-hard-drive-model-hdtc605ck3a1-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 491,
+      "title": "Toshiba 500gb Portable External HDD (Hard Drive) | Model: E05A050CAU3SW -|- [DFWSH012]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560934-toshiba-500gb-portable-external-hdd-hard-drive-model-e05a050cau3sw-dfwsh012",
+      "photo_url": null
+     }
+    ],
+    "4****5": [
+     {
+      "lot_number": 23,
+      "title": "HP ProDesk 600 G1 | 8gb RAM | No Storage | Graphic Card -|- [DFWSH009]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559245-hp-prodesk-600-g1-8gb-ram-no-storage-graphic-card-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 24,
+      "title": "HP EliteDesk 800 G1 | 8gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559244-hp-elitedesk-800-g1-8gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 419,
+      "title": "Bin of Cables | Video Cable | Misc Lengths and Types | Unknown Quantity -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560862-bin-of-cables-video-cable-misc-lengths-and-types-unknown-quantity-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 420,
+      "title": "Bin of Cables | Networking | Cat5 | Cat6 | Cat6a | Unknown Quantity -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560863-bin-of-cables-networking-cat5-cat6-cat6a-unknown-quantity-dfwsh001",
+      "photo_url": null
+     }
+    ],
+    "2****1": [
+     {
+      "lot_number": 25,
+      "title": "HP ENVY Photo 7855 Inkjet Printer | Scanner | Fax | Copier | USB | WiFi | Network - Powers ON - No addational testing performed -|- [DFWSH016]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559243-hp-envy-photo-7855-inkjet-printer-scanner-fax-copier-usb-wifi-network-powers-on-no-addational-testing-performed-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 27,
+      "title": "HP OfficeJet Pro 8710 Inkjet Printer | Scanner | Fax | Copier | USB | WiFi | Network - Powers ON - No addational testing performed -|- [DFWSH016]",
+      "hammer_total": 17.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559241-hp-officejet-pro-8710-inkjet-printer-scanner-fax-copier-usb-wifi-network-powers-on-no-addational-testing-performed-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 95,
+      "title": "NIB - Roku Streaming Stick 3600XB -|- [DFWSH002]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559173-nib-roku-streaming-stick-3600xb-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 153,
+      "title": "Ryobi P208 One+ 18V Drill/Driver | UnTested -|- [DFWSH001]",
+      "hammer_total": 23.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559115-ryobi-p208-one-18v-drilldriver-untested-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 154,
+      "title": "Ryobi P214 One+ 18V 600 Pound Torque Hammer Drill/Driver | Used | New Battery & Charger Not Included | Home Depot Pricing: $129 -|- [DFWSH001]",
+      "hammer_total": 23.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559114-ryobi-p214-one-18v-600-pound-torque-hammer-drilldriver-used-new-battery-and-charger-not-included-home-depot-pricing-129-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 256,
+      "title": "Plastic Ammo Box / Can | Shotgun Shell| Ammunition | Fishing Gear | Storage Box -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559012-plastic-ammo-box-can-shotgun-shell-ammunition-fishing-gear-storage-box-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 257,
+      "title": "Plastic Ammo Box / Can | Shotgun Shell | Ammunition | Fishing Gear | Storage Box -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559010-plastic-ammo-box-can-shotgun-shell-ammunition-fishing-gear-storage-box-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 261,
+      "title": "MCM Case-Gard 100 Round Rifle Ammo Box | 100 Rounds -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559007-mcm-case-gard-100-round-rifle-ammo-box-100-rounds-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 262,
+      "title": "MCM Case-Gard 100 Round Rifle Ammo Box | 100 Rounds -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559005-mcm-case-gard-100-round-rifle-ammo-box-100-rounds-dfwsh001",
+      "photo_url": null
+     }
+    ],
+    "1****6": [
+     {
+      "lot_number": 26,
+      "title": "HP OfficeJet Pro 8710 Inkjet Printer | Scanner | Fax | Copier | USB | WiFi | Network - Powers ON - No addational testing performed -|- [DFWSH016]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559242-hp-officejet-pro-8710-inkjet-printer-scanner-fax-copier-usb-wifi-network-powers-on-no-addational-testing-performed-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 40,
+      "title": "Ryobi 40V Lithium-Ion Fast Charger | 140458002 | OP408VNM | HomeDepot Pricing: $99 -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559229-ryobi-40v-lithium-ion-fast-charger-140458002-op408vnm-homedepot-pricing-99-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 60,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 27.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559208-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 62,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 27.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559206-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 64,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 27.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559204-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 70,
+      "title": "EVGA 80 Plus PC Power Supply | 430 Watt | 100-W1-0430-KR | UPC: 843368026301 -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559197-evga-80-plus-pc-power-supply-430-watt-100-w1-0430-kr-upc-843368026301-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 148,
+      "title": "Ryobi P704 Fash Light | 18V | One+ -|- [DFWSH001]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559119-ryobi-p704-fash-light-18v-one-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 149,
+      "title": "Ryobi P714 Hand Vacuum | 18V | One+ -|- [DFWSH001]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559120-ryobi-p714-hand-vacuum-18v-one-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 169,
+      "title": "Glacier Bay 8 in Shower Arm & Flange Brushed Nickle | 813561 -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559098-glacier-bay-8-in-shower-arm-and-flange-brushed-nickle-813561-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 172,
+      "title": "Black & Decker JS510G Variable Speed 4.5 Amp Electric Corded Jig Saw -|- [DFWSH001]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559096-black-and-decker-js510g-variable-speed-45-amp-electric-corded-jig-saw-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 174,
+      "title": "Ryobi Bags | Carry Bag | Tool Bag -|- [DFWSH001]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559093-ryobi-bags-carry-bag-tool-bag-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 191,
+      "title": "Brother RJ-2150 | Rugged Mobile Printer | USB | Bluetooth | 203 DPI -|- [DFWSH015]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559077-brother-rj-2150-rugged-mobile-printer-usb-bluetooth-203-dpi-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 212,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 36.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559053-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 213,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 36.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559057-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 223,
+      "title": "Retevis RT29 | UHF DMR Two Way Radio | 10W | 3200mAh | USB-C Charging | Long Range Walkie Talkie -|- [DFWSH009]",
+      "hammer_total": 11.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559044-retevis-rt29-uhf-dmr-two-way-radio-10w-3200mah-usb-c-charging-long-range-walkie-talkie-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 230,
+      "title": "Anker PowerConf A3301 | Bluetooth Speakerphone | Built-in 6700mAh Battery | 6 Mics | Used -|- [DFWSH009]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559038-anker-powerconf-a3301-bluetooth-speakerphone-built-in-6700mah-battery-6-mics-used-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 240,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559028-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 259,
+      "title": "Black Zipper Canvas Rifle / Gun Bag -|- [DFWSH001]",
+      "hammer_total": 9.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559011-black-zipper-canvas-rifle-gun-bag-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 265,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 42.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559003-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 281,
+      "title": "NIB - CradlePoint Extensibility Dock | SKU: 170700-000 -|- [DFWSH003]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558984-nib-cradlepoint-extensibility-dock-sku-170700-000-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 283,
+      "title": "Baofeng BF-F8HP | HAM & GMRS Radio | 8w | UFH & VHF | Walkie Talkies -|- [DFWSH001]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558986-baofeng-bf-f8hp-ham-and-gmrs-radio-8w-ufh-and-vhf-walkie-talkies-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 284,
+      "title": "Retevis RT29 | Charging Base and Power Adaptor -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558983-retevis-rt29-charging-base-and-power-adaptor-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 287,
+      "title": "Zebra TC75 Series Rugged Touch Computer | Symbol -|- [DFWSH003]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558981-zebra-tc75-series-rugged-touch-computer-symbol-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 288,
+      "title": "Zebra TC75 Series Rugged Touch Computer | Symbol -|- [DFWSH003]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558980-zebra-tc75-series-rugged-touch-computer-symbol-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 351,
+      "title": "Miniature Precision Screwdriver Set | Vintage | Japan -|- [DFWSH012]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558917-miniature-precision-screwdriver-set-vintage-japan-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 362,
+      "title": "DSLR Camera Gimbal | NeeWer | Carbon Fiber -|- [DFWSH002]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558905-dslr-camera-gimbal-neewer-carbon-fiber-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 413,
+      "title": "Genuine F5 Networks 10GBase-SR SFP+ Optical Transceiver | Model: F5-OPT-0014 | 850nm Multi-Mode LC -|- [DFWSH009]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560856-genuine-f5-networks-10gbase-sr-sfp-optical-transceiver-model-f5-opt-0014-850nm-multi-mode-lc-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 425,
+      "title": "Radioddity GA-510 | Accessories and Box | New Battery | No Radio | Just Accessories -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560868-radioddity-ga-510-accessories-and-box-new-battery-no-radio-just-accessories-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 453,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 33.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560896-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 460,
+      "title": "Apple TV | Model: MC572LL/A | Model A1378 | 2nd Gen | Black | w/Power | No Remote | Factory RESET -|- [DFWSH001]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560903-apple-tv-model-mc572ll-a-model-a1378-2nd-gen-black-w-power-no-remote-factory-reset-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 486,
+      "title": "CradlePoint | Model: IBR1100LPE | w/ Power Supply -|- [DFWSH003]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560929-cradlepoint-model-ibr1100lpe-w-power-supply-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 487,
+      "title": "CradlePoint Ruggedized Cloud Managed 3G/4G LTE Wireless Router -|- [DFWSH003]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560930-cradlepoint-ruggedized-cloud-managed-3g-4g-lte-wireless-router-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 496,
+      "title": "Toshiba 2tb Portable External HDD (Hard Drive) | Model: HDTC720CK3C1 -|- [DFWSH012]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560939-toshiba-2tb-portable-external-hdd-hard-drive-model-hdtc720ck3c1-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 497,
+      "title": "Toshiba 2tb Portable External HDD (Hard Drive) | Model: HDTC820CK3C1 -|- [DFWSH012]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560940-toshiba-2tb-portable-external-hdd-hard-drive-model-hdtc820ck3c1-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 498,
+      "title": "Seagate | 2tb Portable External HDD (Hard Drive) | Model: 1TEAP6-500 -|- [DFWSH012]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560941-seagate-2tb-portable-external-hdd-hard-drive-model-1teap6-500-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 499,
+      "title": "Toshiba 2tb Portable External HDD (Hard Drive) | Model: HDTC720CK3C1 -|- [DFWSH012]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560942-toshiba-2tb-portable-external-hdd-hard-drive-model-hdtc720ck3c1-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 500,
+      "title": "Toshiba 500gb Portable External HDD (Hard Drive) | Model: HDTC610CK3B1 -|- [DFWSH012]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560943-toshiba-500gb-portable-external-hdd-hard-drive-model-hdtc610ck3b1-dfwsh012",
+      "photo_url": null
+     }
+    ],
+    "2****0": [
+     {
+      "lot_number": 28,
+      "title": "HP OfficeJet Pro 8710 Inkjet Printer | Scanner | Fax | Copier | USB | WiFi | Network - Powers ON - No addational testing performed -|- [DFWSH016]",
+      "hammer_total": 19.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559240-hp-officejet-pro-8710-inkjet-printer-scanner-fax-copier-usb-wifi-network-powers-on-no-addational-testing-performed-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 54,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 40.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559214-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 61,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559207-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 82,
+      "title": "NIB - HP Halley Wired USB 302K Keyboard | L96909-001 | Black -|- [DFWSH001]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559188-nib-hp-halley-wired-usb-302k-keyboard-l96909-001-black-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 99,
+      "title": "NIB - Apple USB-C to MagSafe 3 Cable | 2m | White | UPC: 194252750780 -|- [DFWSH002]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559169-nib-apple-usb-c-to-magsafe-3-cable-2m-white-upc-194252750780-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 113,
+      "title": "Apple USB SuperDrive | Model A1379 -|- [DFWSH002]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559155-apple-usb-superdrive-model-a1379-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 146,
+      "title": "NIB - Brushed Nickle Door Handle Lever | w/Lock -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559122-nib-brushed-nickle-door-handle-lever-wlock-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 147,
+      "title": "NIB - Brushed Nickle Door Handle Lever -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559121-nib-brushed-nickle-door-handle-lever-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 164,
+      "title": "NIB - Large Display Digital Wall Clock | Battery Included -|- [DFWSH009]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559104-nib-large-display-digital-wall-clock-battery-included-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 167,
+      "title": "NIB - Etekcity WiFi Smart 3-Way Light Switch 2-pack | ESWL03 | A19 LED Lightbulb -|- [DFWSH001]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559100-nib-etekcity-wifi-smart-3-way-light-switch-2-pack-eswl03-a19-led-lightbulb-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 234,
+      "title": "Toshiba Tecra A50-C1540 | i5-6300U @ 2.4GHz | 8gb RAM | 256gb SSD | Windows 11 Pro Installed -|- [DFWSH009]",
+      "hammer_total": 53.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559034-toshiba-tecra-a50-c1540-i5-6300u-24ghz-8gb-ram-256gb-ssd-windows-11-pro-installed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 235,
+      "title": "Toshiba Tecra A50-C1543 | i5-6300U @ 2.4GHz | 8gb RAM | 256gb SSD | Windows 11 Pro Installed -|- [DFWSH009]",
+      "hammer_total": 52.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559033-toshiba-tecra-a50-c1543-i5-6300u-24ghz-8gb-ram-256gb-ssd-windows-11-pro-installed-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 304,
+      "title": "iPhone 11 Pro Max | 256gb | Green | Carrier UNLOCKED | iCloud Unlocked | Battery Health 80% | w/UAG Shock Drop Case -|- [DFWSH001]",
+      "hammer_total": 146.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558962-iphone-11-pro-max-256gb-green-carrier-unlocked-icloud-unlocked-battery-health-80-w-uag-shock-drop-case-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 313,
+      "title": "Apple MacBook Pro | A1398 | EMC 2512 | Unit Beeps When Powered On | As-Is -|- [DFWSH003]",
+      "hammer_total": 21.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558954-apple-macbook-pro-a1398-emc-2512-unit-beeps-when-powered-on-as-is-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 315,
+      "title": "Appe iPad | As-Is | Locked | UnKnown PIN -|- [DFWSH009]",
+      "hammer_total": 59.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558955-appe-ipad-as-is-locked-unknown-pin-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 322,
+      "title": "G-Tech Laptop Backpack -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558946-g-tech-laptop-backpack-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 369,
+      "title": "XLR Cables | Assorted Lengths | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558899-xlr-cables-assorted-lengths-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 370,
+      "title": "XLR Cables | Assorted Lengths | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558898-xlr-cables-assorted-lengths-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 371,
+      "title": "1/4\" TRS Cable | Assorted Lengths | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558897-1-4-trs-cable-assorted-lengths-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 373,
+      "title": "Direct Box | Live Wire Solutions | Model SPDI | XLR | 1/4\" TRS | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558896-direct-box-live-wire-solutions-model-spdi-xlr-1-4-trs-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 374,
+      "title": "Direct Box | Live Wire Solutions | Model SPDI | XLR | 1/4\" TRS | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558894-direct-box-live-wire-solutions-model-spdi-xlr-1-4-trs-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 378,
+      "title": "Shure Beta 87A Supercardioid Condenser Handheld Microphone | Retail $289 | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 61.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558890-shure-beta-87a-supercardioid-condenser-handheld-microphone-retail-289-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 380,
+      "title": "Shure Beta 87A Supercardioid Condenser Handheld Microphone | Retail $289 | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 61.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558888-shure-beta-87a-supercardioid-condenser-handheld-microphone-retail-289-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 473,
+      "title": "Shure Beta 87A Supercardioid Condenser Handheld Microphone | Retail $289 | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 62.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560916-shure-beta-87a-supercardioid-condenser-handheld-microphone-retail-289-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     }
+    ],
+    "4****2": [
+     {
+      "lot_number": 34,
+      "title": "NIB - Kichler 52\" Starkk Ceiling Fan | New in Open Box | 52 in | Matte White | 3-Blade | Downrod 4.5 in -|- [DFWSH001]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559264-nib-kichler-52-starkk-ceiling-fan-new-in-open-box-52-in-matte-white-3-blade-downrod-45-in-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 57,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 36.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559211-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 71,
+      "title": "Hampton Bay 12\" LED Flush Mount | Brushed Nickel Finish | 1261 Lumens | 2700k | 1000053230 | UPC: 048776103127 -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559196-hampton-bay-12-led-flush-mount-brushed-nickel-finish-1261-lumens-2700k-1000053230-upc-048776103127-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 72,
+      "title": "Hampton Bay 12\" LED Flush Mount | Brushed Nickel Finish | 1261 Lumens | 2700k | 1000053230 | UPC: 048776103127 -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559195-hampton-bay-12-led-flush-mount-brushed-nickel-finish-1261-lumens-2700k-1000053230-upc-048776103127-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 73,
+      "title": "Hampton Bay 12\" LED Flush Mount | Brushed Nickel Finish | 1261 Lumens | 2700k | 1000053230 | UPC: 048776103127 -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559198-hampton-bay-12-led-flush-mount-brushed-nickel-finish-1261-lumens-2700k-1000053230-upc-048776103127-dfwsh001",
+      "photo_url": null
+     }
+    ],
+    "5****3": [
+     {
+      "lot_number": 35,
+      "title": "Kohler Elongated Bowl Toilet Base $205 -|- [DFWSH001]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559233-kohler-elongated-bowl-toilet-base-205-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 37,
+      "title": "Kohler Elongated Bowl Toilet Base $205 -|- [DFWSH001]",
+      "hammer_total": 6.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559230-kohler-elongated-bowl-toilet-base-205-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 482,
+      "title": "Keurig 2.0 -|- [DFWSH008]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560925-keurig-20-dfwsh008",
+      "photo_url": null
+     }
+    ],
+    "6****4": [
+     {
+      "lot_number": 36,
+      "title": "Kohler Elongated Bowl Toilet Base $205 -|- [DFWSH001]T",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559232-kohler-elongated-bowl-toilet-base-205-dfwsh001t",
+      "photo_url": null
+     },
+     {
+      "lot_number": 456,
+      "title": "The ARRL Antenna Book -|- [DFWSH012]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560899-the-arrl-antenna-book-dfwsh012",
+      "photo_url": null
+     }
+    ],
+    "4****0": [
+     {
+      "lot_number": 41,
+      "title": "Ryobi ONE+ 18V 4A Charger | P118 | New in Open Box | HomeDepot Pricing: $47 -|- [DFWSH001]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559227-ryobi-one-18v-4a-charger-p118-new-in-open-box-homedepot-pricing-47-dfwsh001",
+      "photo_url": null
+     }
+    ],
+    "4****7": [
+     {
+      "lot_number": 42,
+      "title": "Southwestern Boho Boondocking Canteen | 1 Quart (with Water Pump Filter) | Hiking & Camping -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559226-southwestern-boho-boondocking-canteen-1-quart-with-water-pump-filter-hiking-and-camping-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 122,
+      "title": "Colorfull Hand Painted Mexican Bowl | Home Decore -|- [DFWSH012]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559146-colorfull-hand-painted-mexican-bowl-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 123,
+      "title": "Hand Painted Nippon Yellow Flower Bowel | Cira: 1891-1921 | Japan | Home Decore -|- [DFWSH012]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559145-hand-painted-nippon-yellow-flower-bowel-cira-1891-1921-japan-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 124,
+      "title": "Ceramic Vase | Home Decore | Posibally Jeremy Diller | Iridescent Metallic Shades of copper, gold, and white -|- [DFWSH012]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559144-ceramic-vase-home-decore-posibally-jeremy-diller-iridescent-metallic-shades-of-copper-gold-and-white-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 127,
+      "title": "Alamo Pottery Burgundy Vase | #774 | Home Decore -|- [DFWSH012]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559141-alamo-pottery-burgundy-vase-774-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 131,
+      "title": "Roseville Pottery \"Water Lily\" bowl #437 | Cira: 1941 | Home Decore -|- [DFWSH012]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559137-roseville-pottery-water-lily-bowl-437-cira-1941-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 142,
+      "title": "101 Piece Mechanic Tool Set -|- [DFWSH001]",
+      "hammer_total": 14.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559126-101-piece-mechanic-tool-set-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 150,
+      "title": "Ryobi P117 Fast Charger for 18V Batteries | UnTested -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559118-ryobi-p117-fast-charger-for-18v-batteries-untested-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 151,
+      "title": "Ryobi 6.2 Amp Corded 5/8 in. Variable Speed Hammer Drill D620H 120V Used -|- [DFWSH001]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559117-ryobi-62-amp-corded-58-in-variable-speed-hammer-drill-d620h-120v-used-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 152,
+      "title": "Ryobi P118B 18V ONE+ Battery Charger -|- [DFWSH001]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559116-ryobi-p118b-18v-one-battery-charger-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 160,
+      "title": "Kobalt 3/8 in Drive 14-pc Socket Set | Metric -|- [DFWSH001]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559108-kobalt-38-in-drive-14-pc-socket-set-metric-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 161,
+      "title": "Kobalt 1/4 in Drive 16-pc Socket Set | Metric -|- [DFWSH001]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559111-kobalt-14-in-drive-16-pc-socket-set-metric-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 162,
+      "title": "Ohio Forge 39-pc Bit & Socket Set | Metric -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559105-ohio-forge-39-pc-bit-and-socket-set-metric-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 173,
+      "title": "Ryobi ONE+ 18V Lithium-Ion Charger | P118B | UnTested -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559095-ryobi-one-18v-lithium-ion-charger-p118b-untested-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 258,
+      "title": "HK416 .22 LR Rifle | AR-22 | 16.1 in Barrel | 5.7 lbs | RIS\u2013Rail Interface System M-LOK / Mil STD. 1913 | Threaded muzzle 1/2 x 28 -|- [DFWSH001]",
+      "hammer_total": 300.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559009-hk416-22-lr-rifle-ar-22-161-in-barrel-57-lbs-ris-rail-interface-system-m-lok-mil-std-1913-threaded-muzzle-12-x-28-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 335,
+      "title": "CarQuest Complete Strut Assembly | 28-713198L | CQ452390354 | UPC: 192350760489 | Toyota 4Runner 2003-2023 | Toyota FJ Cruiser 2007-2014 -|- [DFWSH001]",
+      "hammer_total": 21.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558932-carquest-complete-strut-assembly-28-713198l-cq452390354-upc-192350760489-toyota-4runner-20032023-toyota-fj-cruiser-20072014-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 364,
+      "title": "Huge Lot of GoPro Accessories -|- [DFWSH002]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558906-huge-lot-of-gopro-accessories-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 431,
+      "title": "Huge Knife | Custom Paint | Paracord Handle | Overall 16\" | Blade 11.5\" -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560874-huge-knife-custom-paint-paracord-handle-overall-16-blade-115-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 445,
+      "title": "GE Electric Wall Oven | Model JT3000DF3BB -|- [DFWSH002]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560888-ge-electric-wall-oven-model-jt3000df3bb-dfwsh002",
+      "photo_url": null
+     }
+    ],
+    "3****5": [
+     {
+      "lot_number": 45,
+      "title": "Decorative Wrought Iron Wall Sconce | 2 Pack (Candle Holder Wall) -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559222-decorative-wrought-iron-wall-sconce-2-pack-candle-holder-wall-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 250,
+      "title": "Metal Ammo Can | Army Green | M13 | 7.62 MM Ammunition Caliber Size -|- [DFWSH012]",
+      "hammer_total": 4.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559018-metal-ammo-can-army-green-m13-762-mm-ammunition-caliber-size-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 251,
+      "title": "Metal Ammo Can | Army Green | 4 Ball AN-M2 | .30 Linked Ammunition Caliber Size -|- [DFWSH012]",
+      "hammer_total": 4.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559017-metal-ammo-can-army-green-4-ball-an-m2-30-linked-ammunition-caliber-size-dfwsh012",
+      "photo_url": null
+     }
+    ],
+    "1****2": [
+     {
+      "lot_number": 46,
+      "title": "1977-1980: Yamaha Stereo Receiver | Model CR-620 | Amazing Condition | A/B Speakers | Unit Powers ON | Old School -|- [DFWSH001]",
+      "hammer_total": 150.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559223-yamaha-stereo-receiver-cr-620-amazing-condition-a-b-speakers-unit-powers-on-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 86,
+      "title": "NIB - Dell slim Line Keyboards | 5397063704422 | 884116180524 | REV A01 -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559181-nib-dell-slim-line-keyboards-5397063704422-884116180524-rev-a01-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 88,
+      "title": "Ceramic Green Glazed Urn / Vase / Amphora Jar | 10\" Heighth | Home Decore -|- [DFWSH012]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559182-ceramic-green-glazed-urn-vase-amphora-jar-10-heighth-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 96,
+      "title": "NIB - Apple USB-C to MagSafe 3 Cable | 2m | White | UPC: 194252750780 -|- [DFWSH002]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559172-nib-apple-usb-c-to-magsafe-3-cable-2m-white-upc-194252750780-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 98,
+      "title": "NIB - Apple USB-C to MagSafe 3 Cable | 2m | White | UPC: 194252750780 -|- [DFWSH002]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559170-nib-apple-usb-c-to-magsafe-3-cable-2m-white-upc-194252750780-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 114,
+      "title": "NIB - Data Cartridge | Tape BackUp | Quantum MR-L5MQN-01 1.5/3.0TB LTO Ultrium 5 -|- [DFWSH009]",
+      "hammer_total": 30.0,
+      "hammer_per_unit": null,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559154-nib-data-cartridge-tape-backup-quantum-mr-l5mqn-01-1530tb-lto-ultrium-5-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 115,
+      "title": "NIB - Data Cartridge | Tape BackUp | Quantum MR-L5MQN-01 1.5/3.0TB LTO Ultrium 5 -|- [DFWSH009]",
+      "hammer_total": 25.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559153-nib-data-cartridge-tape-backup-quantum-mr-l5mqn-01-1530tb-lto-ultrium-5-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 116,
+      "title": "NIB - Data Cartridge | Tape BackUp | Quantum MR-L5MQN-01 1.5/3.0TB LTO Ultrium 5 -|- [DFWSH009]",
+      "hammer_total": 20.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559152-nib-data-cartridge-tape-backup-quantum-mr-l5mqn-01-1530tb-lto-ultrium-5-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 117,
+      "title": "NIB - Data Cartridge | Tape BackUp | Quantum MR-L5MQN-01 1.5/3.0TB LTO Ultrium 5 -|- [DFWSH009]",
+      "hammer_total": 25.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559151-nib-data-cartridge-tape-backup-quantum-mr-l5mqn-01-1530tb-lto-ultrium-5-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 118,
+      "title": "NIB - Data Cartridge | Tape BackUp | Quantum MR-L5MQN-01 1.5/3.0TB LTO Ultrium 5 -|- [DFWSH009]",
+      "hammer_total": 25.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559150-nib-data-cartridge-tape-backup-quantum-mr-l5mqn-01-1530tb-lto-ultrium-5-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 119,
+      "title": "NIB - Data Cartridge | Tape BackUp | Quantum MR-L5MQN-01 1.5/3.0TB LTO Ultrium 5 -|- [DFWSH009]",
+      "hammer_total": 25.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559149-nib-data-cartridge-tape-backup-quantum-mr-l5mqn-01-1530tb-lto-ultrium-5-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 120,
+      "title": "NIB - Data Cartridge | Tape BackUp | Quantum MR-L5MQN-01 1.5/3.0TB LTO Ultrium 5 -|- [DFWSH009]",
+      "hammer_total": 25.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559147-nib-data-cartridge-tape-backup-quantum-mr-l5mqn-01-1530tb-lto-ultrium-5-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 211,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559054-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 274,
+      "title": "TYT TH-UV8000U | 10W | Ham & GMRS Radio | UHF & VHF -|- [DFWSH001]",
+      "hammer_total": 10.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558994-tyt-th-uv8000u-10w-ham-and-gmrs-radio-uhf-and-vhf-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 276,
+      "title": "Retevis RT81 | 10w | DMR | UHF | HAM & GMRS Radio | Walkie Talkies -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558992-retevis-rt81-10w-dmr-uhf-ham-and-gmrs-radio-walkie-talkies-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 277,
+      "title": "Retevis RT81 | 10w | DMR | UHF | HAM & GMRS Radio | Walkie Talkies -|- [DFWSH001]",
+      "hammer_total": 6.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558989-retevis-rt81-10w-dmr-uhf-ham-and-gmrs-radio-walkie-talkies-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 308,
+      "title": "iPad Pro (12.9-inch) (6th Gen) | M2 Chip | WiFi + Cellular | MP5X3LL/A | 128gb | Space Gray | Carrier UNLOCKED | iCloud Unlocked | iPad14,6 -|- [DFWSH001]",
+      "hammer_total": 231.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558960-ipad-pro-129-inch-6th-gen-m2-chip-wifi-cellular-mp5x3ll-a-128gb-space-gray-carrier-unlocked-icloud-unlocked-ipad14-6-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 309,
+      "title": "Apple Pencil (2nd Gen) | MU8F2AM/A | Model A2051 | White | BlueTooth | Magnetic Charging/Sync -|- [DFWSH001]",
+      "hammer_total": 22.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558958-apple-pencil-2nd-gen-mu8f2am-a-model-a2051-white-bluetooth-magnetic-charging-sync-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 318,
+      "title": "Apple Trackpad | A1339 -|- [DFWSH002]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558950-apple-trackpad-a1339-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 319,
+      "title": "Apple Trackpad | A1339 -|- [DFWSH002]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558949-apple-trackpad-a1339-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 360,
+      "title": "Belkin Orange Power Strip | 6-Outlet -|- [DFWSH001]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558908-belkin-orange-power-strip-6-outlet-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 368,
+      "title": "HP 727 300mL (F9J76A) Cyan Ink Cartridge | DesignJet | Retails $230 -|- [DFWSH002]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558900-hp-727-300ml-f9j76a-cyan-ink-cartridge-designjet-retails-230-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 377,
+      "title": "Direct Box | Behringer | Model: Ultra-DI DI20 | XLR | 1/4\" TRS | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558891-direct-box-behringer-model-ultra-di-di20-xlr-1-4-trs-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 391,
+      "title": "Table-Top Mic Stand -|- [DFWSH002]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558875-table-top-mic-stand-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 430,
+      "title": "Huge Knife | Custom Paint | Paracord Handle | Overall 16\" | Blade 11.5\" -|- [DFWSH001]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560873-huge-knife-custom-paint-paracord-handle-overall-16-blade-115-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 438,
+      "title": "Anker Wireless Charger | Micro USB -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560881-anker-wireless-charger-micro-usb-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 441,
+      "title": "Roku Ultra (Model 4660X2) | 5th-generation 4K HDR streaming media player",
+      "hammer_total": 17.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560884-roku-ultra-model-4660x2-5th-generation-4k-hdr-streaming-media-player",
+      "photo_url": null
+     }
+    ],
+    "1****1": [
+     {
+      "lot_number": 47,
+      "title": "Xerox Toner Cartridge | 106R00647 | New in Box | New Toner Color: Cyan | 106R00647 -|- [DFWSH001]",
+      "hammer_total": 24.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559221-xerox-toner-cartridge-106r00647-new-in-box-new-toner-color-cyan-106r00647-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 145,
+      "title": "American Standard Rumson Matte Black Shower Faucet | 7417501.243 -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559123-american-standard-rumson-matte-black-shower-faucet-7417501243-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 170,
+      "title": "Glacier Bay 11 in Flexable Shower Arm & Flange Brushed Nickle | 1000008487 -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559101-glacier-bay-11-in-flexable-shower-arm-and-flange-brushed-nickle-1000008487-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 260,
+      "title": "Black Zipper Canvas Rifle / Gun Bag -|- [DFWSH001]",
+      "hammer_total": 4.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559008-black-zipper-canvas-rifle-gun-bag-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 328,
+      "title": "Video Card | MSI GT 710 1GD3H LPV1 -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558939-video-card-msi-gt-710-1gd3h-lpv1-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 329,
+      "title": "Video Card | HD5450 -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558940-video-card-hd5450-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 330,
+      "title": "Video Card | GT 710 1GD3H -|- [DFWSH001]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558942-video-card-gt-710-1gd3h-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 331,
+      "title": "Video Card | 01G-P3-1313-KR -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558937-video-card-01g-p3-1313-kr-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 332,
+      "title": "Video Card | 01G-P3-1313-KR -|- [DFWSH001]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558936-video-card-01g-p3-1313-kr-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 334,
+      "title": "CarQuest Complete Strut Assembly | 28-713198L | CQ452390354 | UPC: 192350760489 | Toyota 4Runner 2003-2023 | Toyota FJ Cruiser 2007-2014 -|- [DFWSH001]",
+      "hammer_total": 26.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558933-carquest-complete-strut-assembly-28-713198l-cq452390354-upc-192350760489-toyota-4runner-20032023-toyota-fj-cruiser-20072014-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 426,
+      "title": "Gun Lockable Box \\ Safe | North American Arms | Black | w/Key -|- [DFWSH012]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560869-gun-lockable-box-safe-north-american-arms-black-w-key-dfwsh012",
+      "photo_url": null
+     }
+    ],
+    "6****8": [
+     {
+      "lot_number": 49,
+      "title": "Netgear WAC510 Wireless AP | Insight Managed Smart Cloud | 2.5 & 5 GHz | Enterprise Networking -|- [DFWSH001]",
+      "hammer_total": 24.0,
+      "hammer_per_unit": null,
+      "quantity": 6,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559219-netgear-wac510-wireless-ap-insight-managed-smart-cloud-25-and-5-ghz-enterprise-networking-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 65,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559203-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 163,
+      "title": "NIB - TrendNet 12 Port Cat6a Shielded Wall Mount Patch Panel | TC-P12C6AS -|- [DFWSH009]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559106-nib-trendnet-12-port-cat6a-shielded-wall-mount-patch-panel-tc-p12c6as-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 239,
+      "title": "tp-Link 48-port Gigabit Switch | TL-SG1048 | Used -|- [DFWSH009]",
+      "hammer_total": 22.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559029-tp-link-48-port-gigabit-switch-tl-sg1048-used-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 279,
+      "title": "NIB - CradlePoint COR Router IBR900LP6 | Cellular | Industrial Rated | Dual Sim -|- [DFWSH003]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558990-nib-cradlepoint-cor-router-ibr900lp6-cellular-industrial-rated-dual-sim-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 289,
+      "title": "Motorola LMR200 | Roof Mounted Antanna | Mini SMA -|- [DFWSH003]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558979-motorola-lmr200-roof-mounted-antanna-mini-sma-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 320,
+      "title": "CCTV Combo RG59/U 3M | 17050544 | 1000' on Wooden Spool -|- [DFWSH015]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558948-cctv-combo-rg59-u-3m-17050544-1000-on-wooden-spool-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 343,
+      "title": "Patch Cables | CO166S2-0ZF001 - MiNo Series | Cat 6 Patch Cord | Copper Alloy/Polycarbonate | RJ-45 | Non-Plenum | 1 ft. Blue | 10-Bundles of 10-Units for a TOTAL of 100 cables. -|- [DFWSH003]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558925-patch-cables-co166s2-0zf001-mino-series-cat-6-patch-cord-copper-alloy-polycarbonate-rj-45-non-plenum-1-ft-blue-10-bundles-of-10-units-for-a-total-of-100-cables-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 357,
+      "title": "Patch Cables | Cat5 | Cat6 | Cat6a | Approx. 79-qty | Misc Lengths and Brands -|- [DFWSH015]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558910-patch-cables-cat5-cat6-cat6a-approx-79-qty-misc-lengths-and-brands-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 382,
+      "title": "Boss Chromatic Tuner | TU-3 | Guitar Tuner Pedal -|- [DFWSH002]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558886-boss-chromatic-tuner-tu-3-guitar-tuner-pedal-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 407,
+      "title": "Eaton UPS 5P1500 | 1440VA/1100W | 2U Rackmount | True Sine Wave | w/Network Card -|- [DFWSH002]",
+      "hammer_total": 76.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560850-eaton-ups-5p1500-1440va-1100w-2u-rackmount-true-sine-wave-w-network-card-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 411,
+      "title": "Netgear FS116 | 16-Port Fast Ethernet Switch -|- [DFWSH009]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560854-netgear-fs116-16-port-fast-ethernet-switch-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 412,
+      "title": "Netgear GC510P | 8-Port Gigabit Ethernet PoE+ Smart Switch w/2 SFP Ports -|- [DFWSH009]",
+      "hammer_total": 18.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560855-netgear-gc510p-8-port-gigabit-ethernet-poe-smart-switch-w-2-sfp-ports-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 414,
+      "title": "Genuine F5 Networks 10GBase-SR SFP+ Optical Transceiver | Model: F5-OPT-0014 | 850nm Multi-Mode LC -|- [DFWSH009]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560857-genuine-f5-networks-10gbase-sr-sfp-optical-transceiver-model-f5-opt-0014-850nm-multi-mode-lc-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 415,
+      "title": "Genuine F5 Networks 10GBase-SR SFP+ Optical Transceiver | Model: F5-OPT-0014 | 850nm Multi-Mode LC -|- [DFWSH009]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560858-genuine-f5-networks-10gbase-sr-sfp-optical-transceiver-model-f5-opt-0014-850nm-multi-mode-lc-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 416,
+      "title": "Genuine F5 Networks 10GBase-SR SFP+ Optical Transceiver | Model: F5-OPT-0014 | 850nm Multi-Mode LC -|- [DFWSH009]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560859-genuine-f5-networks-10gbase-sr-sfp-optical-transceiver-model-f5-opt-0014-850nm-multi-mode-lc-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 418,
+      "title": "Gigamon SFP-532 | 1000BASE-SX Multi-Mode -|- [DFWSH009]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560861-gigamon-sfp-532-1000base-sx-multi-mode-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 452,
+      "title": "Synology NAS DS218j | No Storage -|- [DFWSH016]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560895-synology-nas-ds218j-no-storage-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 463,
+      "title": "Netgear ProSafe GS752TP | 48 Port 10/100/1000 PoE+ Smart Switch w/4 SFP Ports -|- [DFWSH009]",
+      "hammer_total": 50.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560906-netgear-prosafe-gs752tp-48-port-10-100-1000-poe-smart-switch-w-4-sfp-ports-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 464,
+      "title": "CISCO 48-port POE Switch | Model: SF300-48PP -|- [DFWSH001]",
+      "hammer_total": 22.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560907-cisco-48-port-poe-switch-model-sf300-48pp-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 469,
+      "title": "Aruba HPE | Hewlett Packard Enterprise | Model: J9775A | 2530-48G -|- [DFWSH015]",
+      "hammer_total": 22.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560912-aruba-hpe-hewlett-packard-enterprise-model-j9775a-2530-48g-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 478,
+      "title": "MikroTik RB3011UiAS-RM | RB3011UiAS-RM | Network Router | 10 Port | SFP | w/ Power Supplies | & MikroTik RB951G-2HnD -|- [DFWSH015]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560921-mikrotik-rb3011uias-rm-rb3011uias-rm-network-router-10-port-sfp-w-power-supplies-and-mikrotik-rb951g-2hnd-dfwsh015",
+      "photo_url": null
+     }
+    ],
+    "1****4": [
+     {
+      "lot_number": 50,
+      "title": "EnGenius Fit 2x2 Lite WiFi AP | EWS356-FIT | Netgear | Removed from a Working Environment -|- [DFWSH016]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559218-engenius-fit-2x2-lite-wifi-ap-ews356-fit-netgear-removed-from-a-working-environment-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 52,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 55.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559215-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 53,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 41.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559217-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 58,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559210-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 92,
+      "title": "BlueParrott B350-XT \\ BlueTooth Headset | USB Charge -|- [DFWSH002]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559176-blueparrott-b350-xt-bluetooth-headset-usb-charge-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 94,
+      "title": "BlueParrott VXI Reveal Pro | BlueTooth Headset | HD Voice | UPC: 607972038354 -|- [DFWSH002]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559174-blueparrott-vxi-reveal-pro-bluetooth-headset-hd-voice-upc-607972038354-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 110,
+      "title": "HP ProDesk 600 G2 | i5-6500 @ 3.2 GHz | 8gb RAM | 250gb SSD | Windows 11 PRO -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559158-hp-prodesk-600-g2-i5-6500-32-ghz-8gb-ram-250gb-ssd-windows-11-pro-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 219,
+      "title": "Dell Vostro 3910 | i3-12100 / 3.3 GHz | 16gb DDR4 RAM | 256gb SSD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559049-dell-vostro-3910-i3-12100-33-ghz-16gb-ddr4-ram-256gb-ssd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 252,
+      "title": "Plastic Ammo Box / Can | Shotgun Shell | Ammunition | Fishing Gear | Storage Box -|- [DFWSH001]",
+      "hammer_total": 4.51,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559015-plastic-ammo-box-can-shotgun-shell-ammunition-fishing-gear-storage-box-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 254,
+      "title": "Plastic Ammo Box / Can | Shotgun Shell | Ammunition | Fishing Gear | Storage Box -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559014-plastic-ammo-box-can-shotgun-shell-ammunition-fishing-gear-storage-box-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 255,
+      "title": "Plastic Ammo Box / Can | Shotgun Shell | Ammunition | Fishing Gear | Storage Box -|- [DFWSH001]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559013-plastic-ammo-box-can-shotgun-shell-ammunition-fishing-gear-storage-box-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 269,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 40.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558999-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     }
+    ],
+    "6****2": [
+     {
+      "lot_number": 51,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 44.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559216-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 59,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 36.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559209-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     }
+    ],
+    "2****2": [
+     {
+      "lot_number": 55,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559212-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 69,
+      "title": "Surface Pro 9/10/11 Case | Scout Series | UAG | Urbna Armor Gear | UPC: 840283906510 -|- [DFWSH001]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559199-surface-pro-91011-case-scout-series-uag-urbna-armor-gear-upc-840283906510-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 89,
+      "title": "Rubber / Concrete Boots | Black | Size 12 | Made in the USA -|- [DFWSH009]",
+      "hammer_total": 5.02,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559179-rubber-concrete-boots-black-size-12-made-in-the-usa-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 91,
+      "title": "NXG Pro Sapphire Series | Optimal Performance | HDMI cable/w gold connectors -|- [DFWSH002]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559177-nxg-pro-sapphire-series-optimal-performance-hdmi-cablew-gold-connectors-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 100,
+      "title": "Netgear GS308 | 9 Port 10/100/1000 Unmanged Switch | Tested & Working | Black -|- [DFWSH009]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559168-netgear-gs308-9-port-101001000-unmanged-switch-tested-and-working-black-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 102,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 14.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559166-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 104,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 14.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559162-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 105,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 14.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559163-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 106,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 14.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559164-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 107,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 14.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559161-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 108,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 14.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559160-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 133,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559135-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 137,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 15.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559130-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 138,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559131-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 139,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559129-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 141,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 11.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559127-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 144,
+      "title": "Rummykube Game -|- [DFWSH001]",
+      "hammer_total": 4.02,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559124-rummykube-game-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 155,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 16.05,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559113-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 227,
+      "title": "Radioddity GD-AT10H | GPS | BT | Dual Band | 10W | 3100mAh | Amateur Two-Way Radio | GMRS -|- [DFWSH009]",
+      "hammer_total": 11.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559041-radioddity-gd-at10h-gps-bt-dual-band-10w-3100mah-amateur-two-way-radio-gmrs-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 243,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 37.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559025-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 245,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 36.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559023-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 278,
+      "title": "Ailunce HD1 | 10w | IP67 | HAM & GMRS Radio | Dual Band | VHF & UHF | DMR -|- [DFWSH001]",
+      "hammer_total": 31.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558991-ailunce-hd1-10w-ip67-ham-and-gmrs-radio-dual-band-vhf-and-uhf-dmr-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 285,
+      "title": "Radio Hand Mic | Hand Microphones | Radioddity | Ailunce HD1 Compatible -|- [DFWSH001]",
+      "hammer_total": 12.03,
+      "hammer_per_unit": null,
+      "quantity": 3,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558985-radio-hand-mic-hand-microphones-radioddity-ailunce-hd1-compatible-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 317,
+      "title": "Apple Trackpad | A1535 -|- [DFWSH002]",
+      "hammer_total": 27.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558952-apple-trackpad-a1535-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 325,
+      "title": "Box of Cables | Coax | RCA | HDMI | RJ11 | Firewire -|- [DFWSH008]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558943-box-of-cables-coax-rca-hdmi-rj11-firewire-dfwsh008",
+      "photo_url": null
+     },
+     {
+      "lot_number": 348,
+      "title": "Ailunce HD1 | 10w | IP67 | HAM & GMRS Radio | Dual Band | VHF & UHF | DMR -|- [DFWSH001]",
+      "hammer_total": 26.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558919-ailunce-hd1-10w-ip67-ham-and-gmrs-radio-dual-band-vhf-and-uhf-dmr-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 358,
+      "title": "Patch Cables | Cat5 | Cat6 | Cat6a | Approx. 78-qty | Misc Lengths and Brands -|- [DFWSH015]",
+      "hammer_total": 5.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558912-patch-cables-cat5-cat6-cat6a-approx-78-qty-misc-lengths-and-brands-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 359,
+      "title": "Patch Cables | Cat5 | Cat6 | Cat6a | Approx. 92-qty | Misc Lengths and Brands -|- [DFWSH015]",
+      "hammer_total": 5.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558909-patch-cables-cat5-cat6-cat6a-approx-92-qty-misc-lengths-and-brands-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 386,
+      "title": "Miscellaneous XLR Barrel Connectors -|- [DFWSH002]",
+      "hammer_total": 5.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558882-miscellaneous-xlr-barrel-connectors-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 421,
+      "title": "Bin of Cables | USB-A | USB Micro | USB-C | Unknown Quantity -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560864-bin-of-cables-usb-a-usb-micro-usb-c-unknown-quantity-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 428,
+      "title": "Apple Vintage KeyRings | MacOS Rainbow Apple Logo -|- [DFWSH012]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560871-apple-vintage-keyrings-macos-rainbow-apple-logo-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 429,
+      "title": "Metal Sign | 24 Hour Surveillance Warning -|- [DFWSH002]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560872-metal-sign-24-hour-surveillance-warning-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 432,
+      "title": "Female Terminals -|- [DFWSH002]",
+      "hammer_total": 5.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560875-female-terminals-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 434,
+      "title": "Microsoft Webcam -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560877-microsoft-webcam-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 435,
+      "title": "Misc Video Adapters -|- [DFWSH001]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560878-misc-video-adapters-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 436,
+      "title": "Roll of Misc Video Cables -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560879-roll-of-misc-video-cables-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 439,
+      "title": "Netgear GS324 | 24-Port Gigabit Switch -|- [DFWSH009]",
+      "hammer_total": 11.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560882-netgear-gs324-24-port-gigabit-switch-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 440,
+      "title": "Matrox MHD/I Monarch HD | Simultaneous Live Streaming and Recording",
+      "hammer_total": 7.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560883-matrox-mhd-i-monarch-hd-simultaneous-live-streaming-and-recording",
+      "photo_url": null
+     },
+     {
+      "lot_number": 449,
+      "title": "HP EliteDesk 800 G3 | i7-6700 @ 3.4 GHz | 16gb RAM | 500gb SSD -|- [DFWSH015]",
+      "hammer_total": 15.15,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560892-hp-elitedesk-800-g3-i7-6700-34-ghz-16gb-ram-500gb-ssd-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 450,
+      "title": "DMX USB Controller | Ent Tec -|- [DFWSH002]",
+      "hammer_total": 7.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560893-dmx-usb-controller-ent-tec-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 451,
+      "title": "Dell PowerEdge T30 | Server | Intel Xeon E3-1225 V5 @ 3.3 GHz | 16gb RAM | No Storage (SATA) | Pull from working production, just could not includ HDD due to data privacy. -|- [DFWSH016]",
+      "hammer_total": 21.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560894-dell-poweredge-t30-server-intel-xeon-e3-1225-v5-33-ghz-16gb-ram-no-storage-sata-pull-from-working-production-just-could-not-includ-hdd-due-to-data-privacy-dfwsh016",
+      "photo_url": null
+     },
+     {
+      "lot_number": 454,
+      "title": "Dahua CCTV | NVR Pro N82B5P | w/16 IP Cameras | Camera Model: N43CL62 4MP IR Outdoor / 2.8mm Lens | Known Password | Pulled and tested functional. -|- [DFWSH015]",
+      "hammer_total": 122.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560897-dahua-cctv-nvr-pro-n82b5p-w-16-ip-cameras-camera-model-n43cl62-4mp-ir-outdoor-28mm-lens-known-password-pulled-and-tested-functional-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 457,
+      "title": "IP Security Camera | Dahua | N43CL62 | Lite Series Enhanced StarLight | 4MP IR Outdoor WDR Dome | 2.8mm Lens -|- [DFWSH015]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560900-ip-security-camera-dahua-n43cl62-lite-series-enhanced-starlight-4mp-ir-outdoor-wdr-dome-28mm-lens-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 458,
+      "title": "IP Security Camera | Dahua | N55CT5 | 5MP | Indoor Night Vision Panoramic Fisheye IP Security Camera with Analytics | 1.4mm Fixed Lens | Built-in Microphone -|- [DFWSH015]",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560901-ip-security-camera-dahua-n55ct5-5mp-indoor-night-vision-panoramic-fisheye-ip-security-camera-with-analytics-14mm-fixed-lens-built-in-microphone-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 459,
+      "title": "Misc. POE Injectors | Ubiquity UniFi -|- [DFWSH001]",
+      "hammer_total": 2.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560902-misc-poe-injectors-ubiquity-unifi-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 467,
+      "title": "Netgear ProSafe GS724T | 24-Port Gigabit Ethernet Switch -|- [DFWSH009]",
+      "hammer_total": 14.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560910-netgear-prosafe-gs724t-24-port-gigabit-ethernet-switch-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 476,
+      "title": "Netgear ProSafe 5-Port Switch | GS105 -|- [DFWSH016]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560919-netgear-prosafe-5-port-switch-gs105-dfwsh016",
+      "photo_url": null
+     }
+    ],
+    "1****8": [
+     {
+      "lot_number": 56,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 32.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559213-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 242,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 38.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559026-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     }
+    ],
+    "2****9": [
+     {
+      "lot_number": 63,
+      "title": "Dell Vostro 3910 | i3-12100 / 4.3 GHz | 16gb DDR4 RAM | 256gb SSD | 1tb HDD | WiFi 6 | Bluetooth | Windows 11 Pro - LEGAL Copy Installed -|- [DFWSH015]",
+      "hammer_total": 35.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559205-dell-vostro-3910-i3-12100-43-ghz-16gb-ddr4-ram-256gb-ssd-1tb-hdd-wifi-6-bluetooth-windows-11-pro-legal-copy-installed-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 76,
+      "title": "NIB - HP Halley Wired USB 302K Keyboard | L96909-001 | Black -|- [DFWSH001]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559190-nib-hp-halley-wired-usb-302k-keyboard-l96909-001-black-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 80,
+      "title": "NIB - HP Halley Wired USB 302K Keyboard | L96909-001 | Black -|- [DFWSH001]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 5,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559187-nib-hp-halley-wired-usb-302k-keyboard-l96909-001-black-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 109,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 16.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559159-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 134,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 15.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559134-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 135,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 15.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559133-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 136,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 15.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559132-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 140,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|-",
+      "hammer_total": 15.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559128-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage",
+      "photo_url": null
+     },
+     {
+      "lot_number": 208,
+      "title": "NIB - Mice | Dell & HP -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559060-nib-mice-dell-and-hp-dfwsh001",
+      "photo_url": null
+     }
+    ],
+    "2****8": [
+     {
+      "lot_number": 87,
+      "title": "Vintage Safaril Portugal White Ceramic Soup Tureen with Lid & Handles #406 -|- [DFWSH012]",
+      "hammer_total": 3.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559180-vintage-safaril-portugal-white-ceramic-soup-tureen-with-lid-and-handles-406-dfwsh012",
+      "photo_url": null
+     }
+    ],
+    "1****0": [
+     {
+      "lot_number": 97,
+      "title": "NIB - Apple USB-C to MagSafe 3 Cable | 2m | White | UPC: 194252750780 -|- [DFWSH002]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559171-nib-apple-usb-c-to-magsafe-3-cable-2m-white-upc-194252750780-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 168,
+      "title": "Stanley Tape Measure PowerLock LeverLock Hyper Tough -|- [DFWSH001]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559099-stanley-tape-measure-powerlock-leverlock-hyper-tough-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 194,
+      "title": "Brother RJ-2150 | 13-qty Printers | Only -|- [DFWSH015]",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 13,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559074-brother-rj-2150-13-qty-printers-only-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 244,
+      "title": "Acer Aspire TC-1760 | i5-12400 @ 2.5 GHz | 12gb RAM | 500gb SSD | Window 11 Installed | 12th Gen Intel -|- [DFWSH015]",
+      "hammer_total": 37.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559024-acer-aspire-tc-1760-i5-12400-25-ghz-12gb-ram-500gb-ssd-window-11-installed-12th-gen-intel-dfwsh015",
+      "photo_url": null
+     },
+     {
+      "lot_number": 282,
+      "title": "Motorola T7863A | Motorola Solutions KVL 4000 | Zebra MC55E0 Key Variable Loader -|- [DFWSH003]",
+      "hammer_total": 11.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558987-motorola-t7863a-motorola-solutions-kvl-4000-zebra-mc55e0-key-variable-loader-dfwsh003",
+      "photo_url": null
+     },
+     {
+      "lot_number": 375,
+      "title": "Direct Box | WhirlWind | Model IMP2 | XLR | 1/4\" TRS | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558893-direct-box-whirlwind-model-imp2-xlr-1-4-trs-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 381,
+      "title": "Shure SLX4 Handheld Wireless System | Shure SLX2 / BETA 87A Handheld Transmitter | Pulled from a Production Environment -|- [DFWSH002]",
+      "hammer_total": 99.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558887-shure-slx4-handheld-wireless-system-shure-slx2-beta-87a-handheld-transmitter-pulled-from-a-production-environment-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 383,
+      "title": "Shure SM57 Microphone -|- [DFWSH002]",
+      "hammer_total": 21.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558885-shure-sm57-microphone-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 442,
+      "title": "GrandStream | Model HT802 | VoIP phone adapter | ATA",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560885-grandstream-model-ht802-voip-phone-adapter-ata",
+      "photo_url": null
+     },
+     {
+      "lot_number": 474,
+      "title": "Ubiquiti Wall Mount | UVC-G3-FLEX-PWM-WT | Pole & Wall Mount for UniFi Video Camera G3 FLEX -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560917-ubiquiti-wall-mount-uvc-g3-flex-pwm-wt-pole-and-wall-mount-for-unifi-video-camera-g3-flex-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 475,
+      "title": "Ubiquiti Wall Mount | UVC-G3-FLEX-PWM-WT | Pole & Wall Mount for UniFi Video Camera G3 FLEX -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560918-ubiquiti-wall-mount-uvc-g3-flex-pwm-wt-pole-and-wall-mount-for-unifi-video-camera-g3-flex-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 479,
+      "title": "End Fed HF Antenna | BA-1 | 4:1 Balun | LDG Electronics -|- [DFWSH012]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560922-end-fed-hf-antenna-ba-1-4-1-balun-ldg-electronics-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 480,
+      "title": "End Fed HF Antenna | Balun Matchbox | Mfr: Balun Designs | Model: 4110x | 4:1 | Honolulu Hawaii -|- [DFWSH012]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560923-end-fed-hf-antenna-balun-matchbox-mfr-balun-designs-model-4110x-4-1-honolulu-hawaii-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 493,
+      "title": "Toshiba 2tb Portable External HDD (Hard Drive) | Model: HDTC820CC3C1 -|- [DFWSH012]",
+      "hammer_total": 14.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560936-toshiba-2tb-portable-external-hdd-hard-drive-model-hdtc820cc3c1-dfwsh012",
+      "photo_url": null
+     }
+    ],
+    "1****5": [
+     {
+      "lot_number": 111,
+      "title": "Blue USB Streaming Mic -|- [DFWSH002]",
+      "hammer_total": 8.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559157-blue-usb-streaming-mic-dfwsh002",
+      "photo_url": null
+     }
+    ],
+    "3****1": [
+     {
+      "lot_number": 125,
+      "title": "Mid-Century Modern \"UFO\" Vase by Heger Potteries Model #5150 | Gray Color | United Pottery - American Made -|- [DFWSH012]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559143-mid-century-modern-ufo-vase-by-heger-potteries-model-5150-gray-color-united-pottery-american-made-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 126,
+      "title": "Vintage Frankoma Pottery Free Form Candle Vase #302 | Green & Brown | Home Decore -|- [DFWSH012]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559142-vintage-frankoma-pottery-free-form-candle-vase-302-green-and-brown-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 128,
+      "title": "Floraline Pottery #425 Green | Home Decore -|- [DFWSH012]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559140-floraline-pottery-425-green-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 132,
+      "title": "K&O Models | Cira: 1950-1960 | Japan | Die-Cast Evinrude Big Twin Outboard Motor | Home Decore -|- [DFWSH012]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559136-k-and-o-models-cira-1950-1960-japan-die-cast-evinrude-big-twin-outboard-motor-home-decore-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 333,
+      "title": "Ornamental Asian Clock -|- [DFWSH001]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558935-ornamental-asian-clock-dfwsh001",
+      "photo_url": null
+     }
+    ],
+    "2****7": [
+     {
+      "lot_number": 156,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 16.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559112-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 157,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559110-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 158,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 16.88,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559109-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 159,
+      "title": "Dell OptiPlex 7070 | i5-9500 @ 3.0GHz | 16gb RAM | No Storage -|- [DFWSH009]",
+      "hammer_total": 16.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/559107-dell-optiplex-7070-i5-9500-30ghz-16gb-ram-no-storage-dfwsh009",
+      "photo_url": null
+     },
+     {
+      "lot_number": 306,
+      "title": "iPhone 15 | 128gb | Pink | SIM Locked (95% sure it's ATT) | iCloud Unlocked | Battery Health 100% -|- [DFWSH001]",
+      "hammer_total": 146.01,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558963-iphone-15-128gb-pink-sim-locked-95-sure-its-att-icloud-unlocked-battery-health-100-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 307,
+      "title": "iPhone 15 Pro | 256gb | Blue | Carrier UNLOCKED | iCloud Unlocked | Battery Health 84% | w/Carved.com Custom REAL Wood & Resin \"Live Edge\" Case $199 Value -|- [DFWSH001]",
+      "hammer_total": 301.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558961-iphone-15-pro-256gb-blue-carrier-unlocked-icloud-unlocked-battery-health-84-w-carvedcom-custom-real-wood-and-resin-live-edge-case-199-value-dfwsh001",
+      "photo_url": null
+     }
+    ],
+    "1****7": [
+     {
+      "lot_number": 312,
+      "title": "Apple MacBook Pro | 2.9 GHz 6-Core Intel i9 | 32gb RAM | 1tb SSD | TouchBar | Space Gray -|- [DFWSH001]",
+      "hammer_total": 243.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558956-apple-macbook-pro-29-ghz-6-core-intel-i9-32gb-ram-1tb-ssd-touchbar-space-gray-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 316,
+      "title": "Dell Inspiron 7573 | i7-8550U | 1.8 GHz | 12gb RAM | 250gb SSD -|- [DFWSH001]",
+      "hammer_total": 61.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558951-dell-inspiron-7573-i7-8550u-18-ghz-12gb-ram-250gb-ssd-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 492,
+      "title": "Toshiba 500gb Portable External HDD (Hard Drive) | Model: E05A050CAU3SW -|- [DFWSH012]",
+      "hammer_total": 7.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560935-toshiba-500gb-portable-external-hdd-hard-drive-model-e05a050cau3sw-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 494,
+      "title": "Seagate One Touch | 2tb Portable External HDD (Hard Drive) | Model: 3BDAPQ-505 -|- [DFWSH012]",
+      "hammer_total": 15.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560937-seagate-one-touch-2tb-portable-external-hdd-hard-drive-model-3bdapq-505-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 495,
+      "title": "Seagate One Touch | 2tb Portable External HDD (Hard Drive) | Model: 3BDAPQ-505 -|- [DFWSH012]",
+      "hammer_total": 17.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560938-seagate-one-touch-2tb-portable-external-hdd-hard-drive-model-3bdapq-505-dfwsh012",
+      "photo_url": null
+     }
+    ],
+    "5****9": [
+     {
+      "lot_number": 349,
+      "title": "Miniature Precision Nut Driver Set | Vintage | Japan -|- [DFWSH012]",
+      "hammer_total": 5.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558920-miniature-precision-nut-driver-set-vintage-japan-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 350,
+      "title": "Miniature Precision Nut Driver Set | Vintage | Japan -|- [DFWSH012]",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558918-miniature-precision-nut-driver-set-vintage-japan-dfwsh012",
+      "photo_url": null
+     },
+     {
+      "lot_number": 352,
+      "title": "Miniature Precision Screwdriver Set | Vintage | Japan -|- [DFWSH012]",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558915-miniature-precision-screwdriver-set-vintage-japan-dfwsh012",
+      "photo_url": null
+     }
+    ],
+    "2****6": [
+     {
+      "lot_number": 353,
+      "title": "Sylvania LED 6\" Retrofit Downlights | Screw Base | 725 Lumens | 9w | 35w eq. | Selectable Color Temp 2700-3000/3500/4000/5000 | UPC: 046135663307 | RT 5/6 | 10046135663304 | 66330-0 | LEDRT56SC3725SMRP -|- [DFWSH001]",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 10,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558914-sylvania-led-6-retrofit-downlights-screw-base-725-lumens-9w-35w-eq-selectable-color-temp-2700-3000-3500-4000-5000-upc-046135663307-rt-56-10046135663304-66330-0-ledrt56sc3725smrp-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 354,
+      "title": "Sylvania LED 6\" Retrofit Downlights | Screw Base | 725 Lumens | 9w | 35w eq. | Selectable Color Temp 2700-3000/3500/4000/5000 | UPC: 046135663307 | RT 5/6 | 10046135663304 | 66330-0 | LEDRT56SC3725SMRP -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558916-sylvania-led-6-retrofit-downlights-screw-base-725-lumens-9w-35w-eq-selectable-color-temp-2700-3000-3500-4000-5000-upc-046135663307-rt-56-10046135663304-66330-0-ledrt56sc3725smrp-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 355,
+      "title": "Sylvania LED 6\" Retrofit Downlights | Screw Base | 725 Lumens | 9w | 35w eq. | Selectable Color Temp 2700-3000/3500/4000/5000 | UPC: 046135663307 | RT 5/6 | 10046135663304 | 66330-0 | LEDRT56SC3725SMRP -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558913-sylvania-led-6-retrofit-downlights-screw-base-725-lumens-9w-35w-eq-selectable-color-temp-2700-3000-3500-4000-5000-upc-046135663307-rt-56-10046135663304-66330-0-ledrt56sc3725smrp-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 356,
+      "title": "Sylvania LED 6\" Retrofit Downlights | Screw Base | 725 Lumens | 9w | 35w eq. | Selectable Color Temp 2700-3000/3500/4000/5000 | UPC: 046135663307 | RT 5/6 | 10046135663304 | 66330-0 | LEDRT56SC3725SMRP -|- [DFWSH001]",
+      "hammer_total": 12.0,
+      "hammer_per_unit": null,
+      "quantity": 12,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/558911-sylvania-led-6-retrofit-downlights-screw-base-725-lumens-9w-35w-eq-selectable-color-temp-2700-3000-3500-4000-5000-upc-046135663307-rt-56-10046135663304-66330-0-ledrt56sc3725smrp-dfwsh001",
+      "photo_url": null
+     },
+     {
+      "lot_number": 427,
+      "title": "Hawaii Keyrings -|- [DFWSH001]",
+      "hammer_total": 1.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560870-hawaii-keyrings-dfwsh001",
+      "photo_url": null
+     }
+    ],
+    "4****8": [
+     {
+      "lot_number": 443,
+      "title": "LG NeoChef 2.0 cu. ft. 1200-Watt Countertop Microwave in Stainless Steel with Smart Inverter -|- [DFWSH002]",
+      "hammer_total": 36.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560886-lg-neochef-20-cu-ft-1200-watt-countertop-microwave-in-stainless-steel-with-smart-inverter-dfwsh002",
+      "photo_url": null
+     },
+     {
+      "lot_number": 444,
+      "title": "Build-In Microwave -|- [DFWSH002]",
+      "hammer_total": 22.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560887-build-in-microwave-dfwsh002",
+      "photo_url": null
+     }
+    ],
+    "6****7": [
+     {
+      "lot_number": 461,
+      "title": "NIB - 48-Port Gigabit PoE Switch | 48 x 10/100/1000 | 4 x 10Gb SFP+ | 740W Total PoE Budget | VLAN | QOS | LAG | RSTP | ACL | IGMP | 1.5U 19\" Rack Mount | Tenda TEG5328P-4X-740W -|- [DFWSH009]",
+      "hammer_total": 56.11,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1151/lot/560904-nib-48-port-gigabit-poe-switch-48-x-10-100-1000-4-x-10gb-sfp-740w-total-poe-budget-vlan-qos-lag-rstp-acl-igmp-15u-19-rack-mount-tenda-teg5328p-4x-740w-dfwsh009",
+      "photo_url": null
      }
     ]
    }
