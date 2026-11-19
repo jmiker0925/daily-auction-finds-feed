@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:46:09+00:00",
+ "generated_at": "2026-11-19T14:46:29+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -4704,7 +4704,7 @@
       {
        "itemId": 234,
        "lotNumber": "444",
-       "description": "Milwaukee appliance hand truck $81.00",
+       "description": "Milwaukee 800 lb Appliance Hand Truck (40715)",
        "quantity": 1,
        "quantitySold": 0,
        "hammer": 81.0,
@@ -6356,7 +6356,7 @@
       {
        "itemId": 368,
        "lotNumber": "1100",
-       "description": "Milwaukee Packout cart $97.00",
+       "description": "Milwaukee PACKOUT 2-Wheeled Cart (48-22-8415)",
        "quantity": 1,
        "quantitySold": 0,
        "hammer": 97.0,
@@ -9251,7 +9251,7 @@
       {
        "itemId": 599,
        "lotNumber": "",
-       "description": "43x Milwaukee hand truck $75.00",
+       "description": "Milwaukee 800 lb 2-in-1 Convertible Hand Truck (CHT2N1)",
        "quantity": 1,
        "quantitySold": 0,
        "hammer": 75.0,
