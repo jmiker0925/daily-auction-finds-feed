@@ -1,6 +1,92 @@
 {
- "generated_at": "2026-11-19T14:46:11+00:00",
+ "generated_at": "2026-11-20T14:45:46+00:00",
  "sales": [
+  {
+   "saleId": 325,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "SeeSii 1-Inch Cordless SDS-Plus Rotary Hammer Drill, with 2 x 4.0Ah Batteries & Chisel/Bit Set",
+   "soldDate": "2026-11-20",
+   "gross": 90.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 0.0,
+   "profit": 90.0,
+   "allocations": [
+    {
+     "itemId": 4558,
+     "description": "SeeSii 21V brushless cordless rotary hammer kit EH06P (tool, 2x 4.0Ah batteries, charger, SDS bits, depth rod, side handle, manual, case)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 324,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "",
+   "soldDate": "2026-11-19",
+   "gross": 100.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5885,
+     "description": "RIDGID Pro Gear System Gen 2.0 3-Piece Rolling Tool Box Kit (rolling cart 254065 + 22 in. tool box 254067 + compact tool box 254069)",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 323,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 40V 15 in. Expand-It Cordless String Trimmer Kit RY40PH01",
+   "soldDate": "2026-11-19",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 4396,
+     "description": "#133 RYOBI 40V 15 in. Expand-It Cordless Battery Attachment Capable String Trimmer",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "saleId": 322,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Ryobi 40V HP Brushless 20 in. Cordless Battery Walk Behind Push Lawn Mower (Tool Only) + 40V 2.0Ah battery + OP408 charger",
+   "soldDate": "2026-11-19",
+   "gross": 140.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 14,
+     "description": "RYOBI 40V HP 20\" cordless push mower $26.00 ea",
+     "quantity": 1
+    },
+    {
+     "itemId": 5040,
+     "description": "Ryobi 40V 2.0Ah Lithium Battery OP40204VNM",
+     "quantity": 1
+    },
+    {
+     "itemId": 5111,
+     "description": "Ryobi 40V Charger OP408VNM",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 321,
    "platform": "facebook",
