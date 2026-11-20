@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:46:29+00:00",
+ "generated_at": "2026-11-20T14:45:59+00:00",
  "sites": [
   {
    "site": "auctionhub",
@@ -2038,10 +2038,10 @@
        "lotNumber": "565/566",
        "description": "RYOBI 40V HP 20\" cordless push mower $26.00 ea",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 52.0,
        "allInCost": 64.72,
-       "status": "in_stock"
+       "status": "sold"
       },
       {
        "itemId": 15,
@@ -15301,10 +15301,10 @@
        "lotNumber": "1080537241",
        "description": "#133 RYOBI 40V 15 in. Expand-It Cordless Battery Attachment Capable String Trimmer",
        "quantity": 1,
-       "quantitySold": 0,
+       "quantitySold": 1,
        "hammer": 41.21,
        "allInCost": 41.21,
-       "status": "in_stock"
+       "status": "sold"
       }
      ]
     },
