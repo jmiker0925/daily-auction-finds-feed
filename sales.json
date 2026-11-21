@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-20T14:45:46+00:00",
+ "generated_at": "2026-11-21T14:45:04+00:00",
  "sales": [
+  {
+   "saleId": 326,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Metabo 18V MultiVolt Cordless 4,000 Lumen LED Work Light (Tool Body Only)",
+   "soldDate": "2026-11-20",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 14.94,
+   "profit": 50.06,
+   "allocations": [
+    {
+     "itemId": 631,
+     "description": "Metabo work light $12.00",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 325,
    "platform": "facebook",
