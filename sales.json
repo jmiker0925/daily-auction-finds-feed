@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-23T14:44:57+00:00",
+ "generated_at": "2026-11-24T14:45:01+00:00",
  "sales": [
+  {
+   "saleId": 327,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "RIDGID 18V 3 Gal Cordless Wet/Dry Vac HD03180, tool only, with hose and accessories",
+   "soldDate": "2026-11-23",
+   "gross": 65.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5623,
+     "description": "RIDGID 18V 3 Gal Cordless Wet/Dry Vac HD03180 (tool only)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 326,
    "platform": "facebook",
