@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-25T14:45:02+00:00",
+ "generated_at": "2026-11-26T14:44:56+00:00",
  "sales": [
+  {
+   "saleId": 328,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "Black Canyon 14-Piece Forstner Drill Bit Set",
+   "soldDate": "2026-11-25",
+   "gross": 40.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": 47.21,
+   "profit": -7.21,
+   "allocations": [
+    {
+     "itemId": 4635,
+     "description": "Black Canyon 14-piece Forstner bit set (Model T32-1058)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 327,
    "platform": "facebook",
