@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T07:44:05.114760-06:00",
+ "generatedAt": "2026-11-27T07:44:06.472296-06:00",
  "auctions": [
   {
    "id": "1130",
@@ -95187,6 +95187,2492 @@
       "quantity": 1,
       "lot_url": "https://www.auctionhubtexas.com/auctions/1170/lot/569920-milwaukee-m18-fuel-9-inch-cut-off-saw-2786-20",
       "photo_url": null
+     }
+    ]
+   }
+  },
+  {
+   "id": "1177",
+   "site": "Auction HUB Texas",
+   "name": "Thanksgiving Special / Asset Recovery (Garland Home Center)",
+   "closeDate": "2026-11-26",
+   "location": "2905 Miller Park N, Garland, TX 75002",
+   "lots": [
+    {
+     "lot_number": "1",
+     "title": "RIDGID Pro Gear System Gen 2.0 Modular Tool Box",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1006",
+     "title": "DeWalt 9ah flex volt battery with charger",
+     "outcome": "outbid",
+     "hammer_total": 112.0,
+     "hammer_per_unit": 112.0,
+     "winning_bidder": "4****1",
+     "john_max": 70.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1007",
+     "title": "DeWalt 9ah flex volt battery with charger",
+     "outcome": "won",
+     "hammer_total": 127.0,
+     "hammer_per_unit": 127.0,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1008",
+     "title": "DeWalt 9ah flex volt battery with charger",
+     "outcome": "won",
+     "hammer_total": 127.0,
+     "hammer_per_unit": 127.0,
+     "winning_bidder": "3730",
+     "john_max": null,
+     "lot_url": null
+    },
+    {
+     "lot_number": "1009",
+     "title": "DeWalt 9ah flex volt battery with charger",
+     "outcome": "outbid",
+     "hammer_total": 125.0,
+     "hammer_per_unit": 125.0,
+     "winning_bidder": "4****1",
+     "john_max": 124.01,
+     "lot_url": null
+    },
+    {
+     "lot_number": "107",
+     "title": "RYOBI 18V ONE+ Drill/Driver Kit (PSBDD01K)",
+     "outcome": "outbid",
+     "hammer_total": 24.25,
+     "hammer_per_unit": 24.25,
+     "winning_bidder": "6****8",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "108",
+     "title": "RYOBI 18V ONE+ Hammer Drill Kit (PSBPD01K)",
+     "outcome": "outbid",
+     "hammer_total": 29.0,
+     "hammer_per_unit": 29.0,
+     "winning_bidder": "6****7",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "111",
+     "title": "RYOBI 18V ONE+ Brushless 1/2\" Hammer Drill Kit (PSBPD01K)",
+     "outcome": "outbid",
+     "hammer_total": 70.0,
+     "hammer_per_unit": 70.0,
+     "winning_bidder": "6****8",
+     "john_max": 48.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "115",
+     "title": "225-pack of Cobra Walldriller Hollow Wall Anchors",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 20.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "119",
+     "title": "GRK Fasteners Deck Elite #8 x 2\" Decking Screws (model #10803, 540-count, with a T-15 star drive bit)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "120",
+     "title": "RYOBI 18V ONE+ HP Brushless 1/2\" Drill/Driver Kit (PSBDD01K)",
+     "outcome": "outbid",
+     "hammer_total": 33.0,
+     "hammer_per_unit": 33.0,
+     "winning_bidder": "1****8",
+     "john_max": 20.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "121",
+     "title": "RYOBI 18V ONE+ HP Brushless 1/2\" Drill/Driver Kit (PSBDD01K)",
+     "outcome": "outbid",
+     "hammer_total": 15.25,
+     "hammer_per_unit": 15.25,
+     "winning_bidder": "3****9",
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "122",
+     "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+     "outcome": "outbid",
+     "hammer_total": 101.0,
+     "hammer_per_unit": 101.0,
+     "winning_bidder": "1****5",
+     "john_max": 79.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "128",
+     "title": "RYOBI 18V ONE+ Brushless 1/2\" Hammer Drill Kit (PSBPD01K)",
+     "outcome": "outbid",
+     "hammer_total": 25.0,
+     "hammer_per_unit": 25.0,
+     "winning_bidder": "6****2",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "13",
+     "title": "RYOBI 18V ONE+ Brushless 1/4\" Impact Driver Kit (PSBID01K1)",
+     "outcome": "outbid",
+     "hammer_total": 45.0,
+     "hammer_per_unit": 45.0,
+     "winning_bidder": "4****8",
+     "john_max": 32.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "136",
+     "title": "RYOBI 18V ONE+ Brushless 1/2\" Hammer Drill Kit (PSBPD01K)",
+     "outcome": "outbid",
+     "hammer_total": 103.0,
+     "hammer_per_unit": 103.0,
+     "winning_bidder": "1****5",
+     "john_max": 99.99,
+     "lot_url": null
+    },
+    {
+     "lot_number": "139",
+     "title": "Husky 28.4 in. Steel Folding Sawhorse (model SH106C",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "14",
+     "title": "RYOBI 18V ONE+ Brushless 1/4\" Impact Driver Kit (PSBID01K1)",
+     "outcome": "outbid",
+     "hammer_total": 51.0,
+     "hammer_per_unit": 51.0,
+     "winning_bidder": "4****0",
+     "john_max": 32.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "15",
+     "title": "RYOBI 18V ONE+ Brushless 1/4\" Impact Driver Kit (PSBID01K1)",
+     "outcome": "outbid",
+     "hammer_total": 51.0,
+     "hammer_per_unit": 51.0,
+     "winning_bidder": "4****0",
+     "john_max": 32.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "16",
+     "title": "RYOBI 40V Lithium-Ion 6.0 Ah High Capacity Battery",
+     "outcome": "won",
+     "hammer_total": 50.0,
+     "hammer_per_unit": 50.0,
+     "winning_bidder": "3730",
+     "john_max": 50.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "160",
+     "title": "Commercial Electric 16 in. 3-Speed High Velocity Turbo Drum Floor Fan (model SFD5-400B) in orange,",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 26.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "172",
+     "title": "RYOBI 40V HP 6.0 Ah Battery",
+     "outcome": "outbid",
+     "hammer_total": 13.0,
+     "hammer_per_unit": 13.0,
+     "winning_bidder": "6****0",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "181",
+     "title": "RYOBI 18V ONE+ 1/2\" Drill/Driver Kit",
+     "outcome": "outbid",
+     "hammer_total": 11.5,
+     "hammer_per_unit": 11.5,
+     "winning_bidder": "4****0",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "191",
+     "title": "Lasko 20\" 3-Speed Air Circulator Floor Fan (Model A20107)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "192",
+     "title": "Lasko 20\" 3-Speed Air Circulator Floor Fan (Model A20107)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "193",
+     "title": "Commercial Electric 20 in. 3-Speed High Velocity Floor Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "2",
+     "title": "RIDGID Pro Gear System Gen 2.0 10-Compartment Small Parts Organizer",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "227",
+     "title": "Lasko Pro-Performance Pivoting Utility Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "233",
+     "title": "Mr. Heater Portable Buddy 9,000 BTU Radiant Propane Heater",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 20.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "234",
+     "title": "Lasko Pro-Performance Pivoting Utility Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "235",
+     "title": "Commercial Electric 3-Speed High Velocity Turbo drum floor fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 26.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "236",
+     "title": "Commercial Electric 3-Speed High Velocity Turbo drum floor fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 26.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "241",
+     "title": "Lasko Pro-Performance Pivoting Utility Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "242",
+     "title": "BISSELL PowerClean FurFinder vacuum cleaner $229.99",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 46.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "251",
+     "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+     "outcome": "outbid",
+     "hammer_total": 15.0,
+     "hammer_per_unit": 7.5,
+     "winning_bidder": "1****5",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "252",
+     "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+     "outcome": "outbid",
+     "hammer_total": 15.0,
+     "hammer_per_unit": 7.5,
+     "winning_bidder": "1****5",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "253",
+     "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+     "outcome": "outbid",
+     "hammer_total": 10.92,
+     "hammer_per_unit": 5.46,
+     "winning_bidder": "6****7",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "254",
+     "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+     "outcome": "outbid",
+     "hammer_total": 17.0,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "6****2",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "255",
+     "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+     "outcome": "outbid",
+     "hammer_total": 14.2,
+     "hammer_per_unit": 7.1,
+     "winning_bidder": "2****9",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "256",
+     "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+     "outcome": "outbid",
+     "hammer_total": 13.0,
+     "hammer_per_unit": 6.5,
+     "winning_bidder": "3****7",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "26",
+     "title": "ECHO 56V 2.5 Ah Battery (CBT258B)",
+     "outcome": "outbid",
+     "hammer_total": 31.0,
+     "hammer_per_unit": 31.0,
+     "winning_bidder": "4****8",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "28",
+     "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+     "outcome": "outbid",
+     "hammer_total": 8.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "4****0",
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "29",
+     "title": "RYOBI 40V 6.0 Ah battery (model OP4060A)",
+     "outcome": "outbid",
+     "hammer_total": 8.5,
+     "hammer_per_unit": 8.5,
+     "winning_bidder": "1****5",
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "30",
+     "title": "Husky 45oz Mallot Black",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "31",
+     "title": "Milwaukee SnapBack Trucker Hat Black",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "32",
+     "title": "Husky 200 mm adjustable wrench set",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "320",
+     "title": "Best Pack Tape",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "331",
+     "title": "Everbilt #8 x 1-5/8 in. Phillips Drive Truss Head Self-Drilling Lath Screws for metal-to-metal fastening",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "332",
+     "title": "Everbilt #8 x 1-5/8 in. Phillips Drive Truss Head Self-Drilling Lath Screws for metal-to-metal fastening",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "333",
+     "title": "Everbilt #8 x 1-5/8 in. Phillips Drive Truss Head Self-Drilling Lath Screws for metal-to-metal fastening",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "34",
+     "title": "Milwaukee 12.0 Ah M18 REDLITHIUM Battery and M18 Charger",
+     "outcome": "outbid",
+     "hammer_total": 11.5,
+     "hammer_per_unit": 11.5,
+     "winning_bidder": "6****7",
+     "john_max": 11.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "40",
+     "title": "RYOBI 18V ONE+ Brushless High Torque Impact Wrench",
+     "outcome": "outbid",
+     "hammer_total": 25.25,
+     "hammer_per_unit": 25.25,
+     "winning_bidder": "6****2",
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "412",
+     "title": "RYOBI 40V 4.0 Ah battery seated on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 7.5,
+     "hammer_per_unit": 7.5,
+     "winning_bidder": "4****0",
+     "john_max": 5.5,
+     "lot_url": null
+    },
+    {
+     "lot_number": "413",
+     "title": "RYOBI 40V 4.0 Ah battery seated on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 6.0,
+     "hammer_per_unit": 6.0,
+     "winning_bidder": "4****0",
+     "john_max": 5.5,
+     "lot_url": null
+    },
+    {
+     "lot_number": "414",
+     "title": "Maintenance Warehouse (HDS) 1-1/2\" x 1-1/2\" Flexible No-Hub Pipe Coupling",
+     "outcome": "won",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "3730",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "415",
+     "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "4****8",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "43",
+     "title": "Milwaukee Impact Wrench with 2 M18 batteries and charger",
+     "outcome": "outbid",
+     "hammer_total": 13.0,
+     "hammer_per_unit": 13.0,
+     "winning_bidder": "4****3",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "438",
+     "title": "Husky 57gallon Pro Grip Storage Container",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "439",
+     "title": "Husky 170 gallon pro grip megatote storage container",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 23.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "44",
+     "title": "RIDGID 18V Brushless Hammer Drill with 2 18V batteries and charger",
+     "outcome": "outbid",
+     "hammer_total": 10.0,
+     "hammer_per_unit": 10.0,
+     "winning_bidder": "4****7",
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "443",
+     "title": "Husky 20 oz. Steel Rip Claw Hammer",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "444",
+     "title": "Master Lock laminated steel padlock",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 3.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "445",
+     "title": "RYOBI 40V Lithium 6.0 Ah battery pack resting on a green and black RYOBI 40V battery charger",
+     "outcome": "outbid",
+     "hammer_total": 13.75,
+     "hammer_per_unit": 13.75,
+     "winning_bidder": "3****0",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "446",
+     "title": "Orbit Easy-Set Logic Indoor/Outdoor Irrigation Controller",
+     "outcome": "won",
+     "hammer_total": 7.5,
+     "hammer_per_unit": 7.5,
+     "winning_bidder": "3730",
+     "john_max": 10.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "45",
+     "title": "Milwaukee M18 REDLITHIUM Battery with Milwaukee M18 and M12 Charger",
+     "outcome": "outbid",
+     "hammer_total": 8.0,
+     "hammer_per_unit": 8.0,
+     "winning_bidder": "4****2",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "451",
+     "title": "RYOBI 40V Lithium 6.0 Ah battery seated on a RYOBI 40V charger",
+     "outcome": "won",
+     "hammer_total": 50.0,
+     "hammer_per_unit": 50.0,
+     "winning_bidder": "3730",
+     "john_max": 50.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "456",
+     "title": "RYOBI 40V Lithium 6.0 Ah battery pack resting on a green and black RYOBI 40V battery charger",
+     "outcome": "outbid",
+     "hammer_total": 3.95,
+     "hammer_per_unit": 3.95,
+     "winning_bidder": "6****9",
+     "john_max": 1.25,
+     "lot_url": null
+    },
+    {
+     "lot_number": "469",
+     "title": "RYOBI 40V Lithium Battery",
+     "outcome": "outbid",
+     "hammer_total": 12.75,
+     "hammer_per_unit": 12.75,
+     "winning_bidder": "1****0",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "47",
+     "title": "RYOBI 40V Lithium 6.0 Ah Battery",
+     "outcome": "outbid",
+     "hammer_total": 25.0,
+     "hammer_per_unit": 25.0,
+     "winning_bidder": "1****5",
+     "john_max": 20.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "48",
+     "title": "ECHO 58V 2.0 Ah Battery",
+     "outcome": "outbid",
+     "hammer_total": 7.09,
+     "hammer_per_unit": 7.09,
+     "winning_bidder": "1****3",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "481",
+     "title": "RYOBI 40V Lithium Battery",
+     "outcome": "outbid",
+     "hammer_total": 13.75,
+     "hammer_per_unit": 13.75,
+     "winning_bidder": "5****1",
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "482",
+     "title": "RIDGID 10 Gal. 6.0 Peak HP Stainless Steel Shop Vacuum (WD1060)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 32.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "489",
+     "title": "RYOBI 40V Lithium-Ion Rapid Charger",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 30.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "490",
+     "title": "RYOBI 40V Lithium-Ion Rapid Charger",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 30.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "491",
+     "title": "RYOBI 40V lithium-ion battery charger",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "492",
+     "title": "RYOBI ONE+ 18V Lithium-Ion Battery Charger",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 8.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "493",
+     "title": "RYOBI 40V Lithium Battery",
+     "outcome": "outbid",
+     "hammer_total": 37.0,
+     "hammer_per_unit": 37.0,
+     "winning_bidder": "2****7",
+     "john_max": 34.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "494",
+     "title": "Ramset MasterShot 0.22 Caliber Powder Actuated Tool (model 40088)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "495",
+     "title": "RYOBI 40V Lithium Battery",
+     "outcome": "outbid",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "2****0",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "496",
+     "title": "Master Lock laminated steel padlock with two keys attached by a split ring",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 3.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "497",
+     "title": "RYOBI 40V Lithium Battery",
+     "outcome": "outbid",
+     "hammer_total": 7.25,
+     "hammer_per_unit": 7.25,
+     "winning_bidder": "1****8",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "498",
+     "title": "RYOBI 40V Lithium Battery",
+     "outcome": "outbid",
+     "hammer_total": 4.5,
+     "hammer_per_unit": 4.5,
+     "winning_bidder": "3****3",
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "499",
+     "title": "RYOBI 40V Lithium Battery",
+     "outcome": "outbid",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "2****0",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "502",
+     "title": "RYOBI 7-Piece Pressure Washer Quick-Connect Upgrade Kit (model RY31QCK01)",
+     "outcome": "won",
+     "hammer_total": 9.0,
+     "hammer_per_unit": 9.0,
+     "winning_bidder": "3730",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "503",
+     "title": "Husky 3-Piece Internal Pipe Wrench Set",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 3.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "504",
+     "title": "Milwaukee M18 Fuel 18V 1/2\" Impact Wrench with Battery, Charger, and Case",
+     "outcome": "outbid",
+     "hammer_total": 10.75,
+     "hammer_per_unit": 10.75,
+     "winning_bidder": "1****4",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "506",
+     "title": "Milwaukee M18 Fuel 18V 1/2\" Impact Wrench with Battery, Charger, and Case",
+     "outcome": "outbid",
+     "hammer_total": 5.5,
+     "hammer_per_unit": 5.5,
+     "winning_bidder": "5****1",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "508",
+     "title": "Milwaukee M18 Fuel 18V 1/2\" Impact Wrench with Battery, Charger, and Case",
+     "outcome": "outbid",
+     "hammer_total": 52.0,
+     "hammer_per_unit": 52.0,
+     "winning_bidder": "3****0",
+     "john_max": 48.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "522",
+     "title": "DEWALT DW4388 5\" (125mm) Random Orbit Palm Sander Pad",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "523",
+     "title": "Red Head 1/2\" x 4\" Sleeve Anchors (25-pack)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "530",
+     "title": "Diablo 2 in. High-Speed Steel Forstner Bit (model FB-015) with a 3/8 in. shank",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "532",
+     "title": "Milwaukee M18 REDLITHIUM 5.0 Ah Battery",
+     "outcome": "outbid",
+     "hammer_total": 13.75,
+     "hammer_per_unit": 13.75,
+     "winning_bidder": "1****0",
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "556",
+     "title": "Milwaukee M18 REDLITHIUM 8.0 Ah Battery and Charger",
+     "outcome": "outbid",
+     "hammer_total": 26.55,
+     "hammer_per_unit": 26.55,
+     "winning_bidder": "5****2",
+     "john_max": 25.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "574",
+     "title": "Orbit Heavy Duty 3/4\" Anti-Siphon Sprinkler Valve (model 57623)",
+     "outcome": "won",
+     "hammer_total": 2.75,
+     "hammer_per_unit": 2.75,
+     "winning_bidder": "3730",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "575",
+     "title": "Hunter PGV-ASV 3/4\" Professional Grade Anti-Siphon Irrigation Control Valve",
+     "outcome": "won",
+     "hammer_total": 2.5,
+     "hammer_per_unit": 2.5,
+     "winning_bidder": "3730",
+     "john_max": 2.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "582",
+     "title": "Milwaukee 25ft Tape Measure",
+     "outcome": "outbid",
+     "hammer_total": 9.5,
+     "hammer_per_unit": 9.5,
+     "winning_bidder": "6****6",
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "583",
+     "title": "Milwaukee 25ft Tape Measure",
+     "outcome": "won",
+     "hammer_total": 5.0,
+     "hammer_per_unit": 5.0,
+     "winning_bidder": "3730",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "585",
+     "title": "Milwaukee Tap Collet (model 49-57-5001)",
+     "outcome": "won",
+     "hammer_total": 7.0,
+     "hammer_per_unit": 7.0,
+     "winning_bidder": "3730",
+     "john_max": 7.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "586",
+     "title": "Milwaukee Tap Collet (model 49-57-5001)",
+     "outcome": "outbid",
+     "hammer_total": 19.25,
+     "hammer_per_unit": 19.25,
+     "winning_bidder": "6****9",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "588",
+     "title": "Milwaukee 30ft Tape Measure",
+     "outcome": "won",
+     "hammer_total": 4.75,
+     "hammer_per_unit": 4.75,
+     "winning_bidder": "3730",
+     "john_max": 5.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "589",
+     "title": "Milwaukee 30ft Tape Measure",
+     "outcome": "outbid",
+     "hammer_total": 6.5,
+     "hammer_per_unit": 6.5,
+     "winning_bidder": "4****3",
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "590",
+     "title": "Milwaukee 30ft Tape Measure",
+     "outcome": "outbid",
+     "hammer_total": 65.0,
+     "hammer_per_unit": 16.25,
+     "winning_bidder": "2****7",
+     "john_max": 49.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "597",
+     "title": "DEWALT 2.3 Amp 1/4 Sheet Sander DWE6411)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "613",
+     "title": "Dewalt tool bag yellow/black",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 21.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "621",
+     "title": "RYOBI 40V HP 6.0 Ah Battery",
+     "outcome": "outbid",
+     "hammer_total": 147.08,
+     "hammer_per_unit": 147.08,
+     "winning_bidder": "6****8",
+     "john_max": 34.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "623",
+     "title": "DeWalt DCB1104 12V/20V Lithium-Ion battery charger",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": null,
+     "lot_url": null
+    },
+    {
+     "lot_number": "624",
+     "title": "Milwaukee M12 12V Lithium-Ion Battery Charger (model 48-59-2401)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "625",
+     "title": "Ryobi ONE+ 18V 4.0Ah lithium-ion battery & charger",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 23.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "626",
+     "title": "RYOBI ONE+ 18V Lithium-Ion 4.0Ah battery (black with green accents) seated on a RYOBI 18V battery charger",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 23.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "627",
+     "title": "RYOBI 40V HP 6.0 Ah Battery",
+     "outcome": "outbid",
+     "hammer_total": 143.0,
+     "hammer_per_unit": 143.0,
+     "winning_bidder": "1****3",
+     "john_max": 34.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "628",
+     "title": "RYOBI 40V Lithium battery pack resting on a green and black RYOBI 40V battery charger",
+     "outcome": "won",
+     "hammer_total": 45.0,
+     "hammer_per_unit": 45.0,
+     "winning_bidder": "3730",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "629",
+     "title": "RYOBI 40V Lithium battery pack resting on a green and black RYOBI 40V battery charger",
+     "outcome": "won",
+     "hammer_total": 45.0,
+     "hammer_per_unit": 45.0,
+     "winning_bidder": "3730",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "630",
+     "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+     "outcome": "won",
+     "hammer_total": 45.0,
+     "hammer_per_unit": 45.0,
+     "winning_bidder": "3730",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "631",
+     "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 47.0,
+     "hammer_per_unit": 47.0,
+     "winning_bidder": "5****5",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "632",
+     "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 24.0,
+     "hammer_per_unit": 24.0,
+     "winning_bidder": "5****0",
+     "john_max": 22.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "633",
+     "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 42.0,
+     "hammer_per_unit": 42.0,
+     "winning_bidder": "3****9",
+     "john_max": 24.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "634",
+     "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 37.0,
+     "hammer_per_unit": 37.0,
+     "winning_bidder": "5****5",
+     "john_max": 36.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "635",
+     "title": "RYOBI 40V Lithium battery pack resting on a green and black RYOBI 40V battery charger",
+     "outcome": "won",
+     "hammer_total": 33.25,
+     "hammer_per_unit": 33.25,
+     "winning_bidder": "3730",
+     "john_max": 20.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "636",
+     "title": "Toro 60V Flex-Force 6.0 Ah (L324) Lithium-Ion Battery",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 86.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "644",
+     "title": "RYOBI 40V Lithium 4Ah battery resting on a RYOBI 40V charger",
+     "outcome": "won",
+     "hammer_total": 42.0,
+     "hammer_per_unit": 42.0,
+     "winning_bidder": "3730",
+     "john_max": 45.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "645",
+     "title": "RYOBI 40V Lithium 4Ah battery resting on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 27.0,
+     "hammer_per_unit": 27.0,
+     "winning_bidder": "5****1",
+     "john_max": 22.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "646",
+     "title": "RYOBI 40V Lithium 4Ah battery resting on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 25.0,
+     "hammer_per_unit": 25.0,
+     "winning_bidder": "4****1",
+     "john_max": 22.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "647",
+     "title": "RYOBI 40V Lithium 4Ah battery resting on a RYOBI 40V charger",
+     "outcome": "outbid",
+     "hammer_total": 32.0,
+     "hammer_per_unit": 32.0,
+     "winning_bidder": "3****9",
+     "john_max": 31.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "677",
+     "title": "Milwaukee Compact Portable Band Saw Blades (model 48-39-0579)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "681",
+     "title": "Master Lock 8127TRI 3-pack featuring blue, green, and red braided steel cables.",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 4.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "69",
+     "title": "RYOBI 18V ONE+ HP Brushless 1/2\" Hammer Drill Kit (PSBPD01K)",
+     "outcome": "outbid",
+     "hammer_total": 26.0,
+     "hammer_per_unit": 26.0,
+     "winning_bidder": "6****2",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "70",
+     "title": "RYOBI 40V Lithium 6.0 Ah Battery (model OP4060A)",
+     "outcome": "outbid",
+     "hammer_total": 21.0,
+     "hammer_per_unit": 21.0,
+     "winning_bidder": "4****3",
+     "john_max": 18.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "804",
+     "title": "Miscellaneous Pallet",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": null,
+     "lot_url": null
+    },
+    {
+     "lot_number": "805",
+     "title": "Pallet of 13-04164 hood pivot bushing",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": null,
+     "lot_url": null
+    },
+    {
+     "lot_number": "806",
+     "title": "Sorbus Extra-Large Open Front Stackable Storage Bins in clear plastic",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 27.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "807",
+     "title": "Sorbus Extra-Large Open Front Stackable Storage Bins in clear plastic",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 27.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "808",
+     "title": "Sorbus Extra-Large Open Front Stackable Storage Bins in clear plastic",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 27.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "809",
+     "title": "Sorbus Extra-Large Open Front Stackable Storage Bins in clear plastic",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 27.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "810",
+     "title": "Sorbus Extra-Large Open Front Stackable Storage Bins in clear plastic",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 27.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "811",
+     "title": "Sorbus Extra-Large Open Front Stackable Storage Bins in clear plastic",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 27.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "83",
+     "title": "Shelf Of Adult Toys",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": null,
+     "lot_url": null
+    },
+    {
+     "lot_number": "85",
+     "title": "Small lot of school supplies",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": null,
+     "lot_url": null
+    },
+    {
+     "lot_number": "877",
+     "title": "HDX 5 Shelf Storage shelf",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "88",
+     "title": "RYOBI 40V Lithium 6.0 Ah Battery",
+     "outcome": "outbid",
+     "hammer_total": 20.5,
+     "hammer_per_unit": 20.5,
+     "winning_bidder": "6****2",
+     "john_max": 14.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "900",
+     "title": "Stanley Fatmax 1200 Peak Amp Jump Starter",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 23.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "912",
+     "title": "Commercial Electric 30-inch 3-speed high-velocity pedestal fan",
+     "outcome": "won",
+     "hammer_total": 32.0,
+     "hammer_per_unit": 32.0,
+     "winning_bidder": "3730",
+     "john_max": 46.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "93",
+     "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+     "outcome": "outbid",
+     "hammer_total": 4.25,
+     "hammer_per_unit": 4.25,
+     "winning_bidder": "6****6",
+     "john_max": 3.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "937",
+     "title": "Commercial Electric 20-inch High Velocity Floor Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "938",
+     "title": "Commercial Electric 20-inch High Velocity Floor Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "939",
+     "title": "Commercial Electric 20-inch High Velocity Floor Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "94",
+     "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+     "outcome": "outbid",
+     "hammer_total": 4.0,
+     "hammer_per_unit": 4.0,
+     "winning_bidder": "2****1",
+     "john_max": 3.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "940",
+     "title": "Commercial Electric 20-inch High Velocity Floor Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "941",
+     "title": "Commercial Electric 20-inch High Velocity Floor Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 15.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "942",
+     "title": "Lasko Stratus 35\" High Velocity Tower Fan (Model HVT350)",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 20.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "944",
+     "title": "Lasko Cyclone large room pedestal fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "945",
+     "title": "Lasko Power Plus Box Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 17.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "946",
+     "title": "Lasko air circulating Box fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "947",
+     "title": "Lasko 16\" pedestal pan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "95",
+     "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+     "outcome": "outbid",
+     "hammer_total": 4.0,
+     "hammer_per_unit": 4.0,
+     "winning_bidder": "1****5",
+     "john_max": 3.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "956",
+     "title": "Lasko Large Room Pedestal Fan Black",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "957",
+     "title": "Lasko Power Plus Box Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "958",
+     "title": "Lasko Large Room Pedestal Fan Black",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "959",
+     "title": "Lasko Cyclone Powerful air circulatior",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "96",
+     "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+     "outcome": "outbid",
+     "hammer_total": 4.0,
+     "hammer_per_unit": 4.0,
+     "winning_bidder": "5****2",
+     "john_max": 3.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "960",
+     "title": "Lasko Large Room Pedestal Fan Black",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 16.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "961",
+     "title": "Lasko Power Plus Box Fan",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 9.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "962",
+     "title": "Lasko Air Circulating Box Fan white",
+     "outcome": "watch_only",
+     "hammer_total": null,
+     "hammer_per_unit": null,
+     "winning_bidder": null,
+     "john_max": 6.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "97",
+     "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+     "outcome": "outbid",
+     "hammer_total": 4.0,
+     "hammer_per_unit": 4.0,
+     "winning_bidder": "5****2",
+     "john_max": 3.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "98",
+     "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+     "outcome": "outbid",
+     "hammer_total": 4.0,
+     "hammer_per_unit": 4.0,
+     "winning_bidder": "1****5",
+     "john_max": 3.0,
+     "lot_url": null
+    }
+   ],
+   "rivals": [
+    {
+     "bidder": "1****5",
+     "lotsWon": 8,
+     "hammerTotal": 275.5
+    },
+    {
+     "bidder": "4****1",
+     "lotsWon": 3,
+     "hammerTotal": 262.0
+    },
+    {
+     "bidder": "6****8",
+     "lotsWon": 3,
+     "hammerTotal": 241.33
+    },
+    {
+     "bidder": "1****3",
+     "lotsWon": 2,
+     "hammerTotal": 150.09
+    },
+    {
+     "bidder": "4****0",
+     "lotsWon": 6,
+     "hammerTotal": 135.0
+    },
+    {
+     "bidder": "6****2",
+     "lotsWon": 5,
+     "hammerTotal": 113.75
+    },
+    {
+     "bidder": "2****7",
+     "lotsWon": 2,
+     "hammerTotal": 102.0
+    },
+    {
+     "bidder": "3****9",
+     "lotsWon": 3,
+     "hammerTotal": 89.25
+    },
+    {
+     "bidder": "5****5",
+     "lotsWon": 2,
+     "hammerTotal": 84.0
+    },
+    {
+     "bidder": "4****8",
+     "lotsWon": 3,
+     "hammerTotal": 81.5
+    },
+    {
+     "bidder": "3****0",
+     "lotsWon": 2,
+     "hammerTotal": 65.75
+    },
+    {
+     "bidder": "6****7",
+     "lotsWon": 3,
+     "hammerTotal": 51.42
+    },
+    {
+     "bidder": "5****1",
+     "lotsWon": 3,
+     "hammerTotal": 46.25
+    },
+    {
+     "bidder": "4****3",
+     "lotsWon": 3,
+     "hammerTotal": 40.5
+    },
+    {
+     "bidder": "1****8",
+     "lotsWon": 2,
+     "hammerTotal": 40.25
+    },
+    {
+     "bidder": "5****2",
+     "lotsWon": 3,
+     "hammerTotal": 34.55
+    },
+    {
+     "bidder": "1****0",
+     "lotsWon": 2,
+     "hammerTotal": 26.5
+    },
+    {
+     "bidder": "5****0",
+     "lotsWon": 1,
+     "hammerTotal": 24.0
+    },
+    {
+     "bidder": "6****9",
+     "lotsWon": 2,
+     "hammerTotal": 23.2
+    },
+    {
+     "bidder": "2****9",
+     "lotsWon": 1,
+     "hammerTotal": 14.2
+    },
+    {
+     "bidder": "6****6",
+     "lotsWon": 2,
+     "hammerTotal": 13.75
+    },
+    {
+     "bidder": "6****0",
+     "lotsWon": 1,
+     "hammerTotal": 13.0
+    },
+    {
+     "bidder": "3****7",
+     "lotsWon": 1,
+     "hammerTotal": 13.0
+    },
+    {
+     "bidder": "2****0",
+     "lotsWon": 2,
+     "hammerTotal": 11.0
+    },
+    {
+     "bidder": "1****4",
+     "lotsWon": 1,
+     "hammerTotal": 10.75
+    },
+    {
+     "bidder": "4****7",
+     "lotsWon": 1,
+     "hammerTotal": 10.0
+    },
+    {
+     "bidder": "4****2",
+     "lotsWon": 1,
+     "hammerTotal": 8.0
+    },
+    {
+     "bidder": "3****3",
+     "lotsWon": 1,
+     "hammerTotal": 4.5
+    },
+    {
+     "bidder": "2****1",
+     "lotsWon": 1,
+     "hammerTotal": 4.0
+    }
+   ],
+   "bidderLots": {
+    "4****8": [
+     {
+      "lot_number": 13,
+      "title": "RYOBI 18V ONE+ Brushless 1/4\" Impact Driver Kit (PSBID01K1)",
+      "hammer_total": 45.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 26,
+      "title": "ECHO 56V 2.5 Ah Battery (CBT258B)",
+      "hammer_total": 31.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 415,
+      "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+      "hammer_total": 5.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****0": [
+     {
+      "lot_number": 14,
+      "title": "RYOBI 18V ONE+ Brushless 1/4\" Impact Driver Kit (PSBID01K1)",
+      "hammer_total": 51.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 15,
+      "title": "RYOBI 18V ONE+ Brushless 1/4\" Impact Driver Kit (PSBID01K1)",
+      "hammer_total": 51.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 28,
+      "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 181,
+      "title": "RYOBI 18V ONE+ 1/2\" Drill/Driver Kit",
+      "hammer_total": 11.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 412,
+      "title": "RYOBI 40V 4.0 Ah battery seated on a RYOBI 40V charger",
+      "hammer_total": 7.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 413,
+      "title": "RYOBI 40V 4.0 Ah battery seated on a RYOBI 40V charger",
+      "hammer_total": 6.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****5": [
+     {
+      "lot_number": 29,
+      "title": "RYOBI 40V 6.0 Ah battery (model OP4060A)",
+      "hammer_total": 8.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 47,
+      "title": "RYOBI 40V Lithium 6.0 Ah Battery",
+      "hammer_total": 25.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 95,
+      "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 98,
+      "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 122,
+      "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+      "hammer_total": 101.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 136,
+      "title": "RYOBI 18V ONE+ Brushless 1/2\" Hammer Drill Kit (PSBPD01K)",
+      "hammer_total": 103.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 251,
+      "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+      "hammer_total": 15.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 252,
+      "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+      "hammer_total": 15.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****7": [
+     {
+      "lot_number": 34,
+      "title": "Milwaukee 12.0 Ah M18 REDLITHIUM Battery and M18 Charger",
+      "hammer_total": 11.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 108,
+      "title": "RYOBI 18V ONE+ Hammer Drill Kit (PSBPD01K)",
+      "hammer_total": 29.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 253,
+      "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+      "hammer_total": 10.92,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****2": [
+     {
+      "lot_number": 40,
+      "title": "RYOBI 18V ONE+ Brushless High Torque Impact Wrench",
+      "hammer_total": 25.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 69,
+      "title": "RYOBI 18V ONE+ HP Brushless 1/2\" Hammer Drill Kit (PSBPD01K)",
+      "hammer_total": 26.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 88,
+      "title": "RYOBI 40V Lithium 6.0 Ah Battery",
+      "hammer_total": 20.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 128,
+      "title": "RYOBI 18V ONE+ Brushless 1/2\" Hammer Drill Kit (PSBPD01K)",
+      "hammer_total": 25.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 254,
+      "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+      "hammer_total": 17.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****3": [
+     {
+      "lot_number": 43,
+      "title": "Milwaukee Impact Wrench with 2 M18 batteries and charger",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 70,
+      "title": "RYOBI 40V Lithium 6.0 Ah Battery (model OP4060A)",
+      "hammer_total": 21.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 589,
+      "title": "Milwaukee 30ft Tape Measure",
+      "hammer_total": 6.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****7": [
+     {
+      "lot_number": 44,
+      "title": "RIDGID 18V Brushless Hammer Drill with 2 18V batteries and charger",
+      "hammer_total": 10.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****2": [
+     {
+      "lot_number": 45,
+      "title": "Milwaukee M18 REDLITHIUM Battery with Milwaukee M18 and M12 Charger",
+      "hammer_total": 8.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****3": [
+     {
+      "lot_number": 48,
+      "title": "ECHO 58V 2.0 Ah Battery",
+      "hammer_total": 7.09,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 627,
+      "title": "RYOBI 40V HP 6.0 Ah Battery",
+      "hammer_total": 143.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****6": [
+     {
+      "lot_number": 93,
+      "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+      "hammer_total": 4.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 582,
+      "title": "Milwaukee 25ft Tape Measure",
+      "hammer_total": 9.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "2****1": [
+     {
+      "lot_number": 94,
+      "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "5****2": [
+     {
+      "lot_number": 96,
+      "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 97,
+      "title": "RYOBI 18V ONE+ Drill/Driver Kit with Battery and Charger",
+      "hammer_total": 4.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 556,
+      "title": "Milwaukee M18 REDLITHIUM 8.0 Ah Battery and Charger",
+      "hammer_total": 26.55,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****8": [
+     {
+      "lot_number": 107,
+      "title": "RYOBI 18V ONE+ Drill/Driver Kit (PSBDD01K)",
+      "hammer_total": 24.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 111,
+      "title": "RYOBI 18V ONE+ Brushless 1/2\" Hammer Drill Kit (PSBPD01K)",
+      "hammer_total": 70.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 621,
+      "title": "RYOBI 40V HP 6.0 Ah Battery",
+      "hammer_total": 147.08,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****8": [
+     {
+      "lot_number": 120,
+      "title": "RYOBI 18V ONE+ HP Brushless 1/2\" Drill/Driver Kit (PSBDD01K)",
+      "hammer_total": 33.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 497,
+      "title": "RYOBI 40V Lithium Battery",
+      "hammer_total": 7.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "3****9": [
+     {
+      "lot_number": 121,
+      "title": "RYOBI 18V ONE+ HP Brushless 1/2\" Drill/Driver Kit (PSBDD01K)",
+      "hammer_total": 15.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 633,
+      "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+      "hammer_total": 42.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 647,
+      "title": "RYOBI 40V Lithium 4Ah battery resting on a RYOBI 40V charger",
+      "hammer_total": 32.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****0": [
+     {
+      "lot_number": 172,
+      "title": "RYOBI 40V HP 6.0 Ah Battery",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "2****9": [
+     {
+      "lot_number": 255,
+      "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+      "hammer_total": 14.2,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "3****7": [
+     {
+      "lot_number": 256,
+      "title": "RYOBI 40V Lithium Battery (model OP4040A)",
+      "hammer_total": 13.0,
+      "hammer_per_unit": null,
+      "quantity": 2,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "3****0": [
+     {
+      "lot_number": 445,
+      "title": "RYOBI 40V Lithium 6.0 Ah battery pack resting on a green and black RYOBI 40V battery charger",
+      "hammer_total": 13.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 508,
+      "title": "Milwaukee M18 Fuel 18V 1/2\" Impact Wrench with Battery, Charger, and Case",
+      "hammer_total": 52.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "6****9": [
+     {
+      "lot_number": 456,
+      "title": "RYOBI 40V Lithium 6.0 Ah battery pack resting on a green and black RYOBI 40V battery charger",
+      "hammer_total": 3.95,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 586,
+      "title": "Milwaukee Tap Collet (model 49-57-5001)",
+      "hammer_total": 19.25,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****0": [
+     {
+      "lot_number": 469,
+      "title": "RYOBI 40V Lithium Battery",
+      "hammer_total": 12.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 532,
+      "title": "Milwaukee M18 REDLITHIUM 5.0 Ah Battery",
+      "hammer_total": 13.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "5****1": [
+     {
+      "lot_number": 481,
+      "title": "RYOBI 40V Lithium Battery",
+      "hammer_total": 13.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 506,
+      "title": "Milwaukee M18 Fuel 18V 1/2\" Impact Wrench with Battery, Charger, and Case",
+      "hammer_total": 5.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 645,
+      "title": "RYOBI 40V Lithium 4Ah battery resting on a RYOBI 40V charger",
+      "hammer_total": 27.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "2****7": [
+     {
+      "lot_number": 493,
+      "title": "RYOBI 40V Lithium Battery",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 590,
+      "title": "Milwaukee 30ft Tape Measure",
+      "hammer_total": 65.0,
+      "hammer_per_unit": null,
+      "quantity": 4,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "2****0": [
+     {
+      "lot_number": 495,
+      "title": "RYOBI 40V Lithium Battery",
+      "hammer_total": 5.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 499,
+      "title": "RYOBI 40V Lithium Battery",
+      "hammer_total": 5.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "3****3": [
+     {
+      "lot_number": 498,
+      "title": "RYOBI 40V Lithium Battery",
+      "hammer_total": 4.5,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "1****4": [
+     {
+      "lot_number": 504,
+      "title": "Milwaukee M18 Fuel 18V 1/2\" Impact Wrench with Battery, Charger, and Case",
+      "hammer_total": 10.75,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "5****5": [
+     {
+      "lot_number": 631,
+      "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+      "hammer_total": 47.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 634,
+      "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+      "hammer_total": 37.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "5****0": [
+     {
+      "lot_number": 632,
+      "title": "RYOBI 40V Lithium 4Ah battery pack seated on a RYOBI 40V charger",
+      "hammer_total": 24.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     }
+    ],
+    "4****1": [
+     {
+      "lot_number": 646,
+      "title": "RYOBI 40V Lithium 4Ah battery resting on a RYOBI 40V charger",
+      "hammer_total": 25.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": null,
+      "photo_url": null
+     },
+     {
+      "lot_number": 1006,
+      "title": "DeWalt 9ah flex volt battery with charger",
+      "hammer_total": 112.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1177/lot/572654-dewalt-9ah-flex-volt-battery-with-charger",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/73IY8lmXBAzuUrMdQrZA_l5U.jpeg"
+     },
+     {
+      "lot_number": 1009,
+      "title": "DeWalt 9ah flex volt battery with charger",
+      "hammer_total": 125.0,
+      "hammer_per_unit": null,
+      "quantity": 1,
+      "lot_url": "https://www.auctionhubtexas.com/auctions/1177/lot/572656-dewalt-9ah-flex-volt-battery-with-charger",
+      "photo_url": "https://d3j17a2r8lnfte.cloudfront.net/arec/2026/11/medium/cx2mQG42412jOe3lWaFD8xyD.jpeg"
      }
     ]
    }
