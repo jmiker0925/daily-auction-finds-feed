@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T08:46:12.199920-06:00",
+ "generatedAt": "2026-11-28T08:47:47.567325-06:00",
  "auctions": [
   {
    "id": "1130",
@@ -92681,6 +92681,16 @@
      "lot_url": null
     },
     {
+     "lot_number": "479",
+     "title": "Milwaukee REDLITHIUM USB Hard Hat Headlamp (Model 2163-21)",
+     "outcome": "won",
+     "hammer_total": 23.0,
+     "hammer_per_unit": 23.0,
+     "winning_bidder": "3730",
+     "john_max": 23.0,
+     "lot_url": null
+    },
+    {
      "lot_number": "487",
      "title": "Zircon StudSensor HD70 stud finder",
      "outcome": "outbid",
@@ -92918,6 +92928,16 @@
      "hammer_per_unit": 30.0,
      "winning_bidder": "1****2",
      "john_max": 12.0,
+     "lot_url": null
+    },
+    {
+     "lot_number": "821",
+     "title": "Husky Hydraulic Lifting Table Cart",
+     "outcome": "won",
+     "hammer_total": 97.0,
+     "hammer_per_unit": 97.0,
+     "winning_bidder": "3730",
+     "john_max": 99.99,
      "lot_url": null
     },
     {
