@@ -1,6 +1,25 @@
 {
- "generated_at": "2026-11-27T14:45:13+00:00",
+ "generated_at": "2026-11-28T14:44:30+00:00",
  "sales": [
+  {
+   "saleId": 329,
+   "platform": "facebook",
+   "platformLabel": "Facebook Marketplace",
+   "title": "",
+   "soldDate": "2026-11-27",
+   "gross": 15.0,
+   "fees": 0,
+   "shipping": 0,
+   "costBasis": null,
+   "profit": null,
+   "allocations": [
+    {
+     "itemId": 5531,
+     "description": "Ryobi 18V ONE+ Lithium Battery 1.5Ah (P189)",
+     "quantity": 1
+    }
+   ]
+  },
   {
    "saleId": 328,
    "platform": "facebook",
